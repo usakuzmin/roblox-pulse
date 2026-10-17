@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-17T07:00:36.197Z",
+  "generated_at": "2026-10-17T12:57:01.422Z",
   "window_days": 7,
   "sources": {
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 4408
+      "ms": 3948
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 1460
+      "ms": 240
     },
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 122935
+      "ms": 134778
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31494
+      "ms": 92573
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 916
+      "ms": 217
     }
   },
   "items": [
@@ -1458,6 +1458,22 @@
       "first_seen": "2026-10-17T07:00:36.197Z"
     },
     {
+      "id": "reddit:t3_1x86tj7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x86tj7/how_to_monetise_a_game_better/",
+      "author": "Primary_March4865",
+      "date": "2026-10-17T10:23:09.000Z",
+      "title": "How to monetise a game better?",
+      "excerpt_en": "I feel like I’ve tried everything to the point that it’s not my fault anymore.. I have a lot of gamepass and developer products but not too many to swarm the user with stuff, I’ve updated my game quite a lot to add new things or polish stuff. Nothing helped. I get an average of…",
+      "score": 8,
+      "tags": [
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T12:57:01.422Z"
+    },
+    {
       "id": "devforum:4888425",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/players-can-now-find-in-game-items-outside-your-game/4888425",
@@ -1622,6 +1638,22 @@
         "replies": 0
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x86o6v",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x86o6v/im_a_solo_dev_and_just_opened_the_alpha_of_my/",
+      "author": "westlineinteractive",
+      "date": "2026-10-17T10:13:56.000Z",
+      "title": "I'm a solo dev and just opened the Alpha of my post-apocalyptic trading RPG — looking for honest feedback",
+      "excerpt_en": "Hi everyone! 👋 I'm a solo developer, and today I opened the Alpha of my first game — Beacon Run . I'd really appreciate honest feedback from fellow developers, including the harsh kind. That's exactly why I'm here. (Not hiring — I'm only asking for feedback, no payment…",
+      "score": 7,
+      "tags": [
+        "story",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T12:57:01.422Z"
     },
     {
       "id": "devforum:4932826",
