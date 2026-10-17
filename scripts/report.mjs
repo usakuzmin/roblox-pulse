@@ -1,5 +1,6 @@
-// Report builder, run every 3 days: pulls 30-day player history for the leading games
-// from Rolimons, computes growth / decline / genre mix and writes docs/reports/<date>/data.json.
+// Report builder: PERIOD=daily|weekly|monthly. Uses the Rolimons history cache (data/history,
+// refreshed hourly by the collector) plus our own hourly snapshots, computes growth / decline /
+// genre mix and writes docs/reports/<period>/<date>/data.json.
 import fs from 'node:fs';
 import path from 'node:path';
 import {
@@ -9,14 +10,26 @@ import {
 
 const TOP_N = 150;            // leading games by current online
 const EXTRA_FROM_SORTS = 40;  // plus games Roblox is pushing in Trending / Up-and-Coming
-const DAYS = 30;
+// window = hours in the issue; compare = hours back to the comparison window.
+// Daily compares with the same weekday a week ago: weekend online is ~2x weekdays.
+const PERIODS = {
+  daily:   { window: 24,  compare: 168, chartDays: 30, label: "за сутки", vs: "к тому же дню неделю назад", sortDays: 1, title: "Выпуск дня" },
+  weekly:  { window: 168, compare: 168, chartDays: 30, label: "за неделю", vs: "к предыдущей неделе", sortDays: 7, title: "Итоги недели" },
+  monthly: { window: 720, compare: 720, chartDays: 60, label: "за месяц", vs: "к предыдущим 30 дням", sortDays: 30, title: "Итоги месяца" },
+};
+const PERIOD = process.env.PERIOD || "daily";
+const P = PERIODS[PERIOD];
+if (!P) throw new Error("PERIOD must be daily, weekly or monthly");
+const DAYS = P.chartDays;
 const DELAY_MS = Number(process.env.ROLIMONS_DELAY_MS || 4000);
 
 const now = new Date();
 const date = process.env.REPORT_DATE || ymd(now);
 const reportsIndex = readJSON('docs/reports/index.json', []);
-const prevReport = reportsIndex.filter(r => r.date < date).at(-1);
-const prevData = prevReport ? readJSON(`docs/reports/${prevReport.date}/data.json`, null) : null;
+const dirOf = r => r.period ? `docs/reports/${r.period}/${r.date}` : `docs/reports/${r.date}`;
+const prevReport = reportsIndex.filter(r => r.period === PERIOD && r.date < date).at(-1);
+const prevData = prevReport ? readJSON(`${dirOf(prevReport)}/data.json`, null) : null;
+const outDir = `docs/reports/${PERIOD}/${date}`;
 
 // ---------- 1. snapshot + selection
 const list = await getGameList();
@@ -25,7 +38,7 @@ const totalNow = list.reduce((s, g) => s + g.players, 0);
 const meta = readJSON('data/meta.json', {});
 
 const recentSorts = {};
-for (let d = 0; d < 3; d++) {
+for (let d = 0; d < P.sortDays; d++) {
   const day = ymd(new Date(now - d * 86400e3));
   const s = readJSON(`data/sorts/${day}.json`, null);
   if (!s) continue;
@@ -62,12 +75,12 @@ writeJSON('data/meta.json', meta);
 
 // ---------- 3. history: cache (refreshed hourly by the collector) + our own hourly snapshots
 const end = Math.floor(now / 1000 / H) * H;   // align to the hour
-const start = end - DAYS * 24 * H;
-const HOURS = DAYS * 24;
+const HOURS = Math.max(DAYS * 24, P.window + P.compare);
+const start = end - HOURS * H;
 const own = ownHourly(DAYS + 1);
 const games = [];
 let failed = 0, fetched = 0, limitHits = 0, stopLive = false;
-let budget = Number(process.env.LIVE_FETCH_BUDGET ?? 120);
+let budget = Number(process.env.LIVE_FETCH_BUDGET ?? 30); // the collector keeps the cache fresh
 const mean = a => a.reduce((s, x) => s + x, 0) / (a.length || 1);
 for (const pid of selected) {
   let c = readJSON(`data/history/${pid}.json`, null);
@@ -89,10 +102,9 @@ for (const pid of selected) {
   });
   for (let k = 1; k < HOURS; k++) if (hourly[k] === null && hourly[k - 1] !== null) hourly[k] = hourly[k - 1];
   for (let k = 0; k < HOURS; k++) hourly[k] ??= 0;
-  const daily = Array.from({ length: DAYS }, (_, d) => Math.round(mean(hourly.slice(d * 24, d * 24 + 24))));
-  // compare with the same 72 hours one week earlier: Roblox online swings ~2x between weekdays and weekends
-  const avg3 = mean(hourly.slice(-72)), prev3 = mean(hourly.slice(-240, -168));
-  const peak = Math.max(...hourly);
+  const daily = Array.from({ length: DAYS }, (_, d) => Math.round(mean(hourly.slice(HOURS - (DAYS - d) * 24, HOURS - (DAYS - d - 1) * 24))));
+  const avg3 = mean(hourly.slice(-P.window)), prev3 = mean(hourly.slice(-P.window - P.compare, -P.compare));
+  const peak = Math.max(...hourly.slice(-DAYS * 24));
   const m = meta[pid] || {};
   games.push({
     pid, u: m.u, name: byPid[pid]?.name || m.name, icon: byPid[pid]?.icon,
@@ -100,7 +112,7 @@ for (const pid of selected) {
     now: byPid[pid]?.players ?? hourly.at(-1),
     avg3: Math.round(avg3), prev3: Math.round(prev3),
     change3: prev3 > 0 ? avg3 / prev3 - 1 : null,
-    avg30: Math.round(mean(hourly)), peak30: peak,
+    avg30: Math.round(mean(hourly.slice(-720))), peak30: peak,
     fromPeak: peak > 0 ? avg3 / peak - 1 : null,
     playtime: c.playtime, likeRatio: c.likeRatio, fav: c.fav ?? m.fav,
     daily,
@@ -111,7 +123,7 @@ console.log(`history: ${games.length} games (${fetched} fetched live), ${failed}
 if (games.length < 20) throw new Error('Too few histories fetched — is Rolimons blocking us?');
 
 games.sort((a, b) => b.avg3 - a.avg3);
-const dayLabels = Array.from({ length: DAYS }, (_, d) => ymd(new Date((start + (d + 1) * 24 * H - 1) * 1000)));
+const dayLabels = Array.from({ length: DAYS }, (_, d) => ymd(new Date((end - (DAYS - d - 1) * 24 * H - 1) * 1000)));
 
 // ---------- 4. sections
 const pct = x => x === null ? null : Math.round(x * 1000) / 10;
@@ -174,16 +186,19 @@ const share = n => Math.round(list.slice(0, n).reduce((s, g) => s + g.players, 0
 // ---------- 5. headline facts (used when there is no hand-written commentary)
 const fmt = n => n >= 1e6 ? (n / 1e6).toFixed(2).replace(/\.?0+$/, '') + ' млн' : n >= 1e3 ? Math.round(n / 1e3) + ' тыс.' : String(n);
 const facts = [];
-facts.push(`Суммарный онлайн ${games.length} крупнейших игр за последние 3 дня — в среднем ${fmt(Math.round(sumAvg3))}, ${sumAvg3 >= sumPrev3 ? "+" : ""}${pct(sumAvg3 / sumPrev3 - 1)}% к тем же дням неделю назад.`);
-facts.push(`Лидер — «${leaders[0].name}»: ${fmt(leaders[0].avg3)} игроков в среднем, ${leaders[0].change3 >= 0 ? '+' : ''}${leaders[0].change3}% за неделю.`);
-if (risers[0]) facts.push(`Самый быстрый рост — «${risers[0].name}» (${risers[0].genre}): +${risers[0].change3}% за неделю, сейчас ${fmt(risers[0].now)}.`);
-if (fallers[0]) facts.push(`Сильнее всех просела «${fallers[0].name}»: ${fallers[0].change3}% за неделю, ${fallers[0].fromPeak}% от 30-дневного пика.`);
+facts.push(`Суммарный онлайн ${games.length} крупнейших игр ${P.label} — в среднем ${fmt(Math.round(sumAvg3))}, ${sumAvg3 >= sumPrev3 ? "+" : ""}${pct(sumAvg3 / sumPrev3 - 1)}% ${P.vs}.`);
+facts.push(`Лидер — «${leaders[0].name}»: ${fmt(leaders[0].avg3)} игроков в среднем, ${leaders[0].change3 >= 0 ? '+' : ''}${leaders[0].change3}% ${P.vs}.`);
+if (risers[0]) facts.push(`Самый быстрый рост — «${risers[0].name}» (${risers[0].genre}): +${risers[0].change3}% ${P.vs}, сейчас ${fmt(risers[0].now)}.`);
+if (fallers[0]) facts.push(`Сильнее всех просела «${fallers[0].name}»: ${fallers[0].change3}% ${P.vs}, ${fallers[0].fromPeak}% от пика за ${DAYS} дней.`);
 const gUp = genres.filter(g => g.avg3 > sumAvg3 * 0.02 && g.change3 !== null).sort((a, b) => b.change3 - a.change3);
-if (gUp.length) facts.push(`Лучшая динамика среди жанров — ${gUp[0].genre} (${gUp[0].change3 >= 0 ? "+" : ""}${gUp[0].change3}% за неделю), худшая — ${gUp.at(-1).genre} (${gUp.at(-1).change3}%).`);
+if (gUp.length) facts.push(`Лучшая динамика среди жанров — ${gUp[0].genre} (${gUp[0].change3 >= 0 ? "+" : ""}${gUp[0].change3}% ${P.vs}), худшая — ${gUp.at(-1).genre} (${gUp.at(-1).change3}%).`);
 facts.push(`Топ-10 игр собирают ${share(10)}% всего онлайна из ${list.length} отслеживаемых игр.`);
 
+for (let i = 0; i < facts.length; i++) facts[i] = facts[i].replace(/..$/, ".");
+
 const data = {
-  date, generatedAt: now.toISOString(), prevDate: prevReport?.date || null,
+  date, period: PERIOD, title: P.title, label: P.label, vs: P.vs, windowHours: P.window,
+  generatedAt: now.toISOString(), prevDate: prevReport?.date || null,
   source: { games: list.length, historyGames: games.length, failed },
   totals: {
     online: totalNow, avg3: Math.round(sumAvg3), prev3: Math.round(sumPrev3),
@@ -194,11 +209,11 @@ const data = {
   facts, leaders, risers, fallers, newHits, pushed, genres, distribution,
   games: games.map(g => ({ pid: g.pid, name: g.name, genre: g.genre, avg3: g.avg3, prev3: g.prev3, change3: pct(g.change3), daily: g.daily })),
 };
-writeJSON(`docs/reports/${date}/data.json`, data);
+writeJSON(`${outDir}/data.json`, data);
 
-const entry = { date, online: totalNow, avg3: data.totals.avg3, change3: data.totals.change3, leader: leaders[0].name, headline: facts[2] || facts[1] };
-const idx = reportsIndex.filter(r => r.date !== date);
+const entry = { date, period: PERIOD, online: totalNow, avg3: data.totals.avg3, change3: data.totals.change3, leader: leaders[0].name, headline: facts[2] || facts[1] };
+const idx = reportsIndex.filter(r => !(r.date === date && r.period === PERIOD));
 idx.push(entry);
 idx.sort((a, b) => a.date.localeCompare(b.date));
 writeJSON('docs/reports/index.json', idx, true);
-console.log(`report ${date} written: ${games.length} games, ${fs.statSync(path.join(ROOT, `docs/reports/${date}/data.json`)).size} bytes`);
+console.log(`${PERIOD} report ${date} written: ${games.length} games, ${fs.statSync(path.join(ROOT, `${outDir}/data.json`)).size} bytes`);

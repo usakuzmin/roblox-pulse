@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: repo-write
+  group: collect
   cancel-in-progress: false
 
 jobs:

@@ -127,7 +127,7 @@ export function metaFromDetails(g, prev = {}) {
 // { pid, fetched, start (unix, hour-aligned), hourly: [players per hour], playtime, likeRatio, fav }
 // The hourly collector refreshes a few games per run so the report never needs a burst of page loads.
 export const H = 3600;
-export const CACHE_DAYS = 35;
+export const CACHE_DAYS = 65; // monthly report compares 30 days with the previous 30
 
 export function hourlyFromHistory(hist, start, hours) {
   const sum = Array(hours).fill(0), cnt = Array(hours).fill(0);

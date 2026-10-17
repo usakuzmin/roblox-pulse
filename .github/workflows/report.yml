@@ -1,27 +1,41 @@
-name: report every 3 days
+name: reports
 
 on:
   schedule:
-    # days 1,4,7,...,31 of the month at 05:20 UTC (08:20 MSK)
-    - cron: '20 5 */3 * *'
+    - cron: '20 4 * * *'   # daily, 07:20 MSK
+    - cron: '40 4 * * 1'   # weekly, Monday 07:40 MSK
+    - cron: '0 5 1 * *'    # monthly, 1st day 08:00 MSK
   workflow_dispatch:
+    inputs:
+      period:
+        description: daily, weekly or monthly
+        default: daily
 
 permissions:
   contents: write
 
 concurrency:
-  group: repo-write
+  group: report
   cancel-in-progress: false
 
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: pick period
+        run: |
+          case "${{ github.event.schedule }}" in
+            '40 4 * * 1') p=weekly ;;
+            '0 5 1 * *') p=monthly ;;
+            '20 4 * * *') p=daily ;;
+            *) p="${{ inputs.period || 'daily' }}" ;;
+          esac
+          echo "PERIOD=$p" >> "$GITHUB_ENV"
       - run: node scripts/report.mjs
       - name: commit
         run: |
@@ -29,6 +43,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs data
           git diff --cached --quiet && exit 0
-          git commit -m "report: $(date -u +'%Y-%m-%d')"
+          git commit -m "report: $PERIOD $(date -u +'%Y-%m-%d')"
           for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
           exit 1

@@ -44,6 +44,10 @@ header.top { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; jus
 .brand { font-weight: 650; font-size: 18px; letter-spacing: -0.01em; display: flex; align-items: center; gap: 8px; }
 .brand .logo { width: 22px; height: 22px; border-radius: 5px; background: var(--accent); transform: rotate(15deg); position: relative; }
 .brand .logo::after { content: ""; position: absolute; inset: 8px; background: var(--surface); }
+.tabs { display: flex; gap: 4px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 3px; }
+.tabs button { border: 0; background: transparent; border-radius: 7px; padding: 5px 12px; color: var(--ink-2); }
+.tabs button[aria-selected="true"] { background: var(--accent-wash); color: var(--ink); font-weight: 600; }
+.tabs button:disabled { opacity: 0.4; cursor: default; }
 .controls { display: flex; gap: 8px; align-items: center; }
 select, button { font: inherit; color: var(--ink); background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; }
 button { cursor: pointer; }
@@ -123,6 +127,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
 <div class="wrap">
   <header class="top">
     <div class="brand"><span class="logo"></span>Roblox Pulse</div>
+    <nav class="tabs" id="tabs" aria-label="Тип выпуска"></nav>
     <div class="controls">
       <label for="issue" class="sub" style="margin:0">Выпуск</label>
       <select id="issue"></select>
@@ -130,7 +135,7 @@ footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
     </div>
   </header>
   <main id="app"><p class="empty">Загрузка…</p></main>
-  <footer>Данные: Rolimons (история онлайна), Roblox API (жанры, разделы главной). Отчёт обновляется раз в 3 дня.</footer>
+  <footer>Данные: Rolimons (история онлайна), Roblox API (жанры, разделы главной). Выпуски: ежедневно, итоги недели по понедельникам, итоги месяца 1-го числа.</footer>
 </div>
 <script>
 const $ = (s, el = document) => el.querySelector(s);
@@ -273,12 +278,12 @@ function render(d, summary) {
   const dayShort = l => new Date(l + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' });
   const summaryHtml = summary ? md(summary) : `<ul>${d.facts.map(f => `<li>${esc(f)}</li>`).join('')}</ul>`;
   $('#app').innerHTML = `
-    <h1>Рынок Roblox: ${dmy(d.date)}</h1>
-    <p class="sub">Выпуск за 3 дня${d.prevDate ? `, сравнение с выпуском от ${dmy(d.prevDate)}` : ''} · ${nf.format(d.source.historyGames)} игр с историей, ${nf.format(d.source.games)} в общем срезе</p>
+    <h1>${esc(d.title || "Рынок Roblox")}: ${dmy(d.date)}</h1>
+    <p class="sub">Средний онлайн ${esc(d.label)}, изменения ${esc(d.vs)} · ${nf.format(d.source.historyGames)} игр с историей, ${nf.format(d.source.games)} в общем срезе</p>
     <section class="card summary">${summaryHtml}</section>
     <div class="tiles">
       <div class="card tile"><div class="label">Онлайн сейчас, все отслеживаемые игры</div><div class="value">${compact(T.online)}</div><div class="delta flat">${nf.format(T.online)} игроков</div></div>
-      <div class="card tile"><div class="label">Средний онлайн топ-игр, 3 дня</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} к тем же дням неделю назад</div></div>
+      <div class="card tile"><div class="label">Средний онлайн топ-игр ${esc(d.label)}</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} ${esc(d.vs)}</div></div>
       <div class="card tile"><div class="label">Доля топ-10 игр в онлайне</div><div class="value">${String(T.top10Share).replace('.', ',')}%</div><div class="delta flat">топ-100: ${String(T.top100Share).replace('.', ',')}%</div></div>
       <div class="card tile"><div class="label">Игр с онлайном 10K+</div><div class="value">${T.over10k}</div><div class="delta flat">1K+: ${nf.format(T.over1k)}</div></div>
     </div>
@@ -286,7 +291,7 @@ function render(d, summary) {
     <h2>Общий онлайн за 30 дней</h2><p class="hint">Сумма среднесуточного онлайна крупнейших игр выпуска.</p>
     <div class="card"><div id="c-total"></div></div>
 
-    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну за 3 дня; процент — к тем же дням неделю назад. Линия — среднесуточный онлайн за 30 дней.</p>
+    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну ${esc(d.label)}; процент — ${esc(d.vs)}. Линия — среднесуточный онлайн за ${T.dailyTotal.length} дней.</p>
     <div class="grid-cards">${d.leaders.map(g => `
       <div class="card leader">
         <div class="head"><span class="rank">#${g.rank}</span>${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<div style="min-width:0"><div class="name"><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(g.name)}</a></div><div class="meta">${esc(genreName(g.genre))}${g.prevRank ? ` · было #${g.prevRank}` : d.prevDate ? ' · новичок топа' : ''}</div></div></div>
@@ -299,24 +304,24 @@ function render(d, summary) {
     <h2>Лидеры по часам, 7 дней</h2><p class="hint">Топ-6 — видно суточные циклы и всплески от обновлений.</p>
     <div class="card"><div id="c-leaders"></div></div>
 
-    <h2>Набирают популярность</h2><p class="hint">Средний онлайн за последние 3 дня против тех же дней неделю назад — так не мешают выходные. Игры от 3K онлайна.</p>
+    <h2>Набирают популярность</h2><p class="hint">Рост среднего онлайна ${esc(d.label)} ${esc(d.vs)}. Игры от 3K онлайна.</p>
     <div class="card">${gameTable(d.risers, [
       { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26) },
-      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За неделю', num: 1, v: g => delta(g.change3) },
+      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Средний', num: 1, v: g => compact(g.avg3) }, { h: 'Изменение', num: 1, v: g => delta(g.change3) },
     ])}</div>
 
-    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна к тем же дням неделю назад (игры, у которых было от 5K) и сколько осталось от 30-дневного пика.</p>
+    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна ${esc(d.vs)} (игры, у которых было от 5K) и сколько осталось от пика за ${T.dailyTotal.length} дней.</p>
     <div class="card">${gameTable(d.fallers, [
       { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26, 'var(--down)') },
-      { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За неделю', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
+      { h: 'Средний', num: 1, v: g => compact(g.avg3) }, { h: 'Изменение', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
     ])}</div>
 
     <div class="two" style="margin-top:0">
       <div><h2>Новые хиты</h2><p class="hint">Игры младше 60 дней, по онлайну.</p>
       <div class="card">${gameTable(d.newHits, [
-        { h: 'Игра', v: gameCell }, { h: 'Возраст', num: 1, v: g => g.ageDays + ' дн.' }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) },
+        { h: 'Игра', v: gameCell }, { h: 'Возраст', num: 1, v: g => g.ageDays + ' дн.' }, { h: 'Средний', num: 1, v: g => compact(g.avg3) },
       ])}</div></div>
-      <div><h2>Что продвигает Roblox</h2><p class="hint">Игры в разделах главной страницы за 3 дня.</p>
+      <div><h2>Что продвигает Roblox</h2><p class="hint">Игры в разделах главной страницы ${esc(d.label)}.</p>
       <div class="card">${d.pushed.map(s => `<div style="margin-bottom:12px"><span class="pill">${esc(s.name)}</span></div>${gameTable(s.games.slice(0, 8), [
         { h: 'Игра', v: g => gameCell(g) }, { h: 'Лучшее место', num: 1, v: g => '#' + g.best }, { h: 'Сейчас', num: 1, v: g => compact(g.now) },
       ])}`).join('<div style="height:16px"></div>')}</div></div>
@@ -324,7 +329,7 @@ function render(d, summary) {
 
     ${insightsHtml(window.__insights)}
 
-    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение к тем же дням неделю назад.</p>
+    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение ${esc(d.vs)}.</p>
     <div class="two">
       <div class="card bars" id="c-genres"></div>
       <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Доля жанра в онлайне по дням, топ-6 жанров, %</div><div id="c-genre-share"></div></div>
@@ -339,7 +344,7 @@ function render(d, summary) {
     <h2>Методология</h2>
     <div class="card method"><ul>
       <li>«Онлайн сейчас» — срез Rolimons по ${nf.format(d.source.games)} играм на момент сборки отчёта.</li>
-      <li>История — 10-минутные точки Rolimons за 30 дней, усреднённые по часам и дополненные собственными почасовыми срезами; «средний за 3 дня» — среднее за последние 72 часа; изменения считаются к тем же 72 часам неделю назад, потому что онлайн Roblox по выходным почти вдвое выше, чем в будни.</li>
+      <li>История — 10-минутные точки Rolimons, усреднённые по часам и дополненные собственными почасовыми срезами; дневной выпуск сравнивается с тем же днём неделю назад, потому что по выходным онлайн Roblox почти вдвое выше, чем в будни; недельный — с предыдущей неделей, месячный — с предыдущими 30 днями.</li>
       <li>В выборку входят топ-150 игр по онлайну, игры из прошлого выпуска и игры из разделов Up-and-Coming / Top Trending.</li>
       <li>Жанры — официальная классификация Roblox (genre_l1 / genre_l2).</li>
       <li>Сформировано ${new Date(d.generatedAt).toLocaleString('ru-RU', { timeZone: 'UTC' })} UTC.</li>
@@ -357,7 +362,7 @@ function render(d, summary) {
   });
 
   const gmax = Math.max(...d.genres.map(g => g.share));
-  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">Неделя</span></div>` +
+  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">Изм.</span></div>` +
     d.genres.filter(g => g.share >= 0.5).map(g => `<div class="row" title="${esc(genreName(g.genre))}: ${nf.format(g.avg3)} игроков, ${g.games} игр, лидер — ${esc(g.top)}">
       <span class="label">${esc(genreName(g.genre))}</span>
       <span class="track"><div class="fill" style="width:${g.share / gmax * 100}%"></div><span style="position:absolute;left:calc(${g.share / gmax * 100}% + 6px);top:-3px;font-size:12px;color:var(--ink-2)">${String(g.share).replace('.', ',')}%</span></span>
@@ -376,27 +381,38 @@ function render(d, summary) {
   $('#c-dist2').querySelectorAll('.col text:first-of-type').forEach((t, i) => t.textContent = compact(d.distribution[i].players));
 }
 
-async function load(date) {
+async function load(entry) {
+  const dir = `reports/${entry.period}/${entry.date}`;
   const [data, summary, insights] = await Promise.all([
-    fetch(`reports/${date}/data.json`).then(r => r.json()),
-    fetch(`reports/${date}/summary.md`).then(r => r.ok ? r.text() : null).catch(() => null),
-    fetch(`reports/${date}/insights.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch(`${dir}/data.json`).then(r => r.json()),
+    fetch(`${dir}/summary.md`).then(r => r.ok ? r.text() : null).catch(() => null),
+    fetch(`${dir}/insights.json`).then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
   window.__data = data; window.__summary = summary; window.__insights = insights;
   render(data, summary);
 }
 
+const PERIOD_NAMES = { daily: "День", weekly: "Неделя", monthly: "Месяц" };
 (async () => {
-  const idx = await fetch('reports/index.json').then(r => r.json()).catch(() => []);
-  if (!idx.length) { $('#app').innerHTML = '<p class="empty">Пока нет ни одного выпуска.</p>'; return; }
-  const sel = $('#issue');
-  sel.innerHTML = [...idx].reverse().map(r => `<option value="${r.date}">${dmy(r.date)}</option>`).join('');
-  const want = new URLSearchParams(location.search).get('d');
-  const cur = idx.some(r => r.date === want) ? want : idx.at(-1).date;
-  sel.value = cur;
-  sel.onchange = () => { history.replaceState(null, '', '?d=' + sel.value); load(sel.value); };
-  await load(cur);
-  let rt; addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => render(window.__data, window.__summary), 150); });
+  const idx = (await fetch("reports/index.json").then(r => r.json()).catch(() => [])).filter(r => r.period);
+  if (!idx.length) { $("#app").innerHTML = "<p class=\"empty\">Пока нет ни одного выпуска.</p>"; return; }
+  const q = new URLSearchParams(location.search);
+  let period = PERIOD_NAMES[q.get("p")] && idx.some(r => r.period === q.get("p")) ? q.get("p") : (idx.some(r => r.period === "daily") ? "daily" : idx.at(-1).period);
+  const sel = $("#issue"), tabs = $("#tabs");
+  const show = async (p, date) => {
+    period = p;
+    const list = idx.filter(r => r.period === p);
+    const entry = list.find(r => r.date === date) || list.at(-1);
+    tabs.innerHTML = Object.entries(PERIOD_NAMES).map(([k, n]) => `<button role="tab" data-p="${k}" aria-selected="${k === p}" ${idx.some(r => r.period === k) ? "" : "disabled title=\"Первый выпуск ещё не вышел\""}>${n}</button>`).join("");
+    sel.innerHTML = [...list].reverse().map(r => `<option value="${r.date}">${dmy(r.date)}</option>`).join("");
+    sel.value = entry.date;
+    history.replaceState(null, "", `?p=${p}&d=${entry.date}`);
+    await load(entry);
+  };
+  tabs.onclick = e => { const b = e.target.closest("button[data-p]"); if (b && !b.disabled) show(b.dataset.p); };
+  sel.onchange = () => show(period, sel.value);
+  await show(period, q.get("d"));
+  let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => render(window.__data, window.__summary), 150); });
 })();
 </script>
 </body>

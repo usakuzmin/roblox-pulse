@@ -80,7 +80,8 @@ writeJSON('data/meta.json', meta);
 
 // --- rotate Rolimons history cache: oldest first, for the games the report will cover
 const reportsIdx = readJSON("docs/reports/index.json", []);
-const lastReport = reportsIdx.length ? readJSON(`docs/reports/${reportsIdx.at(-1).date}/data.json`, null) : null;
+const lr = reportsIdx.at(-1);
+const lastReport = lr ? readJSON(lr.period ? `docs/reports/${lr.period}/${lr.date}/data.json` : `docs/reports/${lr.date}/data.json`, null) : null;
 const wanted = new Set(games.slice(0, 150).map(g => g.pid));
 for (const g of lastReport?.games || []) wanted.add(g.pid);
 for (const id of ["up-and-coming", "top-trending"]) for (const pid of Object.keys(sortsDay.sorts[id]?.games || {})) {
