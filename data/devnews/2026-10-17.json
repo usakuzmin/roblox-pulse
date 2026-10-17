@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-17T12:57:01.422Z",
+  "generated_at": "2026-10-17T18:50:37.421Z",
   "window_days": 7,
   "sources": {
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 3948
+      "ms": 3787
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 240
+      "ms": 245
     },
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 134778
+      "ms": 122776
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 92573
+      "ms": 92079
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 217
+      "ms": 303
     }
   },
   "items": [
@@ -400,6 +400,23 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "reddit:t3_1x8gh0q",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8gh0q/solo_dev_here_0_dislikes_5h_avg_playtime_and/",
+      "author": "NoNewspaper7275",
+      "date": "2026-10-17T17:47:52.000Z",
+      "title": "Solo dev here. 0 dislikes, ~5h avg playtime, and still stuck at 4/250 highly engaged players. What actually worked for you?",
+      "excerpt_en": "My first game (an egg hatching RNG) went live on Sept 30. The people who find it seem to like it: 11 likes, 0 dislikes, and average playtime is around 5 hours a day (yes, a lot of that is AFK auto hatching, it's an RNG game). The problem is almost nobody finds it. It's still…",
+      "score": 16,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T18:50:37.421Z"
+    },
+    {
       "id": "devforum:4907734",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/experiments-catch-experiment-regressions-faster-with-early-harm-detection/4907734",
@@ -566,6 +583,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4940047",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/tomdacat-ai-build-week-%E2%80%94-solo-roblox-game-jam-sponsored-by-pollinations/4940047",
+      "author": "TomDaGatto",
+      "date": "2026-10-17T14:12:17.079Z",
+      "title": "Tomdacat AI Build Week — solo Roblox game jam, sponsored by Pollinations",
+      "excerpt_en": "image 1600×900 125 KB Hey developers! We’re hosting Tomdacat AI Build Week , a free online game jam for solo Roblox developers, with AI access sponsored by Pollinations . The challenge: build one new Roblox game in seven days , using AI to help with development or as part of the…",
+      "score": 13.8,
+      "tags": [
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 8,
+        "views": 75
+      },
+      "first_seen": "2026-10-17T18:50:37.421Z"
     },
     {
       "id": "devforum:4890339",
@@ -942,6 +979,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4940023",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-a-temporary-dev-for-my-game/4940023",
+      "author": "TKn1ght",
+      "date": "2026-10-17T14:00:17.696Z",
+      "title": "Looking for a temporary dev for my game",
+      "excerpt_en": "I need a coder that can help with my game in anyway. My laptop broke and my community is begging for an update so I would appreciate if anyone can help me do small updates for the game, you can become a permanent dev even if I get a new laptop . The game is a boss right game and…",
+      "score": 10.7,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 6,
+        "views": 86
+      },
+      "first_seen": "2026-10-17T18:50:37.421Z"
     },
     {
       "id": "devforum:4888275",
@@ -1839,6 +1896,21 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "reddit:t3_1x8c3ah",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8c3ah/looking_to_hire/",
+      "author": "Nightmare9219",
+      "date": "2026-10-17T14:49:03.000Z",
+      "title": "Looking to hire",
+      "excerpt_en": "[Volunteer / Unpaid] Looking for builders, modelers and animators for a Roblox horror game — The Archives Hey! I’m developing The Archives , a story-driven Roblox horror game with different case files, each featuring its own characters, setting and chapters. The first case, Unit…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T18:50:37.421Z"
+    },
+    {
       "id": "devforum:4918568",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/collision-summaries-api-detailed-collision-data-from-the-engine/4918568",
@@ -2007,6 +2079,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x8fxzj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8fxzj/can_you_spare_5_mins_need_250_older_players_so/",
+      "author": "Icy_Cake_540",
+      "date": "2026-10-17T17:25:42.000Z",
+      "title": "Can you spare 5 mins? Need 250 older players so Roblox will let kids play my garden game.",
+      "excerpt_en": "Hey everyone! I just published my new Roblox game called build your backyard, where you can grow plants, design a beautiful garden, and just chill out. My goal is to get this game onto the Roblox Kids (ages 5–8) catalog so younger kids can enjoy a safe, relaxing game. I even…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T18:50:37.421Z"
     },
     {
       "id": "devforum:4938500",
@@ -2681,6 +2768,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x3muse",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x3muse/released_my_first_game/",
+      "author": "Alarming_Coffee_9842",
+      "date": "2026-10-11T23:37:30.000Z",
+      "title": "Released my first game",
+      "excerpt_en": "After a lot of procrastination I finally released my first game ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-17T18:50:37.421Z"
+    },
+    {
+      "id": "reddit:t3_1x8ebk3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
+      "author": "peatmossing",
+      "date": "2026-10-17T16:20:36.000Z",
+      "title": "finalized mobile controls",
+      "excerpt_en": "the game is called MORTAL-RECOIL and is playable for everyone ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-17T18:50:37.421Z"
     }
   ]
 }
