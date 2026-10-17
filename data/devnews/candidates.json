@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:29:10.614Z",
+  "generated_at": "2026-10-17T03:44:51.319Z",
   "from_files": [
     "2026-10-17.json"
   ],
@@ -200,6 +200,29 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4933086",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/suggestion-a-free-way-for-new-experiences-to-reach-roblox-selectkids/4933086",
+      "author": "rock75fenx",
+      "date": "2026-10-14T05:12:00.874Z",
+      "title": "Suggestion: A Free Way for New Experiences to Reach Roblox Select/Kids",
+      "excerpt_en": "Hello again, DevForum! Recently, Roblox announced at RDC26 that the Highly Engaged Players requirement would be lowered from 250 to 100. This was an important change that could help some beginner developers, and I am glad to see Roblox making its platform more accessible. After…",
+      "score": 19.9,
+      "tags": [
+        "revenue",
+        "metrics",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 47
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4903858",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/whens-the-algo-finally-gonna-pick-up-my-game/4903858",
@@ -254,6 +277,45 @@
         "revenue",
         "ads",
         "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4898562",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-game-build-whatever-4k-ccu-locked-with-no-notice-no-violation-record-and-no-support-resolution/4898562",
+      "author": "usestarcode_realwert",
+      "date": "2026-09-27T03:30:47.286Z",
+      "title": "My game (Build whatever) 4K+ CCU Locked with No Notice, No Violation Record, and No Support Resolution",
+      "excerpt_en": "My Roblox experience became completely unplayable on September 26, 2026. Creator Hub currently displays the following enforcement state: “Game unplayable. This game was removed for violating Roblox policies.” However, there is no corresponding moderation record available to me…",
+      "score": 17.1,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 91,
+        "replies": 4,
+        "views": 1421
+      },
+      "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x4z3pk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x4z3pk/roblox_ads_results/",
+      "author": "Beginning_Cap3965",
+      "date": "2026-10-13T15:05:38.000Z",
+      "title": "Roblox Ads results !",
+      "excerpt_en": "• It's my first game ad campaign's result which I did in first quarter of 2025. • I had spent 3k robux which I earned through Microsoft redeem. • Now I'm going to make new games but don't have robux to spend on ads. - My main question is : Now a days how many impression do games…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery",
         "numbers"
       ],
       "engagement": {},

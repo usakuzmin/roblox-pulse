@@ -1,16 +1,31 @@
 {
-  "generated_at": "2026-10-17T03:31:11.468Z",
-  "window_days": 28,
+  "generated_at": "2026-10-17T03:44:51.250Z",
+  "window_days": 7,
   "sources": {
     "rss": {
       "ok": true,
-      "fetched": 16,
-      "ms": 2601
+      "fetched": 7,
+      "ms": 3751
     },
     "hackernews": {
       "ok": true,
-      "fetched": 9,
-      "ms": 192
+      "fetched": 1,
+      "ms": 237
+    },
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 122454
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91651
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 108
     }
   },
   "items": [
@@ -208,6 +223,29 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4933086",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/suggestion-a-free-way-for-new-experiences-to-reach-roblox-selectkids/4933086",
+      "author": "rock75fenx",
+      "date": "2026-10-14T05:12:00.874Z",
+      "title": "Suggestion: A Free Way for New Experiences to Reach Roblox Select/Kids",
+      "excerpt_en": "Hello again, DevForum! Recently, Roblox announced at RDC26 that the Highly Engaged Players requirement would be lowered from 250 to 100. This was an important change that could help some beginner developers, and I am glad to see Roblox making its platform more accessible. After…",
+      "score": 19.9,
+      "tags": [
+        "revenue",
+        "metrics",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 47
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "devforum:4903858",
@@ -491,6 +529,27 @@
         "views": 192
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4929776",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/stuck-at-5-out-of-250-highly-engaged-players-has-anyone-actually-passed-this/4929776",
+      "author": "Chipato_BugMaker",
+      "date": "2026-10-12T13:04:34.344Z",
+      "title": "Stuck at 5 out of 250 Highly Engaged Players. Has anyone actually passed this?",
+      "excerpt_en": "Hi all. I need a reality check from people who went through the Kids and Select trial. I did everything on the list. Questionnaire done, age check done, 2 step on, paid the 1000 Robux fee. My game is locked to 16+ until I hit 250 Highly Engaged Players in 60 days. Then I ran…",
+      "score": 14.6,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 9,
+        "replies": 0,
+        "views": 180
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "reddit:t3_1x73wv3",
@@ -904,6 +963,26 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4933994",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/seeking-advice-compromised-developer-account-unauthorized-trades-and-support-escalation/4933994",
+      "author": "ThenewdevonRoblox",
+      "date": "2026-10-14T16:44:11.244Z",
+      "title": "Seeking advice: Compromised developer account, unauthorized trades, and support escalation",
+      "excerpt_en": "Hi everyone, I’ve been developing on Roblox for around six years, and I’m hoping someone here can offer advice on how to properly escalate a serious account-compromise case with Roblox Support. Yesterday, my Roblox account was compromised, putting my account, limited items…",
+      "score": 10.6,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 2,
+        "views": 44
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4908770",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/what-has-changed-in-studio-since-2024/4908770",
@@ -1028,6 +1107,26 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4930938",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/i-built-a-free-roblox-creator-directory-60-channels-real-stats-a-small-marketplace-for-your-systems-%E2%80%94-risor/4930938",
+      "author": "Guga028",
+      "date": "2026-10-12T21:59:04.594Z",
+      "title": "I built a free Roblox creator directory (60+ channels, real stats) + a small marketplace for your systems — Risor",
+      "excerpt_en": "I built Risor (risor.shop) — posting about the part of it that’s free and useful on its own, not the part that makes me money. Free creator directory. 60+ creators tracked right now across YouTube, TikTok and Instagram, each with real subscriber counts, real average views per…",
+      "score": 9.5,
+      "tags": [
+        "marketing",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 0,
+        "views": 156
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4916351",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/devex-support-ticket-not-going-through/4916351",
@@ -1047,6 +1146,26 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4935557",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/ribbon-curved-roads-you-can-reshape-with-control-points-paid/4935557",
+      "author": "FATALE_N1",
+      "date": "2026-10-15T11:49:44.887Z",
+      "title": "Ribbon - curved roads you can reshape with control points [Paid]",
+      "excerpt_en": "Hi everyone, I make Ribbon, a Studio plugin for building curved roads and paths from Parts. The main idea is to keep the route editable while you’re working on the map: move a control point and rebuild the road, instead of adjusting each piece by hand. 30-second Studio demo…",
+      "score": 9.4,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 89
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4905552",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/immersive-ads-earnings-not-showing-on-devex-page-after-72-hours/4905552",
@@ -1064,6 +1183,26 @@
         "views": 38
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4931315",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/give-creators-the-option-to-set-ugc-prices-for-web-and-experience-sales/4931315",
+      "author": "TadachiiRyu",
+      "date": "2026-10-13T03:46:20.679Z",
+      "title": "Give Creators the option to set UGC prices for web and experience sales",
+      "excerpt_en": "So I recently got into UGC development, and I actually started uploading my own UGC items (yay me!) I was thinking how cool it would be to set separate prices for web sales as well as experience sales. (UGCs sold in an experience.) Like if we upload a UGC and sell it at 85 Robux…",
+      "score": 9.1,
+      "tags": [
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 2,
+        "views": 57
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "devforum:4936543",
@@ -1115,6 +1254,61 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4927876",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/script-called-%E2%80%9Cwsmanager-appearing-for-no-reason-at-all/4927876",
+      "author": "LCY0713alt_alt",
+      "date": "2026-10-11T14:00:50.535Z",
+      "title": "Script called “WSManager\" Appearing for no reason at all",
+      "excerpt_en": "There’s a script called “WSManager” which includes gamepass not owned by me been sold in my game. image 460×112 7.25 KB I’ve deleted it several times , but every time I re-open the creation in roblox studio, It still appears there. I tried to look for same problems on forum, but…",
+      "score": 8.6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 9,
+        "views": 260
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4926918",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/ironbrew1-obfuscator/4926918",
+      "author": "flicky_ball",
+      "date": "2026-10-11T03:38:52.061Z",
+      "title": "Ironbrew1 - Obfuscator",
+      "excerpt_en": "Hey yall, Here to let the community know about the release of Ironbrew1 by @packpngtexture (it’s already been out for over a year, we just forgot to make a devform post lol). Studio integration is easy with the official Ironbrew1 plugin . If you’re interested you may check it…",
+      "score": 8.4,
+      "tags": [],
+      "engagement": {
+        "likes": 77,
+        "replies": 25,
+        "views": 818
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4926222",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/approved-3-million-devex-payment-missing/4926222",
+      "author": "Spezxco",
+      "date": "2026-10-10T20:22:17.857Z",
+      "title": "Approved 3 million DevEx Payment Missing",
+      "excerpt_en": "I had a DevEx payout approved to be processed on the 25th of September, which was then labelled paid on the 29th of September on Tipalti. Today is 11th of October where 8 business days have passed since the payout was sent on the 29th and I have yet to receive it. This is my…",
+      "score": 8.3,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 25,
+        "replies": 12,
+        "views": 393
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "devforum:4930122",
@@ -1237,6 +1431,23 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4929277",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/false-enforcement-ban-update-2/4929277",
+      "author": "hauntedhillsorcerer",
+      "date": "2026-10-12T04:07:41.390Z",
+      "title": "False Enforcement Ban (Update 2)",
+      "excerpt_en": "This is merely an update to my last post. So far, I’ve had 20 appeals with the same automated response of a person who does not exist (implying that ROBLOX moderation has NOT forwarded me to a human moderator about my targeted termination of my ROBLOX account. (USERNAME…",
+      "score": 7.9,
+      "tags": [],
+      "engagement": {
+        "likes": 73,
+        "replies": 34,
+        "views": 543
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4906160",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/api-update-api-rate-limit-tuning/4906160",
@@ -1296,6 +1507,25 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4926753",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-requested-ugc-total-chain-brand-by-totally-ryu/4926753",
+      "author": "TadachiiRyu",
+      "date": "2026-10-11T01:38:09.983Z",
+      "title": "[Feedback Requested] [UGC] Total Chain Brand by Totally Ryu",
+      "excerpt_en": "So I’m trying to get into creating UGC items. I made a group for it called Totally Ryu, and as my first UGC item I’ve created a chain necklace called Total Chain. Roblox Communtiy (Totally Ryu): I made this community to sell UGC items, and potentially have a community for my…",
+      "score": 7.1,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 4,
+        "views": 121
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "reddit:t3_1x5chni",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x5chni/solo_dev_here_my_spacecolony_tycoon_after_months/",
@@ -1345,6 +1575,23 @@
         "replies": 0
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4932826",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/struggling-with-initializing-oop-and-structuring-module-code/4932826",
+      "author": "SinsamRD",
+      "date": "2026-10-14T01:04:05.128Z",
+      "title": "Struggling with initializing, OOP, and structuring module code",
+      "excerpt_en": "I am actively working on creating a ROBLOX ASYM. I have been scripting games for a long time now, and every time I asked someone for help, they would gatekeep information from me. Because I have been self-taught for the most part, I have developed habits that I believe could be…",
+      "score": 6.9,
+      "tags": [],
+      "engagement": {
+        "likes": 19,
+        "replies": 49,
+        "views": 312
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "devforum:4930524",
@@ -1402,6 +1649,25 @@
         "views": 5020
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4935703",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/2m-worth-of-robux-has-drained-out/4935703",
+      "author": "El_Budi",
+      "date": "2026-10-15T13:28:28.001Z",
+      "title": "2M+ Worth of robux has drained out",
+      "excerpt_en": "image 903×477 27.4 KB My group funds of total 2M+ Robux is gone because one of my holders account claimed to be hijacked (as now it’s banned) and the hijacker presumed to drain out the funds. The bar doesn’t show which user does the payout goes to. Is there any way to get it…",
+      "score": 6.4,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 85
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "reddit:t3_1x5ypqm",
@@ -1513,6 +1779,78 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4926914",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-should-you-actually-organize-your-games-core-conceptloop/4926914",
+      "author": "DaRoyalEmperor",
+      "date": "2026-10-11T03:36:31.512Z",
+      "title": "How should you actually organize your game's core concept/loop?",
+      "excerpt_en": "We can understand how trying to make a game concept too oversimplified for players bores them, and making mechanics excruciatingly complex and vague gives players a hard time understanding what they’re looking at. Either way, it’s a lose-lose situation if the complexity of your…",
+      "score": 5.4,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 0,
+        "views": 214
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4935727",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/cant-find-beta-mode-switch/4935727",
+      "author": "MOSHI_DEV",
+      "date": "2026-10-15T13:39:12.971Z",
+      "title": "Cant Find beta mode switch",
+      "excerpt_en": "I have been trying to turn off beta mode on my game for a few hours, but cant find the switch anywhere in the game settings within studio or inside of the creator hub game settings I have found posts talking about beta mode, yet none point me to how to turn it off, and the…",
+      "score": 5.2,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 38
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4936400",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/mp3-player-inside-of-roblox/4936400",
+      "author": "usaideoir",
+      "date": "2026-10-15T19:58:51.435Z",
+      "title": "Mp3 player inside of roblox",
+      "excerpt_en": "i got bored a while back and decided to start making a system to play external audio inside of roblox without having to upload it, simply just as a challenge to see how far i could get with it. i originally made it so that only .wav files were supported, simply because they are…",
+      "score": 5.2,
+      "tags": [],
+      "engagement": {
+        "likes": 12,
+        "replies": 7,
+        "views": 176
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4927833",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/v121-rui-pixel-perfect-pro-figmalike-ui-selection/4927833",
+      "author": "RiotDestrudo",
+      "date": "2026-10-11T13:39:27.471Z",
+      "title": "(v1.2.1) RUI: Pixel Perfect Pro | Figmalike UI Selection!",
+      "excerpt_en": "RUIBlue 1374×1145 399 KB RUI: Pixel Perfect Pro | Figmalike UI Selection! Get it on the Creator Store Current version: v1.2.1 Stop doing UI math Building UI in Studio means endless back and forth. Drag a handle, check the properties, fix the Offset, convert to Scale, test on…",
+      "score": 5.2,
+      "tags": [],
+      "engagement": {
+        "likes": 11,
+        "replies": 6,
+        "views": 413
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4900591",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/can-someone-test-my-obby/4900591",
@@ -1592,6 +1930,59 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4938500",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/vector-runtime-data-manager-with-parallelism-and-replication-open-source/4938500",
+      "author": "GreenModt",
+      "date": "2026-10-16T20:46:15.634Z",
+      "title": "Vector - Runtime Data Manager With Parallelism And Replication (Open Source)",
+      "excerpt_en": "Vector is a lightweight state and data manager with built-in replication, parallel work distribution and stealing, as well as a novel classification algorithm for prioritization and adaptive smoothing via higher-order derivatives. It inlines time and serializes data into compact…",
+      "score": 4.9,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 74
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4930190",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/plugin-yogurt-source-control-commits-and-script-diffs-right-inside-studio-alpha/4930190",
+      "author": "Tonnumkung4",
+      "date": "2026-10-12T17:08:36.381Z",
+      "title": "[Plugin] Yogurt Source Control | commits and script diffs, right inside Studio (Alpha)",
+      "excerpt_en": "Yogurt Source Control Logo 1672×941 818 KB Creator Store | Features | Gallery | Changelog See what changed. Keep what works. Yogurt is a free, Git-inspired source control plugin built for Roblox Studio. Track script changes, create commits, review differences, and restore…",
+      "score": 4.9,
+      "tags": [],
+      "engagement": {
+        "likes": 12,
+        "replies": 4,
+        "views": 184
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4928614",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/framework-loom-060-strictly-typed-services-controllers-and-components-with-batched-buffer-networking/4928614",
+      "author": "PatAmigos_0",
+      "date": "2026-10-11T19:58:38.357Z",
+      "title": "[Framework] Loom 0.6.0: strictly typed services, controllers and components with batched buffer networking",
+      "excerpt_en": "Loom Download | Documentation | GitLab | GitHub Loom 1920×1072 77.1 KB Typed services, controllers and components with batched buffer networking Hi everyone, Loom is a Roblox framework I’ve been building for my own games. It splits a game into services (server), controllers…",
+      "score": 4.7,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 4,
+        "views": 248
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
       "id": "devforum:4930948",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/feedback-on-my-cart-ride-game/4930948",
@@ -1607,6 +1998,40 @@
         "views": 132
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4932365",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/batch-text-filtering-method/4932365",
+      "author": "ZashScripts",
+      "date": "2026-10-13T18:53:49.181Z",
+      "title": "Batch text filtering method",
+      "excerpt_en": "I made an in-game audio catalog based on Roblox’s music library (using AssetService:SearchAudioAsync() ) - but Roblox audio assets do not always have a ToS-compliant name (I definitely think they should but that is another topic). Right now, my best option to properly display…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 4,
+        "views": 126
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4932460",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/eclipse-%E2%80%94-an-r15-avatar-customization-library/4932460",
+      "author": "polarisdevv",
+      "date": "2026-10-13T19:55:25.839Z",
+      "title": "Eclipse — An R15 Avatar Customization Library",
+      "excerpt_en": "Eclipse — An R15 Avatar Customization Library Eclipse_Logo 4096×4096 6 MB Hi everyone, I’m releasing Eclipse , an avatar customization library for Roblox R15 roleplay games. It includes an in-game editor for body settings, clothing, accessories, animations, saved outfits, and…",
+      "score": 4.1,
+      "tags": [],
+      "engagement": {
+        "likes": 2,
+        "replies": 7,
+        "views": 461
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "naavik:https://naavik.co/?p=34589",
@@ -1668,6 +2093,60 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "devforum:4937646",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/verified-badge-ugc-are-the-200k-sales-lifetime-or-within-90-days/4937646",
+      "author": "Djirtou",
+      "date": "2026-10-16T13:06:33.522Z",
+      "title": "Verified Badge UGC: Are the 200K Sales Lifetime or Within 90 Days?",
+      "excerpt_en": "Hello! I have a question about the Verified Badge requirements for UGC creators. According to the official Roblox FAQ, creators need 2 million Robux in revenue over the last 90 days, with at least 200,000 items sold. However, the wording lacks a bit of clarity. The 90 day period…",
+      "score": 4,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 53
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4933191",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/yea-the-bots-are-gone/4933191",
+      "author": "ClassicDivines",
+      "date": "2026-10-14T07:25:56.384Z",
+      "title": "Yea the BOTS are \"GONE\"",
+      "excerpt_en": "Wow A Murderer bot won a Sheriff bot image 1035×555 94.1 KB image 1257×702 101 KB POV The game drops you a murderer role then bots just screw you over collecting the coins all over the map and in the end when each has the Max coins amount they just image 761×356 78.3 KB They…",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 1,
+        "replies": 4,
+        "views": 176
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
+    },
+    {
+      "id": "devforum:4928460",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-the-music-in-my-obby-good/4928460",
+      "author": "DanielleMarieMargret",
+      "date": "2026-10-11T18:40:48.590Z",
+      "title": "Is The Music In My Obby Good?",
+      "excerpt_en": "I made an obby in roblox and added music to it, but does it sound too not 2020s, would anyone else in the entire world enjoy playing an obby with a song like it, and is it just not some people’s music style in 2026? And if it’s too loud, could players just either lower their…",
+      "score": 3.6,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 5,
+        "views": 118
+      },
+      "first_seen": "2026-10-17T03:44:51.250Z"
     },
     {
       "id": "reddit:t3_1x5bh1q",
