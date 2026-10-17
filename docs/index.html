@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Roblox Pulse</title>
+<meta name="description" content="Маркетинговый отчёт по играм Roblox раз в три дня: лидеры, рост и падение онлайна, жанры.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='4' y='4' width='24' height='24' rx='5' fill='%232a78d6' transform='rotate(15 16 16)'/><rect x='13' y='13' width='6' height='6' fill='white' transform='rotate(15 16 16)'/></svg>">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb; --card: #ffffff;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,0.10);
+  --up: #006300; --down: #d03b3b; --accent: #2a78d6; --accent-wash: rgba(42,120,214,0.10);
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s4:#eda100; --s5:#e87ba4; --s6:#008300; --s7:#6250d6; --s8:#e34948;
+  --seq: #2a78d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --card: #1a1a19;
+    --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+    --up: #0ca30c; --down: #e66767; --accent: #3987e5; --accent-wash: rgba(57,135,229,0.14);
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s6:#008300; --s7:#9085e9; --s8:#e66767;
+    --seq: #3987e5;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --card: #1a1a19;
+  --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+  --up: #0ca30c; --down: #e66767; --accent: #3987e5; --accent-wash: rgba(57,135,229,0.14);
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s6:#008300; --s7:#9085e9; --s8:#e66767;
+  --seq: #3987e5;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px 64px; }
+header.top { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; padding: 20px 0 8px; }
+.brand { font-weight: 650; font-size: 18px; letter-spacing: -0.01em; display: flex; align-items: center; gap: 8px; }
+.brand .logo { width: 22px; height: 22px; border-radius: 5px; background: var(--accent); transform: rotate(15deg); position: relative; }
+.brand .logo::after { content: ""; position: absolute; inset: 8px; background: var(--surface); }
+.controls { display: flex; gap: 8px; align-items: center; }
+select, button { font: inherit; color: var(--ink); background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; }
+button { cursor: pointer; }
+h1 { font-size: clamp(26px, 4vw, 36px); line-height: 1.15; margin: 20px 0 4px; letter-spacing: -0.02em; }
+.sub { color: var(--ink-2); margin: 0 0 20px; }
+h2 { font-size: 20px; margin: 40px 0 4px; letter-spacing: -0.01em; }
+h2 + .hint { color: var(--ink-2); margin: 0 0 14px; font-size: 14px; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+.summary { font-size: 16px; }
+.summary h3 { margin: 16px 0 6px; font-size: 16px; }
+.summary p { margin: 0 0 10px; }
+.summary ul { margin: 0 0 10px; padding-left: 20px; }
+.summary li { margin: 4px 0; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 16px; }
+.tile .label { color: var(--ink-2); font-size: 13px; }
+.tile .value { font-size: 28px; font-weight: 600; line-height: 1.2; margin-top: 2px; }
+.tile .delta { font-size: 13px; margin-top: 2px; }
+.up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--ink-2); }
+.grid-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; }
+.leader { display: flex; flex-direction: column; gap: 6px; padding: 12px; }
+.leader .head { display: flex; gap: 10px; align-items: center; min-width: 0; }
+.leader img, .row-icon { width: 40px; height: 40px; border-radius: 8px; flex: none; background: var(--grid); }
+.leader .name { font-weight: 600; font-size: 14px; line-height: 1.25; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.leader .meta { color: var(--muted); font-size: 12px; }
+.leader .nums { display: flex; justify-content: space-between; align-items: baseline; font-size: 13px; color: var(--ink-2); }
+.leader .nums b { font-size: 18px; color: var(--ink); font-weight: 600; }
+.rank { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 12px; min-width: 22px; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 820px) { .two { grid-template-columns: 1fr; } }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th { text-align: left; font-weight: 500; color: var(--muted); font-size: 12px; padding: 6px 8px; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+td { padding: 8px; border-bottom: 1px solid var(--grid); vertical-align: middle; }
+tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+td .gname { display: flex; align-items: center; gap: 8px; min-width: 0; }
+td .gname img { width: 28px; height: 28px; border-radius: 6px; flex: none; background: var(--grid); }
+td .gname span { overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+td .g { color: var(--muted); font-size: 12px; }
+.table-scroll { overflow-x: auto; }
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.tip { position: absolute; pointer-events: none; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); white-space: nowrap; z-index: 5; display: none; }
+.tip .t { color: var(--ink-2); margin-bottom: 4px; }
+.tip .r { display: flex; align-items: center; gap: 6px; }
+.tip .r b { margin-left: auto; padding-left: 12px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.key { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; color: var(--ink-2); margin-bottom: 8px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.bars .row { display: grid; grid-template-columns: minmax(110px, 190px) 1fr 70px; gap: 10px; align-items: center; padding: 5px 0; font-size: 14px; }
+.bars .track { height: 14px; position: relative; }
+.bars .fill { height: 100%; background: var(--seq); border-radius: 0 4px 4px 0; }
+.bars .label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bars .val { text-align: right; font-variant-numeric: tabular-nums; }
+.pill { display: inline-block; font-size: 11px; color: var(--ink-2); border: 1px solid var(--border); border-radius: 99px; padding: 1px 8px; }
+.method { color: var(--ink-2); font-size: 14px; }
+.method li { margin: 4px 0; }
+.empty { color: var(--muted); font-size: 14px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand"><span class="logo"></span>Roblox Pulse</div>
+    <div class="controls">
+      <label for="issue" class="sub" style="margin:0">Выпуск</label>
+      <select id="issue"></select>
+      <button id="theme" title="Сменить тему">◐</button>
+    </div>
+  </header>
+  <main id="app"><p class="empty">Загрузка…</p></main>
+  <footer>Данные: Rolimons (история онлайна), Roblox API (жанры, разделы главной). Отчёт обновляется раз в 3 дня.</footer>
+</div>
+<script>
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const nf = new Intl.NumberFormat('ru-RU');
+const compact = n => n == null ? '—' : n >= 1e6 ? (n / 1e6).toFixed(n >= 1e7 ? 1 : 2).replace(/[.,]?0+$/, '') + 'M' : n >= 1e3 ? (n / 1e3).toFixed(n >= 1e4 ? 0 : 1).replace(/[.,]0$/, '') + 'K' : String(Math.round(n));
+const delta = (v, suffix = '%') => v == null ? '<span class="flat">—</span>' : `<span class="${v > 0.5 ? 'up' : v < -0.5 ? 'down' : 'flat'}">${v > 0 ? '▲ +' : v < 0 ? '▼ ' : ''}${String(v).replace('.', ',')}${suffix}</span>`;
+const dmy = s => new Date(s + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', timeZone: 'UTC' });
+const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const SERIES = ['--s1', '--s2', '--s3', '--s4', '--s5', '--s6', '--s7', '--s8'];
+const GENRE_RU = {
+  'Action': 'Экшен', 'Adventure': 'Приключения', 'Entertainment': 'Развлечения', 'Obby & Platformer': 'Обби и платформеры',
+  'Party & Casual': 'Казуальные и пати', 'Puzzle': 'Головоломки', 'RPG': 'RPG', 'Roleplay & Avatar Sim': 'Ролевые и аватар-симы',
+  'Shooter': 'Шутеры', 'Shopping': 'Шопинг', 'Simulation': 'Симуляторы', 'Social': 'Социальные', 'Sports & Racing': 'Спорт и гонки',
+  'Strategy': 'Стратегии', 'Survival': 'Выживание', 'Utility & Other': 'Утилиты и прочее', 'Не указан': 'Не указан',
+};
+const genreName = g => GENRE_RU[g] || g;
+
+// ---------- theme
+const themeBtn = $('#theme');
+try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
+themeBtn.onclick = () => {
+  const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.dataset.theme = dark ? 'light' : 'dark';
+  try { localStorage.setItem('theme', document.documentElement.dataset.theme); } catch {}
+  if (window.__data) render(window.__data, window.__summary);
+};
+
+// ---------- tiny markdown (headings, lists, bold, italics, links)
+function md(src) {
+  const inline = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\*(.+?)\*/g, '<i>$1</i>').replace(/\[(.+?)\]\((https?:[^)]+)\)/g, '<a href="$2">$1</a>');
+  let out = '', list = false;
+  for (const line of src.split(/\r?\n/)) {
+    const li = line.match(/^\s*[-*]\s+(.*)/);
+    if (li) { if (!list) { out += '<ul>'; list = true; } out += `<li>${inline(li[1])}</li>`; continue; }
+    if (list) { out += '</ul>'; list = false; }
+    const h = line.match(/^#{1,3}\s+(.*)/);
+    if (h) out += `<h3>${inline(h[1])}</h3>`;
+    else if (line.trim()) out += `<p>${inline(line)}</p>`;
+  }
+  return out + (list ? '</ul>' : '');
+}
+
+// ---------- charts (plain SVG)
+const niceMax = v => { if (v <= 0) return 1; const p = 10 ** Math.floor(Math.log10(v)); return [1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 10].map(m => m * p).find(m => m >= v); };
+
+function lineChart(el, { labels, series, height = 240, yFmt = compact, tipLabel = l => l, legend = true, xTicks = 6 }) {
+  const W = Math.max(el.clientWidth, 280), H = height, m = { t: 10, r: 12, b: 24, l: 44 };
+  const iw = W - m.l - m.r, ih = H - m.t - m.b;
+  const max = niceMax(Math.max(...series.flatMap(s => s.values)));
+  const x = i => m.l + (labels.length === 1 ? iw / 2 : i / (labels.length - 1) * iw);
+  const y = v => m.t + ih - v / max * ih;
+  const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => f * max);
+  let svg = `<svg viewBox="0 0 ${W} ${H}" role="img">`;
+  for (const t of ticks) svg += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(t)}" y2="${y(t)}" stroke="var(--${t ? 'grid' : 'axis'})" stroke-width="1"/><text x="${m.l - 6}" y="${y(t) + 4}" text-anchor="end">${yFmt(t)}</text>`;
+  const step = Math.max(1, Math.round(labels.length / xTicks));
+  labels.forEach((l, i) => { if (i % step === 0 || i === labels.length - 1 && (labels.length - 1) % step > step / 2) svg += `<text x="${x(i)}" y="${H - 6}" text-anchor="middle">${esc(l)}</text>`; });
+  series.forEach(s => {
+    const d = s.values.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join('');
+    if (s.area) svg += `<path d="${d}L${x(s.values.length - 1)},${y(0)}L${x(0)},${y(0)}Z" fill="${s.color}" opacity="0.10"/>`;
+    svg += `<path d="${d}" fill="none" stroke="${s.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`;
+    const li = s.values.length - 1;
+    svg += `<circle cx="${x(li)}" cy="${y(s.values[li])}" r="4" fill="${s.color}" stroke="var(--card)" stroke-width="2"/>`;
+  });
+  svg += `<line class="xh" x1="0" x2="0" y1="${m.t}" y2="${m.t + ih}" stroke="var(--axis)" stroke-width="1" visibility="hidden"/>`;
+  svg += `<g class="dots"></g><rect x="${m.l}" y="${m.t}" width="${iw}" height="${ih}" fill="transparent"/></svg>`;
+  el.innerHTML = (legend && series.length > 1 ? `<div class="legend">${series.map(s => `<span><i class="key" style="background:${s.color}"></i>${esc(s.name)}</span>`).join('')}</div>` : '') + `<div class="chart">${svg}<div class="tip"></div></div>`;
+  const svgEl = $('svg', el), tip = $('.tip', el), xh = $('.xh', el), dots = $('.dots', el);
+  const move = ev => {
+    const r = svgEl.getBoundingClientRect(), px = (ev.clientX - r.left) * W / r.width;
+    const i = Math.max(0, Math.min(labels.length - 1, Math.round((px - m.l) / iw * (labels.length - 1))));
+    xh.setAttribute('x1', x(i)); xh.setAttribute('x2', x(i)); xh.setAttribute('visibility', 'visible');
+    dots.innerHTML = series.map(s => `<circle cx="${x(i)}" cy="${y(s.values[i])}" r="4" fill="${s.color}" stroke="var(--card)" stroke-width="2"/>`).join('');
+    const rows = [...series].sort((a, b) => b.values[i] - a.values[i]);
+    tip.innerHTML = `<div class="t">${esc(tipLabel(labels[i], i))}</div>` + rows.map(s => `<div class="r"><i class="key" style="background:${s.color}"></i>${esc(s.name)}<b>${yFmt(s.values[i], true)}</b></div>`).join('');
+    tip.style.display = 'block';
+    const left = x(i) / W * r.width;
+    tip.style.left = Math.min(Math.max(left + 12, 0), r.width - tip.offsetWidth) + 'px';
+    if (left + 12 + tip.offsetWidth > r.width) tip.style.left = Math.max(0, left - tip.offsetWidth - 12) + 'px';
+    tip.style.top = '4px';
+  };
+  svgEl.addEventListener('pointermove', move);
+  svgEl.addEventListener('pointerleave', () => { tip.style.display = 'none'; xh.setAttribute('visibility', 'hidden'); dots.innerHTML = ''; });
+}
+
+function spark(values, w = 120, h = 32, color = 'var(--accent)') {
+  const max = Math.max(...values, 1), min = Math.min(...values, 0);
+  const pts = values.map((v, i) => `${(i / (values.length - 1) * (w - 4) + 2).toFixed(1)},${(h - 3 - (v - min) / (max - min || 1) * (h - 6)).toFixed(1)}`);
+  return `<svg viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" aria-hidden="true"><path d="M${pts.join('L')}" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${pts.at(-1).split(',')[0]}" cy="${pts.at(-1).split(',')[1]}" r="3" fill="${color}"/></svg>`;
+}
+
+function columns(el, items, { height = 220, label, value, tip }) {
+  const W = Math.max(el.clientWidth, 280), H = height, m = { t: 16, r: 8, b: 26, l: 40 };
+  const iw = W - m.l - m.r, ih = H - m.t - m.b, n = items.length, band = iw / n, bw = Math.min(24, band * 0.6);
+  const max = niceMax(Math.max(...items.map(value)));
+  const y = v => m.t + ih - v / max * ih;
+  let svg = `<svg viewBox="0 0 ${W} ${H}" role="img">`;
+  for (const f of [0, 0.5, 1]) svg += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(f * max)}" y2="${y(f * max)}" stroke="var(--${f ? 'grid' : 'axis'})"/><text x="${m.l - 6}" y="${y(f * max) + 4}" text-anchor="end">${compact(f * max)}</text>`;
+  items.forEach((it, i) => {
+    const v = value(it), cx = m.l + band * i + band / 2, top = y(v), hgt = Math.max(0, y(0) - top), r = Math.min(4, hgt);
+    svg += `<g class="col" data-i="${i}"><rect x="${cx - band / 2}" y="${m.t}" width="${band}" height="${ih}" fill="transparent"/>`;
+    svg += `<path d="M${cx - bw / 2},${y(0)}V${top + r}Q${cx - bw / 2},${top} ${cx - bw / 2 + r},${top}H${cx + bw / 2 - r}Q${cx + bw / 2},${top} ${cx + bw / 2},${top + r}V${y(0)}Z" fill="var(--seq)"/>`;
+    svg += `<text x="${cx}" y="${top - 4}" text-anchor="middle" style="fill:var(--ink-2)">${nf.format(v)}</text><text x="${cx}" y="${H - 8}" text-anchor="middle">${esc(label(it))}</text></g>`;
+  });
+  el.innerHTML = `<div class="chart">${svg}</svg><div class="tip"></div></div>`;
+  const t = $('.tip', el), svgEl = $('svg', el);
+  el.querySelectorAll('.col').forEach(g => {
+    g.addEventListener('pointerenter', () => { const it = items[g.dataset.i]; t.innerHTML = tip(it); t.style.display = 'block'; const r = svgEl.getBoundingClientRect(), cx = (m.l + band * g.dataset.i + band / 2) / W * r.width; t.style.left = Math.max(0, Math.min(cx - t.offsetWidth / 2, r.width - t.offsetWidth)) + 'px'; t.style.top = '0px'; });
+    g.addEventListener('pointerleave', () => t.style.display = 'none');
+  });
+}
+
+// ---------- page
+const gameCell = g => `<div class="gname">${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<span><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener">${esc(g.name)}</a><br><span class="g">${esc(genreName(g.genre))}${g.sub ? ' · ' + esc(g.sub) : ''}</span></span></div>`;
+
+function gameTable(rows, cols) {
+  if (!rows.length) return '<p class="empty">Нет игр, подходящих под критерий в этом выпуске.</p>';
+  return `<div class="table-scroll"><table><thead><tr>${cols.map(c => `<th class="${c.num ? 'num' : ''}">${c.h}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr>${cols.map(c => `<td class="${c.num ? 'num' : ''}">${c.v(r)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+}
+
+function render(d, summary) {
+  const T = d.totals;
+  const dayShort = l => new Date(l + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' });
+  const summaryHtml = summary ? md(summary) : `<ul>${d.facts.map(f => `<li>${esc(f)}</li>`).join('')}</ul>`;
+  $('#app').innerHTML = `
+    <h1>Рынок Roblox: ${dmy(d.date)}</h1>
+    <p class="sub">Выпуск за 3 дня${d.prevDate ? `, сравнение с выпуском от ${dmy(d.prevDate)}` : ''} · ${nf.format(d.source.historyGames)} игр с историей, ${nf.format(d.source.games)} в общем срезе</p>
+    <section class="card summary">${summaryHtml}</section>
+    <div class="tiles">
+      <div class="card tile"><div class="label">Онлайн сейчас, все отслеживаемые игры</div><div class="value">${compact(T.online)}</div><div class="delta flat">${nf.format(T.online)} игроков</div></div>
+      <div class="card tile"><div class="label">Средний онлайн топ-игр, 3 дня</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} к прошлым 3 дням</div></div>
+      <div class="card tile"><div class="label">Доля топ-10 игр в онлайне</div><div class="value">${String(T.top10Share).replace('.', ',')}%</div><div class="delta flat">топ-100: ${String(T.top100Share).replace('.', ',')}%</div></div>
+      <div class="card tile"><div class="label">Игр с онлайном 10K+</div><div class="value">${T.over10k}</div><div class="delta flat">1K+: ${nf.format(T.over1k)}</div></div>
+    </div>
+
+    <h2>Общий онлайн за 30 дней</h2><p class="hint">Сумма среднесуточного онлайна крупнейших игр выпуска.</p>
+    <div class="card"><div id="c-total"></div></div>
+
+    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну за 3 дня. Линия — среднесуточный онлайн за 30 дней.</p>
+    <div class="grid-cards">${d.leaders.map(g => `
+      <div class="card leader">
+        <div class="head"><span class="rank">#${g.rank}</span>${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<div style="min-width:0"><div class="name"><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(g.name)}</a></div><div class="meta">${esc(genreName(g.genre))}${g.prevRank ? ` · было #${g.prevRank}` : d.prevDate ? ' · новичок топа' : ''}</div></div></div>
+        <div class="nums"><span><b>${compact(g.avg3)}</b> в среднем</span><span>${delta(g.change3)}</span></div>
+        <div>${spark(g.daily, 226, 44)}</div>
+        <div class="meta">Пик 30 дней ${compact(g.peak30)} · от пика ${delta(g.fromPeak)}</div>
+      </div>`).join('')}
+    </div>
+
+    <h2>Лидеры по часам, 7 дней</h2><p class="hint">Топ-6 — видно суточные циклы и всплески от обновлений.</p>
+    <div class="card"><div id="c-leaders"></div></div>
+
+    <h2>Набирают популярность</h2><p class="hint">Рост среднего онлайна за 3 дня к предыдущим 3 дням (игры от 3K онлайна).</p>
+    <div class="card">${gameTable(d.risers, [
+      { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26) },
+      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'Рост', num: 1, v: g => delta(g.change3) },
+    ])}</div>
+
+    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна за 3 дня (игры, у которых было от 5K) и сколько осталось от 30-дневного пика.</p>
+    <div class="card">${gameTable(d.fallers, [
+      { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26, 'var(--down)') },
+      { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За 3 дня', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
+    ])}</div>
+
+    <div class="two" style="margin-top:0">
+      <div><h2>Новые хиты</h2><p class="hint">Игры младше 60 дней, по онлайну.</p>
+      <div class="card">${gameTable(d.newHits, [
+        { h: 'Игра', v: gameCell }, { h: 'Возраст', num: 1, v: g => g.ageDays + ' дн.' }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) },
+      ])}</div></div>
+      <div><h2>Что продвигает Roblox</h2><p class="hint">Игры в разделах главной страницы за 3 дня.</p>
+      <div class="card">${d.pushed.map(s => `<div style="margin-bottom:12px"><span class="pill">${esc(s.name)}</span></div>${gameTable(s.games.slice(0, 8), [
+        { h: 'Игра', v: g => gameCell(g) }, { h: 'Лучшее место', num: 1, v: g => '#' + g.best }, { h: 'Сейчас', num: 1, v: g => compact(g.now) },
+      ])}`).join('<div style="height:16px"></div>')}</div></div>
+    </div>
+
+    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение за 3 дня.</p>
+    <div class="two">
+      <div class="card bars" id="c-genres"></div>
+      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Доля жанра в онлайне по дням, топ-6 жанров, %</div><div id="c-genre-share"></div></div>
+    </div>
+
+    <h2>Распределение игр по онлайну</h2><p class="hint">Сколько игр в каждом диапазоне онлайна прямо сейчас (из ${nf.format(d.source.games)} отслеживаемых).</p>
+    <div class="two">
+      <div class="card"><div id="c-dist"></div></div>
+      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Суммарный онлайн в диапазоне</div><div id="c-dist2"></div></div>
+    </div>
+
+    <h2>Методология</h2>
+    <div class="card method"><ul>
+      <li>«Онлайн сейчас» — срез Rolimons по ${nf.format(d.source.games)} играм на момент сборки отчёта.</li>
+      <li>История — 10-минутные точки Rolimons за 30 дней, усреднённые по часам; «средний за 3 дня» — среднее за последние 72 часа.</li>
+      <li>В выборку входят топ-150 игр по онлайну, игры из прошлого выпуска и игры из разделов Up-and-Coming / Top Trending.</li>
+      <li>Жанры — официальная классификация Roblox (genre_l1 / genre_l2).</li>
+      <li>Сформировано ${new Date(d.generatedAt).toLocaleString('ru-RU', { timeZone: 'UTC' })} UTC.</li>
+    </ul></div>`;
+
+  lineChart($('#c-total'), { labels: T.dayLabels.map(dayShort), series: [{ name: 'Онлайн', values: T.dailyTotal, color: cssVar('--s1'), area: true }], tipLabel: (l, i) => dmy(T.dayLabels[i]) });
+
+  const hours = d.leaders[0].hourly7.length;
+  const hourLabels = Array.from({ length: hours }, (_, i) => { const t = new Date(new Date(d.generatedAt).setUTCMinutes(0, 0, 0) - (hours - 1 - i) * 3600e3); return t; });
+  lineChart($('#c-leaders'), {
+    labels: hourLabels.map(t => t.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' })),
+    series: d.leaders.slice(0, 6).map((g, i) => ({ name: g.name, values: g.hourly7, color: cssVar(SERIES[i]) })),
+    height: 300, xTicks: 7,
+    tipLabel: (l, i) => hourLabels[i].toLocaleString('ru-RU', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) + ' UTC',
+  });
+
+  const gmax = Math.max(...d.genres.map(g => g.share));
+  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">3 дня</span></div>` +
+    d.genres.filter(g => g.share >= 0.5).map(g => `<div class="row" title="${esc(genreName(g.genre))}: ${nf.format(g.avg3)} игроков, ${g.games} игр, лидер — ${esc(g.top)}">
+      <span class="label">${esc(genreName(g.genre))}</span>
+      <span class="track"><div class="fill" style="width:${g.share / gmax * 100}%"></div><span style="position:absolute;left:calc(${g.share / gmax * 100}% + 6px);top:-3px;font-size:12px;color:var(--ink-2)">${String(g.share).replace('.', ',')}%</span></span>
+      <span class="val">${delta(g.change3)}</span></div>`).join('');
+
+  lineChart($('#c-genre-share'), {
+    labels: T.dayLabels.map(dayShort),
+    series: d.genres.slice(0, 6).map((g, i) => ({ name: genreName(g.genre), values: g.shareDaily, color: cssVar(SERIES[i]) })),
+    yFmt: (v, tip) => tip ? String(v).replace('.', ',') + '%' : Math.round(v) + '%', height: 260, tipLabel: (l, i) => dmy(T.dayLabels[i]),
+  });
+
+  const rng = b => `${compact(b.lo)}${b.hi ? '–' + compact(b.hi) : '+'}`;
+  columns($('#c-dist'), d.distribution, { label: rng, value: b => b.games, tip: b => `<div class="t">${rng(b)} онлайн</div><div class="r">Игр<b>${nf.format(b.games)}</b></div><div class="r">Игроков<b>${nf.format(b.players)}</b></div>` });
+  columns($('#c-dist2'), d.distribution, { label: rng, value: b => b.players, tip: b => `<div class="t">${rng(b)} онлайн</div><div class="r">Игроков<b>${nf.format(b.players)}</b></div><div class="r">Игр<b>${nf.format(b.games)}</b></div>` });
+  // the second chart shows big values; shorten its value labels
+  $('#c-dist2').querySelectorAll('.col text:first-of-type').forEach((t, i) => t.textContent = compact(d.distribution[i].players));
+}
+
+async function load(date) {
+  const [data, summary] = await Promise.all([
+    fetch(`reports/${date}/data.json`).then(r => r.json()),
+    fetch(`reports/${date}/summary.md`).then(r => r.ok ? r.text() : null).catch(() => null),
+  ]);
+  window.__data = data; window.__summary = summary;
+  render(data, summary);
+}
+
+(async () => {
+  const idx = await fetch('reports/index.json').then(r => r.json()).catch(() => []);
+  if (!idx.length) { $('#app').innerHTML = '<p class="empty">Пока нет ни одного выпуска.</p>'; return; }
+  const sel = $('#issue');
+  sel.innerHTML = [...idx].reverse().map(r => `<option value="${r.date}">${dmy(r.date)}</option>`).join('');
+  const want = new URLSearchParams(location.search).get('d');
+  const cur = idx.some(r => r.date === want) ? want : idx.at(-1).date;
+  sel.value = cur;
+  sel.onchange = () => { history.replaceState(null, '', '?d=' + sel.value); load(sel.value); };
+  await load(cur);
+  let rt; addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => render(window.__data, window.__summary), 150); });
+})();
+</script>
+</body>
+</html>
