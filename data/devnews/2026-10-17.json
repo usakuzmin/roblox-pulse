@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-17T03:44:51.250Z",
+  "generated_at": "2026-10-17T07:00:36.197Z",
   "window_days": 7,
   "sources": {
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 3751
+      "ms": 4408
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 237
+      "ms": 1460
     },
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 122454
+      "ms": 122935
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91651
+      "ms": 31494
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 108
+      "ms": 916
     }
   },
   "items": [
@@ -1067,6 +1067,21 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "reddit:t3_1x81ze8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x81ze8/income_for_a_roblox_game/",
+      "author": "No-Tap3441",
+      "date": "2026-10-17T05:23:44.000Z",
+      "title": "Income for a roblox game.",
+      "excerpt_en": "For others that are also curious how much roblox games make. ",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T07:00:36.197Z"
+    },
+    {
       "id": "devforum:4927965",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/help-sudden-ccu-drop-with-no-apparent-reason/4927965",
@@ -1409,6 +1424,38 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x82n7i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x82n7i/our_first_roblox_release_a_singleplayer_survivor/",
+      "author": "mrshack_dev",
+      "date": "2026-10-17T06:03:42.000Z",
+      "title": "Our first Roblox release: a single-player survivor game set at a Japanese night festival, with 100 original yokai",
+      "excerpt_en": "Hi all. I run a small studio in Tokyo. This is our first Roblox release, so I wanted to share it with other devs. Yokai Night Survivors is a solo survivor game (Vampire Survivors style) set at a Japanese night festival. Taiyaki, prize plushies and sparklers have turned into 100…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T07:00:36.197Z"
+    },
+    {
+      "id": "reddit:t3_1x82c90",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x82c90/looking_for_feedback_on_the_stocking_tutorial_and/",
+      "author": "Dark_Cyrus201",
+      "date": "2026-10-17T05:45:14.000Z",
+      "title": "Looking for feedback on the stocking tutorial and early progression in my supermarket simulator",
+      "excerpt_en": "I’m working on a Roblox supermarket simulator and looking for volunteer playtesters to give feedback on the opening tutorial and early progression. This is unpaid testing; no payment or revenue share is offered. The core loop is collecting products, stocking the matching…",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-17T07:00:36.197Z"
     },
     {
       "id": "devforum:4888425",
