@@ -1,0 +1,97 @@
+{
+ "period": { "from": "2026-09-19", "to": "2026-10-16" },
+ "headline_ru": "Главная тема месяца — платная реклама против органики: Roblox публикует ROAS в пользу Ads Manager, разработчики отвечают своими цифрами.",
+ "headline_en": "Topic of the month: paid ads vs organic. Roblox publishes ROAS in favour of Ads Manager, developers answer with their own numbers.",
+ "items": [
+  {
+   "id": "devforum:4909790", "source": "devforum", "author": "Roblox staff", "author_kind": "staff", "date": "2026-10-02",
+   "url": "https://devforum.roblox.com/t/ads-manager-rdc-recap-earnings-roas-reporting-incrementality/4909790",
+   "title": "Ads Manager RDC Recap: Earnings, ROAS Reporting & Incrementality",
+   "key_numbers": ["+14% сессий (медиана)", "+10% D7", "2 из 3 игр: ROAS > 100%"],
+   "summary_ru": "Roblox провёл 21 рандомизированное исследование инкрементальности: медианный прирост сессий +14%, удержание D7 +10%. Цель «Earnings» (оптимизация под ROAS) открывается ~30 000 игр; у двух из трёх игр, вложивших до 4% заработка, ROAS превысил 100%. В ответах разработчики пишут обратное: после отключения рекламы playtime вырос вдвое и только тогда игру подхватила главная.",
+   "summary_en": "Roblox ran 21 randomized incrementality studies: median +14% play sessions and +10% D7-retained users. The ROAS-optimised 'Earnings' objective opens to ~30K games; about two in three games reinvesting up to 4% of earnings saw ROAS above 100%. In replies, several developers report the opposite: turning ads off roughly doubled playtime, and only then did Home recommendations pick the game up.",
+   "why_ru": "Официальные бенчмарки ROAS и живая реакция рынка в одной ветке.",
+   "tags": ["platform", "ads", "metrics"], "confidence": "official"
+  },
+  {
+   "id": "reddit:1x4hpkf", "source": "reddit", "author": "u/therok1", "author_kind": "developer", "date": "2026-10-12",
+   "url": "https://www.reddit.com/r/robloxgamedev/comments/1x4hpkf/my_first_roblox_game_flopped_on_ads_heres_the/",
+   "title": "My first Roblox game flopped on ads. Here's the funnel data and what I changed",
+   "key_numbers": ["$10/день на рекламу", "4% прошли туториал", "8 → 3 кнопки UI"],
+   "summary_ru": "Соло-разработчик тайкуна разобрал воронку: из 236 игроков половина не добыла ни одного блока, туториал прошли 4%. Он сократил туториал с 9 до 5 шагов, объяснил смысл каждого шага и урезал стартовый интерфейс с 8 кнопок до 3. Главный вывод: объяснять игроку, зачем что-то делать, а не как устроены системы.",
+   "summary_en": "A solo tycoon dev broke down the onboarding funnel: of 236 players half never mined a block and only 4% finished the tutorial. They cut the tutorial from 9 to 5 steps, gave each step a reason and reduced the starting UI from 8 buttons to 3. Main lesson: explain why to do something, not how the systems work.",
+   "why_ru": "Редкие реальные цифры воронки до и после правок при маленьком бюджете.",
+   "tags": ["story", "metrics", "ads"], "confidence": "self-reported"
+  },
+  {
+   "id": "devforum:4908059", "source": "devforum", "author": "VegetationBush", "author_kind": "developer", "date": "2026-10-01",
+   "url": "https://devforum.roblox.com/t/fix-the-extremely-lackluster-sponsored-ads-performance/4908059",
+   "title": "Fix the extremely lackluster sponsored ads performance",
+   "key_numbers": ["20–25% не сделали ни одного тапа", "60–65% ушли за 15 с"],
+   "summary_ru": "За три тестовые кампании 20–25% из ~1500 игроков с рекламы не прошли даже первый шаг (один тап), 60–65% ушли до 15-секундной цели туториала. На живых серверах автор видел в основном стоящих или автокликающих аватаров и считает, что заметная часть спонсорского трафика похожа на ботов.",
+   "summary_en": "Across three test campaigns, 20–25% of ~1,500 ad-acquired players never passed the first step (a single tap) and 60–65% left before a 15-second tutorial goal. On live servers the author mostly saw idle or auto-clicking avatars and concludes a large share of sponsored traffic looks like bots.",
+   "why_ru": "Сигнал о качестве платного трафика — противовес официальному ROAS.",
+   "tags": ["ads", "metrics"], "confidence": "self-reported"
+  },
+  {
+   "id": "devforum:4920507", "source": "devforum", "author": "MedigiTV", "author_kind": "developer", "date": "2026-10-07",
+   "url": "https://devforum.roblox.com/t/my-game-feedback-on-first-impressions-why-ads-arent-growing-highly-engaged-players/4920507",
+   "title": "Feedback on first impressions & why ads aren't growing Highly Engaged Players",
+   "key_numbers": ["$9.48 → 1 HEU из 250", "CTR 0,7%", "порог 100 HEU с ноября?"],
+   "summary_ru": "Чтобы открыть аудитории Kids/Select, нужно 250 «Highly Engaged Players». Кампания за $9,48 (56K показов, CTR 0,7%) дала 1 из 250; другой разработчик за $100 получил 135. По словам участника, в ноябре порог снизят до 100, альтернатива — ускоренная проверка за 50K Robux.",
+   "summary_en": "Unlocking Kids/Select audiences requires 250 Highly Engaged Players. A $9.48 campaign (56K impressions, 0.7% CTR) moved the counter to 1/250; another dev got 135 for $100. A commenter says the threshold drops to 100 in November; the alternative is a 50K-Robux expedited review.",
+   "why_ru": "Реальная цена входа новой игры в детскую аудиторию; изменение правил стоит проверить.",
+   "tags": ["ads", "discovery"], "confidence": "community-claim"
+  },
+  {
+   "id": "devforum:4917693", "source": "devforum", "author": "derpylol10", "author_kind": "developer", "date": "2026-10-06",
+   "url": "https://devforum.roblox.com/t/my-game-died-what-went-wrong/4917693",
+   "title": "My Game Died — What Went Wrong?",
+   "key_numbers": ["пик 230 CCU", "~1,7K Robux за всё время"],
+   "summary_ru": "Первая игра автора (обби) на пике собрала 230 CCU, но за всё время заработала ~1,7K Robux, а аудитория пришла в основном из Филиппин. В ответе описана типичная схема: главная тестирует игру органикой, видит слабое удержание и перекрывает трафик; если всё веселье бесплатно за пару минут, платить незачем.",
+   "summary_en": "The author's first obby peaked at 230 CCU yet earned only ~1.7K Robux in total, with most players from the Philippines. The reply describes the usual pattern: Home tests a game on organic traffic, sees weak retention and cuts traffic; if all the fun is free within minutes, nobody pays.",
+   "why_ru": "Пик CCU ничего не значит без удержания, монетизации и платёжеспособного гео.",
+   "tags": ["story", "metrics", "monetization"], "confidence": "self-reported"
+  },
+  {
+   "id": "devforum:4903858", "source": "devforum", "author": "Sproons", "author_kind": "developer", "date": "2026-09-29",
+   "url": "https://devforum.roblox.com/t/whens-the-algo-finally-gonna-pick-up-my-game/4903858",
+   "title": "When's the algo finally gonna pick up my game?",
+   "key_numbers": ["5K Robux на рекламу", "~3K Robux вернулось", "CTR 3,9%"],
+   "summary_ru": "Пятидневная кампания на 5K Robux подняла хоррор-игру со 100 до 1,7K визитов; вернулось ~3K Robux, хотя рекламе аналитика приписывает только ~700 — больше тратят друзья пришедших игроков. Рекомендаций на главной при этом было ноль.",
+   "summary_en": "A 5-day, 5K-Robux campaign took a horror game from 100 to 1.7K visits; ~3K Robux came back, though analytics attribute only ~700 to the ad — friends of acquired players spent more. It still got zero Home recommendations.",
+   "why_ru": "Окупаемость маленькой кампании и пример, что реклама не гарантирует главную.",
+   "tags": ["ads", "discovery", "revenue"], "confidence": "self-reported"
+  },
+  {
+   "id": "devforum:4930122", "source": "devforum", "author": "Roblox staff", "author_kind": "staff", "date": "2026-10-12",
+   "url": "https://devforum.roblox.com/t/improved-discovery-measurement-in-creator-analytics/4930122",
+   "title": "Improved Discovery Measurement in Creator Analytics",
+   "key_numbers": ["с 12.10 новая база метрик"],
+   "summary_ru": "С 12 октября показы, клики и заходы с главной, поиска и чартов считаются по новому конвейеру: счётчики вырастут, PTR немного снизится у всех игр, ранжирование не меняется. Сравнивать периоды до и после этой даты напрямую нельзя. Разработчики замечают, что игры с высоким PTR, но слабым удержанием больше не рекомендуются.",
+   "summary_en": "From 12 Oct, Home/Search/Charts impressions, clicks and plays are measured by a new pipeline: counts go up, PTR dips slightly for every game, ranking is unchanged. Periods before and after are not like-for-like. Developers note that high-PTR, low-retention games no longer get recommended.",
+   "why_ru": "Меняет базу метрик discovery у всех игр — учитывать при сравнении периодов.",
+   "tags": ["platform", "discovery", "metrics"], "confidence": "official"
+  },
+  {
+   "id": "devforum:4896423", "source": "devforum", "author": "Lihttdev", "author_kind": "developer", "date": "2026-09-26",
+   "url": "https://devforum.roblox.com/t/bad-monetization/4896423",
+   "title": "Bad Monetization?",
+   "key_numbers": ["~500 CCU", "магазин скрыт до ребёрта"],
+   "summary_ru": "Игра с ~500 CCU зарабатывает намного меньше аналогов: разработчик спрятал все платные товары до первого ребёрта, «чтобы не перегружать экран». Советы: показывать геймпассы с самого начала, добавить лимитированные предметы и подписки, убрать «ИИ-шное» оформление, подрывающее доверие.",
+   "summary_en": "A ~500-CCU game earns far less than peers because the dev hid every paid product until the first rebirth 'to reduce clutter'. Advice: show gamepasses from the start, add time-limited items and subscriptions, drop the AI-looking presentation that hurts trust.",
+   "why_ru": "Живой пример, как UX магазина убивает ARPU при нормальном онлайне.",
+   "tags": ["monetization", "metrics"], "confidence": "self-reported"
+  },
+  {
+   "id": "devforum:4897538", "source": "devforum", "author": "iiSmallTV (King Studios)", "author_kind": "studio", "date": "2026-09-27",
+   "url": "https://devforum.roblox.com/t/robloxgamestats-free-live-player-counts-history-and-revenue-estimates-for-20000-experiences/4897538",
+   "title": "RobloxGameStats: live player counts, history and revenue estimates for 20,000+ experiences",
+   "key_numbers": ["20K+ игр", "CCU каждые 5 мин"],
+   "summary_ru": "Основатель студии запустил бесплатный трекер по 20K+ играм с историей CCU и сессий. Модель оценки дохода описана открыто: CCU за 30 дней × средняя сессия × жанровые коэффициенты трат, откалиброванные по публичным цифрам разработчиков. Слабее всего она для новых игр.",
+   "summary_en": "A studio founder launched a free tracker for 20K+ experiences with CCU and session history. The revenue model is public: 30-day CCU × average session × genre spend rates, calibrated on numbers developers shared. It is weakest for new games.",
+   "why_ru": "Готовая методика оценки выручки по жанрам и потенциальный источник данных для отчёта.",
+   "tags": ["revenue", "metrics", "tool"], "confidence": "self-reported"
+  }
+ ]
+}

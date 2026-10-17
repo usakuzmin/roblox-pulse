@@ -4,11 +4,12 @@
 //   data/meta.json               placeId -> universe, genre, creator, dates
 import {
   getGameList, getExploreSorts, placeToUniverse, getUniverseDetails,
-  readJSON, writeJSON, ymd, pool, metaFromDetails, sleep,
+  readJSON, writeJSON, ymd, pool, metaFromDetails, sleep, refreshHistoryCache, rolimonsLimit,
 } from './lib.mjs';
 
 const MIN_PLAYERS = 1000;
 const MAX_NEW_MAPPINGS = 150; // placeId->universe lookups per run, to stay polite
+const HISTORY_PER_RUN = 8; // Rolimons page loads per hour (limit is ~300 per window)
 const TRACKED_SORTS = ['top-trending', 'up-and-coming', 'top-playing-now', 'top-revisited', 'fun-with-friends'];
 
 const now = new Date();
@@ -76,5 +77,23 @@ if (needDetails.length) {
   } catch (e) { console.warn('details failed:', e.message); }
 }
 writeJSON('data/meta.json', meta);
+
+// --- rotate Rolimons history cache: oldest first, for the games the report will cover
+const reportsIdx = readJSON("docs/reports/index.json", []);
+const lastReport = reportsIdx.length ? readJSON(`docs/reports/${reportsIdx.at(-1).date}/data.json`, null) : null;
+const wanted = new Set(games.slice(0, 150).map(g => g.pid));
+for (const g of lastReport?.games || []) wanted.add(g.pid);
+for (const id of ["up-and-coming", "top-trending"]) for (const pid of Object.keys(sortsDay.sorts[id]?.games || {})) {
+  if ((games.find(g => g.pid === pid)?.players || 0) >= 500) wanted.add(pid);
+}
+const fetchedAt = pid => readJSON(`data/history/${pid}.json`, {}).fetched || "";
+const queue = [...wanted].map(pid => [pid, fetchedAt(pid)]).sort((a, b) => a[1].localeCompare(b[1])).slice(0, HISTORY_PER_RUN);
+let hist = 0;
+for (const [pid] of queue) {
+  try { if (await refreshHistoryCache(pid, { attempts: 1 })) hist++; } catch (e) { console.warn("history", pid, e.message); break; }
+  if (rolimonsLimit.remaining !== null && rolimonsLimit.remaining < 20) break;
+  await sleep(4000);
+}
+console.log(`history cache: refreshed ${hist}/${queue.length}, ${wanted.size} games wanted`);
 
 console.log(`hour ${day} ${hour}:00 UTC — total online ${hourly.total[hour]}, mapped ${mapped} new, details ${needDetails.length}`);

@@ -53,14 +53,15 @@ export async function getGameList() {
 // Pages are rate limited (X-RateLimit-* headers, ~300 per window, plus a burst limit),
 // so on 429 we back off for a minute or two instead of hammering.
 export const rolimonsLimit = { remaining: null, reset: null };
-export async function getRolimonsHistory(placeId) {
-  for (let attempt = 0; attempt < 3; attempt++) {
+export async function getRolimonsHistory(placeId, { attempts = 3 } = {}) {
+  for (let attempt = 0; attempt < attempts; attempt++) {
     const res = await fetch(`https://www.rolimons.com/game/${placeId}`, {
       headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(30000),
     });
     rolimonsLimit.remaining = Number(res.headers.get('x-ratelimit-remaining') ?? NaN);
     rolimonsLimit.reset = Number(res.headers.get('x-ratelimit-reset') ?? NaN);
     if (res.status === 429) {
+      if (attempt === attempts - 1) break;
       const wait = 60e3 * (attempt + 1);
       console.warn(`rolimons 429 on ${placeId}, waiting ${wait / 1000}s`);
       await sleep(wait);
@@ -120,4 +121,54 @@ export function metaFromDetails(g, prev = {}) {
     fav: g.favoritedCount,
     seen: new Date().toISOString().slice(0, 10),
   };
+}
+
+// ---------- history cache: data/history/<placeId>.json
+// { pid, fetched, start (unix, hour-aligned), hourly: [players per hour], playtime, likeRatio, fav }
+// The hourly collector refreshes a few games per run so the report never needs a burst of page loads.
+export const H = 3600;
+export const CACHE_DAYS = 35;
+
+export function hourlyFromHistory(hist, start, hours) {
+  const sum = Array(hours).fill(0), cnt = Array(hours).fill(0);
+  hist.timestamps.forEach((t, i) => {
+    const k = Math.floor((t - start) / H);
+    if (k < 0 || k >= hours) return;
+    sum[k] += hist.players[i]; cnt[k]++;
+  });
+  return sum.map((s, k) => cnt[k] ? Math.round(s / cnt[k]) : null);
+}
+
+export async function refreshHistoryCache(pid, opts) {
+  const hist = await getRolimonsHistory(pid, opts);
+  if (!hist) return null;
+  const end = Math.floor(Date.now() / 1000 / H) * H;
+  const start = end - CACHE_DAYS * 24 * H;
+  const up = hist.upvotes?.at(-1), down = hist.downvotes?.at(-1);
+  const entry = {
+    pid, fetched: new Date().toISOString(), start,
+    hourly: hourlyFromHistory(hist, start, CACHE_DAYS * 24),
+    playtime: hist.avg_playtime?.at(-1) ?? null,
+    likeRatio: up ? up / (up + (down || 0)) : null,
+    fav: hist.favorites?.at(-1) ?? null,
+  };
+  writeJSON(`data/history/${pid}.json`, entry);
+  return entry;
+}
+
+// Our own hourly snapshots (data/hourly/*.json) for one game, keyed by unix hour.
+export function ownHourly(days) {
+  const out = {}; // pid -> { unixHour: players }
+  const today = Date.now();
+  for (let d = 0; d <= days; d++) {
+    const day = ymd(new Date(today - d * 86400e3));
+    const f = readJSON(`data/hourly/${day}.json`, null);
+    if (!f) continue;
+    const base = Date.parse(day + 'T00:00:00Z') / 1000;
+    for (const [pid, arr] of Object.entries(f.games)) {
+      const o = (out[pid] ||= {});
+      arr.forEach((v, h) => { if (v !== null) o[base + h * H] = v; });
+    }
+  }
+  return out;
 }

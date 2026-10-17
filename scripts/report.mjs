@@ -3,14 +3,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {
-  ROOT, getGameList, getRolimonsHistory, rolimonsLimit, placeToUniverse, getUniverseDetails,
-  readJSON, writeJSON, ymd, sleep, metaFromDetails,
+  ROOT, getGameList, rolimonsLimit, placeToUniverse, getUniverseDetails,
+  readJSON, writeJSON, ymd, sleep, metaFromDetails, refreshHistoryCache, ownHourly, H,
 } from './lib.mjs';
 
 const TOP_N = 150;            // leading games by current online
 const EXTRA_FROM_SORTS = 40;  // plus games Roblox is pushing in Trending / Up-and-Coming
 const DAYS = 30;
-const H = 3600;
 const DELAY_MS = Number(process.env.ROLIMONS_DELAY_MS || 4000);
 
 const now = new Date();
@@ -61,54 +60,54 @@ if (needDetails.length) {
 }
 writeJSON('data/meta.json', meta);
 
-// ---------- 3. history
+// ---------- 3. history: cache (refreshed hourly by the collector) + our own hourly snapshots
 const end = Math.floor(now / 1000 / H) * H;   // align to the hour
 const start = end - DAYS * 24 * H;
+const HOURS = DAYS * 24;
+const own = ownHourly(DAYS + 1);
 const games = [];
-let failed = 0;
-let done = 0, limitHits = 0;
+let failed = 0, fetched = 0, limitHits = 0, stopLive = false;
+let budget = Number(process.env.LIVE_FETCH_BUDGET ?? 120);
+const mean = a => a.reduce((s, x) => s + x, 0) / (a.length || 1);
 for (const pid of selected) {
-  if (++done % 20 === 0) console.log(`history ${done}/${selected.size}`);
-  let hist = null;
-  try { hist = await getRolimonsHistory(pid); } catch (e) {
-    console.warn('history', pid, e.message);
-    if (e.rateLimited && ++limitHits >= 3) { console.warn('rate limit persists, stopping history fetch'); break; }
+  let c = readJSON(`data/history/${pid}.json`, null);
+  const ageH = c ? (now - Date.parse(c.fetched)) / 3.6e6 : Infinity;
+  if (ageH > 36 && budget > 0 && !stopLive) {
+    try { c = (await refreshHistoryCache(pid)) || c; budget--; fetched++; } catch (e) {
+      console.warn("history", pid, e.message);
+      if (e.rateLimited && ++limitHits >= 2) { console.warn("rate limited, using cache only"); stopLive = true; }
+    }
+    if (rolimonsLimit.remaining !== null && rolimonsLimit.remaining < 5) stopLive = true;
+    if (fetched % 20 === 0 && fetched) console.log(`live history fetched: ${fetched}`);
+    await sleep(DELAY_MS);
   }
-  if (rolimonsLimit.remaining !== null && rolimonsLimit.remaining < 5) { console.warn('rate limit nearly exhausted, stopping'); break; }
-  await sleep(DELAY_MS);
-  if (!hist) { failed++; continue; }
-  const hourly = Array(DAYS * 24).fill(null), cnt = Array(DAYS * 24).fill(0);
-  hist.timestamps.forEach((t, i) => {
-    if (t < start || t >= end) return;
-    const k = Math.floor((t - start) / H);
-    hourly[k] = (hourly[k] || 0) + hist.players[i]; cnt[k]++;
+  if (!c) { failed++; continue; }
+  // Rolimons 10-min averages where cached; our hourly snapshot for hours after the cache was taken
+  const hourly = Array.from({ length: HOURS }, (_, k) => {
+    const t = start + k * H, ci = (t - c.start) / H;
+    return c.hourly[ci] ?? own[pid]?.[t] ?? null;
   });
-  for (let k = 0; k < hourly.length; k++) if (cnt[k]) hourly[k] = Math.round(hourly[k] / cnt[k]);
-  // fill short gaps by carrying the previous value
-  for (let k = 1; k < hourly.length; k++) if (hourly[k] === null && hourly[k - 1] !== null) hourly[k] = hourly[k - 1];
-  for (let k = 0; k < hourly.length; k++) hourly[k] ??= 0;
-  const mean = a => a.reduce((s, x) => s + x, 0) / (a.length || 1);
+  for (let k = 1; k < HOURS; k++) if (hourly[k] === null && hourly[k - 1] !== null) hourly[k] = hourly[k - 1];
+  for (let k = 0; k < HOURS; k++) hourly[k] ??= 0;
   const daily = Array.from({ length: DAYS }, (_, d) => Math.round(mean(hourly.slice(d * 24, d * 24 + 24))));
-  const avg3 = mean(hourly.slice(-72)), prev3 = mean(hourly.slice(-144, -72));
+  // compare with the same 72 hours one week earlier: Roblox online swings ~2x between weekdays and weekends
+  const avg3 = mean(hourly.slice(-72)), prev3 = mean(hourly.slice(-240, -168));
   const peak = Math.max(...hourly);
   const m = meta[pid] || {};
-  const lastFav = hist.favorites?.at(-1), lastUp = hist.upvotes?.at(-1), lastDown = hist.downvotes?.at(-1);
   games.push({
     pid, u: m.u, name: byPid[pid]?.name || m.name, icon: byPid[pid]?.icon,
-    genre: m.g1 || 'Не указан', sub: m.g2 || null, creator: m.creator, created: m.created, updated: m.updated,
+    genre: m.g1 || "Не указан", sub: m.g2 || null, creator: m.creator, created: m.created, updated: m.updated,
     now: byPid[pid]?.players ?? hourly.at(-1),
     avg3: Math.round(avg3), prev3: Math.round(prev3),
     change3: prev3 > 0 ? avg3 / prev3 - 1 : null,
     avg30: Math.round(mean(hourly)), peak30: peak,
     fromPeak: peak > 0 ? avg3 / peak - 1 : null,
-    playtime: hist.avg_playtime?.at(-1) ?? null,
-    likeRatio: lastUp ? lastUp / (lastUp + (lastDown || 0)) : null,
-    fav: lastFav ?? m.fav,
+    playtime: c.playtime, likeRatio: c.likeRatio, fav: c.fav ?? m.fav,
     daily,
     hourly7: hourly.slice(-168),
   });
 }
-console.log(`history: ${games.length} ok, ${failed} failed`);
+console.log(`history: ${games.length} games (${fetched} fetched live), ${failed} without data`);
 if (games.length < 20) throw new Error('Too few histories fetched — is Rolimons blocking us?');
 
 games.sort((a, b) => b.avg3 - a.avg3);
@@ -175,12 +174,12 @@ const share = n => Math.round(list.slice(0, n).reduce((s, g) => s + g.players, 0
 // ---------- 5. headline facts (used when there is no hand-written commentary)
 const fmt = n => n >= 1e6 ? (n / 1e6).toFixed(2).replace(/\.?0+$/, '') + ' млн' : n >= 1e3 ? Math.round(n / 1e3) + ' тыс.' : String(n);
 const facts = [];
-facts.push(`Суммарный онлайн ${games.length} крупнейших игр за последние 3 дня — в среднем ${fmt(Math.round(sumAvg3))} (${sumAvg3 >= sumPrev3 ? '+' : ''}${pct(sumAvg3 / sumPrev3 - 1)}% к предыдущим 3 дням).`);
-facts.push(`Лидер — «${leaders[0].name}»: ${fmt(leaders[0].avg3)} игроков в среднем, ${leaders[0].change3 >= 0 ? '+' : ''}${leaders[0].change3}% за 3 дня.`);
-if (risers[0]) facts.push(`Самый быстрый рост — «${risers[0].name}» (${risers[0].genre}): +${risers[0].change3}% за 3 дня, сейчас ${fmt(risers[0].now)}.`);
-if (fallers[0]) facts.push(`Сильнее всех просела «${fallers[0].name}»: ${fallers[0].change3}% за 3 дня, ${fallers[0].fromPeak}% от 30-дневного пика.`);
+facts.push(`Суммарный онлайн ${games.length} крупнейших игр за последние 3 дня — в среднем ${fmt(Math.round(sumAvg3))}, ${sumAvg3 >= sumPrev3 ? "+" : ""}${pct(sumAvg3 / sumPrev3 - 1)}% к тем же дням неделю назад.`);
+facts.push(`Лидер — «${leaders[0].name}»: ${fmt(leaders[0].avg3)} игроков в среднем, ${leaders[0].change3 >= 0 ? '+' : ''}${leaders[0].change3}% за неделю.`);
+if (risers[0]) facts.push(`Самый быстрый рост — «${risers[0].name}» (${risers[0].genre}): +${risers[0].change3}% за неделю, сейчас ${fmt(risers[0].now)}.`);
+if (fallers[0]) facts.push(`Сильнее всех просела «${fallers[0].name}»: ${fallers[0].change3}% за неделю, ${fallers[0].fromPeak}% от 30-дневного пика.`);
 const gUp = genres.filter(g => g.avg3 > sumAvg3 * 0.02 && g.change3 !== null).sort((a, b) => b.change3 - a.change3);
-if (gUp.length) facts.push(`Жанр-победитель периода — ${gUp[0].genre} (${gUp[0].change3 >= 0 ? '+' : ''}${gUp[0].change3}%), аутсайдер — ${gUp.at(-1).genre} (${gUp.at(-1).change3}%).`);
+if (gUp.length) facts.push(`Лучшая динамика среди жанров — ${gUp[0].genre} (${gUp[0].change3 >= 0 ? "+" : ""}${gUp[0].change3}% за неделю), худшая — ${gUp.at(-1).genre} (${gUp.at(-1).change3}%).`);
 facts.push(`Топ-10 игр собирают ${share(10)}% всего онлайна из ${list.length} отслеживаемых игр.`);
 
 const data = {
@@ -193,7 +192,7 @@ const data = {
     dailyTotal, dayLabels,
   },
   facts, leaders, risers, fallers, newHits, pushed, genres, distribution,
-  games: games.map(g => ({ pid: g.pid, name: g.name, genre: g.genre, avg3: g.avg3, change3: pct(g.change3) })),
+  games: games.map(g => ({ pid: g.pid, name: g.name, genre: g.genre, avg3: g.avg3, prev3: g.prev3, change3: pct(g.change3), daily: g.daily })),
 };
 writeJSON(`docs/reports/${date}/data.json`, data);
 

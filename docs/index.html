@@ -103,6 +103,20 @@ td .g { color: var(--muted); font-size: 12px; }
 .method li { margin: 4px 0; }
 .empty { color: var(--muted); font-size: 14px; }
 footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
+.insights { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+@media (max-width: 400px) { .insights { grid-template-columns: 1fr; } }
+.insight { display: flex; flex-direction: column; gap: 8px; }
+.insight h3 { font-size: 15px; line-height: 1.3; margin: 0; }
+.insight h3 a { color: var(--ink); text-decoration: none; }
+.insight h3 a:hover { text-decoration: underline; }
+.insight .src { color: var(--muted); font-size: 12px; }
+.insight .nums { display: flex; flex-wrap: wrap; gap: 6px; }
+.insight .nums span { background: var(--accent-wash); border-radius: 6px; padding: 2px 8px; font-size: 13px; font-weight: 600; }
+.insight p { margin: 0; font-size: 14px; }
+.insight .why { color: var(--ink-2); font-size: 13px; border-left: 2px solid var(--axis); padding-left: 8px; }
+.insight details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
+.insight details p { margin-top: 6px; color: var(--ink-2); }
+.conf { font-size: 11px; color: var(--ink-2); }
 </style>
 </head>
 <body>
@@ -237,6 +251,23 @@ function gameTable(rows, cols) {
   return `<div class="table-scroll"><table><thead><tr>${cols.map(c => `<th class="${c.num ? 'num' : ''}">${c.h}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr>${cols.map(c => `<td class="${c.num ? 'num' : ''}">${c.v(r)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
 }
 
+const KIND = { developer: "разработчик", studio: "студия", staff: "Roblox", analyst: "аналитик" };
+const CONF = { official: "официальные данные", "self-reported": "данные автора", "community-claim": "со слов участников" };
+const SRC = { devforum: "DevForum", reddit: "Reddit", hackernews: "Hacker News", rss: "Рассылка", youtube: "YouTube", medium: "Medium" };
+function insightsHtml(ins) {
+  if (!ins?.items?.length) return "";
+  return `<h2>Инсайды разработчиков</h2><p class="hint">${esc(ins.headline_ru || "Что разработчики рассказывают о деньгах, метриках и продвижении.")}</p>
+    <div class="insights">${ins.items.map(i => `<article class="card insight">
+      <div class="src">${esc(SRC[i.source] || i.source)} · ${esc(i.author || "")}${i.author_kind ? " (" + esc(KIND[i.author_kind] || i.author_kind) + ")" : ""} · ${i.date ? dmy(i.date.slice(0, 10)) : ""}</div>
+      <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+      ${i.key_numbers?.length ? `<div class="nums">${i.key_numbers.map(n => `<span>${esc(n)}</span>`).join("")}</div>` : ""}
+      <p>${esc(i.summary_ru)}</p>
+      ${i.why_ru ? `<div class="why">${esc(i.why_ru)}</div>` : ""}
+      <details><summary>English original summary</summary><p lang="en">${esc(i.summary_en)}</p></details>
+      ${i.confidence ? `<div class="conf">Достоверность: ${esc(CONF[i.confidence] || i.confidence)}</div>` : ""}
+    </article>`).join("")}</div>`;
+}
+
 function render(d, summary) {
   const T = d.totals;
   const dayShort = l => new Date(l + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' });
@@ -247,7 +278,7 @@ function render(d, summary) {
     <section class="card summary">${summaryHtml}</section>
     <div class="tiles">
       <div class="card tile"><div class="label">Онлайн сейчас, все отслеживаемые игры</div><div class="value">${compact(T.online)}</div><div class="delta flat">${nf.format(T.online)} игроков</div></div>
-      <div class="card tile"><div class="label">Средний онлайн топ-игр, 3 дня</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} к прошлым 3 дням</div></div>
+      <div class="card tile"><div class="label">Средний онлайн топ-игр, 3 дня</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} к тем же дням неделю назад</div></div>
       <div class="card tile"><div class="label">Доля топ-10 игр в онлайне</div><div class="value">${String(T.top10Share).replace('.', ',')}%</div><div class="delta flat">топ-100: ${String(T.top100Share).replace('.', ',')}%</div></div>
       <div class="card tile"><div class="label">Игр с онлайном 10K+</div><div class="value">${T.over10k}</div><div class="delta flat">1K+: ${nf.format(T.over1k)}</div></div>
     </div>
@@ -255,7 +286,7 @@ function render(d, summary) {
     <h2>Общий онлайн за 30 дней</h2><p class="hint">Сумма среднесуточного онлайна крупнейших игр выпуска.</p>
     <div class="card"><div id="c-total"></div></div>
 
-    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну за 3 дня. Линия — среднесуточный онлайн за 30 дней.</p>
+    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну за 3 дня; процент — к тем же дням неделю назад. Линия — среднесуточный онлайн за 30 дней.</p>
     <div class="grid-cards">${d.leaders.map(g => `
       <div class="card leader">
         <div class="head"><span class="rank">#${g.rank}</span>${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<div style="min-width:0"><div class="name"><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(g.name)}</a></div><div class="meta">${esc(genreName(g.genre))}${g.prevRank ? ` · было #${g.prevRank}` : d.prevDate ? ' · новичок топа' : ''}</div></div></div>
@@ -268,16 +299,16 @@ function render(d, summary) {
     <h2>Лидеры по часам, 7 дней</h2><p class="hint">Топ-6 — видно суточные циклы и всплески от обновлений.</p>
     <div class="card"><div id="c-leaders"></div></div>
 
-    <h2>Набирают популярность</h2><p class="hint">Рост среднего онлайна за 3 дня к предыдущим 3 дням (игры от 3K онлайна).</p>
+    <h2>Набирают популярность</h2><p class="hint">Средний онлайн за последние 3 дня против тех же дней неделю назад — так не мешают выходные. Игры от 3K онлайна.</p>
     <div class="card">${gameTable(d.risers, [
       { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26) },
-      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'Рост', num: 1, v: g => delta(g.change3) },
+      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За неделю', num: 1, v: g => delta(g.change3) },
     ])}</div>
 
-    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна за 3 дня (игры, у которых было от 5K) и сколько осталось от 30-дневного пика.</p>
+    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна к тем же дням неделю назад (игры, у которых было от 5K) и сколько осталось от 30-дневного пика.</p>
     <div class="card">${gameTable(d.fallers, [
       { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26, 'var(--down)') },
-      { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За 3 дня', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
+      { h: 'Ср. 3 дня', num: 1, v: g => compact(g.avg3) }, { h: 'За неделю', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
     ])}</div>
 
     <div class="two" style="margin-top:0">
@@ -291,7 +322,9 @@ function render(d, summary) {
       ])}`).join('<div style="height:16px"></div>')}</div></div>
     </div>
 
-    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение за 3 дня.</p>
+    ${insightsHtml(window.__insights)}
+
+    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение к тем же дням неделю назад.</p>
     <div class="two">
       <div class="card bars" id="c-genres"></div>
       <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Доля жанра в онлайне по дням, топ-6 жанров, %</div><div id="c-genre-share"></div></div>
@@ -306,7 +339,7 @@ function render(d, summary) {
     <h2>Методология</h2>
     <div class="card method"><ul>
       <li>«Онлайн сейчас» — срез Rolimons по ${nf.format(d.source.games)} играм на момент сборки отчёта.</li>
-      <li>История — 10-минутные точки Rolimons за 30 дней, усреднённые по часам; «средний за 3 дня» — среднее за последние 72 часа.</li>
+      <li>История — 10-минутные точки Rolimons за 30 дней, усреднённые по часам и дополненные собственными почасовыми срезами; «средний за 3 дня» — среднее за последние 72 часа; изменения считаются к тем же 72 часам неделю назад, потому что онлайн Roblox по выходным почти вдвое выше, чем в будни.</li>
       <li>В выборку входят топ-150 игр по онлайну, игры из прошлого выпуска и игры из разделов Up-and-Coming / Top Trending.</li>
       <li>Жанры — официальная классификация Roblox (genre_l1 / genre_l2).</li>
       <li>Сформировано ${new Date(d.generatedAt).toLocaleString('ru-RU', { timeZone: 'UTC' })} UTC.</li>
@@ -324,7 +357,7 @@ function render(d, summary) {
   });
 
   const gmax = Math.max(...d.genres.map(g => g.share));
-  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">3 дня</span></div>` +
+  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">Неделя</span></div>` +
     d.genres.filter(g => g.share >= 0.5).map(g => `<div class="row" title="${esc(genreName(g.genre))}: ${nf.format(g.avg3)} игроков, ${g.games} игр, лидер — ${esc(g.top)}">
       <span class="label">${esc(genreName(g.genre))}</span>
       <span class="track"><div class="fill" style="width:${g.share / gmax * 100}%"></div><span style="position:absolute;left:calc(${g.share / gmax * 100}% + 6px);top:-3px;font-size:12px;color:var(--ink-2)">${String(g.share).replace('.', ',')}%</span></span>
@@ -344,11 +377,12 @@ function render(d, summary) {
 }
 
 async function load(date) {
-  const [data, summary] = await Promise.all([
+  const [data, summary, insights] = await Promise.all([
     fetch(`reports/${date}/data.json`).then(r => r.json()),
     fetch(`reports/${date}/summary.md`).then(r => r.ok ? r.text() : null).catch(() => null),
+    fetch(`reports/${date}/insights.json`).then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
-  window.__data = data; window.__summary = summary;
+  window.__data = data; window.__summary = summary; window.__insights = insights;
   render(data, summary);
 }
 
