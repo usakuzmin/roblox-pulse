@@ -1,20 +1,20 @@
 [
  {
   "date": "2026-10-17",
-  "period": "daily",
-  "online": 10965388,
-  "avg3": 5872408,
-  "change3": 2.9,
-  "leader": "Steal An Egg",
-  "headline": "Самый быстрый рост — «Vanguards: 2nd Anniversary» (Strategy): +222.5% к тому же дню неделю назад, сейчас 66 тыс.."
- },
- {
-  "date": "2026-10-17",
   "period": "weekly",
   "online": 10965388,
   "avg3": 5888978,
   "change3": 2.3,
   "leader": "Steal An Egg",
   "headline": "Самый быстрый рост — «Firefighting Sim 🚒» (Simulation): +303.3% к предыдущей неделе, сейчас 16 тыс.."
+ },
+ {
+  "date": "2026-10-17",
+  "period": "daily",
+  "online": 10597303,
+  "avg3": 6383148,
+  "change3": 5,
+  "leader": "Steal An Egg",
+  "headline": "Самый быстрый рост — «Vanguards: 2nd Anniversary» (Strategy): +238.7% к тому же дню неделю назад, сейчас 66 тыс."
  }
 ]
