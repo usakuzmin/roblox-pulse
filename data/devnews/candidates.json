@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-10-17T18:50:37.472Z",
+  "generated_at": "2026-10-18T01:02:21.676Z",
   "from_files": [
-    "2026-10-17.json"
+    "2026-10-17.json",
+    "2026-10-18.json"
   ],
   "items": [
     {
@@ -50,6 +51,26 @@
         "views": 188
       },
       "first_seen": "2026-10-17T03:28:18.206Z"
+    },
+    {
+      "id": "reddit:t3_1x8kj8o",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8kj8o/question_about_my_game_and_advertising/",
+      "author": "Numerous-Indication4",
+      "date": "2026-10-17T20:36:06.000Z",
+      "title": "Question about my game and advertising",
+      "excerpt_en": "So I made this game recently, it started off rough when it was 16+. I spent lots of USD on robux and converted the robux into ad credits cause I didn't know u could buy ad credits with USD at the time so I wasted a lot of money. Spent roughly 40 ad credits to get all 250 engaged…",
+      "score": 25,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T01:02:21.610Z"
     },
     {
       "id": "devforum:4932602",
@@ -301,24 +322,6 @@
         "replies": 4,
         "views": 1421
       },
-      "first_seen": "2026-10-17T03:28:18.206Z"
-    },
-    {
-      "id": "reddit:t3_1x4z3pk",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x4z3pk/roblox_ads_results/",
-      "author": "Beginning_Cap3965",
-      "date": "2026-10-13T15:05:38.000Z",
-      "title": "Roblox Ads results !",
-      "excerpt_en": "• It's my first game ad campaign's result which I did in first quarter of 2025. • I had spent 3k robux which I earned through Microsoft redeem. • Now I'm going to make new games but don't have robux to spend on ads. - My main question is : Now a days how many impression do games…",
-      "score": 16,
-      "tags": [
-        "revenue",
-        "ads",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
       "first_seen": "2026-10-17T03:28:18.206Z"
     }
   ]

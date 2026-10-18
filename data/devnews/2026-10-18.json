@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-10-18T01:02:21.610Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 110446
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 31398
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 3927
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 344
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 264
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1x8kj8o",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8kj8o/question_about_my_game_and_advertising/",
+      "author": "Numerous-Indication4",
+      "date": "2026-10-17T20:36:06.000Z",
+      "title": "Question about my game and advertising",
+      "excerpt_en": "So I made this game recently, it started off rough when it was 16+. I spent lots of USD on robux and converted the robux into ad credits cause I didn't know u could buy ad credits with USD at the time so I wasted a lot of money. Spent roughly 40 ad credits to get all 250 engaged…",
+      "score": 25,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "devforum:4940992",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992",
+      "author": "FATALE_N1",
+      "date": "2026-10-17T22:28:19.402Z",
+      "title": "Aperture - add doors and windows to existing Part walls, no unions [Paid Plugin]",
+      "excerpt_en": "Hi everyone, I make Aperture, a Studio plugin that cuts rectangular door, window and hatch openings into existing anchored Block Part walls, without CSG or unions. The result stays ordinary Parts you can keep editing. Real-time recording: a door, then two windows (one CUT each)…",
+      "score": 11.2,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 4,
+        "views": 78
+      },
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "devforum:4940772",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-feedbackcritics-as-to-why-stats-are-tanking-right-now/4940772",
+      "author": "Serrattor",
+      "date": "2026-10-17T20:17:47.947Z",
+      "title": "Need feedback/critics as to why stats are tanking right now",
+      "excerpt_en": "Recently released a project, “The Bizzare Spirits” previously named Valscape (just 2 days ago) It is released on a past version of the game using similar content just in a simulator version This one is more rpg-focused serious version The past version had amazing stats on RPG…",
+      "score": 6.3,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 24
+      },
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "devforum:4927003",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/accurate-2016-roblox-materials/4927003",
+      "author": "nebulimity",
+      "date": "2026-10-11T04:46:53.994Z",
+      "title": "Accurate 2016 Roblox Materials",
+      "excerpt_en": "Preview 1920×1279 218 KB What is this? I wanted the legacy 2016 materials but with actually accurate PBR, so I ripped the original textures from the December 2016 client and converted them into MaterialVariants. The weird part though was that Roblox’s old textures aren’t normal…",
+      "score": 5.8,
+      "tags": [],
+      "engagement": {
+        "likes": 26,
+        "replies": 5,
+        "views": 376
+      },
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x8ppb1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ppb1/do_you_believe_that_any_kind_of_game_can_be/",
+      "author": "huntoir",
+      "date": "2026-10-18T00:35:35.000Z",
+      "title": "Do you believe that any kind of game can be successful on Roblox?",
+      "excerpt_en": "Do you believe any type of game can find success on Roblox? I've always thought if your game was good enough it will naturally find an audience. Sure maybe you need a little jumpstart with ads, but build it and they will come. The last month I've been working on a strategy card…",
+      "score": 5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x8mn54",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8mn54/optimizations_on_bullet_heaven_survivorlike/",
+      "author": "CookieBend",
+      "date": "2026-10-17T22:08:38.000Z",
+      "title": "Optimizations on Bullet Heaven Survivorlike",
+      "excerpt_en": "TL;DR - Data Oriented Design = good. MicroProfiler = good. Custom replication (if you need it) = good. Lots of active physics objects = bad. Using PathfindingService to create lots of Paths every frame = very bad. I enjoy building things and the prototype of mine that I keep…",
+      "score": 5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x8htfq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
+      "author": "Quirky-Sorbet-2254",
+      "date": "2026-10-17T18:42:43.000Z",
+      "title": "Animated Cat Controller",
+      "excerpt_en": "I’ve created a cat controller for Roblox, with seven playable cats and a movement system built around their animations. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-18T01:02:21.610Z"
+    }
+  ]
+}
