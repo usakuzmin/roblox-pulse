@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-18T01:02:21.610Z",
+  "generated_at": "2026-10-18T07:00:48.530Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 110446
+      "ms": 121839
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31398
+      "ms": 91725
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 3927
+      "ms": 4418
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 344
+      "ms": 162
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 264
+      "ms": 8148
     }
   },
   "items": [
@@ -50,6 +50,23 @@
       "first_seen": "2026-10-18T01:02:21.610Z"
     },
     {
+      "id": "reddit:t3_1x8t42i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8t42i/weird_home_recommendation_behavior_and_bar_graph/",
+      "author": "Greedy-Pea-5637",
+      "date": "2026-10-18T03:36:55.000Z",
+      "title": "Weird Home Recommendation Behavior And Bar Graph Not Showing",
+      "excerpt_en": "So I've got two questions. One is a question regarding the bar / slider bars for the analytics. I released my game exactly one month ago, but I've still got the default overview tab that hasn't updated into the slider bar style or the up and down bars. I don't know why it hasn't…",
+      "score": 14,
+      "tags": [
+        "ads",
+        "discovery",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
       "id": "devforum:4940992",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992",
@@ -70,6 +87,22 @@
       "first_seen": "2026-10-18T01:02:21.610Z"
     },
     {
+      "id": "reddit:t3_1x8vkpv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8vkpv/hot_take_16_age_restriction_for_publishing_games/",
+      "author": "Extra-Associate-2935",
+      "date": "2026-10-18T05:59:18.000Z",
+      "title": "HOT TAKE: 16+ age restriction for publishing games may be a blessing in disguise",
+      "excerpt_en": "Yes you heard that right. \"BS\", you may say, but hear me out. Recently I launched my game, paid the 50k expedited fee to get it out to players of all ages, and launched an ad campaign. The ad campaign performed decently, around 4.7% CTR with 200k+ impressions. However, most of…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
       "id": "devforum:4940772",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/need-feedbackcritics-as-to-why-stats-are-tanking-right-now/4940772",
@@ -87,6 +120,21 @@
         "views": 24
       },
       "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x8t3f0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8t3f0/looking_for_24_other_beginner_devs_interested_in/",
+      "author": "ballsackdoctor12",
+      "date": "2026-10-18T03:35:55.000Z",
+      "title": "Looking for 2-4 other beginner devs interested in making a basic simulator/\"slop\" game as a first project",
+      "excerpt_en": "I've recently been wanting to get back into developing recently, however to stay motivated its very helpful to have other people to work on a project on. You can know the basics, or have absolutely zero idea what youre doing, what matters is showing up and trying to help out. If…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
     },
     {
       "id": "devforum:4927003",
@@ -136,6 +184,36 @@
       "first_seen": "2026-10-18T01:02:21.610Z"
     },
     {
+      "id": "reddit:t3_1x8uws3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8uws3/feedback_save_chickenity_coop_chickenvszooanimals/",
+      "author": "EggBig9638",
+      "date": "2026-10-18T05:19:35.000Z",
+      "title": "[Feedback] Save Chickenity!!! – co-op chicken-vs-zoo-animals wave shooter",
+      "excerpt_en": "So, im an indie dev and i've been working on this game for a while and it's finally in a state where I want outside opinions before I start spending money on ads. I would really love if yall can give feedback in any way possible. https://www.roblox.com/games/109573433314673 also…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
+      "id": "reddit:t3_1x8u74w",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8u74w/need_suggestions_on_a_name_for_my_upcoming_roblox/",
+      "author": "Itchy_Camel3702",
+      "date": "2026-10-18T04:38:18.000Z",
+      "title": "Need suggestions on a name for my upcoming Roblox game:",
+      "excerpt_en": "I’m currently developing a new Roblox game and starting a YouTube series around its creation. Before I lock in creating the actual game, logo designs, and thumbnail assets, I’d love to get some honest feedback on the title The game combines AFK speed training , loot-based…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
       "id": "reddit:t3_1x8htfq",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
@@ -147,6 +225,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x8ovlp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ovlp/sukuna_vs_mahoraga_fight/",
+      "author": "grimriper43345",
+      "date": "2026-10-17T23:55:03.000Z",
+      "title": "Sukuna Vs Mahoraga fight",
+      "excerpt_en": "Yo! I'm working on this right now, not sure if this gameplay seems fun or a bit too flashy. Always thought PvP games like JJS were cool but making something a bit more PVE and procedural seemed like an unexplored avenue. Might turn this into an RPG game? Not sure on general…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
+      "id": "reddit:t3_1x8trww",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8trww/does_anyone_else_feel_guilty_for_using_ai/",
+      "author": "SalmonMan1101",
+      "date": "2026-10-18T04:13:43.000Z",
+      "title": "Does anyone else feel guilty for using AI?",
+      "excerpt_en": "I made this game as a passion project, and most of the ideas are original, but im going to be honest, ai coded like A LOT of it. I used claude max 5x. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-18T07:00:48.530Z"
     }
   ]
 }
