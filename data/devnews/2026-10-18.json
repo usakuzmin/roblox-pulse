@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-18T12:56:55.819Z",
+  "generated_at": "2026-10-18T18:51:52.802Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 143301
+      "ms": 136423
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91208
+      "ms": 91284
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 2784
+      "ms": 3252
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 299
+      "ms": 185
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 622
+      "ms": 210
     }
   },
   "items": [
@@ -50,6 +50,28 @@
       "first_seen": "2026-10-18T01:02:21.610Z"
     },
     {
+      "id": "devforum:4942423",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423",
+      "author": "heni06amg",
+      "date": "2026-10-18T15:36:54.941Z",
+      "title": "Home Recommendation impressions stuck at ~45% of previous level for 5 weeks, despite recovered signals (Universe 9150731899)",
+      "excerpt_en": "Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back to (or better than) the level we had…",
+      "score": 20.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 29
+      },
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
       "id": "reddit:t3_1x8t42i",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8t42i/weird_home_recommendation_behavior_and_bar_graph/",
@@ -65,6 +87,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-18T07:00:48.530Z"
+    },
+    {
+      "id": "reddit:t3_1x9ap6p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9ap6p/stacklings_how_do_you_market_a_roblox_game_thats/",
+      "author": "Sea_Construction8478",
+      "date": "2026-10-18T18:37:00.000Z",
+      "title": "(Stacklings) How do you market a Roblox game that's fun to play but not fun to watch?",
+      "excerpt_en": "I've been developing a game called Stacklings , a mix of Tetris and tower defense where you stack blocks containing defenders to survive waves of enemies. I've been consistently updating it, and the feedback and retention have been improving with each update. I'm pretty happy…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T18:51:52.802Z"
     },
     {
       "id": "devforum:4940992",
@@ -85,6 +124,76 @@
         "views": 78
       },
       "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1x9aau7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9aau7/looking_for_a_team_for_a_social_deduction_horror/",
+      "author": "Grand-West8990",
+      "date": "2026-10-18T18:20:53.000Z",
+      "title": "Looking for a team for a social deduction horror game (Mansion, 6-8 players) - scripters, builders, UI designers",
+      "excerpt_en": "Hey everyone, I'm building a social deduction horror game called Het Diner (working title). It's set in a creepy mansion where a host NPC lets everyone in. Each player gets a random job (cook, plumber, electrician, archivist, gardener), and every night at 3 AM they run task…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
+      "id": "devforum:4942138",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/devex-tax-french-minor-without-a-tin/4942138",
+      "author": "TesterNonsense",
+      "date": "2026-10-18T13:10:29.120Z",
+      "title": "DevEx Tax french minor without a TIN",
+      "excerpt_en": "Hello! I’m a 15 year old Roblox developer and a French tax resident, i’m trying to complete the new DevEx tax documentation before October 31st but I don’t have a french tax identification number (TIN) because I’ve never filed a tax return. Has anyone from France, particularly…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 54
+      },
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
+      "id": "reddit:t3_1x4phdw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x4phdw/honest_thoughts_about_my_game/",
+      "author": "Many-Detective5026",
+      "date": "2026-10-13T06:38:44.000Z",
+      "title": "Honest thoughts about my game?",
+      "excerpt_en": "So far it's been a week and coming up on 100 spent on ads. The results aren't great. I've made practically 0 of it back, no consistent CCU, day 1 retention is like 4% and average playtime like 6 minutes (doesn't look like it's going to hit the algorithm anytime soon). I'm not…",
+      "score": 10,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
+      "id": "devforum:4942514",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514",
+      "author": "iborgesdev",
+      "date": "2026-10-18T16:13:27.055Z",
+      "title": "Roblox Insights — How to Compare Performance, Errors, and Retention After an Update",
+      "excerpt_en": "Roblox Insights — How to Compare Performance, Errors, and Retention After an Update Hi everyone! I created Roblox Insights to collect experience data into reports we can read, share with a team, or give to an AI assistant to help investigate our code. In this tutorial, I will…",
+      "score": 9.8,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 37
+      },
+      "first_seen": "2026-10-18T18:51:52.802Z"
     },
     {
       "id": "reddit:t3_1x8vkpv",
@@ -214,6 +323,38 @@
       "first_seen": "2026-10-18T07:00:48.530Z"
     },
     {
+      "id": "reddit:t3_1x9akgq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9akgq/heliwars_desert_revamped/",
+      "author": "EerieGameStudios",
+      "date": "2026-10-18T18:31:35.000Z",
+      "title": "Heli-Wars: Desert REVAMPED",
+      "excerpt_en": "Hi! I am currently working on a Heli-Wars: Desert Attack reboot. It is called, Heli-Wars: Desert REVAMPED. The issue I am facing is that my ad campaign is only pulling one person at a time. Due to this, they leave before a second person joins since its empty, causing no proper…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
+      "id": "devforum:4937791",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-plugin-voice-lab-preview-roblox-tts-voices-customize-effects-and-export-lua/4937791",
+      "author": "WaeGeez",
+      "date": "2026-10-16T14:47:11.606Z",
+      "title": "[Free Plugin] Voice Lab | Preview Roblox TTS voices, customize effects and export Lua",
+      "excerpt_en": "Hi everyone! I started experimenting with Roblox’s live text-to-speech for a horror game. The idea was to have an enemy respond to players, but first I needed to find a voice and effects combination that suited the character. I wanted to type a line, switch between Roblox’s…",
+      "score": 4.3,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 3,
+        "views": 152
+      },
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
       "id": "reddit:t3_1x8htfq",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
@@ -277,6 +418,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-18T12:56:55.819Z"
+    },
+    {
+      "id": "reddit:t3_1x6roeo",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x6roeo/i_make_a_game_d/",
+      "author": "Serious-Animal3958",
+      "date": "2026-10-15T17:18:37.000Z",
+      "title": "I make a game :D",
+      "excerpt_en": "is this worth to continue ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-18T18:51:52.802Z"
     }
   ]
 }

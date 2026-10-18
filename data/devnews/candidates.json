@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:56:55.884Z",
+  "generated_at": "2026-10-18T18:51:52.874Z",
   "from_files": [
     "2026-10-17.json",
     "2026-10-18.json"
@@ -182,6 +182,28 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "devforum:4942423",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423",
+      "author": "heni06amg",
+      "date": "2026-10-18T15:36:54.941Z",
+      "title": "Home Recommendation impressions stuck at ~45% of previous level for 5 weeks, despite recovered signals (Universe 9150731899)",
+      "excerpt_en": "Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back to (or better than) the level we had…",
+      "score": 20.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 29
+      },
+      "first_seen": "2026-10-18T18:51:52.802Z"
+    },
+    {
       "id": "devforum:4897541",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/i-made-a-site-that-tracks-player-counts-and-estimates-revenue-for-roblox-experiences-looking-for-feedback/4897541",
@@ -301,27 +323,6 @@
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-17T03:28:18.206Z"
-    },
-    {
-      "id": "devforum:4898562",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/my-game-build-whatever-4k-ccu-locked-with-no-notice-no-violation-record-and-no-support-resolution/4898562",
-      "author": "usestarcode_realwert",
-      "date": "2026-09-27T03:30:47.286Z",
-      "title": "My game (Build whatever) 4K+ CCU Locked with No Notice, No Violation Record, and No Support Resolution",
-      "excerpt_en": "My Roblox experience became completely unplayable on September 26, 2026. Creator Hub currently displays the following enforcement state: “Game unplayable. This game was removed for violating Roblox policies.” However, there is no corresponding moderation record available to me…",
-      "score": 17.1,
-      "tags": [
-        "revenue",
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 91,
-        "replies": 4,
-        "views": 1421
-      },
       "first_seen": "2026-10-17T03:28:18.206Z"
     }
   ]
