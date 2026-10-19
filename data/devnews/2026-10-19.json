@@ -1,34 +1,69 @@
 {
-  "generated_at": "2026-10-19T07:11:24.488Z",
+  "generated_at": "2026-10-19T13:06:43.010Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 112226
+      "ms": 132208
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31257
+      "ms": 91525
     },
     "rss": {
       "ok": true,
       "fetched": 8,
-      "ms": 3285
+      "ms": 3815
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 116
+      "ms": 196
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 244
+      "ms": 357
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1x9sxhs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9sxhs/stuck_at_29250_highly_engaged_players_for_kids/",
+      "author": "Prudent-Walk2394",
+      "date": "2026-10-19T10:09:34.000Z",
+      "title": "Stuck at 29/250 Highly Engaged Players for Kids & Select — how did you get past it?",
+      "excerpt_en": "I launched my simulator game about 2 weeks ago. It’s still in the 16+ only phase, and I’m at 29/250 highly engaged players. I spent $40 on Roblox Ads, but it barely moved the count. Current stats (last 7 days): DAU: ~19 Avg session: 11.2 min (genre benchmark 13–31 min) D1…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
+    },
+    {
+      "id": "reddit:t3_1x9w1kh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9w1kh/revshare_looking_for_roblox_devs_scripters/",
+      "author": "Losti_san",
+      "date": "2026-10-19T12:50:59.000Z",
+      "title": "​[RevShare] Looking for Roblox Devs (Scripters, Builders, UI) to team up, share ideas, and make cool games together!",
+      "excerpt_en": "Hey everyone! ​I’m Losti, a Roblox dev, and I'm forming a collaborative team of developers (Scripters, Builders, UI Designers, 3D Artists, Animators) to prototype, test, and release fun Roblox games together. ​💡 How we will work together: ​Flat structure: We work as equals…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "marketing",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
+    },
     {
       "id": "reddit:t3_1x9nzao",
       "source": "reddit",
@@ -76,6 +111,39 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x9tdut",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9tdut/need_help_on_how_i_should_advertise/",
+      "author": "Legitimate_Diver_239",
+      "date": "2026-10-19T10:36:00.000Z",
+      "title": "Need help on how I should advertise.",
+      "excerpt_en": "Im about to finish my Roblox game and I need help using ads. I heard you should run 2 ads for engagement and one for plays but I’m not sure. Can anyone give me tips? My budget is $60. ",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
+    },
+    {
+      "id": "reddit:t3_1x9sz6b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9sz6b/game_isnt_spiking_like_everyone_said/",
+      "author": "YogurtclosetSea6850",
+      "date": "2026-10-19T10:12:20.000Z",
+      "title": "Game isn’t “spiking” like everyone said",
+      "excerpt_en": "I’m on ads for the past 3 days. I’ve seen these post about a sudden spike in traffic of a few hundred CCU. Some games fall off afterwards but for some this is the life changing moment. I’m yet to see that happen for my game, it’s been a consistent 3-12 CCU all the time since I…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
     },
     {
       "id": "devforum:4936437",
@@ -214,6 +282,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x9rdl4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9rdl4/scratch_on_roblox_running_paper_minecraft/",
+      "author": "Late_Ad_7350",
+      "date": "2026-10-19T08:32:33.000Z",
+      "title": "Scratch on Roblox running Paper Minecraft",
+      "excerpt_en": "Hey everyone, This is a video displaying how optimized Scratch Roblox is. It has been a couple of months, and the game gets daily optimization fixes and more accuracy from Scratch. This is still in beta, so if you experience lag or crashes, you can report them as soon as…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
+    },
+    {
+      "id": "reddit:t3_1x8qgud",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8qgud/first_thumnail_ever_made_in_roblox_studio_thoughts/",
+      "author": "Far_Independence7635",
+      "date": "2026-10-18T01:14:41.000Z",
+      "title": "FIRST THUMNAIL EVER - Made in Roblox Studio, thoughts?",
+      "excerpt_en": "These are four thumbnails I made in Roblox studio for my FIRST ever Roblox game that I will publish, each with slight variations in the camera location and angle. Do yall think these are decent thumbnails that would be clicked on? Which one do yall think has the best angle?…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T13:06:43.010Z"
     }
   ]
 }
