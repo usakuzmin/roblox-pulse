@@ -1,34 +1,51 @@
 {
-  "generated_at": "2026-10-19T13:06:43.010Z",
+  "generated_at": "2026-10-19T19:03:40.390Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 132208
+      "ms": 133566
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91525
+      "ms": 91673
     },
     "rss": {
       "ok": true,
-      "fetched": 8,
-      "ms": 3815
+      "fetched": 7,
+      "ms": 26353
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 196
+      "ms": 263
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 357
+      "ms": 278
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xa5a4d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa5a4d/is_it_possible_to_earn_5_000_a_month_from_a_500/",
+      "author": "Svainers",
+      "date": "2026-10-19T18:44:38.000Z",
+      "title": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization?",
+      "excerpt_en": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization? ",
+      "score": 21,
+      "tags": [
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T19:03:40.390Z"
+    },
     {
       "id": "reddit:t3_1x9sxhs",
       "source": "reddit",
@@ -63,6 +80,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T13:06:43.010Z"
+    },
+    {
+      "id": "devforum:4944537",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-devex-request-was-declined-due-to-name-discrepancy-and-roblox-doesnt-reply/4944537",
+      "author": "filleshh",
+      "date": "2026-10-19T18:04:44.309Z",
+      "title": "My Devex request was declined due to name discrepancy and roblox doesnt reply",
+      "excerpt_en": "My request was rejected due to an automated name discrepancy check because my sponsor details were updated to a family members legal information (Because im underage). I have been trying to get a manual review and ID verification link since late September, but my tickets remain…",
+      "score": 12.5,
+      "tags": [
+        "revenue",
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 7
+      },
+      "first_seen": "2026-10-19T19:03:40.390Z"
     },
     {
       "id": "reddit:t3_1x9nzao",
@@ -146,6 +183,27 @@
       "first_seen": "2026-10-19T13:06:43.010Z"
     },
     {
+      "id": "devforum:4944221",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/game-was-stolen-and-roblox-support-is-useless/4944221",
+      "author": "v1sinz",
+      "date": "2026-10-19T14:32:46.489Z",
+      "title": "Game was stolen and roblox support is useless",
+      "excerpt_en": "This is my first post on here, sorry if i seem stupid, but my game, Project Scrape was stolen after some scammers got ahold of my entire pc. I have fully wiped my pc, and attempted to contact Roblox support, 11 different times, each time was not helpful at all. The game was…",
+      "score": 8.9,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 4,
+        "views": 55
+      },
+      "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
       "id": "devforum:4936437",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/a-proper-way-to-generate-dungeons/4936437",
@@ -179,6 +237,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "devforum:4931861",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/angara-siberia-upcoming-large-scale-environment/4931861",
+      "author": "sa_w1",
+      "date": "2026-10-13T13:49:12.552Z",
+      "title": "Angara, Siberia - Upcoming large-scale environment",
+      "excerpt_en": "Currently working on Angara, Siberia , a large-scale, highly detailed and realistic environment featuring vast wilderness, dense forests, natural foliage, a road and railway network spanning the entire map, and realistic trails winding through the landscape. At the heart of it…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 3,
+        "views": 121
+      },
+      "first_seen": "2026-10-19T19:03:40.390Z"
     },
     {
       "id": "devforum:4942940",
@@ -230,6 +305,25 @@
         "views": 33
       },
       "first_seen": "2026-10-19T01:03:24.040Z"
+    },
+    {
+      "id": "devforum:4944421",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421",
+      "author": "BitwiseAndrea",
+      "date": "2026-10-19T16:46:03.217Z",
+      "title": "In-Game Editable Image Publishing",
+      "excerpt_en": "Hi Creators We’re excited to announce some updates to our In-Game Asset Creation system! What’s Changing? API Method Rename : We have renamed the previous prompt publish asset method to AssetService:PromptCreatePlatformContentAsync , and updated it to take in an Object instead…",
+      "score": 3.1,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 65,
+        "replies": 20,
+        "views": 748
+      },
+      "first_seen": "2026-10-19T19:03:40.390Z"
     },
     {
       "id": "reddit:t3_1x993ji",
@@ -308,6 +402,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-19T13:06:43.010Z"
+    },
+    {
+      "id": "reddit:t3_1x9sb50",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9sb50/two_angelic_and_demonic_pickaxe_concepts_i/",
+      "author": "RobinOrNot",
+      "date": "2026-10-19T09:30:40.000Z",
+      "title": "Two angelic and demonic pickaxe concepts I designed for a Roblox game!",
+      "excerpt_en": "I made these two pickaxe concepts for a Roblox game project! I wanted to explore the contrast between angelic and demonic designs, so I went with wings, halos, and eyes for the details. They're just concept sketches and haven't been implemented in the game, but I thought I'd…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
+      "id": "reddit:t3_1x7w1w9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x7w1w9/isle_of_rogues_some_development_progress/",
+      "author": "Melodic-Sundae3403",
+      "date": "2026-10-17T00:04:37.000Z",
+      "title": "ISLE OF ROGUES - Some development progress.",
+      "excerpt_en": "https://preview.redd.it/1frc1yo95xvh1.png?width=1317&format=png&auto=webp&s=eb8b4e2c3833659d96cb6750841fc6bcff7ed1ea https://preview.redd.it/m9xw6zo95xvh1.png?width=1307&format=png&auto=webp&s=ac5db86322d2b0e0a92fa23796faffc41baf4661 https…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
+      "id": "reddit:t3_1x6x38j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x6x38j/i_try_to_make_a_game_about_saving_a_hostage_like/",
+      "author": "PurplePyro13",
+      "date": "2026-10-15T20:45:03.000Z",
+      "title": "I try to make a game about saving a hostage (Like counter strike) and i decide to add this funny image i found but i don't want my game to be ban for copyright so can you guys find the original artist of this?",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T19:03:40.390Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:06:43.081Z",
+  "generated_at": "2026-10-19T19:03:40.448Z",
   "from_files": [
     "2026-10-17.json",
     "2026-10-18.json",
@@ -183,6 +183,23 @@
       "first_seen": "2026-10-17T03:28:18.206Z"
     },
     {
+      "id": "reddit:t3_1xa5a4d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa5a4d/is_it_possible_to_earn_5_000_a_month_from_a_500/",
+      "author": "Svainers",
+      "date": "2026-10-19T18:44:38.000Z",
+      "title": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization?",
+      "excerpt_en": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization? ",
+      "score": 21,
+      "tags": [
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
       "id": "devforum:4942423",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423",
@@ -302,25 +319,6 @@
         "metrics",
         "ads",
         "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-17T03:28:18.206Z"
-    },
-    {
-      "id": "mobilegamer:https://mobilegamer.biz/?p=49951",
-      "source": "mobilegamer",
-      "url": "https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/",
-      "author": "Vikki Blake",
-      "date": "2026-10-14T09:41:05.000Z",
-      "title": "Data digest: Flow gets $46m, Spill lands $10.5m, Scopely Explore tops US growth charts, more",
-      "excerpt_en": "Every Wednesday we break down the latest data, research and financial results into digestible chunks. Read on for the numbers you need to know about without the fluff. This column is sponsored by Xsolla , which can help you to create a seamless online store where web purchases…",
-      "score": 18,
-      "tags": [
-        "analyst",
-        "revenue",
-        "ads",
-        "studio",
         "numbers"
       ],
       "engagement": {},
