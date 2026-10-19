@@ -1,34 +1,134 @@
 {
-  "generated_at": "2026-10-19T01:03:24.040Z",
+  "generated_at": "2026-10-19T07:11:24.488Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 105266
+      "ms": 112226
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31304
+      "ms": 31257
     },
     "rss": {
       "ok": true,
-      "fetched": 7,
-      "ms": 4170
+      "fetched": 8,
+      "ms": 3285
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 84
+      "ms": 116
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 251
+      "ms": 244
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1x9nzao",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9nzao/shipped_my_first_game_wingsuit_base_jumping_the/",
+      "author": "Suspicious_Swan4988",
+      "date": "2026-10-19T05:01:48.000Z",
+      "title": "Shipped my first game (wingsuit / BASE jumping) — the first-60-seconds problem is real. What actually worked for you?",
+      "excerpt_en": "Solo dev here. I just shipped EXIT POINT, a wingsuit / BASE jumping game: spawn on a summit, dive a valley and a city, proximity-score your lines, race ghost times. The world is mostly baked (towns, trees, horizon) with runtime-built pieces on top, and the flight model is custom…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x9dqho",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9dqho/am_i_ready_to_do_thumbnail_comms_for_devs/",
+      "author": "Medium_System2027",
+      "date": "2026-10-18T20:38:00.000Z",
+      "title": "Am I ready to do thumbnail Comms for devs?",
+      "excerpt_en": "Also wahat can i improve? Im doing art on a new platform its kinda iffy but any advice for what i can do with this art piece and anything forward would be nice! ",
+      "score": 9,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x9hkzm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9hkzm/is_it_truly_worth_it_anymore/",
+      "author": "CRsnumber1hater",
+      "date": "2026-10-18T23:28:58.000Z",
+      "title": "Is it truly worth it anymore?",
+      "excerpt_en": "Bit of a depressing title, but hear what I have to say. So, I've been playing Roblox for close to 10 years now. I've made multiple shots at making games and always fell short often due to a lack of motivation or frustration at not magically being able to script like a god after…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "devforum:4936437",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/a-proper-way-to-generate-dungeons/4936437",
+      "author": "01Polecat",
+      "date": "2026-10-15T20:20:33.565Z",
+      "title": "A proper way to generate \"dungeons\"?",
+      "excerpt_en": "So, I’ve been busy with a procedurally generated Backrooms game. I’ve gotten a way down on how rooms get generated in my game. I’m thinking of including biomes, slopes/staircases up and down as cores of the room/dungeon generation. The steps go as followed! It generates a set of…",
+      "score": 8.3,
+      "tags": [
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 66
+      },
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x9kv6q",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9kv6q/popularity_of_some_games_is_beyond_my/",
+      "author": "Old-Guarantee-365",
+      "date": "2026-10-19T02:11:53.000Z",
+      "title": "Popularity of some games is beyond my understanding.",
+      "excerpt_en": "Hello, can anyone explain how the game like Murder Mystery 2 constantly has 400k+ players? The game was released in 2014, the UI is so bad and messed up and seems like never updated since then, the game is just teleporting you to the lobby and back to a small very primitive…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "devforum:4942940",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/plugin-pathstudio-roads-rivers-and-props-from-one-spline/4942940",
+      "author": "Nartheos",
+      "date": "2026-10-18T19:41:05.259Z",
+      "title": "[Plugin] PathStudio: Roads, Rivers and Props from One Spline",
+      "excerpt_en": "Hello all, After Terrain Studio, the thing I got asked about (and kept wanting myself) was better roads. Laying a road in Roblox usually means chaining wedges and parts by hand, nudging each one so the seams line up, then sculpting the terrain around it, then going back and…",
+      "score": 4.3,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "views": 94
+      },
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
     {
       "id": "devforum:4930023",
       "source": "devforum",
@@ -88,6 +188,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-19T01:03:24.040Z"
+    },
+    {
+      "id": "reddit:t3_1x9iw5p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9iw5p/been_working_on_this_place_since_2024/",
+      "author": "Mountain-Mulberry139",
+      "date": "2026-10-19T00:32:19.000Z",
+      "title": "Been working on this place since 2024",
+      "excerpt_en": "I started building this city back in may 2024 when I had almost no idea how to even make anything in roblox. I learned along the way and now have a decent sized map. Some parts of the map were made recently and show more skill, and other parts are older and more bleak. I'm…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1x53bpg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x53bpg/why_do_posts_here_get_absolutely_no_votes/",
+      "author": "CorrectJacket2106",
+      "date": "2026-10-13T17:41:33.000Z",
+      "title": "Why do posts here get absolutely no votes comments and etc?",
+      "excerpt_en": "Legit there are 53k weekly visitors and what only 10 actually reacts to posts? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
     }
   ]
 }
