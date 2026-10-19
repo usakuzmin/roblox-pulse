@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-10-19T01:03:24.040Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 105266
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 31304
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 4170
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 84
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 1,
+      "ms": 251
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4930023",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/the-conveyor-rollers-arent-rotating/4930023",
+      "author": "W1a4kh727",
+      "date": "2026-10-12T15:44:07.756Z",
+      "title": "The Conveyor rollers aren't rotating",
+      "excerpt_en": "I tried making a conveyor using a HingeConstraint, but the rollers aren’t rotating. What could be the issue? IMG_4926 1358×905 385 KB Here is the model file for the conveyor. The script is in ServerScriptService. I need your help!! Conveyor.rbxl (78.7 KB)",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 3,
+        "views": 113
+      },
+      "first_seen": "2026-10-19T01:03:24.040Z"
+    },
+    {
+      "id": "devforum:4941961",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-new-animation-pack/4941961",
+      "author": "9mozi",
+      "date": "2026-10-18T11:14:08.462Z",
+      "title": "Feedback on my new animation pack",
+      "excerpt_en": "I just finished making my new animation pack I was inspired by the character N from Murder Drones. I tried to capture his personality through these animations. I hope it turned out well.",
+      "score": 3.4,
+      "tags": [],
+      "engagement": {
+        "likes": 2,
+        "replies": 2,
+        "views": 33
+      },
+      "first_seen": "2026-10-19T01:03:24.040Z"
+    },
+    {
+      "id": "reddit:t3_1x993ji",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x993ji/ps5_on_roblox_remake/",
+      "author": "Late_Ad_7350",
+      "date": "2026-10-18T17:33:34.000Z",
+      "title": "PS5 on Roblox (Remake)",
+      "excerpt_en": "Hi everyone, This is the PS5 remade on Roblox; it's still in beta, and you can see it has most of the accurate icons on it. It doesn't show everything because some parts are still unfinished, so I can't even show y'all it. It has some features that the PS5 doesn't have; it's…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T01:03:24.040Z"
+    },
+    {
+      "id": "reddit:t3_1x45i66",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x45i66/made_a_roblox_game_where_your_weapons_are_actual/",
+      "author": "MathWarsDev",
+      "date": "2026-10-12T15:51:52.000Z",
+      "title": "made a roblox game where your weapons are actual math equations",
+      "excerpt_en": "built this 2d party game inspired by classic graphwar. instead of aiming with a crosshair, you type in actual math equations like f(x) = 20sin(0.029x) to curve rockets over obstacles and hit players. making 10yo me proud by finally shipping an actual roblox game lol. dropping…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-19T01:03:24.040Z"
+    }
+  ]
+}
