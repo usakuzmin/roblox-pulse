@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-20T13:06:13.873Z",
+  "generated_at": "2026-10-20T19:01:15.720Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 112644
+      "ms": 115128
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91153
+      "ms": 91804
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 3696
+      "ms": 3445
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 123
+      "ms": 343
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 237
+      "ms": 301
     }
   },
   "items": [
@@ -82,6 +82,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T01:06:19.640Z"
+    },
+    {
+      "id": "reddit:t3_1xasptr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
+      "author": "Sensitive-Cap-3362",
+      "date": "2026-10-20T13:51:37.000Z",
+      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
+      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
     },
     {
       "id": "devforum:4943365",
@@ -198,6 +215,51 @@
       "first_seen": "2026-10-20T13:06:13.873Z"
     },
     {
+      "id": "reddit:t3_1xat95b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xat95b/how_i_made_traps_that_stay_in_sync_for_every/",
+      "author": "WaveRunnerDev",
+      "date": "2026-10-20T14:13:24.000Z",
+      "title": "How I made traps that stay in sync for every player in my Roblox obby (spinners, lasers, falling tiles + a chasing wave)",
+      "excerpt_en": "Solo dev here. I just finished a trap track for my speed game and wanted to share how I built it, plus get feedback on the design. How it works: - All trap animations (spinners, lasers, falling tiles) run on the client, but they're driven by workspace:GetServerTimeNow(), so…",
+      "score": 8,
+      "tags": [
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
+      "id": "reddit:t3_1xaxjo6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxjo6/looking_for_scripture_or_i_could_work_as_a/",
+      "author": "Individual_Duck2620",
+      "date": "2026-10-20T16:56:19.000Z",
+      "title": "Looking for scripture or i could work as a builder in your game",
+      "excerpt_en": "Heyy I've been developing in roblox for like a good few months now and I've got decent experience in developing. Right now I haven't got any games or anything to work on i was looking for someone who can code/use claude wtv idm. If you haven't got any game ideas lmk i have a few…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
+      "id": "reddit:t3_1xauoxo",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xauoxo/what_makes_a_good_game_loop/",
+      "author": "launchedfast",
+      "date": "2026-10-20T15:09:57.000Z",
+      "title": "What makes a good game loop?",
+      "excerpt_en": "Hey guys, New to Roblox development, however, I have previous programming experience. I’m trying to design/develop games that keep user retention metrics high, what features in your opinion contribute to developing a good core loop? Thanks ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
       "id": "devforum:4946043",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
@@ -236,6 +298,25 @@
       "first_seen": "2026-10-20T07:05:27.014Z"
     },
     {
+      "id": "devforum:4946893",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/50-of-players-leave-within-2-minutes/4946893",
+      "author": "Cool_lightning7",
+      "date": "2026-10-20T18:42:14.032Z",
+      "title": "50% of Players leave within 2 minutes",
+      "excerpt_en": "We released our Roblox fashion game a few months ago, and we’re currently trying to figure out why our player retention and average session length are significantly lower than we’d hoped. Right now, our average playtime consistently sits at around 5 minutes. We’ve released…",
+      "score": 5.5,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
       "id": "reddit:t3_1xab2w7",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xab2w7/is_there_an_active_playerbase_for_mmorpg/",
@@ -264,6 +345,38 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T07:05:27.014Z"
+    },
+    {
+      "id": "reddit:t3_1xaxid5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxid5/best_strat_for_ads_on_a_budget/",
+      "author": "goonmaster6942067",
+      "date": "2026-10-20T16:54:53.000Z",
+      "title": "Best strat for ads on a budget?",
+      "excerpt_en": "What is the best thing to do with ads on a budget? I got a budget of like 15k robux so i could get like 57 ad credits for my game, but from what i learnt you need like 20 ad credits a day to blow a game up and to do a like 7 day campaign, so is it even possible for me to blow…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
+      "id": "devforum:4943935",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/road-creator-new/4943935",
+      "author": "T0XIC0NIX",
+      "date": "2026-10-19T10:57:22.196Z",
+      "title": "Road Creator + [NEW]",
+      "excerpt_en": "Road Creator + an Advanced Road Creation & Customization Plugin Fully inspired by @stravant RoadHelper Plugin. Road Creator + Plugin – Please like and favorite, thank you! Create roads without limits. Build intersections, customize lane markings, and design complex road networks…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 4,
+        "views": 131
+      },
+      "first_seen": "2026-10-20T19:01:15.720Z"
     },
     {
       "id": "devforum:4945957",
@@ -314,6 +427,21 @@
       "first_seen": "2026-10-20T13:06:13.873Z"
     },
     {
+      "id": "reddit:t3_1xavdf3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xavdf3/missing_devex_payment_of_12k_usd/",
+      "author": "Afraid-Cable-9547",
+      "date": "2026-10-20T15:35:45.000Z",
+      "title": "Missing DevEx payment of 12K USD",
+      "excerpt_en": "My devex was supposedly processed on the 29th of September but I still haven't received it yet. This is weird because it's not my first devex payment (rather my fourth) and it hasn't reached at my bank at all. I noticed for this particular devex, the bank reference code in the…",
+      "score": 4,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
       "id": "reddit:t3_1xa8ln2",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa8ln2/rotanks_complete_physics_rewamp/",
@@ -351,6 +479,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-20T07:05:27.014Z"
+    },
+    {
+      "id": "reddit:t3_1xapscu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xapscu/how_to_get_an_image_to_wrap_around_a_union_like/",
+      "author": "Astromrsw",
+      "date": "2026-10-20T11:37:53.000Z",
+      "title": "How to get an image to wrap around a union like this",
+      "excerpt_en": "I found this in a game and I found it interesting, how can I get this effect on a union ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
     }
   ]
 }
