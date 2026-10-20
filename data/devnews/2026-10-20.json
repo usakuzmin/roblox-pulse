@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-20T01:06:19.640Z",
+  "generated_at": "2026-10-20T07:05:27.014Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 136673
+      "ms": 120537
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91784
+      "ms": 31297
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 4582
+      "ms": 3811
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 167
+      "ms": 369
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 276
+      "ms": 277
     }
   },
   "items": [
@@ -168,6 +168,25 @@
       "first_seen": "2026-10-20T01:06:19.640Z"
     },
     {
+      "id": "devforum:4945798",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798",
+      "author": "GreenTreeGamingYT",
+      "date": "2026-10-20T03:17:46.733Z",
+      "title": "Why does my game have so many dislikes?",
+      "excerpt_en": "Hey everyone! I recently built a new game, a build-an-empire game that follows a similar but not the same trope as other games. Many games follow this build a type of business, but I decided to buidl a version where you can build multiple different types of businesses. Game…",
+      "score": 5.6,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 5,
+        "views": 48
+      },
+      "first_seen": "2026-10-20T07:05:27.014Z"
+    },
+    {
       "id": "reddit:t3_1xab2w7",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xab2w7/is_there_an_active_playerbase_for_mmorpg/",
@@ -181,6 +200,37 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T01:06:19.640Z"
+    },
+    {
+      "id": "reddit:t3_1xaj8wg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj8wg/day_1_of_making_my_roblox_game_suggestions_please/",
+      "author": "Itchy_Camel3702",
+      "date": "2026-10-20T05:00:58.000Z",
+      "title": "Day 1 of making my roblox game, suggestions please!!",
+      "excerpt_en": "Hii everyone! I have started documenting my journey building an extraction game called 'Loot & Escape' over at V Studio Roblox . Since I don't know how to code, I tried using an AI initially, but it kept breaking. then got the baseplate working, ran into a wierd 'noob' bug, and…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T07:05:27.014Z"
+    },
+    {
+      "id": "reddit:t3_1xajfs9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajfs9/hiring_coders_for_an_rpg/",
+      "author": "dorowsyyy",
+      "date": "2026-10-20T05:11:57.000Z",
+      "title": "Hiring Coders for An RPG",
+      "excerpt_en": "Hello! I’m Syemika. I am the director of an RPG called Extermination Union. If you’ve seen my other posts, you know what Extermination Union is. But incase you haven’t, Extermination Union is a Turn-based RPG inspired by Limbus Company! Currently, we are almost a week away from…",
+      "score": 4,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T07:05:27.014Z"
     },
     {
       "id": "reddit:t3_1xa8ln2",
@@ -207,6 +257,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-20T01:06:19.640Z"
+    },
+    {
+      "id": "reddit:t3_1xahmwy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/",
+      "author": "Amfishty",
+      "date": "2026-10-20T03:33:54.000Z",
+      "title": "Scratch-style Coding Tool",
+      "excerpt_en": "Hi. This is our coding tool for our minibuilding, roleplay game. It took us several iterations but it's fairly usable now. I'm absolutely not a developer for the game, and my LUAU knowledge is AWFULL, but even than I was able to use my scratch knowledge to code a few obbies…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-20T07:05:27.014Z"
     }
   ]
 }
