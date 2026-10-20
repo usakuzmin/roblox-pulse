@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-20T07:05:27.014Z",
+  "generated_at": "2026-10-20T13:06:13.873Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 120537
+      "ms": 112644
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31297
+      "ms": 91153
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 3811
+      "ms": 3696
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 369
+      "ms": 123
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 277
+      "ms": 237
     }
   },
   "items": [
@@ -168,6 +168,55 @@
       "first_seen": "2026-10-20T01:06:19.640Z"
     },
     {
+      "id": "reddit:t3_1xaoi4e",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaoi4e/helped_deslop_a_friends_game_after_they_got/",
+      "author": "Alive-Psychology6050",
+      "date": "2026-10-20T10:27:03.000Z",
+      "title": "Helped de-slop a friend's game after they got scammed for 7K Robux by some lazy developers.",
+      "excerpt_en": "The scammers just used AI and free models . They couldn't even be bothered to make original ones , which are so easy to make, for real. Took around 8 Hours to rebuild everything from the ground up. Had fun while doing it. One thing AI will never be able to do is build. Other…",
+      "score": 8,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T13:06:13.873Z"
+    },
+    {
+      "id": "reddit:t3_1xanevq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xanevq/is_25_dollars_for_117k_impressions_super_low/",
+      "author": "Fantastic-Pay9866",
+      "date": "2026-10-20T09:20:56.000Z",
+      "title": "Is 25 dollars for 11.7k impressions super low?",
+      "excerpt_en": "I'm running engagement ads for two days now, is this low or is it just me? A few months ago on my first game I ran ads for one day with 16 dollars and got something 200k impressions... ",
+      "score": 8,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T13:06:13.873Z"
+    },
+    {
+      "id": "devforum:4946043",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
+      "author": "Ap0sentada",
+      "date": "2026-10-20T07:43:10.931Z",
+      "title": "Oklab Color Interpolation for UIGradient (and any element that accepts a colorsequence )",
+      "excerpt_en": "a53128a5afee397b 1920×348 25.6 KB This post emerges as an offshoot of the feature request. Optional Oklab Color Interpolation for UIGradient - Feature Requests / Engine Features - Developer Forum | Roblox (consider a bump!). this is a luau module that allows you to generate…",
+      "score": 5.8,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 0,
+        "views": 77
+      },
+      "first_seen": "2026-10-20T13:06:13.873Z"
+    },
+    {
       "id": "devforum:4945798",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798",
@@ -217,6 +266,23 @@
       "first_seen": "2026-10-20T07:05:27.014Z"
     },
     {
+      "id": "devforum:4945957",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957",
+      "author": "Ap0sentada",
+      "date": "2026-10-20T05:46:57.103Z",
+      "title": "Optional Oklab Color Interpolation for UIGradient",
+      "excerpt_en": "I would like to propose adding an optional color interpolation mode to UIGradient that supports the Oklab color space , alongside the existing interpolation behavior. this would allow developers to create perceptually smoother and more consistent color gradients without having…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 5,
+        "views": 57
+      },
+      "first_seen": "2026-10-20T13:06:13.873Z"
+    },
+    {
       "id": "reddit:t3_1xajfs9",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajfs9/hiring_coders_for_an_rpg/",
@@ -231,6 +297,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T07:05:27.014Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/the-first-speakers-announced-for-pg-connects-jordan-including-epic-games-roblox-and-mad-hook/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/the-first-speakers-announced-for-pg-connects-jordan-including-epic-games-roblox-and-mad-hook/",
+      "author": null,
+      "date": "2026-10-20T08:30:00.000Z",
+      "title": "The first speakers announced for PG Connects Jordan - including Epic Games, Roblox and Mad Hook",
+      "excerpt_en": "We're heading back to Jordan's capital city, Amman, for the return of Pocket Gamer Connects Jordan this November 7th and 8th. We'll deliver two days of networking and learning while celebrating one of the most exciting growth markets in the world. As well as the Connector…",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T13:06:13.873Z"
     },
     {
       "id": "reddit:t3_1xa8ln2",
