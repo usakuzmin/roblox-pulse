@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-10-21T01:06:09.023Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 128094
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 90967
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 3497
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 191
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 278
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4946987",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987",
+      "author": "Deadwoodx",
+      "date": "2026-10-20T19:45:23.413Z",
+      "title": "How to optimize a game for 40+ CCU (Players) server",
+      "excerpt_en": "こんにちは! As the world progresses, I have seen many games with over 40 players - often with lag and server crashes. But why? As we strip away the same repeated words about optimization, you may find out exactly how to do it. We use the word LSS (Large Server Sized) to define them…",
+      "score": 14.1,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 87
+      },
+      "first_seen": "2026-10-21T01:06:09.023Z"
+    },
+    {
+      "id": "reddit:t3_1x8msxr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8msxr/looking_for_feedback_on_my_strategy_card_game/",
+      "author": "Tonal_Fork",
+      "date": "2026-10-17T22:16:00.000Z",
+      "title": "Looking for Feedback on my Strategy Card Game",
+      "excerpt_en": "I want to be upfront and share that this project is vibecoded, so if that's not your thing, feel free to keep scrolling. I've spent the past few weeks working on Bridge Brawl, a real time strategy card game with over 460 unique cards to collect. It's a little like Clash Royale…",
+      "score": 6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T01:06:09.023Z"
+    },
+    {
+      "id": "reddit:t3_1xaqudx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaqudx/roblox_pixelation_filter/",
+      "author": "Bad-BackScratcha009",
+      "date": "2026-10-20T12:29:54.000Z",
+      "title": "Roblox Pixelation Filter",
+      "excerpt_en": "Hey everyone, I just wanted to showcase off this cool pixel effect that I've been working on for the past weeks. I won't get into the specifics, but I am using Image APIs along with other stuff to help bring this to life! I sadly came to the realization that there's just too…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-21T01:06:09.023Z"
+    }
+  ]
+}
