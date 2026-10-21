@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:07:35.262Z",
+  "generated_at": "2026-10-21T13:07:05.043Z",
   "from_files": [
     "2026-10-18.json",
     "2026-10-19.json",
@@ -211,6 +211,23 @@
       "first_seen": "2026-10-20T01:06:19.640Z"
     },
     {
+      "id": "reddit:t3_1xbmjtt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbmjtt/adverts_required/",
+      "author": "peoplewhoseepeople",
+      "date": "2026-10-21T13:02:14.000Z",
+      "title": "Adverts - Required?",
+      "excerpt_en": "So, used Adverts to get out of the sandbox, expected, fine, wasnt too bad. Then stopped as wanted to see the game organically. Took a few days for the Home Recommendations to pick it up, and then it went up, down, up, down etc, as changes where made to the game, responses, stats…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
       "id": "devforum:4944537",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/my-devex-request-was-declined-due-to-name-discrepancy-and-roblox-doesnt-reply/4944537",
@@ -263,23 +280,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T07:11:24.488Z"
-    },
-    {
-      "id": "reddit:t3_1xasptr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
-      "author": "Sensitive-Cap-3362",
-      "date": "2026-10-20T13:51:37.000Z",
-      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
-      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-20T19:01:15.720Z"
     }
   ]
 }

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-21T07:07:35.201Z",
+  "generated_at": "2026-10-21T13:07:04.985Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 125980
+      "ms": 129640
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31318
+      "ms": 91513
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 3709
+      "fetched": 5,
+      "ms": 3864
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 179
+      "ms": 391
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 241
+      "ms": 477
     }
   },
   "items": [
@@ -68,6 +68,23 @@
       "first_seen": "2026-10-21T01:06:09.023Z"
     },
     {
+      "id": "reddit:t3_1xbmjtt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbmjtt/adverts_required/",
+      "author": "peoplewhoseepeople",
+      "date": "2026-10-21T13:02:14.000Z",
+      "title": "Adverts - Required?",
+      "excerpt_en": "So, used Adverts to get out of the sandbox, expected, fine, wasnt too bad. Then stopped as wanted to see the game organically. Took a few days for the Home Recommendations to pick it up, and then it went up, down, up, down etc, as changes where made to the game, responses, stats…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
       "id": "reddit:t3_1xbdjcx",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbdjcx/how_do_you_escape_the_roblox_ads_nightmare/",
@@ -83,6 +100,39 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "reddit:t3_1xbi5ex",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbi5ex/made_a_game_about_pirates_would_love_any_feedback/",
+      "author": "migliochri",
+      "date": "2026-10-21T09:06:03.000Z",
+      "title": "Made a game about pirates, would love any feedback",
+      "excerpt_en": "Hello guys, this is the first game i make and actually finish and post, worked on it for around 2 months now, got a LOT of help from ai, codex, im currently running an ad campaign targeting Plays cause i tried running an Engagement campaign and i the max i got was 2 ccu and they…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
+      "author": null,
+      "date": "2026-10-21T09:15:00.000Z",
+      "title": "Norway social media ban to target Roblox, Snapchat and TikTok",
+      "excerpt_en": "Norway has revealed that its plans to ban social media for children under 16 will also target platforms including Roblox, Snapchat and TikTok. As reported by Reuters, the government is seeking to address harmful content, addictive features and unwanted contact from strangers…",
+      "score": 10,
+      "tags": [
+        "analyst",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
       "id": "reddit:t3_1x8msxr",
@@ -145,6 +195,40 @@
       "first_seen": "2026-10-21T07:07:35.201Z"
     },
     {
+      "id": "reddit:t3_1xbifda",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbifda/i_need_feedback_for_my_game/",
+      "author": "m1h1nn0",
+      "date": "2026-10-21T09:23:21.000Z",
+      "title": "I need feedback for my game!",
+      "excerpt_en": "hi, i've recently published a survival-horror game, inspired by violence district. called \"COUNT YOUR FRIEND\". the goal of the game it's to find the hidden keys, and escape from the monster. i'm arleady conscious of possible bugs, but i would be very glad to receive feedbacks…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
+      "id": "naavik:https://naavik.co/?p=34679",
+      "source": "naavik",
+      "url": "https://naavik.co/podcast/three-years-70m-no-release-date-why-investors-keep-betting-on-gardens/",
+      "author": "Kalie Moore",
+      "date": "2026-10-20T13:27:25.000Z",
+      "title": "Why Investors Keep Betting on Gardens?",
+      "excerpt_en": "Three years after raising a $31.3M Series A off a prototype shown behind closed doors at GDC, Gardens Interactive still hasn’t announced a release date. Investors just put in another $35M+ anyway. In this episode, Kalie Moore welcomes back Stephen Bell and Chris Bell , two of…",
+      "score": 4,
+      "tags": [
+        "analyst",
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
       "id": "devforum:4946445",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/abilty-to-make-public-servers-for-roblox-plus-users/4946445",
@@ -160,6 +244,23 @@
         "views": 53
       },
       "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "devforum:4946261",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/suggestion-ai-assisted-r6-to-r15-animation-conversion/4946261",
+      "author": "Velphion",
+      "date": "2026-10-20T11:41:33.804Z",
+      "title": "Suggestion: AI-Assisted R6 to R15 Animation Conversion",
+      "excerpt_en": "Suggestion: AI-Assisted R6 to R15 Animation Conversion What is your suggestion? I think it would be really useful if Roblox Studio had a built-in feature to convert R6 animations into R15 animations using AI. Roblox has been pushing R15 for quite a while now, and I understand…",
+      "score": 3.7,
+      "tags": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 2,
+        "views": 75
+      },
+      "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
       "id": "reddit:t3_1xaqudx",
