@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Roblox Pulse</title>
-<meta name="description" content="Маркетинговый отчёт по играм Roblox раз в три дня: лидеры, рост и падение онлайна, жанры.">
+<meta name="description" content="Daily, weekly and monthly marketing report on Roblox games: leaders, rising and falling games, genres.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='4' y='4' width='24' height='24' rx='5' fill='%232a78d6' transform='rotate(15 16 16)'/><rect x='13' y='13' width='6' height='6' fill='white' transform='rotate(15 16 16)'/></svg>">
 <style>
 :root {
@@ -127,32 +127,27 @@ footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
 <div class="wrap">
   <header class="top">
     <div class="brand"><span class="logo"></span>Roblox Pulse</div>
-    <nav class="tabs" id="tabs" aria-label="Тип выпуска"></nav>
+    <nav class="tabs" id="tabs" aria-label="Issue type"></nav>
     <div class="controls">
-      <label for="issue" class="sub" style="margin:0">Выпуск</label>
+      <label for="issue" class="sub" style="margin:0">Issue</label>
       <select id="issue"></select>
-      <button id="theme" title="Сменить тему">◐</button>
+      <button id="theme" title="Toggle theme">◐</button>
     </div>
   </header>
-  <main id="app"><p class="empty">Загрузка…</p></main>
-  <footer>Данные: Rolimons (история онлайна), Roblox API (жанры, разделы главной). Выпуски: ежедневно, итоги недели по понедельникам, итоги месяца 1-го числа.</footer>
+  <main id="app"><p class="empty">Loading…</p></main>
+  <footer>Data: Rolimons (player history), Roblox API (genres, home page sorts). Issues: daily, weekly roundup on Mondays, monthly roundup on the 1st.</footer>
 </div>
 <script>
 const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const nf = new Intl.NumberFormat('ru-RU');
+const nf = new Intl.NumberFormat('en-US');
 const compact = n => n == null ? '—' : n >= 1e6 ? (n / 1e6).toFixed(n >= 1e7 ? 1 : 2).replace(/[.,]?0+$/, '') + 'M' : n >= 1e3 ? (n / 1e3).toFixed(n >= 1e4 ? 0 : 1).replace(/[.,]0$/, '') + 'K' : String(Math.round(n));
-const delta = (v, suffix = '%') => v == null ? '<span class="flat">—</span>' : `<span class="${v > 0.5 ? 'up' : v < -0.5 ? 'down' : 'flat'}">${v > 0 ? '▲ +' : v < 0 ? '▼ ' : ''}${String(v).replace('.', ',')}${suffix}</span>`;
-const dmy = s => new Date(s + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', timeZone: 'UTC' });
+const delta = (v, suffix = '%') => v == null ? '<span class="flat">—</span>' : `<span class="${v > 0.5 ? 'up' : v < -0.5 ? 'down' : 'flat'}">${v > 0 ? '▲ +' : v < 0 ? '▼ ' : ''}${v}${suffix}</span>`;
+const dmy = s => new Date(s + 'T00:00:00Z').toLocaleDateString('en-US', { day: 'numeric', month: 'long', timeZone: 'UTC' });
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const SERIES = ['--s1', '--s2', '--s3', '--s4', '--s5', '--s6', '--s7', '--s8'];
-const GENRE_RU = {
-  'Action': 'Экшен', 'Adventure': 'Приключения', 'Entertainment': 'Развлечения', 'Obby & Platformer': 'Обби и платформеры',
-  'Party & Casual': 'Казуальные и пати', 'Puzzle': 'Головоломки', 'RPG': 'RPG', 'Roleplay & Avatar Sim': 'Ролевые и аватар-симы',
-  'Shooter': 'Шутеры', 'Shopping': 'Шопинг', 'Simulation': 'Симуляторы', 'Social': 'Социальные', 'Sports & Racing': 'Спорт и гонки',
-  'Strategy': 'Стратегии', 'Survival': 'Выживание', 'Utility & Other': 'Утилиты и прочее', 'Не указан': 'Не указан',
-};
-const genreName = g => GENRE_RU[g] || g;
+const GENRE_NAMES = { 'Не указан': 'Unspecified' };
+const genreName = g => GENRE_NAMES[g] || g;
 
 // ---------- theme
 const themeBtn = $('#theme');
@@ -252,131 +247,148 @@ function columns(el, items, { height = 220, label, value, tip }) {
 const gameCell = g => `<div class="gname">${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<span><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener">${esc(g.name)}</a><br><span class="g">${esc(genreName(g.genre))}${g.sub ? ' · ' + esc(g.sub) : ''}</span></span></div>`;
 
 function gameTable(rows, cols) {
-  if (!rows.length) return '<p class="empty">Нет игр, подходящих под критерий в этом выпуске.</p>';
+  if (!rows.length) return '<p class="empty">No games match the criteria in this issue.</p>';
   return `<div class="table-scroll"><table><thead><tr>${cols.map(c => `<th class="${c.num ? 'num' : ''}">${c.h}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr>${cols.map(c => `<td class="${c.num ? 'num' : ''}">${c.v(r)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
 }
 
-const KIND = { developer: "разработчик", studio: "студия", staff: "Roblox", analyst: "аналитик" };
-const CONF = { official: "официальные данные", "self-reported": "данные автора", "community-claim": "со слов участников" };
-const SRC = { devforum: "DevForum", reddit: "Reddit", hackernews: "Hacker News", rss: "Рассылка", youtube: "YouTube", medium: "Medium" };
+const KIND = { developer: "developer", studio: "studio", staff: "Roblox", analyst: "analyst" };
+const CONF = { official: "official data", "self-reported": "self-reported", "community-claim": "community claim" };
+const SRC = { devforum: "DevForum", reddit: "Reddit", hackernews: "Hacker News", rss: "Newsletter", youtube: "YouTube", medium: "Medium" };
 function insightsHtml(ins) {
   if (!ins?.items?.length) return "";
-  return `<h2>Инсайды разработчиков</h2><p class="hint">${esc(ins.headline_ru || "Что разработчики рассказывают о деньгах, метриках и продвижении.")}</p>
+  return `<h2>Developer insights</h2><p class="hint">${esc(ins.headline_en || "What developers say about monetization, metrics and promotion.")}</p>
     <div class="insights">${ins.items.map(i => `<article class="card insight">
       <div class="src">${esc(SRC[i.source] || i.source)} · ${esc(i.author || "")}${i.author_kind ? " (" + esc(KIND[i.author_kind] || i.author_kind) + ")" : ""} · ${i.date ? dmy(i.date.slice(0, 10)) : ""}</div>
       <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
       ${i.key_numbers?.length ? `<div class="nums">${i.key_numbers.map(n => `<span>${esc(n)}</span>`).join("")}</div>` : ""}
-      <p>${esc(i.summary_ru)}</p>
-      ${i.why_ru ? `<div class="why">${esc(i.why_ru)}</div>` : ""}
-      <details><summary>English original summary</summary><p lang="en">${esc(i.summary_en)}</p></details>
-      ${i.confidence ? `<div class="conf">Достоверность: ${esc(CONF[i.confidence] || i.confidence)}</div>` : ""}
+      <p>${esc(i.summary_en)}</p>
+      ${i.why_en ? `<div class="why">${esc(i.why_en)}</div>` : ""}
+      ${i.confidence ? `<div class="conf">Confidence: ${esc(CONF[i.confidence] || i.confidence)}</div>` : ""}
     </article>`).join("")}</div>`;
+}
+
+const LBLS = { daily: 'over 24 hours', weekly: 'over the week', monthly: 'over the month' };
+const VSS = { daily: 'vs. the same day last week', weekly: 'vs. the previous week', monthly: 'vs. the previous 30 days' };
+const TITLES = { daily: 'Daily issue', weekly: 'Weekly roundup', monthly: 'Monthly roundup' };
+const LBL = d => LBLS[d.period] || d.label, VS = d => VSS[d.period] || d.vs;
+const fmtN = n => n >= 1e6 ? (n / 1e6).toFixed(2).replace(/\.?0+$/, '') + 'M' : n >= 1e3 ? Math.round(n / 1e3) + 'K' : String(n);
+const sgn = v => (v >= 0 ? '+' : '') + v;
+function factsEn(d) {
+  const T = d.totals, f = [], L = LBL(d), V = VS(d), days = T.dailyTotal.length;
+  f.push(`Total online of the ${nf.format(d.source.historyGames)} largest games ${L}: ${fmtN(Math.round(T.avg3))} on average, ${sgn(T.change3)}% ${V}.`);
+  const l = d.leaders[0]; f.push(`Leader: “${l.name}” with ${fmtN(l.avg3)} players on average, ${sgn(l.change3)}% ${V}.`);
+  const r = d.risers[0]; if (r) f.push(`Fastest riser: “${r.name}” (${genreName(r.genre)}), +${r.change3}% ${V}, now ${fmtN(r.now)}.`);
+  const fl = d.fallers[0]; if (fl) f.push(`Biggest drop: “${fl.name}”, ${fl.change3}% ${V}, ${fl.fromPeak}% from its ${days}-day peak.`);
+  const gUp = d.genres.filter(g => g.avg3 > T.avg3 * 0.02 && g.change3 != null).sort((a, b) => b.change3 - a.change3);
+  if (gUp.length) f.push(`Best genre trend: ${genreName(gUp[0].genre)} (${sgn(gUp[0].change3)}% ${V}); weakest: ${genreName(gUp.at(-1).genre)} (${gUp.at(-1).change3}%).`);
+  f.push(`The top 10 games account for ${T.top10Share}% of all online across ${nf.format(d.source.games)} tracked games.`);
+  return f;
 }
 
 function render(d, summary) {
   const T = d.totals;
-  const dayShort = l => new Date(l + 'T00:00:00Z').toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' });
-  const summaryHtml = summary ? md(summary) : `<ul>${d.facts.map(f => `<li>${esc(f)}</li>`).join('')}</ul>`;
+  const dayShort = l => new Date(l + 'T00:00:00Z').toLocaleDateString('en-US', { day: 'numeric', month: 'short', timeZone: 'UTC' });
+  const summaryHtml = summary ? md(summary) : `<ul>${factsEn(d).map(f => `<li>${esc(f)}</li>`).join('')}</ul>`;
   $('#app').innerHTML = `
-    <h1>${esc(d.title || "Рынок Roblox")}: ${dmy(d.date)}</h1>
-    <p class="sub">Средний онлайн ${esc(d.label)}, изменения ${esc(d.vs)} · ${nf.format(d.source.historyGames)} игр с историей, ${nf.format(d.source.games)} в общем срезе</p>
+    <h1>${esc(TITLES[d.period] || "Roblox market")}: ${dmy(d.date)}</h1>
+    <p class="sub">Average online ${esc(LBL(d))}, changes ${esc(VS(d))} · ${nf.format(d.source.historyGames)} games with history, ${nf.format(d.source.games)} in the full snapshot</p>
     <section class="card summary">${summaryHtml}</section>
     <div class="tiles">
-      <div class="card tile"><div class="label">Онлайн сейчас, все отслеживаемые игры</div><div class="value">${compact(T.online)}</div><div class="delta flat">${nf.format(T.online)} игроков</div></div>
-      <div class="card tile"><div class="label">Средний онлайн топ-игр ${esc(d.label)}</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} ${esc(d.vs)}</div></div>
-      <div class="card tile"><div class="label">Доля топ-10 игр в онлайне</div><div class="value">${String(T.top10Share).replace('.', ',')}%</div><div class="delta flat">топ-100: ${String(T.top100Share).replace('.', ',')}%</div></div>
-      <div class="card tile"><div class="label">Игр с онлайном 10K+</div><div class="value">${T.over10k}</div><div class="delta flat">1K+: ${nf.format(T.over1k)}</div></div>
+      <div class="card tile"><div class="label">Online now, all tracked games</div><div class="value">${compact(T.online)}</div><div class="delta flat">${nf.format(T.online)} players</div></div>
+      <div class="card tile"><div class="label">Average online of top games ${esc(LBL(d))}</div><div class="value">${compact(T.avg3)}</div><div class="delta">${delta(T.change3)} ${esc(VS(d))}</div></div>
+      <div class="card tile"><div class="label">Top-10 share of online</div><div class="value">${T.top10Share}%</div><div class="delta flat">top 100: ${T.top100Share}%</div></div>
+      <div class="card tile"><div class="label">Games with 10K+ online</div><div class="value">${T.over10k}</div><div class="delta flat">1K+: ${nf.format(T.over1k)}</div></div>
     </div>
 
-    <h2>Общий онлайн за 30 дней</h2><p class="hint">Сумма среднесуточного онлайна крупнейших игр выпуска.</p>
+    <h2>Total online, 30 days</h2><p class="hint">Sum of the daily average online of the largest games in this issue.</p>
     <div class="card"><div id="c-total"></div></div>
 
-    <h2>Лидеры</h2><p class="hint">Топ-12 по среднему онлайну ${esc(d.label)}; процент — ${esc(d.vs)}. Линия — среднесуточный онлайн за ${T.dailyTotal.length} дней.</p>
+    <h2>Leaders</h2><p class="hint">Top 12 by average online ${esc(LBL(d))}; percent is ${esc(VS(d))}. The line is the daily average online over ${T.dailyTotal.length} days.</p>
     <div class="grid-cards">${d.leaders.map(g => `
       <div class="card leader">
-        <div class="head"><span class="rank">#${g.rank}</span>${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<div style="min-width:0"><div class="name"><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(g.name)}</a></div><div class="meta">${esc(genreName(g.genre))}${g.prevRank ? ` · было #${g.prevRank}` : d.prevDate ? ' · новичок топа' : ''}</div></div></div>
-        <div class="nums"><span><b>${compact(g.avg3)}</b> в среднем</span><span>${delta(g.change3)}</span></div>
+        <div class="head"><span class="rank">#${g.rank}</span>${g.icon ? `<img src="${esc(g.icon)}" alt="" loading="lazy">` : ''}<div style="min-width:0"><div class="name"><a href="https://www.roblox.com/games/${g.pid}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(g.name)}</a></div><div class="meta">${esc(genreName(g.genre))}${g.prevRank ? ` · was #${g.prevRank}` : d.prevDate ? ' · new in the top' : ''}</div></div></div>
+        <div class="nums"><span><b>${compact(g.avg3)}</b> on average</span><span>${delta(g.change3)}</span></div>
         <div>${spark(g.daily, 226, 44)}</div>
-        <div class="meta">Пик 30 дней ${compact(g.peak30)} · от пика ${delta(g.fromPeak)}</div>
+        <div class="meta">30-day peak ${compact(g.peak30)} · from peak ${delta(g.fromPeak)}</div>
       </div>`).join('')}
     </div>
 
-    <h2>Лидеры по часам, 7 дней</h2><p class="hint">Топ-6 — видно суточные циклы и всплески от обновлений.</p>
+    <h2>Leaders by hour, 7 days</h2><p class="hint">Top 6: daily cycles and update spikes are visible.</p>
     <div class="card"><div id="c-leaders"></div></div>
 
-    <h2>Набирают популярность</h2><p class="hint">Рост среднего онлайна ${esc(d.label)} ${esc(d.vs)}. Игры от 3K онлайна.</p>
+    <h2>Rising</h2><p class="hint">Growth of average online ${esc(LBL(d))} ${esc(VS(d))}. Games with 3K+ online.</p>
     <div class="card">${gameTable(d.risers, [
-      { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26) },
-      { h: 'Сейчас', num: 1, v: g => compact(g.now) }, { h: 'Средний', num: 1, v: g => compact(g.avg3) }, { h: 'Изменение', num: 1, v: g => delta(g.change3) },
+      { h: 'Game', v: gameCell }, { h: '30 days', v: g => spark(g.daily, 90, 26) },
+      { h: 'Now', num: 1, v: g => compact(g.now) }, { h: 'Average', num: 1, v: g => compact(g.avg3) }, { h: 'Change', num: 1, v: g => delta(g.change3) },
     ])}</div>
 
-    <h2>Теряют онлайн</h2><p class="hint">Падение среднего онлайна ${esc(d.vs)} (игры, у которых было от 5K) и сколько осталось от пика за ${T.dailyTotal.length} дней.</p>
+    <h2>Losing players</h2><p class="hint">Drop in average online ${esc(VS(d))} (games that had 5K+) and how much is left from the ${T.dailyTotal.length}-day peak.</p>
     <div class="card">${gameTable(d.fallers, [
-      { h: 'Игра', v: gameCell }, { h: '30 дней', v: g => spark(g.daily, 90, 26, 'var(--down)') },
-      { h: 'Средний', num: 1, v: g => compact(g.avg3) }, { h: 'Изменение', num: 1, v: g => delta(g.change3) }, { h: 'От пика', num: 1, v: g => delta(g.fromPeak) },
+      { h: 'Game', v: gameCell }, { h: '30 days', v: g => spark(g.daily, 90, 26, 'var(--down)') },
+      { h: 'Average', num: 1, v: g => compact(g.avg3) }, { h: 'Change', num: 1, v: g => delta(g.change3) }, { h: 'From peak', num: 1, v: g => delta(g.fromPeak) },
     ])}</div>
 
     <div class="two" style="margin-top:0">
-      <div><h2>Новые хиты</h2><p class="hint">Игры младше 60 дней, по онлайну.</p>
+      <div><h2>New hits</h2><p class="hint">Games younger than 60 days, by online.</p>
       <div class="card">${gameTable(d.newHits, [
-        { h: 'Игра', v: gameCell }, { h: 'Возраст', num: 1, v: g => g.ageDays + ' дн.' }, { h: 'Средний', num: 1, v: g => compact(g.avg3) },
+        { h: 'Game', v: gameCell }, { h: 'Age', num: 1, v: g => g.ageDays + ' d' }, { h: 'Average', num: 1, v: g => compact(g.avg3) },
       ])}</div></div>
-      <div><h2>Что продвигает Roblox</h2><p class="hint">Игры в разделах главной страницы ${esc(d.label)}.</p>
+      <div><h2>What Roblox promotes</h2><p class="hint">Games in the home page sorts ${esc(LBL(d))}.</p>
       <div class="card">${d.pushed.map(s => `<div style="margin-bottom:12px"><span class="pill">${esc(s.name)}</span></div>${gameTable(s.games.slice(0, 8), [
-        { h: 'Игра', v: g => gameCell(g) }, { h: 'Лучшее место', num: 1, v: g => '#' + g.best }, { h: 'Сейчас', num: 1, v: g => compact(g.now) },
+        { h: 'Game', v: g => gameCell(g) }, { h: 'Best rank', num: 1, v: g => '#' + g.best }, { h: 'Now', num: 1, v: g => compact(g.now) },
       ])}`).join('<div style="height:16px"></div>')}</div></div>
     </div>
 
     ${insightsHtml(window.__insights)}
 
-    <h2>Жанры</h2><p class="hint">Доля онлайна крупнейших игр по жанрам Roblox и изменение ${esc(d.vs)}.</p>
+    <h2>Genres</h2><p class="hint">Share of online of the largest games by Roblox genre, and change ${esc(VS(d))}.</p>
     <div class="two">
       <div class="card bars" id="c-genres"></div>
-      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Доля жанра в онлайне по дням, топ-6 жанров, %</div><div id="c-genre-share"></div></div>
+      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Genre share of online by day, top 6 genres, %</div><div id="c-genre-share"></div></div>
     </div>
 
-    <h2>Распределение игр по онлайну</h2><p class="hint">Сколько игр в каждом диапазоне онлайна прямо сейчас (из ${nf.format(d.source.games)} отслеживаемых).</p>
+    <h2>Games by online range</h2><p class="hint">How many games sit in each online range right now (out of ${nf.format(d.source.games)} tracked).</p>
     <div class="two">
       <div class="card"><div id="c-dist"></div></div>
-      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Суммарный онлайн в диапазоне</div><div id="c-dist2"></div></div>
+      <div class="card"><div style="font-size:13px;color:var(--ink-2);margin-bottom:6px">Total online in range</div><div id="c-dist2"></div></div>
     </div>
 
-    <h2>Методология</h2>
+    <h2>Methodology</h2>
     <div class="card method"><ul>
-      <li>«Онлайн сейчас» — срез Rolimons по ${nf.format(d.source.games)} играм на момент сборки отчёта.</li>
-      <li>История — 10-минутные точки Rolimons, усреднённые по часам и дополненные собственными почасовыми срезами; дневной выпуск сравнивается с тем же днём неделю назад, потому что по выходным онлайн Roblox почти вдвое выше, чем в будни; недельный — с предыдущей неделей, месячный — с предыдущими 30 днями.</li>
-      <li>В выборку входят топ-150 игр по онлайну, игры из прошлого выпуска и игры из разделов Up-and-Coming / Top Trending.</li>
-      <li>Жанры — официальная классификация Roblox (genre_l1 / genre_l2).</li>
-      <li>Сформировано ${new Date(d.generatedAt).toLocaleString('ru-RU', { timeZone: 'UTC' })} UTC.</li>
+      <li>“Online now” is a Rolimons snapshot of ${nf.format(d.source.games)} games at the time the report was built.</li>
+      <li>History is Rolimons 10-minute points averaged by the hour and supplemented with our own hourly snapshots. The daily issue is compared with the same day a week earlier because weekend online on Roblox is almost twice as high as on weekdays; the weekly one with the previous week, the monthly one with the previous 30 days.</li>
+      <li>The sample covers the top 150 games by online, games from the previous issue and games from the Up-and-Coming / Top Trending sorts.</li>
+      <li>Genres follow the official Roblox classification (genre_l1 / genre_l2).</li>
+      <li>Generated ${new Date(d.generatedAt).toLocaleString('en-US', { timeZone: 'UTC' })} UTC.</li>
     </ul></div>`;
 
-  lineChart($('#c-total'), { labels: T.dayLabels.map(dayShort), series: [{ name: 'Онлайн', values: T.dailyTotal, color: cssVar('--s1'), area: true }], tipLabel: (l, i) => dmy(T.dayLabels[i]) });
+  lineChart($('#c-total'), { labels: T.dayLabels.map(dayShort), series: [{ name: 'Online', values: T.dailyTotal, color: cssVar('--s1'), area: true }], tipLabel: (l, i) => dmy(T.dayLabels[i]) });
 
   const hours = d.leaders[0].hourly7.length;
   const hourLabels = Array.from({ length: hours }, (_, i) => { const t = new Date(new Date(d.generatedAt).setUTCMinutes(0, 0, 0) - (hours - 1 - i) * 3600e3); return t; });
   lineChart($('#c-leaders'), {
-    labels: hourLabels.map(t => t.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', timeZone: 'UTC' })),
+    labels: hourLabels.map(t => t.toLocaleDateString('en-US', { day: 'numeric', month: 'short', timeZone: 'UTC' })),
     series: d.leaders.slice(0, 6).map((g, i) => ({ name: g.name, values: g.hourly7, color: cssVar(SERIES[i]) })),
     height: 300, xTicks: 7,
-    tipLabel: (l, i) => hourLabels[i].toLocaleString('ru-RU', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) + ' UTC',
+    tipLabel: (l, i) => hourLabels[i].toLocaleString('en-US', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) + ' UTC',
   });
 
   const gmax = Math.max(...d.genres.map(g => g.share));
-  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Жанр</span><span>Доля онлайна</span><span class="val">Изм.</span></div>` +
-    d.genres.filter(g => g.share >= 0.5).map(g => `<div class="row" title="${esc(genreName(g.genre))}: ${nf.format(g.avg3)} игроков, ${g.games} игр, лидер — ${esc(g.top)}">
+  $('#c-genres').innerHTML = `<div class="row" style="color:var(--muted);font-size:12px;padding-top:0"><span>Genre</span><span>Share of online</span><span class="val">Chg.</span></div>` +
+    d.genres.filter(g => g.share >= 0.5).map(g => `<div class="row" title="${esc(genreName(g.genre))}: ${nf.format(g.avg3)} players, ${g.games} games, leader: ${esc(g.top)}">
       <span class="label">${esc(genreName(g.genre))}</span>
-      <span class="track"><div class="fill" style="width:${g.share / gmax * 100}%"></div><span style="position:absolute;left:calc(${g.share / gmax * 100}% + 6px);top:-3px;font-size:12px;color:var(--ink-2)">${String(g.share).replace('.', ',')}%</span></span>
+      <span class="track"><div class="fill" style="width:${g.share / gmax * 100}%"></div><span style="position:absolute;left:calc(${g.share / gmax * 100}% + 6px);top:-3px;font-size:12px;color:var(--ink-2)">${g.share}%</span></span>
       <span class="val">${delta(g.change3)}</span></div>`).join('');
 
   lineChart($('#c-genre-share'), {
     labels: T.dayLabels.map(dayShort),
     series: d.genres.slice(0, 6).map((g, i) => ({ name: genreName(g.genre), values: g.shareDaily, color: cssVar(SERIES[i]) })),
-    yFmt: (v, tip) => tip ? String(v).replace('.', ',') + '%' : Math.round(v) + '%', height: 260, tipLabel: (l, i) => dmy(T.dayLabels[i]),
+    yFmt: (v, tip) => tip ? String(v) + '%' : Math.round(v) + '%', height: 260, tipLabel: (l, i) => dmy(T.dayLabels[i]),
   });
 
   const rng = b => `${compact(b.lo)}${b.hi ? '–' + compact(b.hi) : '+'}`;
-  columns($('#c-dist'), d.distribution, { label: rng, value: b => b.games, tip: b => `<div class="t">${rng(b)} онлайн</div><div class="r">Игр<b>${nf.format(b.games)}</b></div><div class="r">Игроков<b>${nf.format(b.players)}</b></div>` });
-  columns($('#c-dist2'), d.distribution, { label: rng, value: b => b.players, tip: b => `<div class="t">${rng(b)} онлайн</div><div class="r">Игроков<b>${nf.format(b.players)}</b></div><div class="r">Игр<b>${nf.format(b.games)}</b></div>` });
+  columns($('#c-dist'), d.distribution, { label: rng, value: b => b.games, tip: b => `<div class="t">${rng(b)} online</div><div class="r">Games<b>${nf.format(b.games)}</b></div><div class="r">Players<b>${nf.format(b.players)}</b></div>` });
+  columns($('#c-dist2'), d.distribution, { label: rng, value: b => b.players, tip: b => `<div class="t">${rng(b)} online</div><div class="r">Players<b>${nf.format(b.players)}</b></div><div class="r">Games<b>${nf.format(b.games)}</b></div>` });
   // the second chart shows big values; shorten its value labels
   $('#c-dist2').querySelectorAll('.col text:first-of-type').forEach((t, i) => t.textContent = compact(d.distribution[i].players));
 }
@@ -385,17 +397,17 @@ async function load(entry) {
   const dir = `reports/${entry.period}/${entry.date}`;
   const [data, summary, insights] = await Promise.all([
     fetch(`${dir}/data.json`).then(r => r.json()),
-    fetch(`${dir}/summary.md`).then(r => r.ok ? r.text() : null).catch(() => null),
+    fetch(`${dir}/summary.en.md`).then(r => r.ok ? r.text() : null).catch(() => null),
     fetch(`${dir}/insights.json`).then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
   window.__data = data; window.__summary = summary; window.__insights = insights;
   render(data, summary);
 }
 
-const PERIOD_NAMES = { daily: "День", weekly: "Неделя", monthly: "Месяц" };
+const PERIOD_NAMES = { daily: "Day", weekly: "Week", monthly: "Month" };
 (async () => {
   const idx = (await fetch("reports/index.json").then(r => r.json()).catch(() => [])).filter(r => r.period);
-  if (!idx.length) { $("#app").innerHTML = "<p class=\"empty\">Пока нет ни одного выпуска.</p>"; return; }
+  if (!idx.length) { $("#app").innerHTML = "<p class=\"empty\">No issues yet.</p>"; return; }
   const q = new URLSearchParams(location.search);
   let period = PERIOD_NAMES[q.get("p")] && idx.some(r => r.period === q.get("p")) ? q.get("p") : (idx.some(r => r.period === "daily") ? "daily" : idx.at(-1).period);
   const sel = $("#issue"), tabs = $("#tabs");
@@ -403,7 +415,7 @@ const PERIOD_NAMES = { daily: "День", weekly: "Неделя", monthly: "Ме
     period = p;
     const list = idx.filter(r => r.period === p);
     const entry = list.find(r => r.date === date) || list.at(-1);
-    tabs.innerHTML = Object.entries(PERIOD_NAMES).map(([k, n]) => `<button role="tab" data-p="${k}" aria-selected="${k === p}" ${idx.some(r => r.period === k) ? "" : "disabled title=\"Первый выпуск ещё не вышел\""}>${n}</button>`).join("");
+    tabs.innerHTML = Object.entries(PERIOD_NAMES).map(([k, n]) => `<button role="tab" data-p="${k}" aria-selected="${k === p}" ${idx.some(r => r.period === k) ? "" : "disabled title=\"The first issue is not out yet\""}>${n}</button>`).join("");
     sel.innerHTML = [...list].reverse().map(r => `<option value="${r.date}">${dmy(r.date)}</option>`).join("");
     sel.value = entry.date;
     history.replaceState(null, "", `?p=${p}&d=${entry.date}`);
