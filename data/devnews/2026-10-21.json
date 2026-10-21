@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-10-21T13:07:04.985Z",
+  "generated_at": "2026-10-21T19:03:03.985Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 129640
+      "ms": 134088
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91513
+      "ms": 91995
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3864
+      "ms": 5926
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 391
+      "ms": 216
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 477
+      "ms": 255
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xbsi5s",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbsi5s/im_not_having_any_success_as_a_game_developer_on/",
+      "author": "Friendly_Hat3062",
+      "date": "2026-10-21T16:50:22.000Z",
+      "title": "I’m not having any success as a game developer on Roblox—could I succeed using other engines and platforms?",
+      "excerpt_en": "I spent several good years creating games on Roblox—some for myself, others as personal requests or paid commissions. Most recently, I developed a satirical social-survival game in which players take on roles such as farmers, craftspeople, priests, or even nobles. They face…",
+      "score": 22,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
     {
       "id": "reddit:t3_1xb9e79",
       "source": "reddit",
@@ -66,6 +86,24 @@
         "views": 87
       },
       "first_seen": "2026-10-21T01:06:09.023Z"
+    },
+    {
+      "id": "reddit:t3_1xbqjsr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbqjsr/how_do_you_get_your_first_players_without_paid_ads/",
+      "author": "Tall-Aardvark-4930",
+      "date": "2026-10-21T15:39:20.000Z",
+      "title": "How do you get your first players without paid ads?",
+      "excerpt_en": "Hey everyone! I'm an indie Roblox developer working on my game, Steal a Dumpling , and I'm trying to reach 250 highly engaged players without spending money on advertising. My impressions aren't too bad, but I'm struggling to convert them into actual players. I suspect seeing a…",
+      "score": 14,
+      "tags": [
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
       "id": "reddit:t3_1xbmjtt",
@@ -119,6 +157,26 @@
       "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
+      "id": "devforum:4948535",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535",
+      "author": "Roblox",
+      "date": "2026-10-21T18:15:29.546Z",
+      "title": "The Hollow: New Platform-Wide Survival Event for Halloween",
+      "excerpt_en": "This Halloween we’re celebrating horror games, one of the most popular genres on Roblox, with a new platform-wide event: The Hollow. Starting tomorrow and running through Nov. 2, this shared survival event will be available to anyone with a Roblox Select or Roblox account (ages…",
+      "score": 12,
+      "tags": [
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 22,
+        "replies": 10,
+        "views": 276
+      },
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
       "id": "pocketgamer.biz:https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
       "source": "pocketgamer.biz",
       "url": "https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/",
@@ -135,6 +193,72 @@
       "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
+      "id": "reddit:t3_1xbswzj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbswzj/struggling_with_player_retention/",
+      "author": "Akkadclassic",
+      "date": "2026-10-21T17:05:25.000Z",
+      "title": "Struggling with player retention",
+      "excerpt_en": "People do join my game and i do get positive feedback, but its always the same thing, since the game is team-based survival, the style of the game is its own worst enemy. maybe 3 people will play at a time and leave because theres no one playing other teams to compete with and…",
+      "score": 10,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
+      "id": "reddit:t3_1xbmqxy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbmqxy/thumbnail_i_made/",
+      "author": "PenguDaFrie",
+      "date": "2026-10-21T13:10:22.000Z",
+      "title": "Thumbnail i made",
+      "excerpt_en": "Is it good. ",
+      "score": 9,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
+      "id": "devforum:4948433",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433",
+      "author": "rbitia_rbx",
+      "date": "2026-10-21T17:05:49.807Z",
+      "title": "Important TextChatService Updates: How to Test and What’s Next",
+      "excerpt_en": "Hi Creators, Today we’re sharing reminders that chat between users must go through TextChatService (TCS) and introducing a foundational update that makes text chat more native to Roblox, like how voice chat already works. Phase 0 [Now]: Ensure you’re using TextChatService (TCS)…",
+      "score": 7.2,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 327,
+        "replies": 113,
+        "views": 1311
+      },
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
+      "id": "devforum:4947402",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402",
+      "author": "koeqaife",
+      "date": "2026-10-21T01:18:29.045Z",
+      "title": "SVG icons in Roblox, rendered at runtime",
+      "excerpt_en": "Hey everyone. I got tired of uploading a PNG for every icon at every size, so I built a thing that renders SVG paths directly into EditableImage s at runtime. No uploads. No asset IDs. Any size you want. Includes Material Symbols support — Google’s full icon set, rendered at…",
+      "score": 6.8,
+      "tags": [],
+      "engagement": {
+        "likes": 43,
+        "replies": 16,
+        "views": 268
+      },
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
       "id": "reddit:t3_1x8msxr",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8msxr/looking_for_feedback_on_my_strategy_card_game/",
@@ -148,6 +272,36 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-21T01:06:09.023Z"
+    },
+    {
+      "id": "reddit:t3_1xbjob2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbjob2/games_are_so_vulnerable_just_starting_out/",
+      "author": "primorradev",
+      "date": "2026-10-21T10:38:14.000Z",
+      "title": "games are so vulnerable just starting out",
+      "excerpt_en": "￼​The picture perfectly exemplifies it. The game released October 1 and had no updates after October 6 because the like rating was near 40% (most of which were from me/friends). The algorithm picks it up 2 weeks later and magically the rating improves as more and more players…",
+      "score": 6,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
+      "id": "reddit:t3_1xbvhnz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbvhnz/looking_for_game_devs_to_make_a_smallscoped_game/",
+      "author": "General-Platform-728",
+      "date": "2026-10-21T18:37:47.000Z",
+      "title": "Looking for game devs to make a small-scoped game for now",
+      "excerpt_en": "I'm looking for one or two devs to develop with. These are passion projects though, I'm broke as hell, if our games do well then obv we'll split the revenue Recently I've been spending weeks planning out and thinking about making a difficult RPG game with dark tones inspired by…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
       "id": "reddit:t3_1xb6pwl",
@@ -210,6 +364,37 @@
       "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
+      "id": "reddit:t3_1xaj797",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj797/dev_releasing_many_games_a_year_how_is_this/",
+      "author": "ThatGuyFromCA47",
+      "date": "2026-10-20T04:58:42.000Z",
+      "title": "Dev releasing many games a year, how is this possible?",
+      "excerpt_en": "There is a dev on Roblox that has released about 4-5 games this year all within a few months. They are complete games, some good, most not, but they are complete games. It shows he's only a solo developer. I'm wondering how is he able to keep pumping out games? Is he buying them…",
+      "score": 5,
+      "tags": [
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
+      "id": "reddit:t3_1xbuu8j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbuu8j/hiring_looking_for_developers_for_a_retro_horror/",
+      "author": "Several-Swing-7415",
+      "date": "2026-10-21T18:14:13.000Z",
+      "title": "[Hiring] Looking for Developers for a Retro Horror Game \"ISOLATION\" (5K Robux + Rev-Share)",
+      "excerpt_en": "### 🎮 ISOLATION — WE'RE HIRING! 🕯️ Welcome to the team behind ISOLATION, an upcoming retro-style Roblox horror game focused on immersive atmosphere, tension, and survival. We are currently looking for talented, professional, and dedicated developers to help bring this project…",
+      "score": 5,
+      "tags": [
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
       "id": "naavik:https://naavik.co/?p=34679",
       "source": "naavik",
       "url": "https://naavik.co/podcast/three-years-70m-no-release-date-why-investors-keep-betting-on-gardens/",
@@ -261,6 +446,23 @@
         "views": 75
       },
       "first_seen": "2026-10-21T13:07:04.985Z"
+    },
+    {
+      "id": "devforum:4948318",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318",
+      "author": "SevdatGaming",
+      "date": "2026-10-21T15:45:20.668Z",
+      "title": "Universal Game Development Tool Kit",
+      "excerpt_en": "(This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked | Discord: U.G.D | Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is designed to be optimized, easy to use…",
+      "score": 3.5,
+      "tags": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 0,
+        "views": 72
+      },
+      "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
       "id": "reddit:t3_1xaqudx",

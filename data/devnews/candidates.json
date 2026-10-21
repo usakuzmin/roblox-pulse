@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:07:05.043Z",
+  "generated_at": "2026-10-21T19:03:04.047Z",
   "from_files": [
     "2026-10-18.json",
     "2026-10-19.json",
@@ -26,6 +26,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-18T01:02:21.610Z"
+    },
+    {
+      "id": "reddit:t3_1xbsi5s",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbsi5s/im_not_having_any_success_as_a_game_developer_on/",
+      "author": "Friendly_Hat3062",
+      "date": "2026-10-21T16:50:22.000Z",
+      "title": "I’m not having any success as a game developer on Roblox—could I succeed using other engines and platforms?",
+      "excerpt_en": "I spent several good years creating games on Roblox—some for myself, others as personal requests or paid commissions. Most recently, I developed a satirical social-survival game in which players take on roles such as farmers, craftspeople, priests, or even nobles. They face…",
+      "score": 22,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
       "id": "reddit:t3_1xa5a4d",
@@ -177,6 +197,24 @@
       "first_seen": "2026-10-20T01:06:19.640Z"
     },
     {
+      "id": "reddit:t3_1xbqjsr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbqjsr/how_do_you_get_your_first_players_without_paid_ads/",
+      "author": "Tall-Aardvark-4930",
+      "date": "2026-10-21T15:39:20.000Z",
+      "title": "How do you get your first players without paid ads?",
+      "excerpt_en": "Hey everyone! I'm an indie Roblox developer working on my game, Steal a Dumpling , and I'm trying to reach 250 highly engaged players without spending money on advertising. My impressions aren't too bad, but I'm struggling to convert them into actual players. I suspect seeing a…",
+      "score": 14,
+      "tags": [
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T19:03:03.985Z"
+    },
+    {
       "id": "reddit:t3_1x9w1kh",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9w1kh/revshare_looking_for_roblox_devs_scripters/",
@@ -246,40 +284,6 @@
         "views": 7
       },
       "first_seen": "2026-10-19T19:03:40.390Z"
-    },
-    {
-      "id": "reddit:t3_1x9ap6p",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9ap6p/stacklings_how_do_you_market_a_roblox_game_thats/",
-      "author": "Sea_Construction8478",
-      "date": "2026-10-18T18:37:00.000Z",
-      "title": "(Stacklings) How do you market a Roblox game that's fun to play but not fun to watch?",
-      "excerpt_en": "I've been developing a game called Stacklings , a mix of Tetris and tower defense where you stack blocks containing defenders to survive waves of enemies. I've been consistently updating it, and the feedback and retention have been improving with each update. I'm pretty happy…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "ads",
-        "marketing"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-18T18:51:52.802Z"
-    },
-    {
-      "id": "reddit:t3_1x9nzao",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9nzao/shipped_my_first_game_wingsuit_base_jumping_the/",
-      "author": "Suspicious_Swan4988",
-      "date": "2026-10-19T05:01:48.000Z",
-      "title": "Shipped my first game (wingsuit / BASE jumping) — the first-60-seconds problem is real. What actually worked for you?",
-      "excerpt_en": "Solo dev here. I just shipped EXIT POINT, a wingsuit / BASE jumping game: spawn on a summit, dive a valley and a city, proximity-score your lines, race ghost times. The world is mostly baked (towns, trees, horizon) with runtime-built pieces on top, and the flight model is custom…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-19T07:11:24.488Z"
     }
   ]
 }
