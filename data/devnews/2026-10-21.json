@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-10-21T01:06:09.023Z",
+  "generated_at": "2026-10-21T07:07:35.201Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 128094
+      "ms": 125980
     },
     "reddit": {
       "ok": true,
-      "fetched": 50,
-      "ms": 90967
+      "fetched": 100,
+      "ms": 31318
     },
     "rss": {
       "ok": true,
       "fetched": 6,
-      "ms": 3497
+      "ms": 3709
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 191
+      "ms": 179
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 278
+      "ms": 241
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xb9e79",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb9e79/looking_for_someone_to_help_me_with_updating_my/",
+      "author": "UnbloxingLIVE",
+      "date": "2026-10-21T00:56:30.000Z",
+      "title": "Looking for someone to help me with updating my game",
+      "excerpt_en": "My games metrics are pretty good, median is 8.1 minutes average playtime is 26.5 minutes. Ive racked up 457 hours of playtime from 1248 players. With my top 25 players ranging from 3 hours to 14 hours. The issue with longevity is my game just doesnt have enough content, Ive had…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "metrics",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
     {
       "id": "devforum:4946987",
       "source": "devforum",
@@ -50,6 +68,23 @@
       "first_seen": "2026-10-21T01:06:09.023Z"
     },
     {
+      "id": "reddit:t3_1xbdjcx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbdjcx/how_do_you_escape_the_roblox_ads_nightmare/",
+      "author": "dasketern",
+      "date": "2026-10-21T04:24:53.000Z",
+      "title": "How do you escape the Roblox ads nightmare?",
+      "excerpt_en": "I've been running Play ads, but the performance has been much worse than my previous campaigns. I've tried changing thumbnails and restarting campaigns multiple times, but the ads are still expensive and barely getting any impressions. I've spent around $30 and only got about…",
+      "score": 12,
+      "tags": [
+        "revenue",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
       "id": "reddit:t3_1x8msxr",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8msxr/looking_for_feedback_on_my_strategy_card_game/",
@@ -65,6 +100,68 @@
       "first_seen": "2026-10-21T01:06:09.023Z"
     },
     {
+      "id": "reddit:t3_1xb6pwl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb6pwl/publishing_to_all_ages/",
+      "author": "Akkadclassic",
+      "date": "2026-10-20T22:52:23.000Z",
+      "title": "Publishing to all ages",
+      "excerpt_en": "I just bought a plus subscription, i already published my game though but its stuck at 16+ age rating, i dont have enough to pay for the 50k fee and im unsure what to do. Running ads feels pointless if my game is stuck at 16+ ",
+      "score": 5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "reddit:t3_1xb52d7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb52d7/is_it_normal_that_my_analytics_still_arent/",
+      "author": "Lost_Negotiation_921",
+      "date": "2026-10-20T21:41:14.000Z",
+      "title": "Is it normal that my analytics still aren't showing up?",
+      "excerpt_en": "I released my game on Sunday, and it's been over 48 hours, but I still don't have any analytics showing up except for the testing data. Is this normal? My game has over 400 visits, and I'm currently running two ad campaigns. ",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "reddit:t3_1xb1hrl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb1hrl/i_need_feedbacks_for_my_new_game/",
+      "author": "m1h1nn0",
+      "date": "2026-10-20T19:21:47.000Z",
+      "title": "i need feedbacks for my new game!",
+      "excerpt_en": "hi, i've recently published a survival-horror game, inspired by violence district. called \"COUNT YOUR FRIEND\". the goal of the game it's to find the hidden keys, and escape from the monster. i'm arleady conscious of possible bugs, but i would be very glad to receive feedbacks…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "devforum:4946445",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/abilty-to-make-public-servers-for-roblox-plus-users/4946445",
+      "author": "Eternals_Queen",
+      "date": "2026-10-20T13:50:34.750Z",
+      "title": "Abilty to make public servers for roblox plus users",
+      "excerpt_en": "Hello This idea inspired from roblox private server. the idea is basically allowing roblox plus users who is age verified to make public server that they can kick people from ! in private server you could kick a player who maybe is cheating or is bad actor and you the have…",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "views": 53
+      },
+      "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
       "id": "reddit:t3_1xaqudx",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaqudx/roblox_pixelation_filter/",
@@ -76,6 +173,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-21T01:06:09.023Z"
+    },
+    {
+      "id": "reddit:t3_1xb9tsi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb9tsi/players_cant_beat_my_first_level_please_tell_me/",
+      "author": "Far_Independence7635",
+      "date": "2026-10-21T01:17:11.000Z",
+      "title": "players can't beat my first level: please tell me if its too confusing",
+      "excerpt_en": "keep in mind that this is my first roblox game (thats why it's so bad lol). this is a video of how I'd expect someone to play the first level of my game: they may die once or twice, but they should be able to beat it in no time. however, the vast majority of players I've watched…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
     }
   ]
 }

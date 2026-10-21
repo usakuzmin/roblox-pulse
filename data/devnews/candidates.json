@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:06:09.085Z",
+  "generated_at": "2026-10-21T07:07:35.262Z",
   "from_files": [
     "2026-10-18.json",
     "2026-10-19.json",
@@ -99,6 +99,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T01:06:19.640Z"
+    },
+    {
+      "id": "reddit:t3_1xb9e79",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb9e79/looking_for_someone_to_help_me_with_updating_my/",
+      "author": "UnbloxingLIVE",
+      "date": "2026-10-21T00:56:30.000Z",
+      "title": "Looking for someone to help me with updating my game",
+      "excerpt_en": "My games metrics are pretty good, median is 8.1 minutes average playtime is 26.5 minutes. Ive racked up 457 hours of playtime from 1248 players. With my top 25 players ranging from 3 hours to 14 hours. The issue with longevity is my game just doesnt have enough content, Ive had…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "metrics",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
     },
     {
       "id": "devforum:4946987",
@@ -262,26 +280,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-20T19:01:15.720Z"
-    },
-    {
-      "id": "devforum:4940992",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992",
-      "author": "FATALE_N1",
-      "date": "2026-10-17T22:28:19.402Z",
-      "title": "Aperture - add doors and windows to existing Part walls, no unions [Paid Plugin]",
-      "excerpt_en": "Hi everyone, I make Aperture, a Studio plugin that cuts rectangular door, window and hatch openings into existing anchored Block Part walls, without CSG or unions. The result stays ordinary Parts you can keep editing. Real-time recording: a door, then two windows (one CUT each)…",
-      "score": 11.2,
-      "tags": [
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 6,
-        "replies": 4,
-        "views": 78
-      },
-      "first_seen": "2026-10-18T01:02:21.610Z"
     }
   ]
 }
