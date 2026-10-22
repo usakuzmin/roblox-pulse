@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:06:33.756Z",
+  "generated_at": "2026-10-22T19:02:36.454Z",
   "from_files": [
     "2026-10-19.json",
     "2026-10-20.json",
@@ -247,6 +247,22 @@
       "first_seen": "2026-10-21T13:07:04.985Z"
     },
     {
+      "id": "reddit:t3_1xcnqie",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcnqie/am_i_going_to_kill_revenue_by_removing_paid/",
+      "author": "Ok-Protection-6612",
+      "date": "2026-10-22T16:43:08.000Z",
+      "title": "Am I going to kill revenue by removing paid currency and boosts ?",
+      "excerpt_en": "I had the idea to remove the currency and currency boost items from my robux shop. A main mechanic is rolling for items and I want to avoid having paid random items in the game. I also want to avoid ruining the economy with paid currency. Am I being too idealistic? Can a game…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
       "id": "devforum:4944537",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/my-devex-request-was-declined-due-to-name-discrepancy-and-roblox-doesnt-reply/4944537",
@@ -265,23 +281,6 @@
         "views": 7
       },
       "first_seen": "2026-10-19T19:03:40.390Z"
-    },
-    {
-      "id": "reddit:t3_1x9nzao",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9nzao/shipped_my_first_game_wingsuit_base_jumping_the/",
-      "author": "Suspicious_Swan4988",
-      "date": "2026-10-19T05:01:48.000Z",
-      "title": "Shipped my first game (wingsuit / BASE jumping) — the first-60-seconds problem is real. What actually worked for you?",
-      "excerpt_en": "Solo dev here. I just shipped EXIT POINT, a wingsuit / BASE jumping game: spawn on a summit, dive a valley and a city, proximity-score your lines, race ghost times. The world is mostly baked (towns, trees, horizon) with runtime-built pieces on top, and the flight model is custom…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-19T07:11:24.488Z"
     }
   ]
 }

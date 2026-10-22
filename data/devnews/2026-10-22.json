@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-22T13:06:33.688Z",
+  "generated_at": "2026-10-22T19:02:36.408Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 135052
+      "ms": 124475
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31099
+      "ms": 91520
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3571
+      "ms": 3559
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 272
+      "ms": 207
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 259
+      "ms": 229
     }
   },
   "items": [
@@ -70,6 +70,38 @@
       "first_seen": "2026-10-22T01:04:46.492Z"
     },
     {
+      "id": "reddit:t3_1xcnqie",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcnqie/am_i_going_to_kill_revenue_by_removing_paid/",
+      "author": "Ok-Protection-6612",
+      "date": "2026-10-22T16:43:08.000Z",
+      "title": "Am I going to kill revenue by removing paid currency and boosts ?",
+      "excerpt_en": "I had the idea to remove the currency and currency boost items from my robux shop. A main mechanic is rolling for items and I want to avoid having paid random items in the game. I also want to avoid ruining the economy with paid currency. Am I being too idealistic? Can a game…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
+      "id": "reddit:t3_1xcq2fz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq2fz/game_getting_0_home_recommendations_2_weeks_after/",
+      "author": "Ok-Entertainment2963",
+      "date": "2026-10-22T18:07:53.000Z",
+      "title": "Game getting 0 home recommendations 2 weeks after release",
+      "excerpt_en": "I recently released the game, at the start the ads were doing good the players told me they really liked the game but then they started getting worse and worse and even tho almost 2 weeks passed the game still has no home recommendations. The stats are really bad and the…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
       "id": "reddit:t3_1xcbr2g",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcbr2g/player_retention_issues/",
@@ -83,6 +115,42 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T13:06:33.688Z"
+    },
+    {
+      "id": "reddit:t3_1xckt4l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xckt4l/horrible_ad_rates/",
+      "author": "Johntheduckz",
+      "date": "2026-10-22T14:55:21.000Z",
+      "title": "horrible ad rates?",
+      "excerpt_en": "https://preview.redd.it/dtpg92nk81xh1.png?width=1322&format=png&auto=webp&s=dde0133cde7b536303b019116666a8b0e2ef704a anyone else experiencing horrible CPP and $/impression? is my game/thumbnail that bad? Game name: Evolve a Galaxy ",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
+      "id": "devforum:4950387",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
+      "author": "TatersPreci0us",
+      "date": "2026-10-22T17:30:04.326Z",
+      "title": "[Test] New Home Layout With More Built-in Utility",
+      "excerpt_en": "Hi Creators, Starting tomorrow, we’re running an experiment with a new Home layout for the Roblox app across larger landscape display devices (primarily PCs, consoles, and tablets). Here’s what’s changing, and what isn’t. image_new 3464×2254 4.22 MB What We’re Testing In this…",
+      "score": 7.4,
+      "tags": [
+        "platform",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 47,
+        "replies": 23,
+        "views": 964
+      },
+      "first_seen": "2026-10-22T19:02:36.408Z"
     },
     {
       "id": "devforum:4949163",
@@ -104,6 +172,21 @@
       "first_seen": "2026-10-22T13:06:33.688Z"
     },
     {
+      "id": "reddit:t3_1xckxo0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xckxo0/roblox_battlegrounds_game_recruiting_active_team/",
+      "author": "Confident-Cat6831",
+      "date": "2026-10-22T15:00:07.000Z",
+      "title": "Roblox Battlegrounds Game — Recruiting Active Team Members!",
+      "excerpt_en": "I'm developing a battlegrounds game featuring characters from anime and games, such as Whitebeard and Sans. Currently recruiting: Scripters: Combat systems, character abilities, combos, damage, cooldowns, and gameplay mechanics. Animators: Combat animations, attack combos, and…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
       "id": "reddit:t3_1xc90st",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc90st/looking_for_a_marketerpromoter/",
@@ -117,6 +200,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T07:09:39.923Z"
+    },
+    {
+      "id": "reddit:t3_1xcrbbr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcrbbr/looking_for_a_map_builder/",
+      "author": "FlohG0",
+      "date": "2026-10-22T18:53:58.000Z",
+      "title": "Looking for a map builder",
+      "excerpt_en": "Hello everyone! Are there any map builders here who offer affordable commissions? Unfortunately, I have a very limited budget and cannot afford expensive builders. I'm looking for someone who could create a custom tow yard for my Roblox game . Ideally, the map should be…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
     },
     {
       "id": "devforum:4948713",
@@ -160,6 +258,35 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-22T07:09:39.923Z"
+    },
+    {
+      "id": "reddit:t3_1xc5uub",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc5uub/i_made_my_first_roblox_game_feedback_welcome/",
+      "author": "Accurate_Bird_5784",
+      "date": "2026-10-22T01:51:44.000Z",
+      "title": "I made my first Roblox game, feedback welcome!",
+      "excerpt_en": "Search \"Catch a Pet\" to try it out ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
+      "id": "reddit:t3_1xcogo5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcogo5/hiring_roblox_developers_for_ethereal_massacre/",
+      "author": "ItKnight-BladetI",
+      "date": "2026-10-22T17:09:33.000Z",
+      "title": "[HIRING] Roblox Developers for Ethereal Massacre — Asymmetrical Horror Game",
+      "excerpt_en": "Hey, I'm currently developing Ethereal Massacre , a Roblox asymmetrical horror game inspired by the Sonic universe, and I'm looking for people to join the development team. We're still building the team, so I'm looking for people who are interested in working together and…",
+      "score": 3,
+      "tags": [
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
     }
   ]
 }
