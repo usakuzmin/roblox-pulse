@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-10-22T01:04:46.492Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 130790
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91521
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3641
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 127
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 354
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xc1bjn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc1bjn/advertising_budgets_must_be_cooked_for_these/",
+      "author": "AussieGameCo",
+      "date": "2026-10-21T22:21:24.000Z",
+      "title": "Advertising budgets must be cooked for these games? What's going on under the hood?",
+      "excerpt_en": "So, you browse the Roblox charts and see some of the most horrible slop games sitting there with 30K players. You look up the developer, and surprise, they've got a massive YouTube channel. So, are they just pumping gameplay videos out to their subscribers and driving all that…",
+      "score": 18,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T01:04:46.492Z"
+    },
+    {
+      "id": "devforum:4948713",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713",
+      "author": "SevdatGaming",
+      "date": "2026-10-21T20:01:57.631Z",
+      "title": "Universal Game Development Tool Kit",
+      "excerpt_en": "(This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked | Discord: U.G.D | Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is designed to be optimized, easy to use…",
+      "score": 3.3,
+      "tags": [],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 76
+      },
+      "first_seen": "2026-10-22T01:04:46.492Z"
+    },
+    {
+      "id": "reddit:t3_1xc4205",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc4205/opus_55_harness_imported_unreal_engine_fps/",
+      "author": "RepeatThick7384",
+      "date": "2026-10-22T00:24:19.000Z",
+      "title": "Opus 5.5 harness imported Unreal Engine fps animation into Roblox in about 40 minutes",
+      "excerpt_en": "[Sound, Animation, Hands and gun model was all pulled from the asset] I've been trying with Claude to see if you can actually get Unreal Engine animations / assets into Roblox, and I think it's getting somewhere. I made a custom Claude harness to handle the process and managed…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-22T01:04:46.492Z"
+    }
+  ]
+}

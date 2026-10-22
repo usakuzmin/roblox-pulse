@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-10-21T19:03:04.047Z",
+  "generated_at": "2026-10-22T01:04:46.542Z",
   "from_files": [
-    "2026-10-18.json",
     "2026-10-19.json",
     "2026-10-20.json",
-    "2026-10-21.json"
+    "2026-10-21.json",
+    "2026-10-22.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1x8kj8o",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8kj8o/question_about_my_game_and_advertising/",
-      "author": "Numerous-Indication4",
-      "date": "2026-10-17T20:36:06.000Z",
-      "title": "Question about my game and advertising",
-      "excerpt_en": "So I made this game recently, it started off rough when it was 16+. I spent lots of USD on robux and converted the robux into ad credits cause I didn't know u could buy ad credits with USD at the time so I wasted a lot of money. Spent roughly 40 ad credits to get all 250 engaged…",
-      "score": 25,
-      "tags": [
-        "revenue",
-        "metrics",
-        "ads",
-        "marketing",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-18T01:02:21.610Z"
-    },
     {
       "id": "reddit:t3_1xbsi5s",
       "source": "reddit",
@@ -65,26 +45,22 @@
       "first_seen": "2026-10-19T19:03:40.390Z"
     },
     {
-      "id": "devforum:4942423",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423",
-      "author": "heni06amg",
-      "date": "2026-10-18T15:36:54.941Z",
-      "title": "Home Recommendation impressions stuck at ~45% of previous level for 5 weeks, despite recovered signals (Universe 9150731899)",
-      "excerpt_en": "Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back to (or better than) the level we had…",
-      "score": 20.7,
+      "id": "reddit:t3_1xc1bjn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc1bjn/advertising_budgets_must_be_cooked_for_these/",
+      "author": "AussieGameCo",
+      "date": "2026-10-21T22:21:24.000Z",
+      "title": "Advertising budgets must be cooked for these games? What's going on under the hood?",
+      "excerpt_en": "So, you browse the Roblox charts and see some of the most horrible slop games sitting there with 30K players. You look up the developer, and surprise, they've got a massive YouTube channel. So, are they just pumping gameplay videos out to their subscribers and driving all that…",
+      "score": 18,
       "tags": [
         "revenue",
-        "metrics",
+        "ads",
         "discovery",
         "numbers"
       ],
-      "engagement": {
-        "likes": 2,
-        "replies": 0,
-        "views": 29
-      },
-      "first_seen": "2026-10-18T18:51:52.802Z"
+      "engagement": {},
+      "first_seen": "2026-10-22T01:04:46.492Z"
     },
     {
       "id": "reddit:t3_1x9sxhs",
@@ -157,23 +133,6 @@
         "views": 87
       },
       "first_seen": "2026-10-21T01:06:09.023Z"
-    },
-    {
-      "id": "reddit:t3_1x8t42i",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8t42i/weird_home_recommendation_behavior_and_bar_graph/",
-      "author": "Greedy-Pea-5637",
-      "date": "2026-10-18T03:36:55.000Z",
-      "title": "Weird Home Recommendation Behavior And Bar Graph Not Showing",
-      "excerpt_en": "So I've got two questions. One is a question regarding the bar / slider bars for the analytics. I released my game exactly one month ago, but I've still got the default overview tab that hasn't updated into the slider bar style or the up and down bars. I don't know why it hasn't…",
-      "score": 14,
-      "tags": [
-        "ads",
-        "discovery",
-        "story"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-18T07:00:48.530Z"
     },
     {
       "id": "devforum:4945086",
@@ -284,6 +243,40 @@
         "views": 7
       },
       "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
+      "id": "reddit:t3_1x9nzao",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9nzao/shipped_my_first_game_wingsuit_base_jumping_the/",
+      "author": "Suspicious_Swan4988",
+      "date": "2026-10-19T05:01:48.000Z",
+      "title": "Shipped my first game (wingsuit / BASE jumping) — the first-60-seconds problem is real. What actually worked for you?",
+      "excerpt_en": "Solo dev here. I just shipped EXIT POINT, a wingsuit / BASE jumping game: spawn on a summit, dive a valley and a city, proximity-score your lines, race ghost times. The world is mostly baked (towns, trees, horizon) with runtime-built pieces on top, and the flight model is custom…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-19T07:11:24.488Z"
+    },
+    {
+      "id": "reddit:t3_1xasptr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
+      "author": "Sensitive-Cap-3362",
+      "date": "2026-10-20T13:51:37.000Z",
+      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
+      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
     }
   ]
 }
