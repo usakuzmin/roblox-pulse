@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-22T07:09:39.923Z",
+  "generated_at": "2026-10-22T13:06:33.688Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 120268
+      "ms": 135052
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91497
+      "ms": 31099
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3578
+      "ms": 3571
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 178
+      "ms": 272
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 724
+      "ms": 259
     }
   },
   "items": [
@@ -68,6 +68,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T01:04:46.492Z"
+    },
+    {
+      "id": "reddit:t3_1xcbr2g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcbr2g/player_retention_issues/",
+      "author": "AcanthisittaOdd4532",
+      "date": "2026-10-22T07:11:34.000Z",
+      "title": "Player retention issues",
+      "excerpt_en": "People keep leaving on the tutorial which I understand but also at around the 20 minute mark (on stage 3) which I don't understand why. Will anyone playtest or tell me if there's any issues at around stage 3 or 20-30 minute mark? https://pr…",
+      "score": 10,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T13:06:33.688Z"
+    },
+    {
+      "id": "devforum:4949163",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/what-makes-a-good-tower-defense-game/4949163",
+      "author": "TheBattleCats642",
+      "date": "2026-10-22T01:17:53.434Z",
+      "title": "What makes a good Tower Defense game?",
+      "excerpt_en": "Hi! I’m currently making a Tower Defense game known as Tower Defense Initiative, and I was wondering, what exactly makes a good Tower Defense game? For some context, TDI is a somewhat complicated Tower Defense game, featuring towers with two different upgrade paths, multiple…",
+      "score": 6.2,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 40
+      },
+      "first_seen": "2026-10-22T13:06:33.688Z"
     },
     {
       "id": "reddit:t3_1xc90st",
