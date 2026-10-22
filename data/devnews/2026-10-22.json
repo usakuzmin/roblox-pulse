@@ -1,34 +1,56 @@
 {
-  "generated_at": "2026-10-22T01:04:46.492Z",
+  "generated_at": "2026-10-22T07:09:39.923Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 130790
+      "ms": 120268
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91521
+      "ms": 91497
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3641
+      "ms": 3578
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 127
+      "ms": 178
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 354
+      "ms": 724
     }
   },
   "items": [
+    {
+      "id": "devforum:4949307",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/concerns-about-roblox-ads-home-recommendations-and-audience-targeting/4949307",
+      "author": "ogres",
+      "date": "2026-10-22T03:39:49.318Z",
+      "title": "Concerns About Roblox Ads, Home Recommendations, and Audience Targeting",
+      "excerpt_en": "Hello everyone, I’m making this post to see whether other developers have experienced similar issues with Roblox’s advertising and recommendation systems. Over the past few weeks, my team and I have invested a considerable amount of time and money into developing and advertising…",
+      "score": 18.7,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 20
+      },
+      "first_seen": "2026-10-22T07:09:39.923Z"
+    },
     {
       "id": "reddit:t3_1xc1bjn",
       "source": "reddit",
@@ -46,6 +68,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T01:04:46.492Z"
+    },
+    {
+      "id": "reddit:t3_1xc90st",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xc90st/looking_for_a_marketerpromoter/",
+      "author": "Friendly-Programmer4",
+      "date": "2026-10-22T04:32:18.000Z",
+      "title": "Looking for a marketer/promoter",
+      "excerpt_en": "Hey reader, we’re a studio that’s been working on a game for a while and are preparing a marketing launch within the next week (we’ve got a budget) We’re looking for someone that takes the initiative and can clearly communicate We’re offering payment subject to how many things…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T07:09:39.923Z"
     },
     {
       "id": "devforum:4948713",
@@ -76,6 +113,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-22T01:04:46.492Z"
+    },
+    {
+      "id": "reddit:t3_1xbvwgu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbvwgu/return_by_death_system/",
+      "author": "Serious-Animal3958",
+      "date": "2026-10-21T18:53:11.000Z",
+      "title": "Return By Death System",
+      "excerpt_en": "I feel like something is missing. Any suggestions on what to add? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-22T07:09:39.923Z"
     }
   ]
 }

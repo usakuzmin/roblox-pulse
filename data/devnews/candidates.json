@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:04:46.542Z",
+  "generated_at": "2026-10-22T07:09:39.975Z",
   "from_files": [
     "2026-10-19.json",
     "2026-10-20.json",
@@ -43,6 +43,28 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T19:03:40.390Z"
+    },
+    {
+      "id": "devforum:4949307",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/concerns-about-roblox-ads-home-recommendations-and-audience-targeting/4949307",
+      "author": "ogres",
+      "date": "2026-10-22T03:39:49.318Z",
+      "title": "Concerns About Roblox Ads, Home Recommendations, and Audience Targeting",
+      "excerpt_en": "Hello everyone, I’m making this post to see whether other developers have experienced similar issues with Roblox’s advertising and recommendation systems. Over the past few weeks, my team and I have invested a considerable amount of time and money into developing and advertising…",
+      "score": 18.7,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 20
+      },
+      "first_seen": "2026-10-22T07:09:39.923Z"
     },
     {
       "id": "reddit:t3_1xc1bjn",
@@ -260,23 +282,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-19T07:11:24.488Z"
-    },
-    {
-      "id": "reddit:t3_1xasptr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
-      "author": "Sensitive-Cap-3362",
-      "date": "2026-10-20T13:51:37.000Z",
-      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
-      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-20T19:01:15.720Z"
     }
   ]
 }
