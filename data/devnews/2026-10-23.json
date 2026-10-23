@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-23T13:04:15.629Z",
+  "generated_at": "2026-10-23T19:02:05.104Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 144864
+      "ms": 157891
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91657
+      "ms": 92440
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 3784
+      "fetched": 6,
+      "ms": 4392
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 410
+      "ms": 167
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 229
+      "ms": 726
     }
   },
   "items": [
@@ -136,6 +136,25 @@
       "first_seen": "2026-10-23T07:07:41.345Z"
     },
     {
+      "id": "devforum:4951901",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901",
+      "author": "Tyyjz_91",
+      "date": "2026-10-23T07:57:02.653Z",
+      "title": "Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)",
+      "excerpt_en": "Yo, I’m the developer of [ Turbostorm Car Racing ], a racing game called TURBOSTORM Car Racing . I recently ran some ad campaigns for only a day and the initial data looks promising, once players actually get behind the wheel, they stick around for an average of 10 minutes . I’m…",
+      "score": 7.3,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "views": 40
+      },
+      "first_seen": "2026-10-23T19:02:05.104Z"
+    },
+    {
       "id": "reddit:t3_1xcy5i8",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcy5i8/weaponarmor_design_and_modelling/",
@@ -167,6 +186,21 @@
       "first_seen": "2026-10-23T07:07:41.345Z"
     },
     {
+      "id": "reddit:t3_1xdih8y",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdih8y/theres_too_many_ai_remakesai_slop_games_taking/",
+      "author": "SmoothChemistry8564",
+      "date": "2026-10-23T16:16:06.000Z",
+      "title": "there's too many AI remakes/AI slop games taking over the site",
+      "excerpt_en": "it's insane how more or less every game is the same as the others, just reskinned differently, typically with dopamine simulators. yet, all of these AI games get hundreds and thousands of concurrent players, and whilst it's cool AI can do all of this, every game is losing its…",
+      "score": 7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T19:02:05.104Z"
+    },
+    {
       "id": "devforum:4950620",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
@@ -186,6 +220,25 @@
       "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
+      "id": "devforum:4947839",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839",
+      "author": "kieranhendy",
+      "date": "2026-10-21T09:31:25.736Z",
+      "title": "[Feedback Wanted] Service Please! – A Restaurant Simulator Focused on Cooking & Service",
+      "excerpt_en": "Hey everyone! I’ve recently released the public Alpha of Service Please! , a restaurant simulator I’ve been wanting to create for quite a few years now. I’m looking for some honest, constructive feedback from other developers and players. A bit of background I’ve wanted to…",
+      "score": 5.4,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 58
+      },
+      "first_seen": "2026-10-23T19:02:05.104Z"
+    },
+    {
       "id": "reddit:t3_1xd9m64",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd9m64/why_is_my_ctr_lowest_its_ever_been_14/",
@@ -199,6 +252,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T13:04:15.629Z"
+    },
+    {
+      "id": "devforum:4942834",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/ticket-id-184413881-submitted-on-october-7th-termination-of-community-and-2-experiences-for-terrorism-ambiguous-naming-of-problematic-asset/4942834",
+      "author": "SilverAuthorize",
+      "date": "2026-10-18T18:41:17.087Z",
+      "title": "Ticket Id: 184413881, Submitted on October 7th | Termination of community and 2 experiences for terrorism, ambiguous naming of problematic asset",
+      "excerpt_en": "Acting on behalf of Community 5113986/sethwyddd’s Special Containment Procedures Foundation. Two experiences ( https://www.roblox.com/games/14087737574 and https://www.roblox.com/games/13841711915 ) and the community ( /[SCPF] Special Containment Procedures Foundation\\ - Roblox…",
+      "score": 4.1,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "views": 155
+      },
+      "first_seen": "2026-10-23T19:02:05.104Z"
     },
     {
       "id": "reddit:t3_1xctesv",
@@ -264,6 +334,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-23T13:04:15.629Z"
+    },
+    {
+      "id": "reddit:t3_1xd7xjv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7xjv/an_oval_racing_game_with_more_focus_on_tactics/",
+      "author": "pilt",
+      "date": "2026-10-23T08:00:52.000Z",
+      "title": "An oval racing game with more focus on tactics",
+      "excerpt_en": "I've been working on an oval racing game where the car follows the racing line automatically. You control lane changes and boost and decide when to pit. The controls are simple (you just use a joystick) and there's a fairly detailed physics model underneath. Tyre grip, weight…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T19:02:05.104Z"
+    },
+    {
+      "id": "reddit:t3_1xcs96m",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcs96m/bannerfall_ui_medieval_ancient_game/",
+      "author": "4DDStudios",
+      "date": "2026-10-22T19:28:47.000Z",
+      "title": "Bannerfall UI (Medieval ancient game)",
+      "excerpt_en": "Hello there friends me and a couple lads are working on a medieval inspired game and i wanted to showcase the ui we got so far! Enjoy. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T19:02:05.104Z"
+    },
+    {
+      "id": "reddit:t3_1xb7azm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb7azm/roblox_scripter_lf_comms/",
+      "author": "discerninq",
+      "date": "2026-10-20T23:18:52.000Z",
+      "title": "Roblox scripter Lf comms",
+      "excerpt_en": "New stuff made for Seraphs End. Portfolio: https://discerninq.dev Discord: discerninq_ ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T19:02:05.104Z"
     }
   ]
 }
