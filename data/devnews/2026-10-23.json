@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-10-23T01:09:06.096Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 135434
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91705
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 4160
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 112
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 250
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xcu58e",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
+      "author": "Sorry_Adhesiveness49",
+      "date": "2026-10-22T20:39:11.000Z",
+      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
+      "excerpt_en": "Concept part: Hi! So, I got tired of the front page being the same sloptype games like those “Steal a ___” , \"Grow a __\" clones, so I made a game where you browse ~1,100 (still gathering more) smaller Roblox games and jump straight into them. Trend/cashgrab clones are hidden by…",
+      "score": 19,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xczgrc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
+      "author": "goonmaster6942067",
+      "date": "2026-10-23T00:27:08.000Z",
+      "title": "What should i do to get into the algorithm?",
+      "excerpt_en": "Hey guys, i have a max of 60 ad credits to spend so i was wondering what should i do for a campaign to try and break into the algorith and homepageand make some profit so i can either reinvest back into the game or just make money This is my first game ive really tried on and i…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xcsv3p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcsv3p/highly_engaged_player_stats/",
+      "author": "ChocolateSoju",
+      "date": "2026-10-22T19:51:37.000Z",
+      "title": "Highly Engaged Player Stats",
+      "excerpt_en": "Hey if I'm running an ad campaign, do the highly engaged players HEPS I get from the ad campaign also lag behind up to 48 hours like the ad's plays and revenue stats do? Or is the HEP stat genuinely updated every few hours to show the true number? I was doing play ads for like 2…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xcy5i8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcy5i8/weaponarmor_design_and_modelling/",
+      "author": "Terrible_Public5817",
+      "date": "2026-10-22T23:27:30.000Z",
+      "title": "Weapon/Armor Design and Modelling",
+      "excerpt_en": "Hello everyone! I've been working on an upcoming RPG/Rogue-like game inspired by those mobile ads where you see those stick figures shooting guns through red and blue portals giving you different buffs and etc. I wanted to turn this concept into the core gameplay of a game where…",
+      "score": 7,
+      "tags": [
+        "marketing",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "devforum:4950620",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
+      "author": "LuckyRainGG",
+      "date": "2026-10-22T20:00:03.821Z",
+      "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
+      "excerpt_en": "Hi Creators, Starting today, Custom Terrain Materials and the first set of rendering, storage, and delivery improvements have exited Early Access and are fully supported. You can now publish games that use these features and anyone on Roblox can play them. Places you edited…",
+      "score": 5.4,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 144,
+        "replies": 48,
+        "views": 1456
+      },
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xctesv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xctesv/added_a_new_machine_to_the_factory_game_im/",
+      "author": "jebeDIEah_Kerbal",
+      "date": "2026-10-22T20:11:10.000Z",
+      "title": "Added a new machine to the factory game I'm working on, the wire extruder. Some new copper elements and ground parts as well.",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xcwnum",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcwnum/legion_titan_model_for_our_titanfall_2_roblox/",
+      "author": "gneethbappyer1",
+      "date": "2026-10-22T22:21:28.000Z",
+      "title": "Legion titan model for our Titanfall 2 Roblox project",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
+    }
+  ]
+}

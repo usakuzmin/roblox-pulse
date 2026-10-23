@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T19:02:36.454Z",
+  "generated_at": "2026-10-23T01:09:06.147Z",
   "from_files": [
-    "2026-10-19.json",
     "2026-10-20.json",
     "2026-10-21.json",
-    "2026-10-22.json"
+    "2026-10-22.json",
+    "2026-10-23.json"
   ],
   "items": [
     {
@@ -28,21 +28,22 @@
       "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
-      "id": "reddit:t3_1xa5a4d",
+      "id": "reddit:t3_1xcu58e",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa5a4d/is_it_possible_to_earn_5_000_a_month_from_a_500/",
-      "author": "Svainers",
-      "date": "2026-10-19T18:44:38.000Z",
-      "title": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization?",
-      "excerpt_en": "Is it possible to earn 5 000$ a month from a 500 CCU Game if it has good monetization? ",
-      "score": 21,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
+      "author": "Sorry_Adhesiveness49",
+      "date": "2026-10-22T20:39:11.000Z",
+      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
+      "excerpt_en": "Concept part: Hi! So, I got tired of the front page being the same sloptype games like those “Steal a ___” , \"Grow a __\" clones, so I made a game where you browse ~1,100 (still gathering more) smaller Roblox games and jump straight into them. Trend/cashgrab clones are hidden by…",
+      "score": 19,
       "tags": [
         "metrics",
-        "monetization",
+        "ads",
+        "discovery",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-19T19:03:40.390Z"
+      "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
       "id": "devforum:4949307",
@@ -85,24 +86,6 @@
       "first_seen": "2026-10-22T01:04:46.492Z"
     },
     {
-      "id": "reddit:t3_1x9sxhs",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9sxhs/stuck_at_29250_highly_engaged_players_for_kids/",
-      "author": "Prudent-Walk2394",
-      "date": "2026-10-19T10:09:34.000Z",
-      "title": "Stuck at 29/250 Highly Engaged Players for Kids & Select — how did you get past it?",
-      "excerpt_en": "I launched my simulator game about 2 weeks ago. It’s still in the 16+ only phase, and I’m at 29/250 highly engaged players. I spent $40 on Roblox Ads, but it barely moved the count. Current stats (last 7 days): DAU: ~19 Avg session: 11.2 min (genre benchmark 13–31 min) D1…",
-      "score": 16,
-      "tags": [
-        "revenue",
-        "metrics",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-19T13:06:43.010Z"
-    },
-    {
       "id": "reddit:t3_1xact8z",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xact8z/i_made_a_roblox_anime_drafting_game_where_you/",
@@ -135,6 +118,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-21T07:07:35.201Z"
+    },
+    {
+      "id": "reddit:t3_1xczgrc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
+      "author": "goonmaster6942067",
+      "date": "2026-10-23T00:27:08.000Z",
+      "title": "What should i do to get into the algorithm?",
+      "excerpt_en": "Hey guys, i have a max of 60 ad credits to spend so i was wondering what should i do for a campaign to try and break into the algorith and homepageand make some profit so i can either reinvest back into the game or just make money This is my first game ive really tried on and i…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
       "id": "devforum:4946987",
@@ -196,23 +196,6 @@
       "first_seen": "2026-10-21T19:03:03.985Z"
     },
     {
-      "id": "reddit:t3_1x9w1kh",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9w1kh/revshare_looking_for_roblox_devs_scripters/",
-      "author": "Losti_san",
-      "date": "2026-10-19T12:50:59.000Z",
-      "title": "​[RevShare] Looking for Roblox Devs (Scripters, Builders, UI) to team up, share ideas, and make cool games together!",
-      "excerpt_en": "Hey everyone! ​I’m Losti, a Roblox dev, and I'm forming a collaborative team of developers (Scripters, Builders, UI Designers, 3D Artists, Animators) to prototype, test, and release fun Roblox games together. ​💡 How we will work together: ​Flat structure: We work as equals…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "marketing",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-19T13:06:43.010Z"
-    },
-    {
       "id": "reddit:t3_1xa8el7",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa8el7/i_poured_my_heart_into_this_evergreen_game_and/",
@@ -263,24 +246,38 @@
       "first_seen": "2026-10-22T19:02:36.408Z"
     },
     {
-      "id": "devforum:4944537",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/my-devex-request-was-declined-due-to-name-discrepancy-and-roblox-doesnt-reply/4944537",
-      "author": "filleshh",
-      "date": "2026-10-19T18:04:44.309Z",
-      "title": "My Devex request was declined due to name discrepancy and roblox doesnt reply",
-      "excerpt_en": "My request was rejected due to an automated name discrepancy check because my sponsor details were updated to a family members legal information (Because im underage). I have been trying to get a manual review and ID verification link since late September, but my tickets remain…",
-      "score": 12.5,
+      "id": "reddit:t3_1xasptr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
+      "author": "Sensitive-Cap-3362",
+      "date": "2026-10-20T13:51:37.000Z",
+      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
+      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-20T19:01:15.720Z"
+    },
+    {
+      "id": "reddit:t3_1xbdjcx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbdjcx/how_do_you_escape_the_roblox_ads_nightmare/",
+      "author": "dasketern",
+      "date": "2026-10-21T04:24:53.000Z",
+      "title": "How do you escape the Roblox ads nightmare?",
+      "excerpt_en": "I've been running Play ads, but the performance has been much worse than my previous campaigns. I've tried changing thumbnails and restarting campaigns multiple times, but the ads are still expensive and barely getting any impressions. I've spent around $30 and only got about…",
+      "score": 12,
       "tags": [
         "revenue",
-        "ads"
+        "discovery",
+        "numbers"
       ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 7
-      },
-      "first_seen": "2026-10-19T19:03:40.390Z"
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
     }
   ]
 }
