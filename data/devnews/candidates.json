@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:07:41.427Z",
+  "generated_at": "2026-10-23T13:04:15.686Z",
   "from_files": [
     "2026-10-20.json",
     "2026-10-21.json",
@@ -268,21 +268,21 @@
       "first_seen": "2026-10-22T19:02:36.408Z"
     },
     {
-      "id": "reddit:t3_1xasptr",
+      "id": "reddit:t3_1xdak1x",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xasptr/how_do_obby_platformer_genre_games_increase/",
-      "author": "Sensitive-Cap-3362",
-      "date": "2026-10-20T13:51:37.000Z",
-      "title": "How do Obby & Platformer Genre Games Increase Conversions?",
-      "excerpt_en": "My game recently started peaking at 200 ccu, but my conversion rate is still really low(0.32%). Most of my sales are coming from revives with an occasional large purchase here and there. My question is, how do popular games adjust their experience to increase conversions? I…",
-      "score": 12,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
+      "author": "Illustrious-Ad5480",
+      "date": "2026-10-23T10:41:39.000Z",
+      "title": "Feedback appreciated (Solo dev) first roblox game.",
+      "excerpt_en": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get…",
+      "score": 13,
       "tags": [
+        "revenue",
         "metrics",
-        "story",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-20T19:01:15.720Z"
+      "first_seen": "2026-10-23T13:04:15.629Z"
     }
   ]
 }

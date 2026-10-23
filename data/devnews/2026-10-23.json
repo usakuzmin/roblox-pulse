@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-23T07:07:41.345Z",
+  "generated_at": "2026-10-23T13:04:15.629Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 136326
+      "ms": 144864
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91577
+      "ms": 91657
     },
     "rss": {
       "ok": true,
-      "fetched": 3,
-      "ms": 2502
+      "fetched": 5,
+      "ms": 3784
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 259
+      "ms": 410
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 262
+      "ms": 229
     }
   },
   "items": [
@@ -85,6 +85,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xdak1x",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
+      "author": "Illustrious-Ad5480",
+      "date": "2026-10-23T10:41:39.000Z",
+      "title": "Feedback appreciated (Solo dev) first roblox game.",
+      "excerpt_en": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T13:04:15.629Z"
     },
     {
       "id": "reddit:t3_1xcsv3p",
@@ -169,6 +186,21 @@
       "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
+      "id": "reddit:t3_1xd9m64",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd9m64/why_is_my_ctr_lowest_its_ever_been_14/",
+      "author": "Aromatic-Guarantee66",
+      "date": "2026-10-23T09:46:14.000Z",
+      "title": "why is my ctr lowest its ever been 1.4%",
+      "excerpt_en": "I genuelly dont know why my ctr is so low highest one hitting 1.4% i tried to change thumbnails but none work i made the thumbnails with chatgpt and not a single one hitting more than 1.4% can anyone help me make a better one? im open to hate comments and helpful ones. i did a…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T13:04:15.629Z"
+    },
+    {
       "id": "reddit:t3_1xctesv",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xctesv/added_a_new_machine_to_the_factory_game_im/",
@@ -219,6 +251,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-23T07:07:41.345Z"
+    },
+    {
+      "id": "reddit:t3_1xd91zi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd91zi/studio_made_thumbnails_for_my_upcoming_game_hush/",
+      "author": "slimebrowser",
+      "date": "2026-10-23T09:11:19.000Z",
+      "title": "Studio made thumbnails for my upcoming game HUSH",
+      "excerpt_en": "Put together a couple of surface lights together and filled up a scene, then added final touches in external editing software. Thoughts and any feedback would be great :) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T13:04:15.629Z"
     }
   ]
 }
