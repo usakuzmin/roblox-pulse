@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-23T01:09:06.096Z",
+  "generated_at": "2026-10-23T07:07:41.345Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 135434
+      "ms": 136326
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91705
+      "ms": 91577
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 4160
+      "fetched": 3,
+      "ms": 2502
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 112
+      "ms": 259
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 250
+      "ms": 262
     }
   },
   "items": [
@@ -46,6 +46,28 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "devforum:4951775",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775",
+      "author": "trickswave",
+      "date": "2026-10-23T05:35:35.943Z",
+      "title": "How do developers grow multiplayer games nowadays?",
+      "excerpt_en": "So I released a multiplayer game on the platform last week, and I’ve been struggling to get enough players for rounds to even start. I have some experience with developing games on the platform and have had some success with obbies and single-player games, but multiplayer is…",
+      "score": 17,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 2,
+        "views": 18
+      },
+      "first_seen": "2026-10-23T07:07:41.345Z"
     },
     {
       "id": "reddit:t3_1xczgrc",
@@ -81,6 +103,22 @@
       "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
+      "id": "reddit:t3_1xd2okp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2okp/if_i_learn_would_i_ever_get_a_popular_game/",
+      "author": "Lucky-Improvement-25",
+      "date": "2026-10-23T03:04:01.000Z",
+      "title": "If i learn, would i ever get a popular game?",
+      "excerpt_en": "i like coding, i tried coding lots of times, the start was amazing, until you have to debug, i stopped everytime when i had to debug because it’d be 20 minutes of staring and its just that parent wasnt capitalized lol. i restarted lately bcs i saw a lot about studio and went…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T07:07:41.345Z"
+    },
+    {
       "id": "reddit:t3_1xcy5i8",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcy5i8/weaponarmor_design_and_modelling/",
@@ -95,6 +133,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xd3k5j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd3k5j/my_first_solo_game_after_many_years/",
+      "author": "TraverseNull",
+      "date": "2026-10-23T03:49:13.000Z",
+      "title": "My First Solo Game After Many Years!",
+      "excerpt_en": "Hey everyone! First, thanks for giving me the motivation to continue building this from all the cool posts about your own games, it kept me going. I am a game developer who works mostly in Unity. I've never released a full game of my own. I only have an archive full of hobby…",
+      "score": 7,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T07:07:41.345Z"
     },
     {
       "id": "devforum:4950620",
@@ -140,6 +193,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-23T01:09:06.096Z"
+    },
+    {
+      "id": "reddit:t3_1xch1gj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xch1gj/robotic_flashlight_companion/",
+      "author": "Hissue_",
+      "date": "2026-10-22T12:20:24.000Z",
+      "title": "Robotic Flashlight Companion",
+      "excerpt_en": "Work in Progress Working as flashlight and as radar - spotting hidden enemies and useful items. Works fully automatic ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T07:07:41.345Z"
+    },
+    {
+      "id": "reddit:t3_1xcca1r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcca1r/progress_with_my_roblox_horror_game_so_far/",
+      "author": "TheLoveRiddle",
+      "date": "2026-10-22T07:45:25.000Z",
+      "title": "Progress with my Roblox Horror game so far",
+      "excerpt_en": "Hey guys!! Currently working on a medical horror game set in 1806-1807. The premise is that you work as a nurse or medic just before the British bombardment, and once that happens, you start to notice irregularities in symptoms and realise that zombies have begun to infect…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-23T07:07:41.345Z"
     }
   ]
 }
