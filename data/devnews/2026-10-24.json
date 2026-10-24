@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-24T13:00:46.917Z",
+  "generated_at": "2026-10-24T18:55:07.892Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 127458
+      "ms": 202688
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91936
+      "ms": 91162
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3965
+      "ms": 2946
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 298
+      "ms": 214
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 2926
+      "ms": 243
     }
   },
   "items": [
@@ -87,6 +87,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xe93fw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe93fw/my_game_wont_go_pass_2_ccu/",
+      "author": "Shinichiro_7616",
+      "date": "2026-10-24T13:46:28.000Z",
+      "title": "My game won’t go pass 2 ccu",
+      "excerpt_en": "I published my first game 2 weeks ago. Ctr was terrible on the previous ads. But the one I started yesterday is seating at 3.3% ctr, but my problem is the ccu doesn’t go up. It always between 0-3, I added a tutorial, engaging quests for players to stay but they always leave…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
     },
     {
       "id": "reddit:t3_1xe4fk5",
@@ -190,6 +206,22 @@
       "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
+      "id": "reddit:t3_1xeasac",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeasac/my_game_the_last_shift/",
+      "author": "muffinstaken_PROx",
+      "date": "2026-10-24T14:57:23.000Z",
+      "title": "My game: [🎃] THE LAST SHIFT",
+      "excerpt_en": "My game has recently gotten 68 ccu peak and I want to find bugs can someone find some and msg me I’ll rlly appreciate it. ",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
       "id": "reddit:t3_1xe6oa3",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe6oa3/looking_for_devsunpaid_revenue_share/",
@@ -268,6 +300,21 @@
       "first_seen": "2026-10-24T07:03:50.212Z"
     },
     {
+      "id": "reddit:t3_1xedblt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xedblt/am_i_considered_lucky/",
+      "author": "hexachrone",
+      "date": "2026-10-24T16:39:57.000Z",
+      "title": "Am i considered lucky?",
+      "excerpt_en": "https://preview.redd.it/v9asrmv31gxh1.png?width=813&format=png&auto=webp&s=a2c064d4e794249ae5308a680bb5df84839ce910 Is my game considered lucky to have peak ccu 400 within 7 days without no ads ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
       "id": "reddit:t3_1xe6u49",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe6u49/forhire_roblox_developers_for_ethereal_massacre/",
@@ -281,6 +328,81 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-24T13:00:46.917Z"
+    },
+    {
+      "id": "devforum:4954427",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-on-a-granny-style-horror-game/4954427",
+      "author": "Snack_Tack",
+      "date": "2026-10-24T12:21:29.134Z",
+      "title": "Feedback on a Granny style horror game",
+      "excerpt_en": "Hey fellow devs! We are a brand new dev team and we just finished our very first project together: Chipy Murdy , a Piggy-inspired survival horror and puzzle escape game. Since we are a new team and currently working through the 16+ evaluation threshold so we can unlock All Ages…",
+      "score": 4.3,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 28
+      },
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
+      "id": "devforum:4944515",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/allow-for-searching-for-specific-contents-in-datastores/4944515",
+      "author": "APurplyBlue",
+      "date": "2026-10-19T17:47:01.652Z",
+      "title": "Allow for searching for specific contents in datastores",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to find User ID’s in high amounts of datastores because some datastores don’t have the User ID in their name. It would be better to be able to search for something in datastore contents. If Roblox is able to address this issue, it…",
+      "score": 3.1,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 68
+      },
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
+      "id": "reddit:t3_1xeckqk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeckqk/finally_got_10k/",
+      "author": "Sensitive-Cap-3362",
+      "date": "2026-10-24T16:09:42.000Z",
+      "title": "Finally Got 10k!",
+      "excerpt_en": "It’s been a slow grind 😭 ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
+      "id": "reddit:t3_1xedq2r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xedq2r/i_am_working_on_a_huge_gta_game_for_roblox_here/",
+      "author": "iknowankn",
+      "date": "2026-10-24T16:55:58.000Z",
+      "title": "I am working on a huge GTA game for Roblox, here is the first sneak peek",
+      "excerpt_en": "This is 10 minutes of real gameplay footage from my game. As you can see, there are still a lot of things that look rough, unfinished, or need improvement. I think the game could be ready for release as early as next week, but I want to hear some honest feedback before making…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
+      "id": "reddit:t3_1xe567l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe567l/need_play_tester/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-24T10:26:29.000Z",
+      "title": "Need play tester :((",
+      "excerpt_en": "Sorry for not replying to my last post. Anyway, who wants to be a playtester for my game? Just DM me if you're interested. I can only offer a percentage shares of my game as I won't be able to pay anyone after the testing session. i only need 2-5 play tester ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
     }
   ]
 }

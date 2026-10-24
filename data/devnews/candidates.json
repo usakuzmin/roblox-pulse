@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:00:46.985Z",
+  "generated_at": "2026-10-24T18:55:07.960Z",
   "from_files": [
     "2026-10-21.json",
     "2026-10-22.json",
@@ -202,6 +202,22 @@
       "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
+      "id": "reddit:t3_1xe93fw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe93fw/my_game_wont_go_pass_2_ccu/",
+      "author": "Shinichiro_7616",
+      "date": "2026-10-24T13:46:28.000Z",
+      "title": "My game won’t go pass 2 ccu",
+      "excerpt_en": "I published my first game 2 weeks ago. Ctr was terrible on the previous ads. But the one I started yesterday is seating at 3.3% ctr, but my problem is the ccu doesn’t go up. It always between 0-3, I added a tutorial, engaging quests for players to stay but they always leave…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T18:55:07.892Z"
+    },
+    {
       "id": "devforum:4946987",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987",
@@ -271,23 +287,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T19:02:36.408Z"
-    },
-    {
-      "id": "reddit:t3_1xdak1x",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
-      "author": "Illustrious-Ad5480",
-      "date": "2026-10-23T10:41:39.000Z",
-      "title": "Feedback appreciated (Solo dev) first roblox game.",
-      "excerpt_en": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-23T13:04:15.629Z"
     }
   ]
 }
