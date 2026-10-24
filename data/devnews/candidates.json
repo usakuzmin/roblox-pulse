@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T19:02:05.164Z",
+  "generated_at": "2026-10-24T01:11:18.306Z",
   "from_files": [
-    "2026-10-20.json",
     "2026-10-21.json",
     "2026-10-22.json",
-    "2026-10-23.json"
+    "2026-10-23.json",
+    "2026-10-24.json"
   ],
   "items": [
     {
@@ -86,6 +86,25 @@
       "first_seen": "2026-10-22T01:04:46.492Z"
     },
     {
+      "id": "reddit:t3_1xdrqhs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdrqhs/is_my_game_done_for/",
+      "author": "MultiGamesYTIS",
+      "date": "2026-10-23T22:14:31.000Z",
+      "title": "Is my game done for?",
+      "excerpt_en": "https://preview.redd.it/bhi3e4ozjaxh1.png?width=630&format=png&auto=webp&s=4b258d6f9166276d9f1484d523988acce4d3284c last week my game finally reached 250HEP, I did some plays ads for couple of days, reaches about 120 ccu peak for couple of minutes then it was around 7-15 ccu…",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
       "id": "devforum:4951775",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775",
@@ -108,20 +127,22 @@
       "first_seen": "2026-10-23T07:07:41.345Z"
     },
     {
-      "id": "reddit:t3_1xact8z",
+      "id": "reddit:t3_1xdtvj2",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xact8z/i_made_a_roblox_anime_drafting_game_where_you/",
-      "author": "Intrepid_Arachnid814",
-      "date": "2026-10-19T23:42:26.000Z",
-      "title": "I made a Roblox anime drafting game where you only have $20 to build your team",
-      "excerpt_en": "Hey everyone! I've been working on a Roblox game called 20 Dollar Draft Battle , and I finally released the beta today! The concept is pretty simple. You go against another player, and both of you start with $20. There are 12 auction rounds where you bid against each other for…",
-      "score": 15,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdtvj2/ai_is_ruining_my_experience_coding_games/",
+      "author": "Maleficent_Bar8400",
+      "date": "2026-10-23T23:52:33.000Z",
+      "title": "AI is ruining my experience coding games",
+      "excerpt_en": "I've been working on a game for a long time now, and I am nearing finished. I think it is pretty well made and I liked making it, definitely taught me a few things. I guess I decided to publish it at the EXACT WRONG TIME, because lord have mercy every game is slop and AI. This…",
+      "score": 16,
       "tags": [
         "revenue",
+        "metrics",
+        "ads",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-20T01:06:19.640Z"
+      "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
       "id": "reddit:t3_1xb9e79",
@@ -179,27 +200,6 @@
       "first_seen": "2026-10-21T01:06:09.023Z"
     },
     {
-      "id": "devforum:4945086",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/homepage-recommendation-eligibility-now-requires-a-custom-thumbnail/4945086",
-      "author": "itsblueberrycoffee",
-      "date": "2026-10-19T21:26:06.328Z",
-      "title": "Homepage Recommendation Eligibility Now Requires a Custom Thumbnail",
-      "excerpt_en": "Hi Creators, Starting today, only games with a custom thumbnail will receive impressions from homepage recommendations. If your game only has a default thumbnail, it won’t be eligible. We’re making this change because thumbnails help players understand what your game offers…",
-      "score": 14,
-      "tags": [
-        "platform",
-        "marketing",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 93,
-        "replies": 11,
-        "views": 895
-      },
-      "first_seen": "2026-10-20T01:06:19.640Z"
-    },
-    {
       "id": "reddit:t3_1xbqjsr",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbqjsr/how_do_you_get_your_first_players_without_paid_ads/",
@@ -216,23 +216,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-21T19:03:03.985Z"
-    },
-    {
-      "id": "reddit:t3_1xa8el7",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa8el7/i_poured_my_heart_into_this_evergreen_game_and/",
-      "author": "peachbaby12",
-      "date": "2026-10-19T20:40:10.000Z",
-      "title": "I Poured my heart into this evergreen game and its not green",
-      "excerpt_en": "Hey guys, i am pretty lost on what to do right now. I’ve been making this non slop, non tower defence game for quite a while( maybe it doesn’t look that hard to make, but its my first game and I sure took many wrong paths during the making). Its an arcade style, fast paced tank…",
-      "score": 13,
-      "tags": [
-        "metrics",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-20T01:06:19.640Z"
     },
     {
       "id": "reddit:t3_1xbmjtt",
@@ -283,6 +266,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T13:04:15.629Z"
+    },
+    {
+      "id": "reddit:t3_1xbdjcx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbdjcx/how_do_you_escape_the_roblox_ads_nightmare/",
+      "author": "dasketern",
+      "date": "2026-10-21T04:24:53.000Z",
+      "title": "How do you escape the Roblox ads nightmare?",
+      "excerpt_en": "I've been running Play ads, but the performance has been much worse than my previous campaigns. I've tried changing thumbnails and restarting campaigns multiple times, but the ads are still expensive and barely getting any impressions. I've spent around $30 and only got about…",
+      "score": 12,
+      "tags": [
+        "revenue",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-21T07:07:35.201Z"
     }
   ]
 }

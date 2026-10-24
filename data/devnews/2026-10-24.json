@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-10-24T01:11:18.256Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 132420
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91524
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3868
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 83
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 386
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xdrqhs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdrqhs/is_my_game_done_for/",
+      "author": "MultiGamesYTIS",
+      "date": "2026-10-23T22:14:31.000Z",
+      "title": "Is my game done for?",
+      "excerpt_en": "https://preview.redd.it/bhi3e4ozjaxh1.png?width=630&format=png&auto=webp&s=4b258d6f9166276d9f1484d523988acce4d3284c last week my game finally reached 250HEP, I did some plays ads for couple of days, reaches about 120 ccu peak for couple of minutes then it was around 7-15 ccu…",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xdtvj2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdtvj2/ai_is_ruining_my_experience_coding_games/",
+      "author": "Maleficent_Bar8400",
+      "date": "2026-10-23T23:52:33.000Z",
+      "title": "AI is ruining my experience coding games",
+      "excerpt_en": "I've been working on a game for a long time now, and I am nearing finished. I think it is pretty well made and I liked making it, definitely taught me a few things. I guess I decided to publish it at the EXACT WRONG TIME, because lord have mercy every game is slop and AI. This…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "devforum:4953005",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
+      "author": "NuggetLua",
+      "date": "2026-10-23T19:32:18.294Z",
+      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
+      "excerpt_en": "As a developer with 100+ playtime hours in one of my games, I got roblox plus for 6 months for free on May 19th. However, that free subscription is almost over, and I cannot buy another one before it ends to keep my 2 month 20% off discount. Is there a way to buy one with the…",
+      "score": 11.3,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 35
+      },
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xdu3p7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdu3p7/i_made_a_new_calculatordevex_tool/",
+      "author": "Adventurous_Crew2429",
+      "date": "2026-10-24T00:02:22.000Z",
+      "title": "I made a new calculator/devex tool.",
+      "excerpt_en": "I built a 10-in-1 offline calculator for DevEx/fees/split math — free & open source I kept doing the same math on paper: DevEx on my earnings, what a sale nets after the 30% marketplace cut, splitting group payouts evenly with an upfront cut, and whether you're under the 30,000…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xdtthl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdtthl/just_released_my_first_game_on_roblox_and_my_ctr/",
+      "author": "Logical_Charity_2163",
+      "date": "2026-10-23T23:49:55.000Z",
+      "title": "Just released my first game on Roblox and my Ctr to actual Plays is concerningly low.",
+      "excerpt_en": "This is currently my intro but am I being too general? not really sure what to do. I think my game has a lot of potential but struggling to get over a 5 CCU hump. Any tips or feedback would be amazing https://preview.redd.it/d8yv30ru0bxh1.p…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xdkcml",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdkcml/new_game_need_feedback/",
+      "author": "venx_",
+      "date": "2026-10-23T17:26:15.000Z",
+      "title": "New game, need feedback",
+      "excerpt_en": "i needs honest opinions, just from what you're seeing in this early game development, what can you assume the future of the game could be? Game core loop, success, retention etc. Clip is from Aug 26, 2026 roughly 2 months old ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "reddit:t3_1xdjxj2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjxj2/seeking_advice_0/",
+      "author": "hatingass",
+      "date": "2026-10-23T17:10:32.000Z",
+      "title": "seeking advice :0",
+      "excerpt_en": "i’m very aware of the common question is, “where do I start?” all i’ve been told is to join into AI and make games and such through that. but at that point i wouldn’t even feel fulfilled, and it seems like everyone’s doing that so often that i wouldn’t be able to keep up. does…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T01:11:18.256Z"
+    }
+  ]
+}
