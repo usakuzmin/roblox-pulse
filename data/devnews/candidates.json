@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:11:18.306Z",
+  "generated_at": "2026-10-24T07:03:50.271Z",
   "from_files": [
     "2026-10-21.json",
     "2026-10-22.json",
@@ -103,6 +103,28 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-24T01:11:18.256Z"
+    },
+    {
+      "id": "devforum:4953789",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789",
+      "author": "trickswave",
+      "date": "2026-10-24T04:39:20.870Z",
+      "title": "What are marketing strategies that work well for multiplayer team games?",
+      "excerpt_en": "Me & my friend were wondering what strategies would be best for team based multiplayer games Would spending 10k Robux on marketing be worth it? He was thinking 5k on Roblox ads and 5k paying a YouTuber (who agreed to 5k for a video and he averages 30-200k views a short) to post…",
+      "score": 17.6,
+      "tags": [
+        "metrics",
+        "marketing",
+        "story",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 13
+      },
+      "first_seen": "2026-10-24T07:03:50.212Z"
     },
     {
       "id": "devforum:4951775",
@@ -266,23 +288,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-23T13:04:15.629Z"
-    },
-    {
-      "id": "reddit:t3_1xbdjcx",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbdjcx/how_do_you_escape_the_roblox_ads_nightmare/",
-      "author": "dasketern",
-      "date": "2026-10-21T04:24:53.000Z",
-      "title": "How do you escape the Roblox ads nightmare?",
-      "excerpt_en": "I've been running Play ads, but the performance has been much worse than my previous campaigns. I've tried changing thumbnails and restarting campaigns multiple times, but the ads are still expensive and barely getting any impressions. I've spent around $30 and only got about…",
-      "score": 12,
-      "tags": [
-        "revenue",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-21T07:07:35.201Z"
     }
   ]
 }
