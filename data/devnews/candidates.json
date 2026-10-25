@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:59:21.896Z",
+  "generated_at": "2026-10-25T18:55:10.276Z",
   "from_files": [
     "2026-10-22.json",
     "2026-10-23.json",
@@ -28,6 +28,24 @@
         "views": 36
       },
       "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xf76or",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf76or/recruiting_starting_a_new_roblox_game_studio_from/",
+      "author": "BananaGoesPew",
+      "date": "2026-10-25T16:42:58.000Z",
+      "title": "[Recruiting] Starting a new Roblox game studio from scratch: Bad Banana Arts! (All skill levels welcome / Revenue Share + Future Payouts)",
+      "excerpt_en": "Hey everyone I am starting a brand Roblox game studio named Bad Banana Arts and I am looking for passionate developers, designers and creators who want to build something amazing from the ground up! Whether you are a developer or a beginner who has just started learning all…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
       "id": "reddit:t3_1xcu58e",
@@ -107,6 +125,25 @@
       "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
+      "id": "reddit:t3_1xf4cmq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf4cmq/my_rpg_game_doesnt_get_home_raccomandations_even/",
+      "author": "Milandidit",
+      "date": "2026-10-25T14:51:13.000Z",
+      "title": "My RPG game doesn't get home raccomandations even though i spent 30usd in ADS",
+      "excerpt_en": "Hey everyone, I’m a solo dev working on Kayro , an RPG/simulator with pets, 5 worlds, bosses, quests and egg hatching. I’ve been running sponsored ads for a while, and they bring players in. But as soon as the ads stop, traffic basically drops to zero. Roblox’s recommendations…",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
       "id": "devforum:4953789",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789",
@@ -169,6 +206,23 @@
       "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
+      "id": "reddit:t3_1xf874u",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf874u/hey_looking_for_20_ccu_games/",
+      "author": "TerramineTitan",
+      "date": "2026-10-25T17:22:37.000Z",
+      "title": "Hey looking for 20+ ccu games",
+      "excerpt_en": "I’m looking for new or early-stage Roblox games with a clear, engaging gameplay loop and room to grow. Simulator and tycoon games are a good fit, though I’m open to other genres if the concept is strong. Ideally, a game is recently released, has a small but growing player base…",
+      "score": 16,
+      "tags": [
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
       "id": "reddit:t3_1xczgrc",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
@@ -202,86 +256,41 @@
       "first_seen": "2026-10-24T18:55:07.892Z"
     },
     {
-      "id": "reddit:t3_1xcnqie",
+      "id": "reddit:t3_1xf7sb3",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcnqie/am_i_going_to_kill_revenue_by_removing_paid/",
-      "author": "Ok-Protection-6612",
-      "date": "2026-10-22T16:43:08.000Z",
-      "title": "Am I going to kill revenue by removing paid currency and boosts ?",
-      "excerpt_en": "I had the idea to remove the currency and currency boost items from my robux shop. A main mechanic is rolling for items and I want to avoid having paid random items in the game. I also want to avoid ruining the economy with paid currency. Am I being too idealistic? Can a game…",
-      "score": 13,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
+      "author": "muffinstaken_PROx",
+      "date": "2026-10-25T17:06:26.000Z",
+      "title": "How to hit the Roblox algorithm?",
+      "excerpt_en": "How do you actually get your Roblox game picked up by the algorithm? I’ve been developing Roblox games and I’m trying to understand how the discovery algorithm works. From what I’ve seen, getting visits through ads doesn’t necessarily mean your game will start getting…",
+      "score": 15,
       "tags": [
-        "revenue",
-        "monetization"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-22T19:02:36.408Z"
-    },
-    {
-      "id": "reddit:t3_1xdak1x",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
-      "author": "Illustrious-Ad5480",
-      "date": "2026-10-23T10:41:39.000Z",
-      "title": "Feedback appreciated (Solo dev) first roblox game.",
-      "excerpt_en": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get…",
-      "score": 13,
-      "tags": [
-        "revenue",
         "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-23T13:04:15.629Z"
-    },
-    {
-      "id": "reddit:t3_1xe4fk5",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe4fk5/i_compared_player_growth_in_my_two_roblox_games/",
-      "author": "ljhappy75",
-      "date": "2026-10-24T09:41:21.000Z",
-      "title": "I Compared Player Growth in My Two Roblox Games. Why Did One Get Home Recommendations While the Other Didn't?",
-      "excerpt_en": "I compared the new player acquisition graphs of two Roblox games I developed. Both games ran paid ads, but the player acquisition patterns after those ads were very different. Rebirth RPG https://preview.redd.it/vmljei1hydxh1.png?width=1009…",
-      "score": 13,
-      "tags": [
-        "ads",
         "discovery",
-        "studio"
+        "story"
       ],
       "engagement": {},
-      "first_seen": "2026-10-24T13:00:46.917Z"
+      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
-      "id": "reddit:t3_1xcq2fz",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq2fz/game_getting_0_home_recommendations_2_weeks_after/",
-      "author": "Ok-Entertainment2963",
-      "date": "2026-10-22T18:07:53.000Z",
-      "title": "Game getting 0 home recommendations 2 weeks after release",
-      "excerpt_en": "I recently released the game, at the start the ads were doing good the players told me they really liked the game but then they started getting worse and worse and even tho almost 2 weeks passed the game still has no home recommendations. The stats are really bad and the…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-22T19:02:36.408Z"
-    },
-    {
-      "id": "reddit:t3_1xdw80w",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdw80w/our_game_just_peaked_to_98ccu_as_soon_as_we/",
-      "author": "15Momoz",
-      "date": "2026-10-24T01:48:14.000Z",
-      "title": "Our game just peaked to 98CCU as soon as we became available to all ages!!",
-      "excerpt_en": "I know 98 CCU might not seem like much to some people, but this is a huge milestone for us. I also mainly wanted to share this to motivate any developers who haven’t been seeing much success with their games. Keep working on your projects, listen to feedback, and don’t give up…",
-      "score": 12,
+      "id": "devforum:4957176",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
+      "author": "Ray1872",
+      "date": "2026-10-25T18:10:12.720Z",
+      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
+      "excerpt_en": "I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal, yet players browse their AI characters…",
+      "score": 14.6,
       "tags": [
         "metrics",
         "numbers"
       ],
-      "engagement": {},
-      "first_seen": "2026-10-24T07:03:50.212Z"
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 8
+      },
+      "first_seen": "2026-10-25T18:55:10.224Z"
     }
   ]
 }

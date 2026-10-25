@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-25T12:59:21.839Z",
+  "generated_at": "2026-10-25T18:55:10.224Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 128353
+      "ms": 100373
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31691
+      "ms": 91541
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3783
+      "ms": 3668
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 180
+      "ms": 255
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 226
+      "ms": 303
     }
   },
   "items": [
@@ -50,6 +50,113 @@
         "views": 36
       },
       "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xf76or",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf76or/recruiting_starting_a_new_roblox_game_studio_from/",
+      "author": "BananaGoesPew",
+      "date": "2026-10-25T16:42:58.000Z",
+      "title": "[Recruiting] Starting a new Roblox game studio from scratch: Bad Banana Arts! (All skill levels welcome / Revenue Share + Future Payouts)",
+      "excerpt_en": "Hey everyone I am starting a brand Roblox game studio named Bad Banana Arts and I am looking for passionate developers, designers and creators who want to build something amazing from the ground up! Whether you are a developer or a beginner who has just started learning all…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xf4cmq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf4cmq/my_rpg_game_doesnt_get_home_raccomandations_even/",
+      "author": "Milandidit",
+      "date": "2026-10-25T14:51:13.000Z",
+      "title": "My RPG game doesn't get home raccomandations even though i spent 30usd in ADS",
+      "excerpt_en": "Hey everyone, I’m a solo dev working on Kayro , an RPG/simulator with pets, 5 worlds, bosses, quests and egg hatching. I’ve been running sponsored ads for a while, and they bring players in. But as soon as the ads stop, traffic basically drops to zero. Roblox’s recommendations…",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xf874u",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf874u/hey_looking_for_20_ccu_games/",
+      "author": "TerramineTitan",
+      "date": "2026-10-25T17:22:37.000Z",
+      "title": "Hey looking for 20+ ccu games",
+      "excerpt_en": "I’m looking for new or early-stage Roblox games with a clear, engaging gameplay loop and room to grow. Simulator and tycoon games are a good fit, though I’m open to other genres if the concept is strong. Ideally, a game is recently released, has a small but growing player base…",
+      "score": 16,
+      "tags": [
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xf7sb3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
+      "author": "muffinstaken_PROx",
+      "date": "2026-10-25T17:06:26.000Z",
+      "title": "How to hit the Roblox algorithm?",
+      "excerpt_en": "How do you actually get your Roblox game picked up by the algorithm? I’ve been developing Roblox games and I’m trying to understand how the discovery algorithm works. From what I’ve seen, getting visits through ads doesn’t necessarily mean your game will start getting…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "discovery",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "devforum:4957176",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
+      "author": "Ray1872",
+      "date": "2026-10-25T18:10:12.720Z",
+      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
+      "excerpt_en": "I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal, yet players browse their AI characters…",
+      "score": 14.6,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 8
+      },
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xf406x",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf406x/help_me_fix_my_retention_and_core_loop/",
+      "author": "Ok_Cup9833",
+      "date": "2026-10-25T14:37:01.000Z",
+      "title": "Help me fix my retention and core loop",
+      "excerpt_en": "I launched a game 3 days ago called Mega Ramp Bike Jump . I initially put €15 into ads to get some early feedback, which allowed me to push out quick updates. Since then, we've spent about €40 more, and we still have €65 left that will automatically roll out over the next 5…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
       "id": "reddit:t3_1xermah",
@@ -101,6 +208,41 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xf469b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf469b/3rd_studio_made_thumbnail_for_upcoming_game/",
+      "author": "slimebrowser",
+      "date": "2026-10-25T14:43:52.000Z",
+      "title": "3rd Studio made thumbnail for upcoming game",
+      "excerpt_en": "OVERDUE (formerly named HUSH). Planning on releasing for testing in a few days. heres the third thumbnail, made in one of the game's maps with emphasised shadows and surfacelights in roblox studio. feedback appreciated :) ",
+      "score": 9,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "devforum:4946375",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/new-dev-here-looking-for-info/4946375",
+      "author": "OrlandoForSure",
+      "date": "2026-10-20T13:06:16.385Z",
+      "title": "New Dev here, looking for info!",
+      "excerpt_en": "Hello! I’m a solo dev and I just made my 1st proper game and published it to the public. I have been running ads for the past week and my game has been gaining some traction BUT I just feel like I’m doing things so wrong. Here Is my game If anyone wants to have a look…",
+      "score": 8.4,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 59
+      },
+      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
       "id": "reddit:t3_1xemb3w",
@@ -163,6 +305,37 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T12:59:21.839Z"
+    },
+    {
+      "id": "reddit:t3_1xf5726",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf5726/do_i_need_to_pay_for_ads/",
+      "author": "BoomSing136",
+      "date": "2026-10-25T15:25:03.000Z",
+      "title": "Do I need to pay for ads?",
+      "excerpt_en": "My games been out for a week now, the number of visits is 4. Should I pay or advertising or fix something first? ",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xf3hrv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3hrv/my_first_roblox_game_is_locked_to_16_and_has_0/",
+      "author": "King_Swin",
+      "date": "2026-10-25T14:15:50.000Z",
+      "title": "My first Roblox game is locked to 16+ and has 0 players — here's how you can help 🙏",
+      "excerpt_en": "Hey! I just released my first Roblox game and ran into the new publishing system: every new game is locked to age-checked 16+ players until it gets enough unique players. My problem: I made YouTube Shorts about my game, but most of my viewers are under 16, so they can't even…",
+      "score": 4,
+      "tags": [
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
       "id": "devforum:4954418",
@@ -271,6 +444,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-25T12:59:21.839Z"
+    },
+    {
+      "id": "reddit:t3_1xew70k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xew70k/trying_to_make_iphone_simluator/",
+      "author": "Ch_eezy2",
+      "date": "2026-10-25T07:41:58.000Z",
+      "title": "Trying to make iPhone simluator",
+      "excerpt_en": "Hello! I'm new to Roblox and trying to make an iPhone simulator. I think the experience name is going to be RoPhone Simulator. (It's based on iOS 27 with Liquid Glass) I'm still designing it via Figma, but stay tuned for more updates. Any question is welcomed!! (Picture is…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
     }
   ]
 }
