@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-10-25T01:01:07.326Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 119353
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91628
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3806
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 98
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 1,
+      "ms": 2970
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xentjb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xentjb/looking_for_cofounders_jojos_bizzare/",
+      "author": "Dev_Dragon_Breath",
+      "date": "2026-10-25T00:06:52.000Z",
+      "title": "[LOOKING FOR CO-FOUNDERS] JoJo's Bizzare Battlegrounds Project",
+      "excerpt_en": "Hello, I am 15 years old and I am the Game Director and mastermind behind a new high-quality JoJo's Bizarre Adventure battlegrounds game (TSB/JJS style). I have a clear, fully structured vision for this game and I know exactly what needs to be done. I am looking for two serious…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xemb3w",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xemb3w/is_this_normalregarding_ads_manager/",
+      "author": "Complete_Fun8771",
+      "date": "2026-10-24T22:55:21.000Z",
+      "title": "Is this Normal?(Regarding Ads Manager)",
+      "excerpt_en": "https://preview.redd.it/kw06kqlyvhxh1.png?width=852&format=png&auto=webp&s=d4c58a8111ffa1185b9466ae7c7381a7f82aa95f so this is what happened after 14 hrs of ads..idk whether its really bad or not,someone lmk..(is it due it being a +1 speed simulator, like due to the genre being…",
+      "score": 8,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xef2r7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xef2r7/how_do_i_advertise_roblox_game/",
+      "author": "rtedwaffleskillissue",
+      "date": "2026-10-24T17:50:25.000Z",
+      "title": "how do I advertise roblox game",
+      "excerpt_en": "I'll be releasing my game soon and I have ZERO knowledge about roblox ad manager. my budget is 10K robux, can get to 14K if needed the game's still locked to 16+, with 1/250 hep (lol) I heard there's plays and engagement ads, which one do I choose?? not trying to hit the algo…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "devforum:4954418",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418",
+      "author": "TREMNOR_TTR",
+      "date": "2026-10-24T12:15:46.542Z",
+      "title": "Crater: the best new package manager for Roblox!",
+      "excerpt_en": "crater: a package manager for Roblox that installs from its own registry, Wally and pesde Hi everyone! I made crater , a free and open source package manager for Roblox projects. It works with Rojo and installs packages from its own registry, from Wally and from pesde , all in…",
+      "score": 3.1,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 88
+      },
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xem74k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xem74k/goated_ass_plugin/",
+      "author": "myoldaccgothackedahh",
+      "date": "2026-10-24T22:50:12.000Z",
+      "title": "goated ass plugin",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xdrj8l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdrj8l/physics_based_combat_game_with_unique_combat/",
+      "author": "Cliffere",
+      "date": "2026-10-23T22:06:03.000Z",
+      "title": "Physics based combat game with unique combat system",
+      "excerpt_en": "lmk if you want game link, small demonstration here ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T01:01:07.326Z"
+    }
+  ]
+}

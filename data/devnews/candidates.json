@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-10-24T18:55:07.960Z",
+  "generated_at": "2026-10-25T01:01:07.393Z",
   "from_files": [
-    "2026-10-21.json",
     "2026-10-22.json",
     "2026-10-23.json",
-    "2026-10-24.json"
+    "2026-10-24.json",
+    "2026-10-25.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1xbsi5s",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbsi5s/im_not_having_any_success_as_a_game_developer_on/",
-      "author": "Friendly_Hat3062",
-      "date": "2026-10-21T16:50:22.000Z",
-      "title": "I’m not having any success as a game developer on Roblox—could I succeed using other engines and platforms?",
-      "excerpt_en": "I spent several good years creating games on Roblox—some for myself, others as personal requests or paid commissions. Most recently, I developed a satirical social-survival game in which players take on roles such as farmers, craftspeople, priests, or even nobles. They face…",
-      "score": 22,
-      "tags": [
-        "revenue",
-        "metrics",
-        "ads",
-        "discovery",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-21T19:03:03.985Z"
-    },
     {
       "id": "reddit:t3_1xcu58e",
       "source": "reddit",
@@ -167,24 +147,6 @@
       "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
-      "id": "reddit:t3_1xb9e79",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xb9e79/looking_for_someone_to_help_me_with_updating_my/",
-      "author": "UnbloxingLIVE",
-      "date": "2026-10-21T00:56:30.000Z",
-      "title": "Looking for someone to help me with updating my game",
-      "excerpt_en": "My games metrics are pretty good, median is 8.1 minutes average playtime is 26.5 minutes. Ive racked up 457 hours of playtime from 1248 players. With my top 25 players ranging from 3 hours to 14 hours. The issue with longevity is my game just doesnt have enough content, Ive had…",
-      "score": 15,
-      "tags": [
-        "revenue",
-        "metrics",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-21T07:07:35.201Z"
-    },
-    {
       "id": "reddit:t3_1xczgrc",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
@@ -218,61 +180,6 @@
       "first_seen": "2026-10-24T18:55:07.892Z"
     },
     {
-      "id": "devforum:4946987",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987",
-      "author": "Deadwoodx",
-      "date": "2026-10-20T19:45:23.413Z",
-      "title": "How to optimize a game for 40+ CCU (Players) server",
-      "excerpt_en": "こんにちは! As the world progresses, I have seen many games with over 40 players - often with lag and server crashes. But why? As we strip away the same repeated words about optimization, you may find out exactly how to do it. We use the word LSS (Large Server Sized) to define them…",
-      "score": 14.1,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 3,
-        "replies": 1,
-        "views": 87
-      },
-      "first_seen": "2026-10-21T01:06:09.023Z"
-    },
-    {
-      "id": "reddit:t3_1xbqjsr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbqjsr/how_do_you_get_your_first_players_without_paid_ads/",
-      "author": "Tall-Aardvark-4930",
-      "date": "2026-10-21T15:39:20.000Z",
-      "title": "How do you get your first players without paid ads?",
-      "excerpt_en": "Hey everyone! I'm an indie Roblox developer working on my game, Steal a Dumpling , and I'm trying to reach 250 highly engaged players without spending money on advertising. My impressions aren't too bad, but I'm struggling to convert them into actual players. I suspect seeing a…",
-      "score": 14,
-      "tags": [
-        "ads",
-        "marketing",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-21T19:03:03.985Z"
-    },
-    {
-      "id": "reddit:t3_1xbmjtt",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xbmjtt/adverts_required/",
-      "author": "peoplewhoseepeople",
-      "date": "2026-10-21T13:02:14.000Z",
-      "title": "Adverts - Required?",
-      "excerpt_en": "So, used Adverts to get out of the sandbox, expected, fine, wasnt too bad. Then stopped as wanted to see the game organically. Took a few days for the Home Recommendations to pick it up, and then it went up, down, up, down etc, as changes where made to the game, responses, stats…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-21T13:07:04.985Z"
-    },
-    {
       "id": "reddit:t3_1xcnqie",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcnqie/am_i_going_to_kill_revenue_by_removing_paid/",
@@ -287,6 +194,92 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
+      "id": "reddit:t3_1xdak1x",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
+      "author": "Illustrious-Ad5480",
+      "date": "2026-10-23T10:41:39.000Z",
+      "title": "Feedback appreciated (Solo dev) first roblox game.",
+      "excerpt_en": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-23T13:04:15.629Z"
+    },
+    {
+      "id": "reddit:t3_1xe4fk5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe4fk5/i_compared_player_growth_in_my_two_roblox_games/",
+      "author": "ljhappy75",
+      "date": "2026-10-24T09:41:21.000Z",
+      "title": "I Compared Player Growth in My Two Roblox Games. Why Did One Get Home Recommendations While the Other Didn't?",
+      "excerpt_en": "I compared the new player acquisition graphs of two Roblox games I developed. Both games ran paid ads, but the player acquisition patterns after those ads were very different. Rebirth RPG https://preview.redd.it/vmljei1hydxh1.png?width=1009…",
+      "score": 13,
+      "tags": [
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T13:00:46.917Z"
+    },
+    {
+      "id": "reddit:t3_1xcq2fz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq2fz/game_getting_0_home_recommendations_2_weeks_after/",
+      "author": "Ok-Entertainment2963",
+      "date": "2026-10-22T18:07:53.000Z",
+      "title": "Game getting 0 home recommendations 2 weeks after release",
+      "excerpt_en": "I recently released the game, at the start the ads were doing good the players told me they really liked the game but then they started getting worse and worse and even tho almost 2 weeks passed the game still has no home recommendations. The stats are really bad and the…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-22T19:02:36.408Z"
+    },
+    {
+      "id": "reddit:t3_1xdw80w",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdw80w/our_game_just_peaked_to_98ccu_as_soon_as_we/",
+      "author": "15Momoz",
+      "date": "2026-10-24T01:48:14.000Z",
+      "title": "Our game just peaked to 98CCU as soon as we became available to all ages!!",
+      "excerpt_en": "I know 98 CCU might not seem like much to some people, but this is a huge milestone for us. I also mainly wanted to share this to motivate any developers who haven’t been seeing much success with their games. Keep working on your projects, listen to feedback, and don’t give up…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T07:03:50.212Z"
+    },
+    {
+      "id": "devforum:4953005",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
+      "author": "NuggetLua",
+      "date": "2026-10-23T19:32:18.294Z",
+      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
+      "excerpt_en": "As a developer with 100+ playtime hours in one of my games, I got roblox plus for 6 months for free on May 19th. However, that free subscription is almost over, and I cannot buy another one before it ends to keep my 2 month 20% off discount. Is there a way to buy one with the…",
+      "score": 11.3,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 35
+      },
+      "first_seen": "2026-10-24T01:11:18.256Z"
     }
   ]
 }
