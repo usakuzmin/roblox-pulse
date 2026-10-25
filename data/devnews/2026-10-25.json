@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-25T07:05:06.077Z",
+  "generated_at": "2026-10-25T12:59:21.839Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 125850
+      "ms": 128353
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91901
+      "ms": 31691
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 4169
+      "ms": 3783
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 320
+      "ms": 180
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 339
+      "ms": 226
     }
   },
   "items": [
@@ -67,6 +67,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xexhe2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xexhe2/hiringgfx_artist_for_dino_stampede_thumbnails/",
+      "author": "Equivalent_Paint_372",
+      "date": "2026-10-25T09:01:09.000Z",
+      "title": "[HIRING]GFX Artist for Dino Stampede Thumbnails",
+      "excerpt_en": "I'm looking for a GFX artist to make 2 thumbnails for my Roblox game \"Steal the Dino Stampede!\". Players grab glowing ambers in a valley and run them home while huge dino herds stampede at them. What you'll be doing: • Thumbnail 1 – My avatar holding a glowing amber over their…",
+      "score": 10,
+      "tags": [
+        "revenue",
+        "marketing",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T12:59:21.839Z"
     },
     {
       "id": "reddit:t3_1xentjb",
@@ -130,6 +148,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xf1202",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/",
+      "author": "Global-Avocado-4833",
+      "date": "2026-10-25T12:26:00.000Z",
+      "title": "Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?",
+      "excerpt_en": "I released my first Roblox game a week ago, a snow-shoveling simulator (dig snow, sell it, upgrade your shovel, hatch pets). I ran a small ad test and the numbers were rough: - 77% of players start digging - 50% make their first sale - 31% buy their first upgrade - only 14% are…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T12:59:21.839Z"
     },
     {
       "id": "devforum:4954418",
@@ -225,6 +258,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xcq3zm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq3zm/tutorial_is_killing_my_game/",
+      "author": "Wildeofthewest",
+      "date": "2026-10-22T18:09:28.000Z",
+      "title": "Tutorial is killing my game",
+      "excerpt_en": "Released my game the other day, general response from players I talked to was really positive and they loved the gameplay and theme. I noticed a lot of players would join, get stuck on the tutorial then rage quit and some players are downvoting the game because of it. I'm…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T12:59:21.839Z"
     }
   ]
 }
