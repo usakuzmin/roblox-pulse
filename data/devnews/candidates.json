@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:01:07.393Z",
+  "generated_at": "2026-10-25T07:05:06.128Z",
   "from_files": [
     "2026-10-22.json",
     "2026-10-23.json",
@@ -7,6 +7,28 @@
     "2026-10-25.json"
   ],
   "items": [
+    {
+      "id": "devforum:4955785",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785",
+      "author": "AlphaBjarne",
+      "date": "2026-10-25T01:27:02.671Z",
+      "title": "Track your Robux like a stock: Robux P&L, an open-source earnings dashboard",
+      "excerpt_en": "Hey everyone! I Got bored and I always wanted a clear answer to a simple question: how much Robux did I actually make this week – and where did it go? The built-in transactions page is a long list, so I built a small Chrome extension that turns your transaction history into a…",
+      "score": 20.4,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization",
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 36
+      },
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
     {
       "id": "reddit:t3_1xcu58e",
       "source": "reddit",
@@ -260,26 +282,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-24T07:03:50.212Z"
-    },
-    {
-      "id": "devforum:4953005",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
-      "author": "NuggetLua",
-      "date": "2026-10-23T19:32:18.294Z",
-      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
-      "excerpt_en": "As a developer with 100+ playtime hours in one of my games, I got roblox plus for 6 months for free on May 19th. However, that free subscription is almost over, and I cannot buy another one before it ends to keep my 2 month 20% off discount. Is there a way to buy one with the…",
-      "score": 11.3,
-      "tags": [
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 35
-      },
-      "first_seen": "2026-10-24T01:11:18.256Z"
     }
   ]
 }

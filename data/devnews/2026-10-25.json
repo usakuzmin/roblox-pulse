@@ -1,34 +1,73 @@
 {
-  "generated_at": "2026-10-25T01:01:07.326Z",
+  "generated_at": "2026-10-25T07:05:06.077Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 119353
+      "ms": 125850
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91628
+      "ms": 91901
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 3806
+      "fetched": 4,
+      "ms": 4169
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 98
+      "ms": 320
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 2970
+      "ms": 339
     }
   },
   "items": [
+    {
+      "id": "devforum:4955785",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785",
+      "author": "AlphaBjarne",
+      "date": "2026-10-25T01:27:02.671Z",
+      "title": "Track your Robux like a stock: Robux P&L, an open-source earnings dashboard",
+      "excerpt_en": "Hey everyone! I Got bored and I always wanted a clear answer to a simple question: how much Robux did I actually make this week – and where did it go? The built-in transactions page is a long list, so I built a small Chrome extension that turns your transaction history into a…",
+      "score": 20.4,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization",
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 36
+      },
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xermah",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xermah/need_help_with_upping_ccu/",
+      "author": "Unhappy_Sprinkles_93",
+      "date": "2026-10-25T03:19:06.000Z",
+      "title": "Need help with upping ccu",
+      "excerpt_en": "I recently made a game called Knife Ability Arena I'm trying with ads but I feel like the ads don't bring in enough players at once to keep even like one full server alive like its almost constantly at 0ccu. How do I get over that initial hurdle of bringing in enough players at…",
+      "score": 10,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
     {
       "id": "reddit:t3_1xentjb",
       "source": "reddit",
@@ -78,6 +117,21 @@
       "first_seen": "2026-10-25T01:01:07.326Z"
     },
     {
+      "id": "reddit:t3_1xeuokf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeuokf/aysm_game_needs_modelers_and_coders/",
+      "author": "Pls_talk_to_me_",
+      "date": "2026-10-25T06:11:31.000Z",
+      "title": "Aysm Game needs modelers and coders",
+      "excerpt_en": "Hello I am the owner of my game “old habits” it was made in December of 2025 and been in production ever since but a problem is that we only have 1 coder and No modelers and models. I am willing to share a cut of the games revenue when it’s released ",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
       "id": "devforum:4954418",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418",
@@ -119,6 +173,58 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-25T01:01:07.326Z"
+    },
+    {
+      "id": "reddit:t3_1xeofo1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeofo1/showing_the_combat_for_my_game_uproot/",
+      "author": "PlugsyOfficialRBLX",
+      "date": "2026-10-25T00:36:40.000Z",
+      "title": "Showing the Combat for my game UPROOT",
+      "excerpt_en": "i havent posted in a while hello ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xep4g2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xep4g2/uswen_kingdom_infantry_and_officer/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-25T01:10:52.000Z",
+      "title": "Uswen Kingdom Infantry and Officer",
+      "excerpt_en": "I modeled 2 uniforms today, the uniform of the Infantry of Uswen, and the Officer of Uswen. Who is Uswen? uswen is a imaginary nation loosely inspired by France, their mainlanguage is Latin. For what did i make this uniforms? for a game project, a war game set in the end of the…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xeo2x9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeo2x9/i_tried_to_build_in_stud_form/",
+      "author": "OId-Foot",
+      "date": "2026-10-25T00:19:28.000Z",
+      "title": "I tried to build in stud form",
+      "excerpt_en": "Lowkey was hard but I did my best ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
+    },
+    {
+      "id": "reddit:t3_1xef5wf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xef5wf/pumpkin_carving_what_do_you_think/",
+      "author": "dustmondo",
+      "date": "2026-10-24T17:53:52.000Z",
+      "title": "Pumpkin Carving! What do you think?",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-25T07:05:06.077Z"
     }
   ]
 }
