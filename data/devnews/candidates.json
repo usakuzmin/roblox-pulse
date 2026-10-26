@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:16:42.670Z",
+  "generated_at": "2026-10-26T07:13:38.486Z",
   "from_files": [
     "2026-10-23.json",
     "2026-10-24.json",
@@ -253,6 +253,22 @@
       "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
+      "id": "reddit:t3_1xflhxz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xflhxz/reached_100_hep_for_100_ads_spend_with_poor_stats/",
+      "author": "NoElk8949",
+      "date": "2026-10-26T02:55:38.000Z",
+      "title": "Reached 100 HEP for ~$100 ads spend with poor stats",
+      "excerpt_en": "Solo dev in learning stage. Spent the last month running ad bursts of ~$5 a few hours around dinner, iterating based on data and play observations, repeat next day, using plays ads. Then some days ago thought I’d test out running engagement ads alongside play ads to see how hard…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
       "id": "devforum:4957176",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
@@ -271,22 +287,6 @@
         "views": 8
       },
       "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
-      "id": "reddit:t3_1xfiylv",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfiylv/i_have_spend_the_last_few_weeks_building_a_new/",
-      "author": "DealImpressive1907",
-      "date": "2026-10-26T00:52:32.000Z",
-      "title": "I have spend the last few weeks building a new style of game on Roblox looking for someone to help me bring it up to standard !REVENUE SHARE",
-      "excerpt_en": "Reply to this post and I will hit you up only serious people please I believe this game will be the biggest game on Roblox if built right ",
-      "score": 14,
-      "tags": [
-        "revenue",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-26T01:16:42.623Z"
     }
   ]
 }

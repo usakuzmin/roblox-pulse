@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-26T01:16:42.623Z",
+  "generated_at": "2026-10-26T07:13:38.413Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 140237
+      "ms": 114590
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91867
+      "ms": 91247
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3268
+      "ms": 3387
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 103
+      "ms": 123
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 216
+      "ms": 251
     }
   },
   "items": [
@@ -48,6 +48,22 @@
         "views": 18
       },
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xflhxz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xflhxz/reached_100_hep_for_100_ads_spend_with_poor_stats/",
+      "author": "NoElk8949",
+      "date": "2026-10-26T02:55:38.000Z",
+      "title": "Reached 100 HEP for ~$100 ads spend with poor stats",
+      "excerpt_en": "Solo dev in learning stage. Spent the last month running ad bursts of ~$5 a few hours around dinner, iterating based on data and play observations, repeat next day, using plays ads. Then some days ago thought I’d test out running engagement ads alongside play ads to see how hard…",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
     },
     {
       "id": "reddit:t3_1xfiylv",
@@ -83,6 +99,21 @@
       "first_seen": "2026-10-26T01:16:42.623Z"
     },
     {
+      "id": "reddit:t3_1xflmcq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xflmcq/devex_and_bans_eligibility/",
+      "author": "Empty_Echo_3444",
+      "date": "2026-10-26T03:01:45.000Z",
+      "title": "Devex and bans eligibility",
+      "excerpt_en": "I used to say really inappropriate things i got banned like 3 times for sexual content the worst thing i said is i like to sa women and once for trying to say the n word do i need to make a new account vpn new device new email so i can try to bypass this since i wanna get into…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
       "id": "reddit:t3_1xfd6wd",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfd6wd/looking_for_some_feedback/",
@@ -97,6 +128,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfov4g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfov4g/wanted_to_ask_questions_about_roblox_game_dev/",
+      "author": "IndependenceHour7167",
+      "date": "2026-10-26T06:04:33.000Z",
+      "title": "wanted to ask questions about roblox game dev",
+      "excerpt_en": "hey so ive been working on this game for over a month now and its not published or anything yet. not even nearly close enough to be what i like to be done with the game. Not satisfied yet. I was just wondering when i do publish the game, what should i do to get reach. Solo dev…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
     },
     {
       "id": "reddit:t3_1xfi82f",
@@ -115,6 +162,37 @@
       "first_seen": "2026-10-26T01:16:42.623Z"
     },
     {
+      "id": "reddit:t3_1xfpa1t",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfpa1t/i_need_a_builder_fast/",
+      "author": "chombiecat",
+      "date": "2026-10-26T06:31:10.000Z",
+      "title": "I NEED A BUILDER FAST!",
+      "excerpt_en": "🛠️ [HIRING] Low-Poly Builder for Roblox Game 🎮 🏡 Looking for a talented(accepting begginers who work hard) low-poly builder to help create interiors for a planned grand mansion map in my upcoming roblox game! 🎨 I'm aiming for a stylised, polished aesthetic and have reference…",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
+      "id": "reddit:t3_1xfn2be",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfn2be/solo_dev_looking_for_animation_combat_animation/",
+      "author": "DarkDayz3424",
+      "date": "2026-10-26T04:17:30.000Z",
+      "title": "Solo dev looking for animation/ combat animation advice also open to a potential dev partner",
+      "excerpt_en": "I’m working on a Solo Leveling–inspired Roblox role-play/fighting game, with JJS and Heroes Battlegrounds as inspiration for how I want the combat to feel. Animations have been my biggest struggle, especially special moves. I’ve made some basic attacks and movement animations…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
       "id": "reddit:t3_1xfgm9j",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfgm9j/need_people_to_my_game_project/",
@@ -128,6 +206,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfmt0k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfmt0k/revshare_hobby_looking_for_a_developerteammate_to/",
+      "author": "Creative-Person-3595",
+      "date": "2026-10-26T04:03:37.000Z",
+      "title": "[RevShare / Hobby] Looking for a developer/teammate to help build a Roblox game (Me + Partner)",
+      "excerpt_en": "Hey everyone! My partner and I are actively developing a fast-paced arcade survival game on Roblox, and we’re looking for a third developer/teammate to join us and help bring the project across the finish line. What we’re making: A high-stakes survival game tentatively called…",
+      "score": 4,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
     },
     {
       "id": "reddit:t3_1xfghi1",
@@ -154,6 +248,58 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfcmcj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfcmcj/my_son_and_i_have_spent_6_weeks_making_an_art/",
+      "author": "WrestleBull",
+      "date": "2026-10-25T20:17:03.000Z",
+      "title": "My son and I have spent 6 weeks making an art museum tycoon. We'd love feedback on our Alpha.",
+      "excerpt_en": "About 6 weeks ago my 9 year old son said he wanted to make a Roblox game. I'm an artist and physical game designer by trade, but this is my first Roblox game beyond a basic obby. I play a good amount of Roblox with him and his friends. I made the game I would want to play most…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
+      "id": "reddit:t3_1xf9nbs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf9nbs/syncix_bidirectional_filesystem_synchronization/",
+      "author": "Syqopatt",
+      "date": "2026-10-25T18:20:02.000Z",
+      "title": "Syncix — Bi-directional filesystem synchronization for Roblox Studio (Rust core)",
+      "excerpt_en": "Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on rigid file-mapping schemas that break down during routine refactoring. When developers rename files locally or make quick property tweaks directly inside…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
+      "id": "reddit:t3_1xfjihm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfjihm/i_added_gibbing_in_my_roblox_game/",
+      "author": "No_Application6917",
+      "date": "2026-10-26T01:18:16.000Z",
+      "title": "I added Gibbing in my roblox game",
+      "excerpt_en": "really goery 😮 ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
+      "id": "reddit:t3_1xfaejc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfaejc/stress_test_for_the_factory_game_so_far_so_good/",
+      "author": "jebeDIEah_Kerbal",
+      "date": "2026-10-25T18:50:00.000Z",
+      "title": "Stress test for the factory game, so far so good:)",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T07:13:38.413Z"
     }
   ]
 }
