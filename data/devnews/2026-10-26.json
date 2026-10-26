@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-26T15:01:40.974Z",
+  "generated_at": "2026-10-26T19:08:56.718Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 138652
+      "ms": 133138
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 94703
+      "ms": 91696
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3066
+      "ms": 3563
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 139
+      "ms": 179
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 503
+      "ms": 252
     }
   },
   "items": [
@@ -258,6 +258,21 @@
       "first_seen": "2026-10-26T01:16:42.623Z"
     },
     {
+      "id": "reddit:t3_1xg1kwe",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg1kwe/hey_blender_modelers_or_modelers_in_general_how/",
+      "author": "Super__Chuck",
+      "date": "2026-10-26T16:24:20.000Z",
+      "title": "Hey... Blender modelers or modelers in general, how much a model is worth",
+      "excerpt_en": "My budget is like 800 robux for a model similar to pursuitcore's... is that enough or am I offering too less for that ",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T19:08:56.718Z"
+    },
+    {
       "id": "devforum:4958229",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/whats-the-reason-for-this-many-dislikes-on-my-game/4958229",
@@ -382,6 +397,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-26T15:01:40.974Z"
+    },
+    {
+      "id": "reddit:t3_1xg2w8o",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
+      "author": "Big-Imagination-53",
+      "date": "2026-10-26T17:12:09.000Z",
+      "title": "Made a spell pvp game where you have to draw the symbol to cast it",
+      "excerpt_en": "I've been working on a wizard dueling game and the main thing I wanted was for casting to feel like actual magic instead of just pressing a button. So every spell has its own symbol and you have to draw it with your wand while you're fighting. It makes fights feel a lot more…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T19:08:56.718Z"
     }
   ]
 }
