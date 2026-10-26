@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-10-26T01:16:42.623Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 140237
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91867
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 3268
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 103
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 1,
+      "ms": 216
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4957643",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643",
+      "author": "clifferee",
+      "date": "2026-10-25T22:37:14.199Z",
+      "title": "[NEW] Flop N Fight has been struggling trying to get CCU and the ads are doing poorly",
+      "excerpt_en": "Can anyone review my game? tell me what to fix and what to change the thumbnails to? Im hitting 1% CTR.",
+      "score": 15.6,
+      "tags": [
+        "metrics",
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 18
+      },
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfiylv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfiylv/i_have_spend_the_last_few_weeks_building_a_new/",
+      "author": "DealImpressive1907",
+      "date": "2026-10-26T00:52:32.000Z",
+      "title": "I have spend the last few weeks building a new style of game on Roblox looking for someone to help me bring it up to standard !REVENUE SHARE",
+      "excerpt_en": "Reply to this post and I will hit you up only serious people please I believe this game will be the biggest game on Roblox if built right ",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfi8qf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
+      "author": "Evening_Land_8156",
+      "date": "2026-10-26T00:19:35.000Z",
+      "title": "Looking for Roblox map builders",
+      "excerpt_en": "Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search \"Site-E17\" on Roblox or visit Imjustagamin_JR's profile under the Experiences tab…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "story",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfd6wd",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfd6wd/looking_for_some_feedback/",
+      "author": "jhamshire2",
+      "date": "2026-10-25T20:40:00.000Z",
+      "title": "Looking for some feedback !",
+      "excerpt_en": "Looking for feedback as to why my game has dislike . Any tips to increase playtime ? Any tips appreciated. Ads currently performing at 2.2% CTR ",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfi82f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi82f/critique_my_pixel_art_thumbnails_for_my_solo/",
+      "author": "Arigat0__",
+      "date": "2026-10-26T00:18:39.000Z",
+      "title": "Critique my pixel art thumbnails for my solo project, Pixel Pets? Which one stands out most?",
+      "excerpt_en": "Hey everyone! I've been working incredibly hard on my own to build a brand new pet-hatching and trading simulator called Pixel Pets . I just finished getting the core mechanics up and running along with a live Halloween event where you can roll mutations and giant sizes! The…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfgm9j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfgm9j/need_people_to_my_game_project/",
+      "author": "SergioGamesGDRdt",
+      "date": "2026-10-25T23:06:13.000Z",
+      "title": "Need people to my game project.",
+      "excerpt_en": "Hi everyone, I'm a developer of a personal project that I started for showcasing my abilities in a environment like Roblox Studio, I program in different apps apart. My base game idea is a platformer , but not every else platformer, I have an big idea behind of this proyect, I…",
+      "score": 5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xfghi1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfghi1/my_batman_arkham_style_combat_wip/",
+      "author": "PR0JECT_ARKHAM",
+      "date": "2026-10-25T23:00:26.000Z",
+      "title": "My Batman Arkham Style Combat WIP",
+      "excerpt_en": "Been trying to recreate the feel of Arkham Combat for a new game I'm working on. ideas and feedback are welcome. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xffnnv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xffnnv/a_clip_from_the_halloween_event_boss_fight_in_my/",
+      "author": "Superb-Gap7952",
+      "date": "2026-10-25T22:23:55.000Z",
+      "title": "A clip from the Halloween event boss fight in my game",
+      "excerpt_en": "Halfway through the fight the Horseman's horse turns into a ghost, and he keeps fighting on foot. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    }
+  ]
+}
