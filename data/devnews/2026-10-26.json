@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-26T07:13:38.413Z",
+  "generated_at": "2026-10-26T15:01:40.974Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 114590
+      "ms": 138652
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91247
+      "ms": 94703
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 3387
+      "fetched": 5,
+      "ms": 3066
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 123
+      "ms": 139
     },
     "hackernews": {
       "ok": true,
       "fetched": 1,
-      "ms": 251
+      "ms": 503
     }
   },
   "items": [
@@ -80,6 +80,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xft7ld",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xft7ld/is_it_just_me_or_roblox_is_now_filled_with_low/",
+      "author": "Illustrious_Dig7133",
+      "date": "2026-10-26T10:34:55.000Z",
+      "title": "is it just me or roblox is now filled with low quality slops",
+      "excerpt_en": "I've been playing since 2016 and if I were to go back from 2016 - 2022 I swear games were much more replayable and much more fun , but nowadays everything's filled with just slop - Claude opus chat gpt gemeni forge ui or Ai slop , everytime I go on the front page its just filled…",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
     },
     {
       "id": "reddit:t3_1xfi8qf",
@@ -178,6 +196,38 @@
       "first_seen": "2026-10-26T07:13:38.413Z"
     },
     {
+      "id": "reddit:t3_1xfw3un",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfw3un/hidden_thumbnails_and_no_visitors/",
+      "author": "Heavenly_Principl3s",
+      "date": "2026-10-26T12:59:13.000Z",
+      "title": "Hidden thumbnails and no visitors",
+      "excerpt_en": "I recently made an obby game on Roblox called “Road to Celestia”. Since it’s still new, Roblox restricts it to “16+”, which makes it even harder for players to even play the game. To make things worse, they even hide my thumbnails. I created some with AI and they are correctly…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
+    },
+    {
+      "id": "reddit:t3_1xfvi16",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfvi16/how_did_you_get_your_first_regular_players_for/",
+      "author": "Superb-Gap7952",
+      "date": "2026-10-26T12:31:36.000Z",
+      "title": "How did you get your first regular players for your Roblox game",
+      "excerpt_en": "Hey everyone! I recently released a Roblox boss-fighting game. I’m confident in what I’ve built, but I’m struggling with getting people to discover and try it. I’ve been posting videos on TikTok, Instagram, and YouTube Shorts. Some get views and comments, but that hasn’t…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
+    },
+    {
       "id": "reddit:t3_1xfn2be",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfn2be/solo_dev_looking_for_animation_combat_animation/",
@@ -206,6 +256,25 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "devforum:4958229",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/whats-the-reason-for-this-many-dislikes-on-my-game/4958229",
+      "author": "Vlaair",
+      "date": "2026-10-26T09:40:12.551Z",
+      "title": "What's the reason for this many dislikes on my game?",
+      "excerpt_en": "Hello! I recently published a new game called “Funniest Answer Wins”. The concept is similar to Quiplash, you just need to think of a funny answer to a bunch of prompts. However, I keep on getting disliked without any proper feedback. I’ve tried tweaking alot of things but it…",
+      "score": 4.4,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 43
+      },
+      "first_seen": "2026-10-26T15:01:40.974Z"
     },
     {
       "id": "reddit:t3_1xfmt0k",
@@ -300,6 +369,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-26T07:13:38.413Z"
+    },
+    {
+      "id": "reddit:t3_1xfo1g0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfo1g0/little_video_of_a_helicopter_elite_operatives/",
+      "author": "Wucus0405",
+      "date": "2026-10-26T05:13:47.000Z",
+      "title": "Little video of a helicopter elite operatives raid i have in my survival game.",
+      "excerpt_en": "I think its pretty cool, what do you guys think? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
     }
   ]
 }
