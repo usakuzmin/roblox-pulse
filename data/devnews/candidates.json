@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-26T19:08:56.774Z",
+  "generated_at": "2026-10-27T01:10:18.979Z",
   "from_files": [
-    "2026-10-23.json",
     "2026-10-24.json",
     "2026-10-25.json",
-    "2026-10-26.json"
+    "2026-10-26.json",
+    "2026-10-27.json"
   ],
   "items": [
     {
@@ -46,24 +46,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
-      "id": "reddit:t3_1xcu58e",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
-      "author": "Sorry_Adhesiveness49",
-      "date": "2026-10-22T20:39:11.000Z",
-      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
-      "excerpt_en": "Concept part: Hi! So, I got tired of the front page being the same sloptype games like those “Steal a ___” , \"Grow a __\" clones, so I made a game where you browse ~1,100 (still gathering more) smaller Roblox games and jump straight into them. Trend/cashgrab clones are hidden by…",
-      "score": 19,
-      "tags": [
-        "metrics",
-        "ads",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
       "id": "reddit:t3_1xdrqhs",
@@ -126,28 +108,6 @@
       "first_seen": "2026-10-24T07:03:50.212Z"
     },
     {
-      "id": "devforum:4951775",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775",
-      "author": "trickswave",
-      "date": "2026-10-23T05:35:35.943Z",
-      "title": "How do developers grow multiplayer games nowadays?",
-      "excerpt_en": "So I released a multiplayer game on the platform last week, and I’ve been struggling to get enough players for rounds to even start. I have some experience with developing games on the platform and have had some success with obbies and single-player games, but multiplayer is…",
-      "score": 17,
-      "tags": [
-        "metrics",
-        "ads",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 2,
-        "views": 18
-      },
-      "first_seen": "2026-10-23T07:07:41.345Z"
-    },
-    {
       "id": "reddit:t3_1xdtvj2",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdtvj2/ai_is_ruining_my_experience_coding_games/",
@@ -201,23 +161,6 @@
         "views": 18
       },
       "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xczgrc",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
-      "author": "goonmaster6942067",
-      "date": "2026-10-23T00:27:08.000Z",
-      "title": "What should i do to get into the algorithm?",
-      "excerpt_en": "Hey guys, i have a max of 60 ad credits to spend so i was wondering what should i do for a campaign to try and break into the algorith and homepageand make some profit so i can either reinvest back into the game or just make money This is my first game ive really tried on and i…",
-      "score": 15,
-      "tags": [
-        "revenue",
-        "ads",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-23T01:09:06.096Z"
     },
     {
       "id": "reddit:t3_1xe93fw",
@@ -287,6 +230,57 @@
         "views": 8
       },
       "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xfiylv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfiylv/i_have_spend_the_last_few_weeks_building_a_new/",
+      "author": "DealImpressive1907",
+      "date": "2026-10-26T00:52:32.000Z",
+      "title": "I have spend the last few weeks building a new style of game on Roblox looking for someone to help me bring it up to standard !REVENUE SHARE",
+      "excerpt_en": "Reply to this post and I will hit you up only serious people please I believe this game will be the biggest game on Roblox if built right ",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xft7ld",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xft7ld/is_it_just_me_or_roblox_is_now_filled_with_low/",
+      "author": "Illustrious_Dig7133",
+      "date": "2026-10-26T10:34:55.000Z",
+      "title": "is it just me or roblox is now filled with low quality slops",
+      "excerpt_en": "I've been playing since 2016 and if I were to go back from 2016 - 2022 I swear games were much more replayable and much more fun , but nowadays everything's filled with just slop - Claude opus chat gpt gemeni forge ui or Ai slop , everytime I go on the front page its just filled…",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
+    },
+    {
+      "id": "reddit:t3_1xe4fk5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe4fk5/i_compared_player_growth_in_my_two_roblox_games/",
+      "author": "ljhappy75",
+      "date": "2026-10-24T09:41:21.000Z",
+      "title": "I Compared Player Growth in My Two Roblox Games. Why Did One Get Home Recommendations While the Other Didn't?",
+      "excerpt_en": "I compared the new player acquisition graphs of two Roblox games I developed. Both games ran paid ads, but the player acquisition patterns after those ads were very different. Rebirth RPG https://preview.redd.it/vmljei1hydxh1.png?width=1009…",
+      "score": 13,
+      "tags": [
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-24T13:00:46.917Z"
     }
   ]
 }

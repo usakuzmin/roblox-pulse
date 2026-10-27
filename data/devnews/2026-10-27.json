@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-10-27T01:10:18.909Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 132649
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91815
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 4298
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 274
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 313
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4959562",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
+      "author": "Jsylix",
+      "date": "2026-10-26T23:57:07.373Z",
+      "title": "Plays Campaign randomly rejected?",
+      "excerpt_en": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them?",
+      "score": 8.2,
+      "tags": [],
+      "engagement": {
+        "likes": 121,
+        "replies": 17,
+        "views": 238
+      },
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xge2jr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xge2jr/test_out_my_first_ever_roblox_game_horror_first/",
+      "author": "unit99Official",
+      "date": "2026-10-27T00:27:44.000Z",
+      "title": "Test out my first ever Roblox game HORROR, FIRST 10 TESTERS WILL GET 100 ROBUX!",
+      "excerpt_en": "Hey, I'm looking for testers for my first Roblox game. It's a horror game where you play a game within a game. You start in the living room press A and D to look around and press space to put on a VR headset to enter a mini mart sim. You have to defend yourself against monsters…",
+      "score": 7,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xfvor2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfvor2/testers_wanted_for_overdue/",
+      "author": "slimebrowser",
+      "date": "2026-10-26T12:40:08.000Z",
+      "title": "TESTERS WANTED for 'OVERDUE'",
+      "excerpt_en": "OVERDUE is in beta testing phase now. It includes 2 fully completed game modes + maps [ STUDY SESSION and LIGHTHOUSE ], inventory and currency system. Feedback on gameplay feel, UI, overall visual design, currency and buying systems, animations, AI (in game bots) system, etc…",
+      "score": 6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xg8d1w",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg8d1w/looking_for_a_roblox_horse_game_development_team/",
+      "author": "daevyii",
+      "date": "2026-10-26T20:33:14.000Z",
+      "title": "🐴 LOOKING FOR A ROBLOX HORSE GAME DEVELOPMENT TEAM",
+      "excerpt_en": "🐴 LOOKING FOR A ROBLOX HORSE GAME DEVELOPMENT TEAM Hello! I’m looking for passionate and dedicated individuals to collaborate on a new Roblox horse game inspired by games such as Horse Valley and Wild Horse Islands . 📌 Positions Available 🐎 3D Modellers: Create detailed…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xgahb5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgahb5/game_getting_16_restricted_after_update/",
+      "author": "Dizzy-Criticism-2649",
+      "date": "2026-10-26T21:56:10.000Z",
+      "title": "Game Getting 16+ Restricted after Update",
+      "excerpt_en": "I published my game about a week ago after working on it for around a month I just released a Halloween update which includes a paid random item, but I made sure to use the policyapi to ensure people in non compliant regions aren't able to see nor purchase the item I think that…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "devforum:4958546",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546",
+      "author": "Kaizagidora",
+      "date": "2026-10-26T14:15:54.020Z",
+      "title": "Module Scripts that extra Type Annotation?",
+      "excerpt_en": "I’m currently looking into whether there are any packages or tools on Roblox made by others that can extract the full type annotation/schema of other scripts. The main purpose is to avoid relying on typeof(require(...)) to obtain type information from another module. In my…",
+      "score": 4,
+      "tags": [],
+      "engagement": {
+        "likes": 0,
+        "replies": 20,
+        "views": 99
+      },
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xfxftn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfxftn/is_anyone_still_making_games_without_ai/",
+      "author": "HazbotX",
+      "date": "2026-10-26T13:53:05.000Z",
+      "title": "Is anyone still making games without AI",
+      "excerpt_en": "I mean i am sure 99.9% scripting js rpobably done by AI now but are there still people who are making maps and assets manually? Or maybe UI?....well i cant because i dont have money for premium models.....what about u guys ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xg69b3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg69b3/making_my_ai_better_yay_day_82/",
+      "author": "OkCupcake4034",
+      "date": "2026-10-26T19:14:55.000Z",
+      "title": "Making my AI Better YAY Day 82",
+      "excerpt_en": "I made the AI be able to traverse the mountainous terrain and now the AI can combat better. I am also making a new map with a new gamemode. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xg0tfb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg0tfb/been_working_on_making_the_creatures_in_my_roblox/",
+      "author": "Leather-Following-38",
+      "date": "2026-10-26T15:57:57.000Z",
+      "title": "Been working on making the creatures in my Roblox game feel more alive. How's this looking?",
+      "excerpt_en": "Been working on some of the little creature interactions in my Roblox game, Stitched Up. This is Spoolie, one of the Fuzzlings that you'll come across while exploring. I've been playing around with the camera movement and animations to make these little moments feel more…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xfcomt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfcomt/im_tired_of_slop_ai_games_and_want_to_do/",
+      "author": "Educational_Team1515",
+      "date": "2026-10-25T20:19:27.000Z",
+      "title": "I’m tired of Slop Ai games and want to do something about it",
+      "excerpt_en": "I’ve been playing Roblox since i was 6 and i’m 22, I have a stable job and love to play games on my down time, especially with my siblings. That being said i’m tired of all these steal A blank/ brain rot games. I have a younger sibling and occasionally will play with them it…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T01:10:18.909Z"
+    }
+  ]
+}
