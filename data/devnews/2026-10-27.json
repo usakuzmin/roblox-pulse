@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-27T07:08:49.173Z",
+  "generated_at": "2026-10-27T13:09:49.112Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 125870
+      "ms": 128230
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91792
+      "ms": 91712
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3792
+      "ms": 4049
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 433
+      "ms": 238
     },
     "hackernews": {
       "ok": true,
-      "fetched": 2,
-      "ms": 906
+      "fetched": 3,
+      "ms": 285
     }
   },
   "items": [
@@ -80,6 +80,22 @@
       "first_seen": "2026-10-27T07:08:49.173Z"
     },
     {
+      "id": "reddit:t3_1xgn26n",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgn26n/pve_shooter_has_struggled_to_gain_traction_any/",
+      "author": "h17jjw",
+      "date": "2026-10-27T08:36:38.000Z",
+      "title": "PvE Shooter has struggled to gain traction - any advice?",
+      "excerpt_en": "My game, Cats vs. Aliens is running ads for the second time but I just can’t seem to capture player retention. The first run 1.5 months ago had obvious churn signals which I’ve tried to address, stuff such as difficulty and economy. I have maybe 2-3 dedicated returning players…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
       "id": "devforum:4959562",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
@@ -95,6 +111,22 @@
         "views": 238
       },
       "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xgrwae",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgrwae/hidden_thumbnails_and_no_visitors/",
+      "author": "Heavenly_Principl3s",
+      "date": "2026-10-27T13:01:12.000Z",
+      "title": "Hidden thumbnails and no visitors",
+      "excerpt_en": "I recently made an obby game on Roblox called “Road to Celestia”. Since it’s still new, Roblox restricts it to “16+”, which makes it even harder for players to even play the game. To make things worse, they even hide my thumbnails. I created some with AI and they are correctly…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
     },
     {
       "id": "reddit:t3_1xge2jr",
@@ -157,6 +189,22 @@
       "first_seen": "2026-10-27T07:08:49.173Z"
     },
     {
+      "id": "hn:50256985",
+      "source": "hackernews",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "author": "choult",
+      "date": "2026-10-27T10:27:50Z",
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "excerpt_en": "",
+      "score": 5.9,
+      "tags": [],
+      "engagement": {
+        "points": 220,
+        "replies": 143
+      },
+      "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
       "id": "devforum:4955485",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/10-years-of-roblox-development-but-struggling-to-land-interviews-looking-for-advice/4955485",
@@ -191,6 +239,25 @@
       "first_seen": "2026-10-27T01:10:18.909Z"
     },
     {
+      "id": "devforum:4960270",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/kros-realistic-roblox-os-pc-only/4960270",
+      "author": "Alexandru2201913",
+      "date": "2026-10-27T12:29:02.293Z",
+      "title": "krOS - REALISTIC Roblox OS [PC only]",
+      "excerpt_en": "Introduction krOS is a realistic OS made on Roblox, and it’s NOT realistic because of the GUI! The core components of the OS 1. The process manager (PM) In krOS, the Process Manager is one of the main features. It handles process creation, running the processes and destroying…",
+      "score": 4.1,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 16
+      },
+      "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
       "id": "devforum:4958546",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546",
@@ -206,6 +273,21 @@
         "views": 99
       },
       "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/roblox-mohamed-el-sheakh-joins-speaker-line-up-pocket-gamer-connects-jordan/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-mohamed-el-sheakh-joins-speaker-line-up-pocket-gamer-connects-jordan/",
+      "author": null,
+      "date": "2026-10-27T10:30:00.000Z",
+      "title": "Roblox’s Mohamed El Sheakh joins the speaker line-up for Pocket Gamer Connects Jordan",
+      "excerpt_en": "Roblox general manager for the Middle East, North Africa and T&uuml;rkiye Mohamed El Sheakh will deliver a keynote at Pocket Gamer Connects Jordan on November 7th, adding to a strong roster of speakers at the conference. El Sheakh is a tech entrepreneur with more than 20 years…",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
     },
     {
       "id": "reddit:t3_1xfxftn",
@@ -310,6 +392,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgi7mb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgi7mb/i_genuinely_genuinely_need_an_answer_for_this/",
+      "author": "Shot_Monitor796",
+      "date": "2026-10-27T03:42:06.000Z",
+      "title": "I genuinely, GENUINELY need an answer for this.",
+      "excerpt_en": "I seriously need an answer for this phenomenon. Not even the game owner knows what's happening. I haven't been able to sleep for 3 days straight because of this. Is this a client side issue? Is this a server issue? Just what the hell is this??? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
+      "id": "reddit:t3_1xfyg3b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfyg3b/gang_beasts_as_babys/",
+      "author": "Traditional_Map1184",
+      "date": "2026-10-26T14:31:08.000Z",
+      "title": "gang beasts as babys🤤",
+      "excerpt_en": "cat battles had horrible physics so i went and make it better! ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
+      "id": "reddit:t3_1xfvgzk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfvgzk/fusilis_regius_m1878/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-26T12:30:17.000Z",
+      "title": "Fusilis Regius M.1878",
+      "excerpt_en": "Modeled the FIRST Firearm for my game project (A Soldier's Poem), its name is the \"Fusilis Regius M.1878\" its lating for \"Royal Rifle Model 1878\" Lengh : 6.26 Studs Calliber : 0.04 Stud Practical Range : 400 to 600 studs Type of Firearm : Single shot Breach Loading Bolt action…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T13:09:49.112Z"
     }
   ]
 }
