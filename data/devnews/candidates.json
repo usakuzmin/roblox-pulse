@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:10:18.979Z",
+  "generated_at": "2026-10-27T07:08:49.234Z",
   "from_files": [
     "2026-10-24.json",
     "2026-10-25.json",
@@ -212,6 +212,24 @@
       "first_seen": "2026-10-26T07:13:38.413Z"
     },
     {
+      "id": "reddit:t3_1xgldlr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgldlr/gameplay_too_boring/",
+      "author": "CautiousEffective945",
+      "date": "2026-10-27T06:46:22.000Z",
+      "title": "gameplay too boring?",
+      "excerpt_en": "Recently launched a new game, Aisle Dash ( https://www.roblox.com/share?code=e988f89c4791ed4f8f34df1af9322a06&type=ExperienceDetails&stamp=1793082319208 ). It is a party game, where 6 players compete to collect the most groceries, stacking a comedic pile of grocery items, while…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
       "id": "devforum:4957176",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
@@ -264,23 +282,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T15:01:40.974Z"
-    },
-    {
-      "id": "reddit:t3_1xe4fk5",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe4fk5/i_compared_player_growth_in_my_two_roblox_games/",
-      "author": "ljhappy75",
-      "date": "2026-10-24T09:41:21.000Z",
-      "title": "I Compared Player Growth in My Two Roblox Games. Why Did One Get Home Recommendations While the Other Didn't?",
-      "excerpt_en": "I compared the new player acquisition graphs of two Roblox games I developed. Both games ran paid ads, but the player acquisition patterns after those ads were very different. Rebirth RPG https://preview.redd.it/vmljei1hydxh1.png?width=1009…",
-      "score": 13,
-      "tags": [
-        "ads",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-24T13:00:46.917Z"
     }
   ]
 }

@@ -1,34 +1,84 @@
 {
-  "generated_at": "2026-10-27T01:10:18.909Z",
+  "generated_at": "2026-10-27T07:08:49.173Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 132649
+      "ms": 125870
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91815
+      "ms": 91792
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 4298
+      "ms": 3792
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 274
+      "ms": 433
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 313
+      "ms": 906
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xgldlr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgldlr/gameplay_too_boring/",
+      "author": "CautiousEffective945",
+      "date": "2026-10-27T06:46:22.000Z",
+      "title": "gameplay too boring?",
+      "excerpt_en": "Recently launched a new game, Aisle Dash ( https://www.roblox.com/share?code=e988f89c4791ed4f8f34df1af9322a06&type=ExperienceDetails&stamp=1793082319208 ). It is a party game, where 6 players compete to collect the most groceries, stacking a comedic pile of grocery items, while…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgkp59",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkp59/looking_for_team_need_programmers_ui_makers_and/",
+      "author": "IhateAIlikereally",
+      "date": "2026-10-27T06:02:42.000Z",
+      "title": "[Looking for Team] Need Programmers, UI Makers, and Builders (21+) for \"Eat the Egg\"",
+      "excerpt_en": "Looking for UI makers, coders, and a builder in the 21+ age group . Since I'm currently on a tight budget, I'm offering a 20% share of the game's Robux revenue for each role (60% total for the team, leaving 40% for me). I can pay out via Gamepasses or Developer…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgg56c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgg56c/looking_for_an_experienced_roblox_developer/",
+      "author": "Ruiss2",
+      "date": "2026-10-27T02:02:03.000Z",
+      "title": "Looking for an Experienced Roblox Developer / Builder LongTerm Partnership",
+      "excerpt_en": "​ Hey everyone! I'm currently working on a private Roblox game project and looking for an experienced developer or builder interested in a long-term revenue-share partnership. I'm keeping the specific concept and gameplay mechanics confidential during early recruitment. Looking…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
     {
       "id": "devforum:4959562",
       "source": "devforum",
@@ -90,6 +140,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xglnqh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xglnqh/looking_for_team_matemates_to_make_roblox_games/",
+      "author": "brynoo5",
+      "date": "2026-10-27T07:04:20.000Z",
+      "title": "looking for team mate/mates to make roblox games with ai",
+      "excerpt_en": "reqs: claude max 5-20x, vision / we are currently 2 and 2 opens slots available / shared revenue when game makes income i have several different game projects in development, ranging from card games to sword-fighting duel games, but i haven’t released any of them because i don’t…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "devforum:4955485",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/10-years-of-roblox-development-but-struggling-to-land-interviews-looking-for-advice/4955485",
+      "author": "Every0nePers0n",
+      "date": "2026-10-24T21:29:13.004Z",
+      "title": "10+ years of Roblox development, but struggling to land interviews. Looking for advice!",
+      "excerpt_en": "Hey everyone! I’ve been developing on Roblox for over 10 years, mostly self-taught. I’ve worked as lead developer on Airplane Simulator (220M+ visits) and Splatter Blocks (9M+ visits), contributed to Criminal Tycoon (137M+ visits), and independently developed Space Frontier…",
+      "score": 5.5,
+      "tags": [
+        "studio"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "views": 63
+      },
+      "first_seen": "2026-10-27T07:08:49.173Z"
     },
     {
       "id": "reddit:t3_1xgahb5",
@@ -174,6 +258,58 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-27T01:10:18.909Z"
+    },
+    {
+      "id": "reddit:t3_1xgetcu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgetcu/im_building_a_destinyborderlandsinspired_looter/",
+      "author": "Dry_Plankton6642",
+      "date": "2026-10-27T01:01:28.000Z",
+      "title": "I'm building a Destiny/Borderlands-inspired looter shooter. What do you think so far?",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgdqv1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/",
+      "author": "Sensitive_Bicycle809",
+      "date": "2026-10-27T00:13:43.000Z",
+      "title": "Is this HUD/UI good?",
+      "excerpt_en": "The UI is very much a work in progress—it’s just a concept, and I’m in urgent need of feedback! Thanks a lot! [I'm not looking for devs, this is because of the info-box/rules on this sub-reddit] ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgbkd9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbkd9/orbitus_m1872_uswen_officer_revolver/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-26T22:40:30.000Z",
+      "title": "Orbitus M.1872 (Uswen Officer Revolver)",
+      "excerpt_en": "Revolver i made for the Officer class for my game project (\"A Soldier's Poem\") Lengh : 1.14 Studs Calliber : 0.06 Studs Practical Range : 250 Studs Type of Firearm : Double Action 6 Shot revolver. Country of Adoption : Uswen Kingdom. Feel free to tell me what you think of it or…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xg85o4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg85o4/dinosaurs_and_models_for_my_sci_fi_dinosaur_game/",
+      "author": "nerdyguy107291",
+      "date": "2026-10-26T20:25:31.000Z",
+      "title": "Dinosaurs and models for my sci fi dinosaur game",
+      "excerpt_en": "All species (besides humans) are genetically modified,while also keeping the scientifically accurate aspects of the real animals 1 - dearc 2 - herrerasaurus 3 - ceratosaurus 4 - microraptor 5 - homo sapiens ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T07:08:49.173Z"
     }
   ]
 }
