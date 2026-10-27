@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:09:49.169Z",
+  "generated_at": "2026-10-27T19:03:17.855Z",
   "from_files": [
     "2026-10-24.json",
     "2026-10-25.json",
@@ -46,6 +46,29 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "devforum:4960622",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
+      "author": "Fufu1337",
+      "date": "2026-10-27T17:00:04.192Z",
+      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
+      "excerpt_en": "I’ve been running ads for my game, Huss Tackle, and I’m having trouble understanding why my ads are getting thousands of clicks but barely any reported plays. I’ve tested around 50 different thumbnails, and after improving them, multiple ads are now getting 3.1–3.6% CTR compared…",
+      "score": 19.5,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 8
+      },
+      "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
       "id": "reddit:t3_1xdrqhs",
@@ -264,24 +287,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xft7ld",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xft7ld/is_it_just_me_or_roblox_is_now_filled_with_low/",
-      "author": "Illustrious_Dig7133",
-      "date": "2026-10-26T10:34:55.000Z",
-      "title": "is it just me or roblox is now filled with low quality slops",
-      "excerpt_en": "I've been playing since 2016 and if I were to go back from 2016 - 2022 I swear games were much more replayable and much more fun , but nowadays everything's filled with just slop - Claude opus chat gpt gemeni forge ui or Ai slop , everytime I go on the front page its just filled…",
-      "score": 14,
-      "tags": [
-        "revenue",
-        "ads",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-26T15:01:40.974Z"
     }
   ]
 }

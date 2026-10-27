@@ -1,34 +1,57 @@
 {
-  "generated_at": "2026-10-27T13:09:49.112Z",
+  "generated_at": "2026-10-27T19:03:17.798Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 128230
+      "ms": 121419
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91712
+      "ms": 91607
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 4049
+      "fetched": 4,
+      "ms": 3715
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 238
+      "ms": 297
     },
     "hackernews": {
       "ok": true,
       "fetched": 3,
-      "ms": 285
+      "ms": 231
     }
   },
   "items": [
+    {
+      "id": "devforum:4960622",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
+      "author": "Fufu1337",
+      "date": "2026-10-27T17:00:04.192Z",
+      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
+      "excerpt_en": "I’ve been running ads for my game, Huss Tackle, and I’m having trouble understanding why my ads are getting thousands of clicks but barely any reported plays. I’ve tested around 50 different thumbnails, and after improving them, multiple ads are now getting 3.1–3.6% CTR compared…",
+      "score": 19.5,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 8
+      },
+      "first_seen": "2026-10-27T19:03:17.798Z"
+    },
     {
       "id": "reddit:t3_1xgldlr",
       "source": "reddit",
@@ -46,6 +69,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-27T07:08:49.173Z"
+    },
+    {
+      "id": "reddit:t3_1xgt5up",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/",
+      "author": "ConversationOld1503",
+      "date": "2026-10-27T13:53:57.000Z",
+      "title": "I have been a Roblox dev for 7 years and its not worth it",
+      "excerpt_en": "I have been a Roblox developer for nearly 7 years, starting from late 2019 and ending June this year. Simply put: Roblox development isnt worth it in 2026 The reason I quit after 7 years is because of these things: 1. The Roblox algorthim isnt the best. I say this because if you…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
       "id": "reddit:t3_1xgkp59",
@@ -239,6 +279,40 @@
       "first_seen": "2026-10-27T01:10:18.909Z"
     },
     {
+      "id": "devforum:4950356",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356",
+      "author": "iSentinels",
+      "date": "2026-10-22T17:04:57.550Z",
+      "title": "An experience's eligibility to go public can only be checked with cookie-authenticated endpoints, not Open Cloud",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to make an experience public from tooling, because there is no Open Cloud way to check whether the experience is allowed to go public. I maintain Bedrock , an open-source infrastructure-as-code tool for Roblox. Bedrock uses Open…",
+      "score": 5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 61
+      },
+      "first_seen": "2026-10-27T19:03:17.798Z"
+    },
+    {
+      "id": "reddit:t3_1xgyvto",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgyvto/how_realistic_is_it_to_make_money_developing/",
+      "author": "Jul1an_Gut1errez_777",
+      "date": "2026-10-27T17:27:37.000Z",
+      "title": "How realistic is it to make money developing games on Roblox?",
+      "excerpt_en": "As the title says, I'm considering developing a game on Roblox as a hobby, and I'd like to know how financially viable it actually is I have plenty of free time and I'm willing to put in the work to make sure the game is polished. I know how to code and manage social media for…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T19:03:17.798Z"
+    },
+    {
       "id": "devforum:4960270",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/kros-realistic-roblox-os-pc-only/4960270",
@@ -288,6 +362,42 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
+      "id": "devforum:4960734",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
+      "author": "missmandypanda",
+      "date": "2026-10-27T18:12:05.055Z",
+      "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
+      "excerpt_en": "Hi Creators, We want Roblox to be the place you build the next great 2D game. Whether you’re making a side-scrolling platformer, a top-down RPG, a cozy farming sim or a fast-paced fighting game, many great 2D games start with expressive image animation. Today, we’re launching…",
+      "score": 3.7,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 88,
+        "replies": 15,
+        "views": 834
+      },
+      "first_seen": "2026-10-27T19:03:17.798Z"
+    },
+    {
+      "id": "devforum:4956082",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/estuary-a-new-administration-system-from-the-creator-of-commander/4956082",
+      "author": "7kayoh",
+      "date": "2026-10-25T05:37:35.185Z",
+      "title": "Estuary | A new administration system from the creator of Commander!",
+      "excerpt_en": "Hey! Been a while, like been years already! And I finally got the time to create a new administration system for Roblox! This is still in the works at the moment, I don’t know what the exact timeframe for release yet, but so far this is in a state where I feel confident sharing…",
+      "score": 3.2,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 0,
+        "views": 123
+      },
+      "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
       "id": "reddit:t3_1xfxftn",
@@ -431,6 +541,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-27T13:09:49.112Z"
+    },
+    {
+      "id": "reddit:t3_1xgpkky",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpkky/i_built_a_deepwokeninspired_combat_system_for/",
+      "author": "Latter_Vehicle_4569",
+      "date": "2026-10-27T11:07:03.000Z",
+      "title": "I built a Deepwoken-inspired combat system for Roblox (parry, guardbreak, i-frames)",
+      "excerpt_en": "Hey everyone, I'm Fr1zy. I've been building a combat system for Roblox inspired by Deepwoken's feel, and this is a duel between me and a friend. Everything is server-authoritative, so hits, blocks and parries are all decided on the server and the client only sends input. It has…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T19:03:17.798Z"
+    },
+    {
+      "id": "reddit:t3_1xggblq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xggblq/a_reminder_to_drive_safe/",
+      "author": "Distinct-Tie-3285",
+      "date": "2026-10-27T02:10:14.000Z",
+      "title": "a reminder to drive safe",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-27T19:03:17.798Z"
     }
   ]
 }
