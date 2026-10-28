@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-28T07:21:04.285Z",
+  "generated_at": "2026-10-28T13:18:15.514Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 132345
+      "ms": 114866
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91654
+      "ms": 91633
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3878
+      "ms": 3822
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 463
+      "ms": 395
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 297
+      "ms": 242
     }
   },
   "items": [
@@ -100,6 +100,25 @@
       "first_seen": "2026-10-28T07:21:04.285Z"
     },
     {
+      "id": "devforum:4956701",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
+      "author": "o0MADMAXUK0o",
+      "date": "2026-10-25T13:37:22.020Z",
+      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
+      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
+      "score": 10.5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 5,
+        "views": 128
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
       "id": "reddit:t3_1xhg7vf",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
@@ -113,6 +132,59 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "devforum:4961959",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/more-detailed-dislike-analytics-in-creator-dashboard/4961959",
+      "author": "iTheBetaDev",
+      "date": "2026-10-28T09:31:41.398Z",
+      "title": "More Detailed Dislike Analytics in Creator Dashboard",
+      "excerpt_en": "As a Roblox developer, it is currently difficult to understand why players dislike an experience. While the Feedback Dashboard and existing analytics provide useful information, I believe there is still a lack of insight into the gameplay behavior of players who leave dislikes…",
+      "score": 9.1,
+      "tags": [
+        "metrics",
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 18
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
+      "id": "reddit:t3_1xhnlfu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhnlfu/looking_for_16_testers_for_two_arcade_mvp_games/",
+      "author": "Old_Eye_9624",
+      "date": "2026-10-28T13:07:56.000Z",
+      "title": "Looking for 16+ testers for two arcade MVP games (Will test yours back!)",
+      "excerpt_en": "Hey everyone, I’ve recently pushed out two small arcade MVP games, but as a solo dev dealing with the new platform restrictions, I'm currently stuck trying to clear the initial 250-player threshold to unlock organic traffic for under-16 users. The games are currently running…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
+      "id": "naavik:https://naavik.co/?p=34717",
+      "source": "naavik",
+      "url": "https://naavik.co/ai-gaming/prompt-to-game-is-here-which-platforms-are-positioned-to-win/",
+      "author": "Matthew Camp",
+      "date": "2026-10-27T09:44:19.000Z",
+      "title": "Prompt-to-Game Is Here. Which Platforms Are Positioned to Win?",
+      "excerpt_en": "AI game creation on mobile | Source: Roblox , Google , Meta Between July and October 2026, Roblox, Meta, and Google each unveiled a product that lets users make a playable game from a text prompt: Roblox Build , Meta Horizon Create , and Google Playground . They join startups…",
+      "score": 7,
+      "tags": [
+        "analyst",
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T13:18:15.514Z"
     },
     {
       "id": "devforum:4961129",
@@ -148,6 +220,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xhiaom",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhiaom/looking_for_playtester/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-28T08:18:32.000Z",
+      "title": "Looking for PlayTester?",
+      "excerpt_en": "Hello everyone! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
+      "id": "devforum:4959453",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
+      "author": "eiei11484",
+      "date": "2026-10-26T22:33:01.555Z",
+      "title": "Rbxoc | A CLI for the Roblox Open Cloud API",
+      "excerpt_en": "rbxoc 1400×420 172 KB rbxoc is a command-line tool for the Roblox Open Cloud API, built so a coding agent can run it. Pin it next to Rojo and call it from a shell. The interface is agent-facing. rbxoc api list returns the command catalog, including commands that are not…",
+      "score": 5.8,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 2,
+        "views": 110
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
     },
     {
       "id": "reddit:t3_1xh3top",
