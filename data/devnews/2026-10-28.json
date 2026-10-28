@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-10-28T01:22:09.382Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 136759
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91511
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 3745
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 73
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 334
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xhaqgx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhaqgx/roblox_algorithm_surge/",
+      "author": "Dizzy-Criticism-2649",
+      "date": "2026-10-28T01:15:40.000Z",
+      "title": "Roblox Algorithm Surge",
+      "excerpt_en": "I release my game about a week ago, and around an hour ago my game got a gradual surge from about 5-7 ccu up to a peak of around 84 ccu which happened around 30-40 minutes ago. It's now been gradually slowing down, being at ~55ccu 20 minutes ago, ~34ccu 10 minutes ago, and 29ccu…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xh3hsu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh3hsu/before_you_hit_the_250_engaged_players_for_all/",
+      "author": "LowPrestigious3669",
+      "date": "2026-10-27T20:16:44.000Z",
+      "title": "Before you hit the 250 engaged players for all ages, what CCU tells you the game actually has potential?",
+      "excerpt_en": "My game is still locked to age-checked 16+ until it reaches the 250 highly engaged players. Right now it averages around 1–5 CCU, and only while I’m running ads. My question is that is there a CCU (or a retention / playtime number) you’d want to see before the unlock that tells…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "devforum:4961129",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129",
+      "author": "pribiter",
+      "date": "2026-10-27T22:00:07.221Z",
+      "title": "Improve Your Game Security with the Device Trust API",
+      "excerpt_en": "Hi Creators, To ensure a fair environment for everyone, we have a zero-tolerance policy against botting and cheating. We’re intensifying our platform-wide efforts to curb these activities, keeping your games both fun and competitive. Today, we’re announcing the Device Trust API…",
+      "score": 6.8,
+      "tags": [
+        "platform",
+        "story"
+      ],
+      "engagement": {
+        "likes": 102,
+        "replies": 29,
+        "views": 1313
+      },
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xh6dar",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6dar/the_ugly_truth_about_game_communities_graphic/",
+      "author": "Kotojokes",
+      "date": "2026-10-27T22:07:14.000Z",
+      "title": "The Ugly Truth About Game Communities (GRAPHIC)",
+      "excerpt_en": "NOT FOR THE FAINT OF HEART! GRAPHIC! DO NOT PROCEED IF UNDERAGED OR SENSITIVE! I ask that the moderators actually read the post before deciding if it violates the rules. Do not harass or interact with the people in the pictures at the bottom of this post, you'll only encourage…",
+      "score": 6,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xh3top",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh3top/whats_the_difference_between_these_2/",
+      "author": "Just-Orange-7789",
+      "date": "2026-10-27T20:29:11.000Z",
+      "title": "Whats the difference between these 2?",
+      "excerpt_en": "https://preview.redd.it/3d5gnfrqk2yh1.png?width=802&format=png&auto=webp&s=02b672ff9ac4b9e829138a5aeac15a5d6ac77115 Theres 2 publishing fees. One is 1k robux, other one is 50k. Whats the difference between them? From their descriptions they seem the exact same ",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "devforum:4960938",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938",
+      "author": "MayGoRblx",
+      "date": "2026-10-27T20:20:12.302Z",
+      "title": "NPC Outfit Creator plugin",
+      "excerpt_en": "Quick Demo: I got tired of dressing NPCs by pasting asset IDs into a HumanoidDescription one property at a time. So I built a plugin that does it the way the avatar editor does. You pick clothes from the catalog, see them on a rig, and drop the NPC into your place. I thought to…",
+      "score": 4.8,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 45
+      },
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "devforum:4960895",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-would-i-make-a-game-like-jujutsu-shenanigans/4960895",
+      "author": "JaydynGaming3",
+      "date": "2026-10-27T19:54:45.288Z",
+      "title": "How would I make a game like Jujutsu Shenanigans?",
+      "excerpt_en": "Hello everyone, this is one of my first posts here but I just thought I’d come here for some advice on scripting. How Jujutsu Shenanigans (or The Strongest Battlegrounds and Legends Battlegrounds) makes their game so responsive. I’ve been dabbling in Object Oriented Programming…",
+      "score": 4.6,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 7,
+        "views": 67
+      },
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "devforum:4961364",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364",
+      "author": "lunarrest",
+      "date": "2026-10-28T00:03:38.593Z",
+      "title": "[TextChatService] Remove /whisper",
+      "excerpt_en": "/whisper is a threat to safety. Why is this the case? Whisper makes communication between two users private; which is both good and bad. It is good because, for mystery games where you need to work with other people; or developers need to silence players from ruining the game…",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 4,
+        "views": 48
+      },
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xh6x68",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6x68/xbox_360_blades_dashboard/",
+      "author": "SamsonDoesThings",
+      "date": "2026-10-27T22:29:41.000Z",
+      "title": "Xbox 360 Blades Dashboard",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xh7a9i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh7a9i/first_script_ive_written_by_myself_if_you_dont/",
+      "author": "castoffshell9013",
+      "date": "2026-10-27T22:44:53.000Z",
+      "title": "First script ive written by myself (if you dont count documention)",
+      "excerpt_en": "a bit sloppy sadly but this is literally the first completed script ive made ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    }
+  ]
+}

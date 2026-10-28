@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T19:03:17.855Z",
+  "generated_at": "2026-10-28T01:22:09.454Z",
   "from_files": [
-    "2026-10-24.json",
     "2026-10-25.json",
     "2026-10-26.json",
-    "2026-10-27.json"
+    "2026-10-27.json",
+    "2026-10-28.json"
   ],
   "items": [
     {
@@ -71,25 +71,6 @@
       "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
-      "id": "reddit:t3_1xdrqhs",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdrqhs/is_my_game_done_for/",
-      "author": "MultiGamesYTIS",
-      "date": "2026-10-23T22:14:31.000Z",
-      "title": "Is my game done for?",
-      "excerpt_en": "https://preview.redd.it/bhi3e4ozjaxh1.png?width=630&format=png&auto=webp&s=4b258d6f9166276d9f1484d523988acce4d3284c last week my game finally reached 250HEP, I did some plays ads for couple of days, reaches about 120 ccu peak for couple of minutes then it was around 7-15 ccu…",
-      "score": 18,
-      "tags": [
-        "metrics",
-        "marketing",
-        "discovery",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-24T01:11:18.256Z"
-    },
-    {
       "id": "reddit:t3_1xf4cmq",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf4cmq/my_rpg_game_doesnt_get_home_raccomandations_even/",
@@ -107,46 +88,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
-      "id": "devforum:4953789",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789",
-      "author": "trickswave",
-      "date": "2026-10-24T04:39:20.870Z",
-      "title": "What are marketing strategies that work well for multiplayer team games?",
-      "excerpt_en": "Me & my friend were wondering what strategies would be best for team based multiplayer games Would spending 10k Robux on marketing be worth it? He was thinking 5k on Roblox ads and 5k paying a YouTuber (who agreed to 5k for a video and he averages 30-200k views a short) to post…",
-      "score": 17.6,
-      "tags": [
-        "metrics",
-        "marketing",
-        "story",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 13
-      },
-      "first_seen": "2026-10-24T07:03:50.212Z"
-    },
-    {
-      "id": "reddit:t3_1xdtvj2",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdtvj2/ai_is_ruining_my_experience_coding_games/",
-      "author": "Maleficent_Bar8400",
-      "date": "2026-10-23T23:52:33.000Z",
-      "title": "AI is ruining my experience coding games",
-      "excerpt_en": "I've been working on a game for a long time now, and I am nearing finished. I think it is pretty well made and I liked making it, definitely taught me a few things. I guess I decided to publish it at the EXACT WRONG TIME, because lord have mercy every game is slop and AI. This…",
-      "score": 16,
-      "tags": [
-        "revenue",
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-24T01:11:18.256Z"
     },
     {
       "id": "reddit:t3_1xf874u",
@@ -184,22 +125,6 @@
         "views": 18
       },
       "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xe93fw",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xe93fw/my_game_wont_go_pass_2_ccu/",
-      "author": "Shinichiro_7616",
-      "date": "2026-10-24T13:46:28.000Z",
-      "title": "My game won’t go pass 2 ccu",
-      "excerpt_en": "I published my first game 2 weeks ago. Ctr was terrible on the previous ads. But the one I started yesterday is seating at 3.3% ctr, but my problem is the ccu doesn’t go up. It always between 0-3, I added a tutorial, engaging quests for players to stay but they always leave…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-24T18:55:07.892Z"
     },
     {
       "id": "reddit:t3_1xf7sb3",
@@ -253,6 +178,23 @@
       "first_seen": "2026-10-27T07:08:49.173Z"
     },
     {
+      "id": "reddit:t3_1xhaqgx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhaqgx/roblox_algorithm_surge/",
+      "author": "Dizzy-Criticism-2649",
+      "date": "2026-10-28T01:15:40.000Z",
+      "title": "Roblox Algorithm Surge",
+      "excerpt_en": "I release my game about a week ago, and around an hour ago my game got a gradual surge from about 5-7 ccu up to a peak of around 84 ccu which happened around 30-40 minutes ago. It's now been gradually slowing down, being at ~55ccu 20 minutes ago, ~34ccu 10 minutes ago, and 29ccu…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
       "id": "devforum:4957176",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
@@ -287,6 +229,57 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xft7ld",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xft7ld/is_it_just_me_or_roblox_is_now_filled_with_low/",
+      "author": "Illustrious_Dig7133",
+      "date": "2026-10-26T10:34:55.000Z",
+      "title": "is it just me or roblox is now filled with low quality slops",
+      "excerpt_en": "I've been playing since 2016 and if I were to go back from 2016 - 2022 I swear games were much more replayable and much more fun , but nowadays everything's filled with just slop - Claude opus chat gpt gemeni forge ui or Ai slop , everytime I go on the front page its just filled…",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T15:01:40.974Z"
+    },
+    {
+      "id": "reddit:t3_1xf406x",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf406x/help_me_fix_my_retention_and_core_loop/",
+      "author": "Ok_Cup9833",
+      "date": "2026-10-25T14:37:01.000Z",
+      "title": "Help me fix my retention and core loop",
+      "excerpt_en": "I launched a game 3 days ago called Mega Ramp Bike Jump . I initially put €15 into ads to get some early feedback, which allowed me to push out quick updates. Since then, we've spent about €40 more, and we still have €65 left that will automatically roll out over the next 5…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-25T18:55:10.224Z"
+    },
+    {
+      "id": "reddit:t3_1xgt5up",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/",
+      "author": "ConversationOld1503",
+      "date": "2026-10-27T13:53:57.000Z",
+      "title": "I have been a Roblox dev for 7 years and its not worth it",
+      "excerpt_en": "I have been a Roblox developer for nearly 7 years, starting from late 2019 and ending June this year. Simply put: Roblox development isnt worth it in 2026 The reason I quit after 7 years is because of these things: 1. The Roblox algorthim isnt the best. I say this because if you…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-27T19:03:17.798Z"
     }
   ]
 }
