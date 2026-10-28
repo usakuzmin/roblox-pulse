@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-28T13:18:15.514Z",
+  "generated_at": "2026-10-28T19:10:41.989Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 114866
+      "ms": 138469
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91633
+      "ms": 91607
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3822
+      "ms": 4662
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 395
+      "ms": 253
     },
     "hackernews": {
       "ok": true,
-      "fetched": 2,
-      "ms": 242
+      "fetched": 3,
+      "ms": 308
     }
   },
   "items": [
@@ -237,6 +237,51 @@
       "first_seen": "2026-10-28T13:18:15.514Z"
     },
     {
+      "id": "reddit:t3_1xhvqp0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhvqp0/looking_for_artists/",
+      "author": "Mean_Boysenberry138",
+      "date": "2026-10-28T18:09:38.000Z",
+      "title": "LOOKING FOR ARTISTS",
+      "excerpt_en": "if ur interested add me on discord: jim_jam777 were making a roguelike more details will be discussed if u dm me payment is a cut from the overall revenue of the game ",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
+      "id": "reddit:t3_1xhv9ye",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhv9ye/build_a_plane_for_treasure/",
+      "author": "Defiant-Ad-9227",
+      "date": "2026-10-28T17:53:09.000Z",
+      "title": "Build a Plane for Treasure",
+      "excerpt_en": "I am currently in the Ad phase for Build a Plane for Treasure & was looking for some critical feedback. I really enjoy build a boat and wanted something similar and now this project has gotten bigger than I was imagining. I am most concerned on gameplay mechanics, & user…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
+      "id": "reddit:t3_1xhugul",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhugul/any_german_devs_here/",
+      "author": "Low_Rock_6520",
+      "date": "2026-10-28T17:24:10.000Z",
+      "title": "Any german devs here?",
+      "excerpt_en": "How do you handle business registration and taxes when developing a game with someone else and splitting revenue 50/50? Does this automatically count as a GbR (partnership), or can both developers register separate businesses, especially if Roblox splits the Robux automatically ",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
       "id": "devforum:4959453",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
@@ -307,6 +352,57 @@
       "first_seen": "2026-10-28T01:22:09.382Z"
     },
     {
+      "id": "devforum:4962583",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/massive-ban-wave/4962583",
+      "author": "emmathegamer31",
+      "date": "2026-10-28T16:42:15.135Z",
+      "title": "Massive ban wave",
+      "excerpt_en": "There is a huge ban wave that is happening right now which has led to over a million of innocent players being banned for “linked accounts” also known as enforcement bans. Please if you know anyone of status or if you are able to, post about this ban wave so Roblox sees it. This…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 3,
+        "views": 120
+      },
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
+      "id": "devforum:4962382",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/age-based-chat-restrictions-changes/4962382",
+      "author": "bartekkanapka123",
+      "date": "2026-10-28T14:43:19.475Z",
+      "title": "Age-based chat restrictions changes",
+      "excerpt_en": "2455 words (including this sentence at the top). Apologies for whoever was expecting a short read. As a Roblox developer, it is currently too hard to create community and communication-centered roleplay, specifically “LARP” games and communities. Allow me to first explain what…",
+      "score": 4.3,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 1,
+        "views": 89
+      },
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
+      "id": "devforum:4962409",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/client-and-server-cooldown-desync/4962409",
+      "author": "coderluau",
+      "date": "2026-10-28T15:04:21.483Z",
+      "title": "Client and Server Cooldown Desync",
+      "excerpt_en": "Hello everyone, I am currently in process of developing a weapon-based combat system, and I am having issues with the client-server boundary while managing cooldowns, ammo, etc. How my current structure works: The client will validate if cooldown is over, if it is valid will it…",
+      "score": 3.9,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 39
+      },
+      "first_seen": "2026-10-28T19:10:41.989Z"
+    },
+    {
       "id": "devforum:4961364",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364",
@@ -374,6 +470,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "reddit:t3_1xhgmv0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhgmv0/what_is_the_best_way_to_promote_a_game_if_you/",
+      "author": "alinota445",
+      "date": "2026-10-28T06:30:24.000Z",
+      "title": "What is the best way to promote a game if you have no money?",
+      "excerpt_en": "This question has been on my mind for a while and I was wondering if there's anything else you can do than to pay Roblox to push your game out and obviously I'm not broke I'm just wondering ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-28T19:10:41.989Z"
     }
   ]
 }
