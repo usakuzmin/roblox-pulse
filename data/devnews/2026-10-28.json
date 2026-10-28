@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-28T01:22:09.382Z",
+  "generated_at": "2026-10-28T07:21:04.285Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 136759
+      "ms": 132345
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91511
+      "ms": 91654
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3745
+      "ms": 3878
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 73
+      "ms": 463
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 334
+      "ms": 297
     }
   },
   "items": [
@@ -61,6 +61,58 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "devforum:4961771",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/home-recommendations-buggedacting-weird/4961771",
+      "author": "CenturyofGaming",
+      "date": "2026-10-28T06:20:46.905Z",
+      "title": "Home Recommendations Bugged/Acting Weird",
+      "excerpt_en": "Screenshot 2026-10-28 151827 1296×450 94.8 KB Screenshot 2026-10-28 151809 1065×433 41.9 KB I noticed two issues, one is delayed reporting of thumbnails (is stuck at 3am even though its 3pm now, has always been about 3-4hours delayed but suddenly frozen) and day 1 + 7 retentions…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "reddit:t3_1xhg9yr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
+      "author": "brynoo5",
+      "date": "2026-10-28T06:08:08.000Z",
+      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
+      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "reddit:t3_1xhg7vf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
+      "author": "Double_Neck_7749",
+      "date": "2026-10-28T06:04:34.000Z",
+      "title": "Question for those earning",
+      "excerpt_en": "Those who actively earn on roblox currently, not just creating games, how much do you earn ? Like for those with successful games, how much did it cost to get your game going, how many players do you get on average a day, how long did you spend creating the game, how much robux…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
     },
     {
       "id": "devforum:4961129",
@@ -190,6 +242,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xhbcfy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhbcfy/ive_been_wanting_to_make_a_ben_10_game_on_roblox/",
+      "author": "Romal_Dev",
+      "date": "2026-10-28T01:44:16.000Z",
+      "title": "I've been wanting to make a Ben 10 game on Roblox!",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "reddit:t3_1xhdnbs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdnbs/do_you_guys_think_my_game_idea_is_good_would_you/",
+      "author": "bigdick4484720",
+      "date": "2026-10-28T03:38:00.000Z",
+      "title": "Do you guys think my game idea is good? Would you play a game like this?",
+      "excerpt_en": "I am working on this game now, but it isn't really going anywhere. Its an infinitely generated world with campsites spawning around randomly. You can go type messages in them and they stay the for other people too read. Like geo-caching. The campsites are all seed based, so they…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }
