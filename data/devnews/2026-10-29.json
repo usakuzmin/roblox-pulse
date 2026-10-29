@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-29T07:21:12.297Z",
+  "generated_at": "2026-10-29T18:35:07.825Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 122253
+      "ms": 132590
     },
     "reddit": {
       "ok": true,
-      "fetched": 100,
-      "ms": 91161
+      "fetched": 50,
+      "ms": 94677
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 2715
+      "ms": 4989
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 177
+      "ms": 199
     },
     "hackernews": {
       "ok": true,
-      "fetched": 4,
-      "ms": 198
+      "fetched": 5,
+      "ms": 261
     }
   },
   "items": [
@@ -83,6 +83,28 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "devforum:4964441",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
+      "author": "rubber1401",
+      "date": "2026-10-29T15:11:56.458Z",
+      "title": "An approach to creating games in roblox (Part 1: Beginner level)",
+      "excerpt_en": "Intro A lot of times, when people start creating games on Roblox, people decide “I want to create a game about (topic)” then work on it for a while and get bored of it then stop working on it and start a new project. This is a common thing when starting out and even I was like…",
+      "score": 12.7,
+      "tags": [
+        "ads",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 24
+      },
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
       "id": "reddit:t3_1xi0g3g",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi0g3g/looking_for_beta_testers_dev_team/",
@@ -97,6 +119,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xidc6h",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidc6h/i_made_a_thumbnail_for_my_roblox_game/",
+      "author": "SomeoneNoobyYT",
+      "date": "2026-10-29T07:27:05.000Z",
+      "title": "I made a thumbnail for my roblox game",
+      "excerpt_en": "game is called crabbers, heavily inspired by fisch and involves catching cool little crabs ",
+      "score": 9,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
     },
     {
       "id": "reddit:t3_1xi6w5a",
@@ -164,6 +201,41 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "reddit:t3_1xiagy6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiagy6/been_working_on_a_horror_game_where_she_only/",
+      "author": "No_Appearance_6500",
+      "date": "2026-10-29T04:33:36.000Z",
+      "title": "Been working on a horror game where she only moves when the lights go out.",
+      "excerpt_en": "It's 1-4 players. You have to keep the lights on, power up generators around the floor. ",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
+      "id": "devforum:4964241",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/help-with-dying-game/4964241",
+      "author": "IAMPROPOTATO",
+      "date": "2026-10-29T14:15:21.707Z",
+      "title": "Help with dying Game",
+      "excerpt_en": "My game has been currently dying over the past few months and I’m wondering if anyone has advice on how to revive it/is it even worth it to try to add new content or do sponsored ads. Game: Codewords | Play on Roblox image 2627×1112 215 KB",
+      "score": 5.8,
+      "tags": [
+        "ads",
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 57
+      },
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
       "id": "devforum:4963046",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/thoughts-on-my-game-intro/4963046",
@@ -179,6 +251,25 @@
         "views": 68
       },
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "devforum:4964201",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-confirmed-my-partners-counter-notice-was-forwarded-but-our-experience-has-not-been-restored/4964201",
+      "author": "Mohamed_4060",
+      "date": "2026-10-29T13:46:22.271Z",
+      "title": "Roblox Confirmed My Partner's Counter-Notice Was Forwarded, but Our Experience Has Not Been Restored",
+      "excerpt_en": "** What do you want to achieve?** I would like to hear from developers who experienced long delays after Roblox confirmed that a DMCA counter-notice had been forwarded to the original complainant. What is the issue? My partner submitted the DMCA counter-notice for our Roblox…",
+      "score": 5.2,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 24
+      },
+      "first_seen": "2026-10-29T18:35:07.825Z"
     },
     {
       "id": "reddit:t3_1xibgvp",
@@ -215,6 +306,25 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "devforum:4964592",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
+      "author": "JoshSedai",
+      "date": "2026-10-29T17:02:47.748Z",
+      "title": "Creators Can Test Games on the Web",
+      "excerpt_en": "Hi Creators, We’re launching Web Play beta, which lets you play your own Roblox games in a browser. We previewed Web Play at RDC, and you’re the first to get access. Starting today, you can test your games in Chrome on macOS, Windows, and Android before we open Web Play to all…",
+      "score": 3.8,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 75,
+        "replies": 48,
+        "views": 903
+      },
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
       "id": "reddit:t3_1xi3uqx",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3uqx/starbase_recreation/",
@@ -226,6 +336,71 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-29T07:21:12.297Z"
+    },
+    {
+      "id": "reddit:t3_1xijbjy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xijbjy/eisenreich_empire_infantry_officer_and_medic/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-29T13:00:51.000Z",
+      "title": "Eisenreich Empire Infantry Officer and Medic",
+      "excerpt_en": "modeled 3 uniforms for the second nation of my game project, \"A Soldier's Poem\" they are from the Eisenreich Empire a Austrian/Bavarian inspired nation that speak German. The Eisenreich Empire it self is a imaginary nation heavely imperialist (ence the name) and are actively…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
+      "id": "reddit:t3_1xi8u74",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8u74/looking_for_honest_opinions/",
+      "author": "Low-Dimension5920",
+      "date": "2026-10-29T03:07:41.000Z",
+      "title": "Looking for honest opinions",
+      "excerpt_en": "Yes, the game was made with AI but if for one second you could just ignore that fact or at least not immediately have a bad initial reaction, what are the honest opinions, advice, and if I should move onto a new game idea. I’ll attach pictures in replies. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
+      "id": "reddit:t3_1xioh1g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xioh1g/superchefs_game_intro/",
+      "author": "zeb14_",
+      "date": "2026-10-29T16:18:14.000Z",
+      "title": "SUPERCHEFS! Game Intro",
+      "excerpt_en": "Started this game about two years ago. Here's how it looks now:) My post a year ago My post two years ago ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
+      "id": "reddit:t3_1xihk9g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xihk9g/is_learning_roblox_development_even_worth_anymore/",
+      "author": "BadalHoMa",
+      "date": "2026-10-29T11:38:18.000Z",
+      "title": "is learning roblox development even worth anymore??",
+      "excerpt_en": "not really feeling motivated to learn roblox dev ive been learning lua for a few months now and recently saw a video of claude making almost an entire game in roblox studio. honestly, it kinda makes me wonder why im spending so much time learning to make games when ai can…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
+      "id": "reddit:t3_1xi5gjc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5gjc/gewehr_m1869_eisenreich_empire_rifle/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-29T00:27:54.000Z",
+      "title": "Gewehr M.1869 (Eisenreich Empire Rifle)",
+      "excerpt_en": "Eisenreich standard issue rifle i made for my game project (\"A soldier's Poem\") Length : 6.49 Stud Calliber : 0.04 Stud Mechanism of the Rifle : Lever action sliding block. Country of Adoption : Eisenreich Empire Insperation : Gevelot 11mm Sliding-Chamber Pinfire Rifle Feel free…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T18:35:07.825Z"
     }
   ]
 }

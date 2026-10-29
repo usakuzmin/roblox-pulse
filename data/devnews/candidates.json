@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:21:12.360Z",
+  "generated_at": "2026-10-29T18:35:07.883Z",
   "from_files": [
     "2026-10-26.json",
     "2026-10-27.json",
@@ -222,6 +222,28 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "devforum:4964441",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
+      "author": "rubber1401",
+      "date": "2026-10-29T15:11:56.458Z",
+      "title": "An approach to creating games in roblox (Part 1: Beginner level)",
+      "excerpt_en": "Intro A lot of times, when people start creating games on Roblox, people decide “I want to create a game about (topic)” then work on it for a while and get bored of it then stop working on it and start a new project. This is a common thing when starting out and even I was like…",
+      "score": 12.7,
+      "tags": [
+        "ads",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 24
+      },
+      "first_seen": "2026-10-29T18:35:07.825Z"
+    },
+    {
       "id": "devforum:4961771",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/home-recommendations-buggedacting-weird/4961771",
@@ -257,23 +279,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xhg9yr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
-      "author": "brynoo5",
-      "date": "2026-10-28T06:08:08.000Z",
-      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
-      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
-      "score": 11,
-      "tags": [
-        "revenue",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }
