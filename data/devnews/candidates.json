@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:20:47.943Z",
+  "generated_at": "2026-10-29T07:21:12.360Z",
   "from_files": [
     "2026-10-26.json",
     "2026-10-27.json",
@@ -49,6 +49,23 @@
         "views": 48
       },
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi9n3b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi9n3b/stuck_at_10_20_ccu/",
+      "author": "huntoir",
+      "date": "2026-10-29T03:48:48.000Z",
+      "title": "Stuck at 10 - 20 ccu",
+      "excerpt_en": "12 days ago I released my first game and have been stuck around 10 - 20 ccu. I've been running daily ads at $20/day with 1-2% CTR and am around 12min avg playtime. Working on improving my D1 retention and playtime avg...what is most important for me to be focusing on in this…",
+      "score": 19,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T07:21:12.297Z"
     },
     {
       "id": "devforum:4957643",
@@ -257,25 +274,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T07:21:04.285Z"
-    },
-    {
-      "id": "devforum:4956701",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
-      "author": "o0MADMAXUK0o",
-      "date": "2026-10-25T13:37:22.020Z",
-      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
-      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
-      "score": 10.5,
-      "tags": [
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 7,
-        "replies": 5,
-        "views": 128
-      },
-      "first_seen": "2026-10-28T13:18:15.514Z"
     }
   ]
 }

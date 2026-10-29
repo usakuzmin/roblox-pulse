@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-29T01:20:47.884Z",
+  "generated_at": "2026-10-29T07:21:12.297Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 120712
+      "ms": 122253
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91603
+      "ms": 91161
     },
     "rss": {
       "ok": true,
-      "fetched": 2,
-      "ms": 31748
+      "fetched": 4,
+      "ms": 2715
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 134
+      "ms": 177
     },
     "hackernews": {
       "ok": true,
-      "fetched": 3,
-      "ms": 284
+      "fetched": 4,
+      "ms": 198
     }
   },
   "items": [
@@ -48,6 +48,23 @@
         "views": 48
       },
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi9n3b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi9n3b/stuck_at_10_20_ccu/",
+      "author": "huntoir",
+      "date": "2026-10-29T03:48:48.000Z",
+      "title": "Stuck at 10 - 20 ccu",
+      "excerpt_en": "12 days ago I released my first game and have been stuck around 10 - 20 ccu. I've been running daily ads at $20/day with 1-2% CTR and am around 12min avg playtime. Working on improving my D1 retention and playtime avg...what is most important for me to be focusing on in this…",
+      "score": 19,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T07:21:12.297Z"
     },
     {
       "id": "reddit:t3_1xi0e2c",
@@ -80,6 +97,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi6w5a",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/",
+      "author": "PocketCometRBLX",
+      "date": "2026-10-29T01:33:35.000Z",
+      "title": "Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)",
+      "excerpt_en": "Hey, I’m working on a Roblox game called Lumber Legends and I’d like a few people to play it and tell me what they think. It’s a cartoony chop-trees-and-upgrade game. You chop trees, sell the wood, upgrade your axe, collect pets, and hire lumberjacks to chop for you while you’re…",
+      "score": 7,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T07:21:12.297Z"
     },
     {
       "id": "devforum:4963250",
@@ -149,6 +181,21 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "reddit:t3_1xibgvp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xibgvp/adopt_me_should_i_sell_my_siamese_cat/",
+      "author": "HamzaJabbat",
+      "date": "2026-10-29T05:31:57.000Z",
+      "title": "\"Adopt me\" should i sell my siamese cat?",
+      "excerpt_en": "Is selling my normal siamese cat for 10k robux a good deal? ",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T07:21:12.297Z"
+    },
+    {
       "id": "devforum:4963119",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/upgrading-shapecasts-margins-size-gradients-optimizations-and-more/4963119",
@@ -166,6 +213,19 @@
         "views": 1198
       },
       "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi3uqx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3uqx/starbase_recreation/",
+      "author": "ethnMo",
+      "date": "2026-10-28T23:19:30.000Z",
+      "title": "Starbase Recreation",
+      "excerpt_en": "Working on a recreation of SpaceX's Starbase Launch Facility. So far made the Raptor Engines, The Launch Tower (Mechazilla) with functioning catch arms, Launch Pad (Not complete) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-29T07:21:12.297Z"
     }
   ]
 }
