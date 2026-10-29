@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-10-29T01:20:47.884Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 120712
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91603
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 31748
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 134
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 3,
+      "ms": 284
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4962952",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/harsh-game-feedback-needed-why-is-my-playtime-and-monetization-so-low/4962952",
+      "author": "PandaPb",
+      "date": "2026-10-28T19:26:43.732Z",
+      "title": "Harsh Game Feedback Needed - Why is my playtime and monetization so low",
+      "excerpt_en": "Hi everyone, I have finally made the game I dreamed of after 7 years, but the playtime and monetization is really low, and I am not sure why. Could you give it a try and let me know what you think? It has a harsh dislike ratio due to releasing a bit early with bugs…",
+      "score": 19.5,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 9,
+        "views": 48
+      },
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi0e2c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi0e2c/trouble_with_retention_in_game/",
+      "author": "Fine-Tangerine-3756",
+      "date": "2026-10-28T20:59:45.000Z",
+      "title": "Trouble with retention in game",
+      "excerpt_en": "Hey yall I made a game called Dress to Aura Farm, and am having trouble retaining players. I’ve made a lot of changes to try and see if they will help and I’ve seen somewhat negligible results. I’ve revamped ui, added faster gameplay, more rewards, more feedback, etc… I’d really…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi0g3g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi0g3g/looking_for_beta_testers_dev_team/",
+      "author": "NoFoundation5330",
+      "date": "2026-10-28T21:01:41.000Z",
+      "title": "looking for beta testers + dev team",
+      "excerpt_en": "Hey everyone! 👋 I'm working on a Roblox game called **Energy Drink Simulator** and I'm looking for people who want to help make it bigger and better, both **beta testers** and people who want to join the **dev team**. **What's the game?** You drink energy drinks to get energy…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "devforum:4963250",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/teleports-to-private-vip-servers-are-now-allowed/4963250",
+      "author": "jarjar1230rbx",
+      "date": "2026-10-28T22:07:06.246Z",
+      "title": "Teleports to Private VIP Servers Are Now Allowed",
+      "excerpt_en": "Hi Creators, We’re launching server ID targeting for teleports, giving you more granular control over where your players go. Until now, teleports to reserved servers had fragmented paths, and VIP server teleports had undefined behavior, automatically inferred in some cases and…",
+      "score": 6.3,
+      "tags": [
+        "platform",
+        "story"
+      ],
+      "engagement": {
+        "likes": 96,
+        "replies": 15,
+        "views": 887
+      },
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi403t",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi403t/are_you_looking_for_a_playtester/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-28T23:25:48.000Z",
+      "title": "Are you looking for a playtester?",
+      "excerpt_en": "Hey everyone! I just finished playtesting and giving advice to three of my clients. If you’re looking for an affordable playtesting service, feel free to DM me! I don’t just provide basic feedback; I also share what I’ve learned from working with past clients who successfully…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "reddit:t3_1xi3y3l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/",
+      "author": "BeneficialTaste4631",
+      "date": "2026-10-28T23:23:24.000Z",
+      "title": "Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?",
+      "excerpt_en": "Hey — first proper post here. My daughter and I built NEON | Arcade Shooter in Studio (PC / mobile / console). The game’s Live/Public, but Ages 16+ means we’re basically invisible in discovery, so growth is link-shares and asking people directly. We’ve still been shipping (10…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "devforum:4963046",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/thoughts-on-my-game-intro/4963046",
+      "author": "Agnoize",
+      "date": "2026-10-28T19:45:02.295Z",
+      "title": "Thoughts on my game intro",
+      "excerpt_en": "Hello everyone! I’d love to hear your thoughts on the intro for a game I’m currently working on. Any feedback, suggestions, or ideas are greatly appreciated.. Thanks in advance.",
+      "score": 5.3,
+      "tags": [],
+      "engagement": {
+        "likes": 13,
+        "replies": 10,
+        "views": 68
+      },
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "devforum:4963119",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/upgrading-shapecasts-margins-size-gradients-optimizations-and-more/4963119",
+      "author": "m0bsterlobster",
+      "date": "2026-10-28T20:35:57.894Z",
+      "title": "Upgrading Shapecasts: Margins, Size Gradients, Optimizations, and More",
+      "excerpt_en": "Hi Creators! Today we’re upgrading shapecasts across the board. Every existing Blockcast , Spherecast , and Shapecast call now runs on a new implementation that is faster and more accurate, with no changes needed on your end. On top of that, we’re releasing a set of new features…",
+      "score": 3.9,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 149,
+        "replies": 21,
+        "views": 1198
+      },
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    }
+  ]
+}

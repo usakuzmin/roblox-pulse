@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-10-28T19:10:42.041Z",
+  "generated_at": "2026-10-29T01:20:47.943Z",
   "from_files": [
-    "2026-10-25.json",
     "2026-10-26.json",
     "2026-10-27.json",
-    "2026-10-28.json"
+    "2026-10-28.json",
+    "2026-10-29.json"
   ],
   "items": [
-    {
-      "id": "devforum:4955785",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785",
-      "author": "AlphaBjarne",
-      "date": "2026-10-25T01:27:02.671Z",
-      "title": "Track your Robux like a stock: Robux P&L, an open-source earnings dashboard",
-      "excerpt_en": "Hey everyone! I Got bored and I always wanted a clear answer to a simple question: how much Robux did I actually make this week – and where did it go? The built-in transactions page is a long list, so I built a small Chrome extension that turns your transaction history into a…",
-      "score": 20.4,
-      "tags": [
-        "revenue",
-        "ads",
-        "monetization",
-        "story"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "views": 36
-      },
-      "first_seen": "2026-10-25T07:05:06.077Z"
-    },
-    {
-      "id": "reddit:t3_1xf76or",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf76or/recruiting_starting_a_new_roblox_game_studio_from/",
-      "author": "BananaGoesPew",
-      "date": "2026-10-25T16:42:58.000Z",
-      "title": "[Recruiting] Starting a new Roblox game studio from scratch: Bad Banana Arts! (All skill levels welcome / Revenue Share + Future Payouts)",
-      "excerpt_en": "Hey everyone I am starting a brand Roblox game studio named Bad Banana Arts and I am looking for passionate developers, designers and creators who want to build something amazing from the ground up! Whether you are a developer or a beginner who has just started learning all…",
-      "score": 20,
-      "tags": [
-        "revenue",
-        "ads",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-25T18:55:10.224Z"
-    },
     {
       "id": "devforum:4960622",
       "source": "devforum",
@@ -71,40 +31,24 @@
       "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
-      "id": "reddit:t3_1xf4cmq",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf4cmq/my_rpg_game_doesnt_get_home_raccomandations_even/",
-      "author": "Milandidit",
-      "date": "2026-10-25T14:51:13.000Z",
-      "title": "My RPG game doesn't get home raccomandations even though i spent 30usd in ADS",
-      "excerpt_en": "Hey everyone, I’m a solo dev working on Kayro , an RPG/simulator with pets, 5 worlds, bosses, quests and egg hatching. I’ve been running sponsored ads for a while, and they bring players in. But as soon as the ads stop, traffic basically drops to zero. Roblox’s recommendations…",
-      "score": 18,
+      "id": "devforum:4962952",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/harsh-game-feedback-needed-why-is-my-playtime-and-monetization-so-low/4962952",
+      "author": "PandaPb",
+      "date": "2026-10-28T19:26:43.732Z",
+      "title": "Harsh Game Feedback Needed - Why is my playtime and monetization so low",
+      "excerpt_en": "Hi everyone, I have finally made the game I dreamed of after 7 years, but the playtime and monetization is really low, and I am not sure why. Could you give it a try and let me know what you think? It has a harsh dislike ratio due to releasing a bit early with bugs…",
+      "score": 19.5,
       "tags": [
         "metrics",
-        "ads",
-        "marketing",
-        "discovery",
-        "numbers"
+        "monetization"
       ],
-      "engagement": {},
-      "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
-      "id": "reddit:t3_1xf874u",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf874u/hey_looking_for_20_ccu_games/",
-      "author": "TerramineTitan",
-      "date": "2026-10-25T17:22:37.000Z",
-      "title": "Hey looking for 20+ ccu games",
-      "excerpt_en": "I’m looking for new or early-stage Roblox games with a clear, engaging gameplay loop and room to grow. Simulator and tycoon games are a good fit, though I’m open to other genres if the concept is strong. Ideally, a game is recently released, has a small but growing player base…",
-      "score": 16,
-      "tags": [
-        "metrics",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-25T18:55:10.224Z"
+      "engagement": {
+        "likes": 6,
+        "replies": 9,
+        "views": 48
+      },
+      "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
       "id": "devforum:4957643",
@@ -125,23 +69,6 @@
         "views": 18
       },
       "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xf7sb3",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
-      "author": "muffinstaken_PROx",
-      "date": "2026-10-25T17:06:26.000Z",
-      "title": "How to hit the Roblox algorithm?",
-      "excerpt_en": "How do you actually get your Roblox game picked up by the algorithm? I’ve been developing Roblox games and I’m trying to understand how the discovery algorithm works. From what I’ve seen, getting visits through ads doesn’t necessarily mean your game will start getting…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "discovery",
-        "story"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-25T18:55:10.224Z"
     },
     {
       "id": "reddit:t3_1xflhxz",
@@ -195,26 +122,6 @@
       "first_seen": "2026-10-28T01:22:09.382Z"
     },
     {
-      "id": "devforum:4957176",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
-      "author": "Ray1872",
-      "date": "2026-10-25T18:10:12.720Z",
-      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
-      "excerpt_en": "I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal, yet players browse their AI characters…",
-      "score": 14.6,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "views": 8
-      },
-      "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
       "id": "reddit:t3_1xfiylv",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfiylv/i_have_spend_the_last_few_weeks_building_a_new/",
@@ -249,22 +156,6 @@
       "first_seen": "2026-10-26T15:01:40.974Z"
     },
     {
-      "id": "reddit:t3_1xf406x",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf406x/help_me_fix_my_retention_and_core_loop/",
-      "author": "Ok_Cup9833",
-      "date": "2026-10-25T14:37:01.000Z",
-      "title": "Help me fix my retention and core loop",
-      "excerpt_en": "I launched a game 3 days ago called Mega Ramp Bike Jump . I initially put €15 into ads to get some early feedback, which allowed me to push out quick updates. Since then, we've spent about €40 more, and we still have €65 left that will automatically roll out over the next 5…",
-      "score": 13,
-      "tags": [
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-25T18:55:10.224Z"
-    },
-    {
       "id": "reddit:t3_1xgt5up",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/",
@@ -280,6 +171,111 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-27T19:03:17.798Z"
+    },
+    {
+      "id": "reddit:t3_1xh3hsu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh3hsu/before_you_hit_the_250_engaged_players_for_all/",
+      "author": "LowPrestigious3669",
+      "date": "2026-10-27T20:16:44.000Z",
+      "title": "Before you hit the 250 engaged players for all ages, what CCU tells you the game actually has potential?",
+      "excerpt_en": "My game is still locked to age-checked 16+ until it reaches the 250 highly engaged players. Right now it averages around 1–5 CCU, and only while I’m running ads. My question is that is there a CCU (or a retention / playtime number) you’d want to see before the unlock that tells…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T01:22:09.382Z"
+    },
+    {
+      "id": "reddit:t3_1xi0e2c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi0e2c/trouble_with_retention_in_game/",
+      "author": "Fine-Tangerine-3756",
+      "date": "2026-10-28T20:59:45.000Z",
+      "title": "Trouble with retention in game",
+      "excerpt_en": "Hey yall I made a game called Dress to Aura Farm, and am having trouble retaining players. I’ve made a lot of changes to try and see if they will help and I’ve seen somewhat negligible results. I’ve revamped ui, added faster gameplay, more rewards, more feedback, etc… I’d really…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-29T01:20:47.884Z"
+    },
+    {
+      "id": "devforum:4961771",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/home-recommendations-buggedacting-weird/4961771",
+      "author": "CenturyofGaming",
+      "date": "2026-10-28T06:20:46.905Z",
+      "title": "Home Recommendations Bugged/Acting Weird",
+      "excerpt_en": "Screenshot 2026-10-28 151827 1296×450 94.8 KB Screenshot 2026-10-28 151809 1065×433 41.9 KB I noticed two issues, one is delayed reporting of thumbnails (is stuck at 3am even though its 3pm now, has always been about 3-4hours delayed but suddenly frozen) and day 1 + 7 retentions…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "reddit:t3_1xfi8qf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
+      "author": "Evening_Land_8156",
+      "date": "2026-10-26T00:19:35.000Z",
+      "title": "Looking for Roblox map builders",
+      "excerpt_en": "Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search \"Site-E17\" on Roblox or visit Imjustagamin_JR's profile under the Experiences tab…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "story",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-26T01:16:42.623Z"
+    },
+    {
+      "id": "reddit:t3_1xhg9yr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
+      "author": "brynoo5",
+      "date": "2026-10-28T06:08:08.000Z",
+      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
+      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "devforum:4956701",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
+      "author": "o0MADMAXUK0o",
+      "date": "2026-10-25T13:37:22.020Z",
+      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
+      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
+      "score": 10.5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 5,
+        "views": 128
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
     }
   ]
 }
