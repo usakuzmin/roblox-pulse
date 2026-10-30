@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:00:16.285Z",
+  "generated_at": "2026-10-30T13:07:17.229Z",
   "from_files": [
     "2026-10-27.json",
     "2026-10-28.json",
@@ -66,6 +66,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-29T07:21:12.297Z"
+    },
+    {
+      "id": "reddit:t3_1xjd4h5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjd4h5/i_will_case_study_your_game/",
+      "author": "BlockEye_",
+      "date": "2026-10-30T11:45:29.000Z",
+      "title": "I will Case Study your Game.",
+      "excerpt_en": "Hello I am a Roblox Game & UI/UX designer and I will case study your game on why its failing. I primarily focus on: - Monitization - Core Loop - UI/UX Design - Retention & Playtime I have worked with many games for Monitization & Game design and have contributed to 2 games with…",
+      "score": 19,
+      "tags": [
+        "revenue",
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
     },
     {
       "id": "reddit:t3_1xgldlr",
@@ -262,21 +280,6 @@
         "views": 128
       },
       "first_seen": "2026-10-28T13:18:15.514Z"
-    },
-    {
-      "id": "reddit:t3_1xhg7vf",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
-      "author": "Double_Neck_7749",
-      "date": "2026-10-28T06:04:34.000Z",
-      "title": "Question for those earning",
-      "excerpt_en": "Those who actively earn on roblox currently, not just creating games, how much do you earn ? Like for those with successful games, how much did it cost to get your game going, how many players do you get on average a day, how long did you spend creating the game, how much robux…",
-      "score": 10,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }

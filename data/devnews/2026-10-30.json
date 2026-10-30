@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-10-30T06:00:16.222Z",
+  "generated_at": "2026-10-30T13:07:17.176Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 131269
+      "ms": 116348
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91752
+      "ms": 91743
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 6362
+      "fetched": 6,
+      "ms": 4683
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 126
+      "ms": 208
     },
     "hackernews": {
       "ok": true,
       "fetched": 5,
-      "ms": 10150
+      "ms": 299
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xjd4h5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjd4h5/i_will_case_study_your_game/",
+      "author": "BlockEye_",
+      "date": "2026-10-30T11:45:29.000Z",
+      "title": "I will Case Study your Game.",
+      "excerpt_en": "Hello I am a Roblox Game & UI/UX designer and I will case study your game on why its failing. I primarily focus on: - Monitization - Core Loop - UI/UX Design - Retention & Playtime I have worked with many games for Monitization & Game design and have contributed to 2 games with…",
+      "score": 19,
+      "tags": [
+        "revenue",
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
+    },
     {
       "id": "reddit:t3_1xiq59k",
       "source": "reddit",
@@ -93,6 +111,71 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xj9pt0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj9pt0/please_help_i_need_solid_feedback_and_guidance/",
+      "author": "Wooden_Rabbit2085",
+      "date": "2026-10-30T08:23:51.000Z",
+      "title": "Please help!! I need solid feedback and guidance",
+      "excerpt_en": "Attached is the result of my ad campaign and the images i used. I adjusted it on the actual campaign to be 16:9. I thought using actual screenshots of the arena would help. I will admit the roblox avatar i added on each picture was ai generated but the maps wasnt!! It is a 1v1…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "mobilegamer:https://mobilegamer.biz/?p=50615",
+      "source": "mobilegamer",
+      "url": "https://mobilegamer.biz/roblox-shares-fall-as-it-beats-billings-guidance-but-growth-stalls/",
+      "author": "Neil Long",
+      "date": "2026-10-30T09:17:46.000Z",
+      "title": "Roblox shares fall as it beats billings guidance but growth stalls",
+      "excerpt_en": "The UGC platform is facing tough user metric and income comparisons with the explosive growth of 2025. Net losses shrunk a little, though.",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/",
+      "author": null,
+      "date": "2026-10-30T11:26:00.000Z",
+      "title": "More than 80% of Roblox's top games now use AI, while Playgama tracks the tools developers prefer",
+      "excerpt_en": "More than 80% of Roblox's top 100 games by hours played used AI to speed up development in October 2026, as more creators turned to AI tools to build and publish games. In its latest earnings report, Roblox said time spent using AI tools among its top creators has tripled since…",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "reddit:t3_1xjbl9r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjbl9r/hiring_blender_animator_r6_custom_rigs_for/",
+      "author": "Double-Grape-4232",
+      "date": "2026-10-30T10:21:09.000Z",
+      "title": "[Hiring] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1v8) | Paid in Robux",
+      "excerpt_en": "🎭 Blender Animator Wanted — R6 & Custom Rigs Asymmetrical horror · 1 killer vs 8 survivors · Roblox [dev status · team size · devlog] The work: killer attacks/abilities, survivor loops (repairs, heals, vaults, pallets), locomotion, downs, moris. Some R6, some custom rigs: box…",
+      "score": 7,
+      "tags": [
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
     },
     {
       "id": "devforum:4965176",
@@ -218,6 +301,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xizp35",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/",
+      "author": "Romal_Dev",
+      "date": "2026-10-29T23:27:37.000Z",
+      "title": "Testing animations and UI for my Ben 10 game",
+      "excerpt_en": "Guys, do you think the aliens should have a blocky style, or should their models look more faithful to the original show? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-30T13:07:17.176Z"
     }
   ]
 }
