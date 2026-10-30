@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-30T13:07:17.176Z",
+  "generated_at": "2026-10-30T22:29:24.967Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 116348
+      "ms": 125327
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91743
+      "ms": 31379
     },
     "rss": {
       "ok": true,
       "fetched": 6,
-      "ms": 4683
+      "ms": 3876
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 208
+      "ms": 189
     },
     "hackernews": {
       "ok": true,
       "fetched": 5,
-      "ms": 299
+      "ms": 235
     }
   },
   "items": [
@@ -46,6 +46,25 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "reddit:t3_1xjp5x2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjp5x2/anyone_here_trying_to_run_their_game_like_a/",
+      "author": "Neo10010",
+      "date": "2026-10-30T19:38:53.000Z",
+      "title": "Anyone here trying to run their game like a business? I want to team up",
+      "excerpt_en": "TLDR: I will invest in your game with time, money,and sweat. I’m on the business side, understand the Roblox economy and what actually goes viral. Not a dev. Want to partner with someone whose game is decent or even just built and take it to the next level. [edit: work…",
+      "score": 19,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery",
+        "monetization",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "reddit:t3_1xiq59k",
@@ -82,6 +101,23 @@
       "first_seen": "2026-10-30T06:00:16.222Z"
     },
     {
+      "id": "reddit:t3_1xjsl5v",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjsl5v/i_made_a_small_simulator_as_a_side_project_to/",
+      "author": "QuietThunderStudios",
+      "date": "2026-10-30T21:54:56.000Z",
+      "title": "I made a small simulator as a side project to learn the whole Roblox process before releasing my RPG. What would you fix?",
+      "excerpt_en": "Hi everyone! My main project is a fantasy RPG with clashable magic that I've been working on for a few months. But before finishing it and releasing something that big, I wanted to go through the whole process once on a smaller game: building, publishing, monetization…",
+      "score": 12,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
       "id": "reddit:t3_1xiix8j",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiix8j/struggling_with_ccu_or_need_playtesting/",
@@ -95,6 +131,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "gamediscoverco:https://newsletter.gamediscover.co/p/the-hidden-ai-signifier-in-next-fest",
+      "source": "gamediscoverco",
+      "url": "https://newsletter.gamediscover.co/p/the-hidden-ai-signifier-in-next-fest",
+      "author": "Simon Carless",
+      "date": "2026-10-30T19:23:08.000Z",
+      "title": "The hidden AI signifier in Next Fest - and why it’s so complex...",
+      "excerpt_en": "[The GameDiscoverCo game discovery newsletter is written by ‘how people find your game’ expert & company founder Simon Carless, and is a regular look at how people discover and buy video games in the 2020s.] And… it’s the day before Halloween? If you celebrate, we hope you have…",
+      "score": 10,
+      "tags": [
+        "analyst",
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "reddit:t3_1xingcl",
@@ -111,6 +165,42 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xjjgvd",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjjgvd/rivals_needed_it/",
+      "author": "Beginning_Cap3965",
+      "date": "2026-10-30T16:06:40.000Z",
+      "title": "Rivals needed it ?",
+      "excerpt_en": "Game with 100k-400k CCU , still spending for ads on Roblox. ",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
+      "id": "devforum:4966223",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/promote-your-avatar-items-off-platform-and-track-every-click/4966223",
+      "author": "m14520lv",
+      "date": "2026-10-30T16:12:53.838Z",
+      "title": "Promote Your Avatar Items Off-Platform and Track Every Click",
+      "excerpt_en": "Hi Creators! We know many of you already promote your items outside Roblox. Until now, there was no way to tell what happened after someone clicked. A regular catalog URL also didn’t always direct people right to your item, especially on mobile. Today we’re launching Marketplace…",
+      "score": 8.3,
+      "tags": [
+        "platform",
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 72,
+        "replies": 10,
+        "views": 881
+      },
+      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "reddit:t3_1xj9pt0",
@@ -159,6 +249,38 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "reddit:t3_1xjt7ex",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjt7ex/hiring_blender_animator_3d_modeler_for_solo/",
+      "author": "SunkenHopeDevdangn",
+      "date": "2026-10-30T22:20:57.000Z",
+      "title": "[HIRING] Blender Animator & 3D Modeler for Solo Leveling Battlegrounds Game (Revenue Share)",
+      "excerpt_en": "",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
+      "id": "reddit:t3_1xjm02u",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjm02u/my_game_is_16_only_and_im_at_0250_engaged_players/",
+      "author": "Min998244353",
+      "date": "2026-10-30T17:39:22.000Z",
+      "title": "my game is 16+ only and i'm at 0/250 engaged players. how did you guys get your first 250?",
+      "excerpt_en": "solo dev from korea. the clip is my game (co-op roguelite, 1-4 players). it's sped up. it starts in the lobby, then the start of a run where you're weak, then you keep picking upgrades and get really strong later. the middle part is me stacking a bunch of upgrades until it turns…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "reddit:t3_1xjbl9r",
@@ -262,6 +384,21 @@
       "first_seen": "2026-10-30T06:00:16.222Z"
     },
     {
+      "id": "reddit:t3_1xjocgy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjocgy/making_my_own_prison_life_game/",
+      "author": "PrisonMasterGameDev",
+      "date": "2026-10-30T19:07:32.000Z",
+      "title": "Making my own prison life Game",
+      "excerpt_en": "So i was kinda thinking that theres a massive gap in prison games, like everyones fcosued on making slop. but almost all prison games are really old and still have 4-5 digit CCU. so i decided i was gonna make my own prison game, call it \"prison master\" cause you master it? idk…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
       "id": "reddit:t3_1xig6bw",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xig6bw/hep_ads_question/",
@@ -275,6 +412,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xjogpr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjogpr/ai_is_not_for_the_average_developer/",
+      "author": "Substantial-Sun3369",
+      "date": "2026-10-30T19:12:05.000Z",
+      "title": "Ai is not for the average developer",
+      "excerpt_en": "So many vibecoded games are getting over 100 million visits in a month or less: dont splash, huss valley, tribes 3v3 and if you look at who owns them its the devs of Bedwars and steal an egg, Ai games are not to make the average person richer its to make the rich devs with ad…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
+      "id": "devforum:4966611",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611",
+      "author": "NickyLarson82",
+      "date": "2026-10-30T20:01:24.152Z",
+      "title": "Introducing Scene Generation: Prototype Scenes Faster",
+      "excerpt_en": "Hi Creators, Today we’re launching the Scene Generation tool as a beta in Studio, letting you quickly generate scenes from a source image and/or text prompt. This creates a scene made of models, textures and terrain that can be edited individually, giving you all the basics to…",
+      "score": 3.4,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 82,
+        "replies": 26,
+        "views": 698
+      },
+      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "reddit:t3_1xiielh",
@@ -314,6 +485,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-30T13:07:17.176Z"
+    },
+    {
+      "id": "reddit:t3_1xjoj57",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjoj57/why_is_my_game_doing_bad/",
+      "author": "astrokoh",
+      "date": "2026-10-30T19:14:41.000Z",
+      "title": "\"Why is my game doing bad?\"",
+      "excerpt_en": "Yeah. I wonder WHY. *SATIRE POST* ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-30T22:29:24.967Z"
     }
   ]
 }
