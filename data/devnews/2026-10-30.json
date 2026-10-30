@@ -1,0 +1,223 @@
+{
+  "generated_at": "2026-10-30T06:00:16.222Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 131269
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91752
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 6362
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 126
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 10150
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xiq59k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
+      "author": "Kotojokes",
+      "date": "2026-10-29T17:18:36.000Z",
+      "title": "Roblox Does Not See You As Expendable",
+      "excerpt_en": "I keep seeing people talk about \"AI slop\" or \"low effort games\" on the front page. I made a pretty massive comment on one of these posts. I'm Kotojo and I've been on Roblox doing games (not gonna say making cause 4 years of it was free model slop) since 2010 under the name…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xidn3f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidn3f/help_with_advertising_and_impressions/",
+      "author": "SomeoneNoobyYT",
+      "date": "2026-10-29T07:47:04.000Z",
+      "title": "Help with advertising and impressions",
+      "excerpt_en": "top one is plays ads, bottom one is engagement. Hello, I'm currently developing a roblox game relating catching crabs with crab pots in a Fisch-like loop. My general game performance is not horrible, with an average 12 minute playtime and pretty decent funnels, with a good…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xiix8j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiix8j/struggling_with_ccu_or_need_playtesting/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-29T12:43:03.000Z",
+      "title": "Struggling with CCU or Need Playtesting?",
+      "excerpt_en": "Hello everyone! Having trouble getting more CCU? Let’s figure out what’s wrong with your game. I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after…",
+      "score": 10,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xingcl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xingcl/old_game_randomly_started_getting_players_and_has/",
+      "author": "Ok-Entertainment2963",
+      "date": "2026-10-29T15:41:14.000Z",
+      "title": "Old game randomly started getting players and has very good stats",
+      "excerpt_en": "Lately a weird thing is going on with my game. This happened to me once, a month ago, the playercount went up to 100 in like 3 days and 2 days later it was like 3, anyways the game was making a very little amount of robux( i used to make the same with 15 ccu). I tried to make an…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "devforum:4965176",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/custom-r15-uv-support-for-shirtspants/4965176",
+      "author": "TheAviator01",
+      "date": "2026-10-29T23:03:05.066Z",
+      "title": "Custom R15 UV Support for Shirts/Pants",
+      "excerpt_en": "As a Roblox developer, it is currently impossible to use Shirt and Pants instances on characters whose body parts don’t use Roblox’s built-in UV layout. The Shirt and Pants objects only render correctly on meshes that are UV-mapped to Roblox’s internal humanoid layout. Any…",
+      "score": 6.4,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 47
+      },
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "devforum:4965021",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/full-release-input-action-manager/4965021",
+      "author": "missmandypanda",
+      "date": "2026-10-29T21:01:05.051Z",
+      "title": "[Full Release] Input Action Manager",
+      "excerpt_en": "Hi Creators! The Input Action Manager is now fully released and available to use in your workflows as you’re building cross-platform compatible control schemas! For those new to our ecosystem, we released the Input Action System (IAS) this year: a modular, scalable framework…",
+      "score": 6,
+      "tags": [
+        "platform",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 100,
+        "replies": 8,
+        "views": 1316
+      },
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xj3vso",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj3vso/looking_for_playtester/",
+      "author": "WeirdSecretary8064",
+      "date": "2026-10-30T02:42:22.000Z",
+      "title": "Looking for Playtester?",
+      "excerpt_en": "Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I currently have 2 playtesting sessions…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xj1mvl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1mvl/are_these_game_stats_good/",
+      "author": "Fun_Net3400",
+      "date": "2026-10-30T00:55:16.000Z",
+      "title": "Are these game stats good?",
+      "excerpt_en": "Average ccu of 20, tho it can drop at low as 5 during night and as high as 40 during peak times ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xiuqep",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiuqep/looking_for_playtester/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-29T20:09:28.000Z",
+      "title": "Looking for PlayTester?",
+      "excerpt_en": "Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I currently have 4 playtesting sessions…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xig6bw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xig6bw/hep_ads_question/",
+      "author": "Melodic-Bluejay-1329",
+      "date": "2026-10-29T10:24:40.000Z",
+      "title": "HEP Ads question",
+      "excerpt_en": "I’m launching a new game and planning my ad budget ahead of the November update (where HEP drops from 250 to 100). ​If I run ads today, reach 100 HEP on my Audience Reach tab, and then turn ads off ... will the game automatically qualify for All Ages as soon as Roblox drops the…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xiielh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiielh/is_this_build_good_for_someone_who_just_started/",
+      "author": "Old_Hotel271",
+      "date": "2026-10-29T12:18:58.000Z",
+      "title": "Is this build good for someone who just started building?",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xj1i4f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1i4f/i_made_this_in_a_day_horpse_the_game/",
+      "author": "Aaronledev",
+      "date": "2026-10-30T00:48:51.000Z",
+      "title": "I made this in a day. (horpse: the game)",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    }
+  ]
+}

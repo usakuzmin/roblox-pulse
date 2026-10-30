@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T18:35:07.883Z",
+  "generated_at": "2026-10-30T06:00:16.285Z",
   "from_files": [
-    "2026-10-26.json",
     "2026-10-27.json",
     "2026-10-28.json",
-    "2026-10-29.json"
+    "2026-10-29.json",
+    "2026-10-30.json"
   ],
   "items": [
     {
@@ -68,42 +68,6 @@
       "first_seen": "2026-10-29T07:21:12.297Z"
     },
     {
-      "id": "devforum:4957643",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643",
-      "author": "clifferee",
-      "date": "2026-10-25T22:37:14.199Z",
-      "title": "[NEW] Flop N Fight has been struggling trying to get CCU and the ads are doing poorly",
-      "excerpt_en": "Can anyone review my game? tell me what to fix and what to change the thumbnails to? Im hitting 1% CTR.",
-      "score": 15.6,
-      "tags": [
-        "metrics",
-        "story"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 1,
-        "views": 18
-      },
-      "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xflhxz",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xflhxz/reached_100_hep_for_100_ads_spend_with_poor_stats/",
-      "author": "NoElk8949",
-      "date": "2026-10-26T02:55:38.000Z",
-      "title": "Reached 100 HEP for ~$100 ads spend with poor stats",
-      "excerpt_en": "Solo dev in learning stage. Spent the last month running ad bursts of ~$5 a few hours around dinner, iterating based on data and play observations, repeat next day, using plays ads. Then some days ago thought I’d test out running engagement ads alongside play ads to see how hard…",
-      "score": 15,
-      "tags": [
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-26T07:13:38.413Z"
-    },
-    {
       "id": "reddit:t3_1xgldlr",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgldlr/gameplay_too_boring/",
@@ -137,40 +101,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T01:22:09.382Z"
-    },
-    {
-      "id": "reddit:t3_1xfiylv",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfiylv/i_have_spend_the_last_few_weeks_building_a_new/",
-      "author": "DealImpressive1907",
-      "date": "2026-10-26T00:52:32.000Z",
-      "title": "I have spend the last few weeks building a new style of game on Roblox looking for someone to help me bring it up to standard !REVENUE SHARE",
-      "excerpt_en": "Reply to this post and I will hit you up only serious people please I believe this game will be the biggest game on Roblox if built right ",
-      "score": 14,
-      "tags": [
-        "revenue",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-26T01:16:42.623Z"
-    },
-    {
-      "id": "reddit:t3_1xft7ld",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xft7ld/is_it_just_me_or_roblox_is_now_filled_with_low/",
-      "author": "Illustrious_Dig7133",
-      "date": "2026-10-26T10:34:55.000Z",
-      "title": "is it just me or roblox is now filled with low quality slops",
-      "excerpt_en": "I've been playing since 2016 and if I were to go back from 2016 - 2022 I swear games were much more replayable and much more fun , but nowadays everything's filled with just slop - Claude opus chat gpt gemeni forge ui or Ai slop , everytime I go on the front page its just filled…",
-      "score": 14,
-      "tags": [
-        "revenue",
-        "ads",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-26T15:01:40.974Z"
     },
     {
       "id": "reddit:t3_1xgt5up",
@@ -222,6 +152,23 @@
       "first_seen": "2026-10-29T01:20:47.884Z"
     },
     {
+      "id": "reddit:t3_1xiq59k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
+      "author": "Kotojokes",
+      "date": "2026-10-29T17:18:36.000Z",
+      "title": "Roblox Does Not See You As Expendable",
+      "excerpt_en": "I keep seeing people talk about \"AI slop\" or \"low effort games\" on the front page. I made a pretty massive comment on one of these posts. I'm Kotojo and I've been on Roblox doing games (not gonna say making cause 4 years of it was free model slop) since 2010 under the name…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
       "id": "devforum:4964441",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
@@ -264,21 +211,72 @@
       "first_seen": "2026-10-28T07:21:04.285Z"
     },
     {
-      "id": "reddit:t3_1xfi8qf",
+      "id": "reddit:t3_1xidn3f",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
-      "author": "Evening_Land_8156",
-      "date": "2026-10-26T00:19:35.000Z",
-      "title": "Looking for Roblox map builders",
-      "excerpt_en": "Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search \"Site-E17\" on Roblox or visit Imjustagamin_JR's profile under the Experiences tab…",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidn3f/help_with_advertising_and_impressions/",
+      "author": "SomeoneNoobyYT",
+      "date": "2026-10-29T07:47:04.000Z",
+      "title": "Help with advertising and impressions",
+      "excerpt_en": "top one is plays ads, bottom one is engagement. Hello, I'm currently developing a roblox game relating catching crabs with crab pots in a Fisch-like loop. My general game performance is not horrible, with an average 12 minute playtime and pretty decent funnels, with a good…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-30T06:00:16.222Z"
+    },
+    {
+      "id": "reddit:t3_1xhg9yr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
+      "author": "brynoo5",
+      "date": "2026-10-28T06:08:08.000Z",
+      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
+      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
       "score": 11,
       "tags": [
         "revenue",
-        "story",
+        "monetization",
         "studio"
       ],
       "engagement": {},
-      "first_seen": "2026-10-26T01:16:42.623Z"
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "devforum:4956701",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
+      "author": "o0MADMAXUK0o",
+      "date": "2026-10-25T13:37:22.020Z",
+      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
+      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
+      "score": 10.5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 5,
+        "views": 128
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
+      "id": "reddit:t3_1xhg7vf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
+      "author": "Double_Neck_7749",
+      "date": "2026-10-28T06:04:34.000Z",
+      "title": "Question for those earning",
+      "excerpt_en": "Those who actively earn on roblox currently, not just creating games, how much do you earn ? Like for those with successful games, how much did it cost to get your game going, how many players do you get on average a day, how long did you spend creating the game, how much robux…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }
