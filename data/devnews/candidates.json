@@ -1,35 +1,12 @@
 {
-  "generated_at": "2026-10-30T22:29:25.031Z",
+  "generated_at": "2026-10-31T05:56:42.314Z",
   "from_files": [
-    "2026-10-27.json",
     "2026-10-28.json",
     "2026-10-29.json",
-    "2026-10-30.json"
+    "2026-10-30.json",
+    "2026-10-31.json"
   ],
   "items": [
-    {
-      "id": "devforum:4960622",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
-      "author": "Fufu1337",
-      "date": "2026-10-27T17:00:04.192Z",
-      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
-      "excerpt_en": "I’ve been running ads for my game, Huss Tackle, and I’m having trouble understanding why my ads are getting thousands of clicks but barely any reported plays. I’ve tested around 50 different thumbnails, and after improving them, multiple ads are now getting 3.1–3.6% CTR compared…",
-      "score": 19.5,
-      "tags": [
-        "revenue",
-        "metrics",
-        "ads",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 8
-      },
-      "first_seen": "2026-10-27T19:03:17.798Z"
-    },
     {
       "id": "devforum:4962952",
       "source": "devforum",
@@ -105,24 +82,6 @@
       "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
-      "id": "reddit:t3_1xgldlr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgldlr/gameplay_too_boring/",
-      "author": "CautiousEffective945",
-      "date": "2026-10-27T06:46:22.000Z",
-      "title": "gameplay too boring?",
-      "excerpt_en": "Recently launched a new game, Aisle Dash ( https://www.roblox.com/share?code=e988f89c4791ed4f8f34df1af9322a06&type=ExperienceDetails&stamp=1793082319208 ). It is a party game, where 6 players compete to collect the most groceries, stacking a comedic pile of grocery items, while…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "ads",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-27T07:08:49.173Z"
-    },
-    {
       "id": "reddit:t3_1xhaqgx",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhaqgx/roblox_algorithm_surge/",
@@ -138,23 +97,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-28T01:22:09.382Z"
-    },
-    {
-      "id": "reddit:t3_1xgt5up",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/",
-      "author": "ConversationOld1503",
-      "date": "2026-10-27T13:53:57.000Z",
-      "title": "I have been a Roblox dev for 7 years and its not worth it",
-      "excerpt_en": "I have been a Roblox developer for nearly 7 years, starting from late 2019 and ending June this year. Simply put: Roblox development isnt worth it in 2026 The reason I quit after 7 years is because of these things: 1. The Roblox algorthim isnt the best. I say this because if you…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "ads",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-27T19:03:17.798Z"
     },
     {
       "id": "reddit:t3_1xh3hsu",
@@ -280,6 +222,57 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
+      "id": "reddit:t3_1xhg9yr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
+      "author": "brynoo5",
+      "date": "2026-10-28T06:08:08.000Z",
+      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
+      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
+    },
+    {
+      "id": "devforum:4956701",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
+      "author": "o0MADMAXUK0o",
+      "date": "2026-10-25T13:37:22.020Z",
+      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
+      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
+      "score": 10.5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 5,
+        "views": 128
+      },
+      "first_seen": "2026-10-28T13:18:15.514Z"
+    },
+    {
+      "id": "reddit:t3_1xhg7vf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
+      "author": "Double_Neck_7749",
+      "date": "2026-10-28T06:04:34.000Z",
+      "title": "Question for those earning",
+      "excerpt_en": "Those who actively earn on roblox currently, not just creating games, how much do you earn ? Like for those with successful games, how much did it cost to get your game going, how many players do you get on average a day, how long did you spend creating the game, how much robux…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }

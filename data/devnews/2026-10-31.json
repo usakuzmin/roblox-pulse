@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-10-31T05:56:42.257Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 140742
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91129
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 3254
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 48
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 188
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xjy5qh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjy5qh/im_a_playtester_and_id_love_to_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-10-31T02:04:51.000Z",
+      "title": "I'm a playtester, and I'd love to test your game!",
+      "excerpt_en": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T05:56:42.257Z"
+    },
+    {
+      "id": "devforum:4966975",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975",
+      "author": "SupremeViande",
+      "date": "2026-10-31T00:16:00.336Z",
+      "title": "Need help and feedback! Why are my game's stats that bad?",
+      "excerpt_en": "Hello, I’m looking for developers who might wanna take some time to hint me on why my game’s stats are so bad. This is the first message i post on the devforum. I launched ads, twice, to test and see if it’s worth it to spend much more (over 10k robux) and reach that Highly…",
+      "score": 8.4,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 35
+      },
+      "first_seen": "2026-10-31T05:56:42.257Z"
+    },
+    {
+      "id": "reddit:t3_1xjtt9o",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjtt9o/demon_slayer_mmorpg_in_development/",
+      "author": "OppositeMental4347",
+      "date": "2026-10-30T22:46:59.000Z",
+      "title": "demon slayer mmorpg in development !!",
+      "excerpt_en": "so guys i know there are tons of demon slayer games, but i really love demon slayer and ive wanted to make an mmorpg for a long time, and its finally coming together. i am looking for ppl who would love to join the community and also any devs who would want to contribute like…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T05:56:42.257Z"
+    },
+    {
+      "id": "reddit:t3_1xiic71",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiic71/kaiser_m75_eisenreich_empire_revolver/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-29T12:15:41.000Z",
+      "title": "Kaiser M75 (Eisenreich Empire Revolver)",
+      "excerpt_en": "Revolver i made for the Officer class in the Eisenreich Empire for my game project \"A Soldier's Poem\" Lengh : 1.555 Stud Caliber : 0.06 Stud Type of Firearm : Single action 6 shot revolver. Country of Adoption : Eisenreich Empire Insperation : ReichRevolver 1879 Feel free to…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-31T05:56:42.257Z"
+    }
+  ]
+}
