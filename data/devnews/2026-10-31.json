@@ -1,34 +1,74 @@
 {
-  "generated_at": "2026-10-31T05:56:42.257Z",
+  "generated_at": "2026-10-31T12:45:34.184Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 140742
+      "ms": 121076
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91129
+      "ms": 91720
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 3254
+      "fetched": 4,
+      "ms": 1914
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 48
+      "ms": 384
     },
     "hackernews": {
       "ok": true,
       "fetched": 5,
-      "ms": 188
+      "ms": 244
     }
   },
   "items": [
+    {
+      "id": "devforum:4967745",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
+      "author": "youssof12314",
+      "date": "2026-10-31T11:52:57.449Z",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
+      "score": 18.5,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 11
+      },
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "reddit:t3_1xk86cr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk86cr/my_game_has_400500ccu_but_we_only_make_300400/",
+      "author": "youss020",
+      "date": "2026-10-31T11:49:19.000Z",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
+      "score": 18,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
     {
       "id": "reddit:t3_1xjy5qh",
       "source": "reddit",
@@ -44,6 +84,42 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-31T05:56:42.257Z"
+    },
+    {
+      "id": "reddit:t3_1xk3zcw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk3zcw/why_has_nobody_came_up_with_this/",
+      "author": "Emergency_Spell_2945",
+      "date": "2026-10-31T07:33:18.000Z",
+      "title": "Why has nobody came up with this?",
+      "excerpt_en": "I was just playing through the hollow event and i thought of a beautiful game idea: the game would be a competition game at its core, something like ink game ( each round eliminates the worst player) and so the rounds would be just miniature versions of popular Roblox game…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "devforum:4967642",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/games-not-becoming-all-ages/4967642",
+      "author": "Luxideon1",
+      "date": "2026-10-31T10:32:02.694Z",
+      "title": "Games not becoming all ages",
+      "excerpt_en": "I have 2 games which have had the all ages requirement hit for about 3 days now. While it says “This can take up to 48h” These games both hit all ages. Please review this as soon as possible because I am running ads on these games and I do not want to run out of ad credits while…",
+      "score": 8.8,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 19
+      },
+      "first_seen": "2026-10-31T12:45:34.184Z"
     },
     {
       "id": "devforum:4966975",
@@ -82,6 +158,38 @@
       "first_seen": "2026-10-31T05:56:42.257Z"
     },
     {
+      "id": "reddit:t3_1xk5lfc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk5lfc/ads_advanced_targeting_question/",
+      "author": "LevDev_X",
+      "date": "2026-10-31T09:17:15.000Z",
+      "title": "Ads - Advanced Targeting question",
+      "excerpt_en": "Based on the 700~ visits my game has, Roblox is showing me around 70% of my players are male. Does setting an ad campaign to only target males make the campaign likely to perform worse or better? ",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "devforum:4967581",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/add-a-steam-like-curator-system-for-game-discovery/4967581",
+      "author": "hschu_hschu",
+      "date": "2026-10-31T09:46:31.179Z",
+      "title": "Add a Steam-like Curator System for Game Discovery",
+      "excerpt_en": "As a Roblox developer, it is difficult to connect games made for specific interests with the players most likely to enjoy them. I would like Roblox to introduce a system similar to Steam Curators : individuals or communities recommend games with short reviews, and players follow…",
+      "score": 3.9,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "views": 36
+      },
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
       "id": "reddit:t3_1xiic71",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiic71/kaiser_m75_eisenreich_empire_revolver/",
@@ -93,6 +201,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-31T05:56:42.257Z"
+    },
+    {
+      "id": "reddit:t3_1xjzv23",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjzv23/rate_my_car_game/",
+      "author": "Rat-Basically",
+      "date": "2026-10-31T03:32:10.000Z",
+      "title": "Rate my car game",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-31T12:45:34.184Z"
     }
   ]
 }

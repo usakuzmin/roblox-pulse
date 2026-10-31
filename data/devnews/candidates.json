@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:56:42.314Z",
+  "generated_at": "2026-10-31T12:45:34.241Z",
   "from_files": [
     "2026-10-28.json",
     "2026-10-29.json",
@@ -80,6 +80,46 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T22:29:24.967Z"
+    },
+    {
+      "id": "devforum:4967745",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
+      "author": "youssof12314",
+      "date": "2026-10-31T11:52:57.449Z",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
+      "score": 18.5,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 11
+      },
+      "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "reddit:t3_1xk86cr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk86cr/my_game_has_400500ccu_but_we_only_make_300400/",
+      "author": "youss020",
+      "date": "2026-10-31T11:49:19.000Z",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
+      "score": 18,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T12:45:34.184Z"
     },
     {
       "id": "reddit:t3_1xhaqgx",
@@ -236,40 +276,6 @@
         "revenue",
         "monetization",
         "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-28T07:21:04.285Z"
-    },
-    {
-      "id": "devforum:4956701",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
-      "author": "o0MADMAXUK0o",
-      "date": "2026-10-25T13:37:22.020Z",
-      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
-      "excerpt_en": "Hey everyone, 01 1888×1002 223 KB 1 1878×1020 326 KB I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in…",
-      "score": 10.5,
-      "tags": [
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 7,
-        "replies": 5,
-        "views": 128
-      },
-      "first_seen": "2026-10-28T13:18:15.514Z"
-    },
-    {
-      "id": "reddit:t3_1xhg7vf",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg7vf/question_for_those_earning/",
-      "author": "Double_Neck_7749",
-      "date": "2026-10-28T06:04:34.000Z",
-      "title": "Question for those earning",
-      "excerpt_en": "Those who actively earn on roblox currently, not just creating games, how much do you earn ? Like for those with successful games, how much did it cost to get your game going, how many players do you get on average a day, how long did you spend creating the game, how much robux…",
-      "score": 10,
-      "tags": [
-        "revenue"
       ],
       "engagement": {},
       "first_seen": "2026-10-28T07:21:04.285Z"
