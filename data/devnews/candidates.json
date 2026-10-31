@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:45:34.241Z",
+  "generated_at": "2026-10-31T21:44:48.871Z",
   "from_files": [
     "2026-10-28.json",
     "2026-10-29.json",
@@ -188,6 +188,22 @@
       "first_seen": "2026-10-30T06:00:16.222Z"
     },
     {
+      "id": "reddit:t3_1xkb6cv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkb6cv/question_about_devex/",
+      "author": "Fit-Pay769",
+      "date": "2026-10-31T14:08:27.000Z",
+      "title": "Question about DevEx",
+      "excerpt_en": "Hello guys im wondering if people in my group who worked on game with me will be able to devex if I ( owner of the group) had an account that was banned for scam violation for 3-7 days... 2.5y ago After that i made another account and i was ID verified and mail and number was…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
       "id": "devforum:4964441",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
@@ -262,23 +278,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T22:29:24.967Z"
-    },
-    {
-      "id": "reddit:t3_1xhg9yr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
-      "author": "brynoo5",
-      "date": "2026-10-28T06:08:08.000Z",
-      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
-      "excerpt_en": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who…",
-      "score": 11,
-      "tags": [
-        "revenue",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-28T07:21:04.285Z"
     }
   ]
 }

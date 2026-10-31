@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-31T12:45:34.184Z",
+  "generated_at": "2026-10-31T21:44:48.808Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 121076
+      "ms": 136451
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91720
+      "ms": 91406
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 1914
+      "fetched": 6,
+      "ms": 3241
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 384
+      "ms": 265
     },
     "hackernews": {
       "ok": true,
       "fetched": 5,
-      "ms": 244
+      "ms": 315
     }
   },
   "items": [
@@ -68,6 +68,75 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "reddit:t3_1xkb6cv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkb6cv/question_about_devex/",
+      "author": "Fit-Pay769",
+      "date": "2026-10-31T14:08:27.000Z",
+      "title": "Question about DevEx",
+      "excerpt_en": "Hello guys im wondering if people in my group who worked on game with me will be able to devex if I ( owner of the group) had an account that was banned for scam violation for 3-7 days... 2.5y ago After that i made another account and i was ID verified and mail and number was…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "reddit:t3_1xk5zcc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk5zcc/want_to_see_a_disastrous_advertising_campaign/",
+      "author": "TimeSide8859",
+      "date": "2026-10-31T09:41:46.000Z",
+      "title": "Want to see a disastrous advertising campaign?",
+      "excerpt_en": "A disastrous advertising campaign. My game has failed, and it's better to stop here than keep pushing forward and wasting money. Don't fall into the sunk cost fallacy. If your game isn't working out, accept it, learn from the experience, and move on to the next one. Sometimes…",
+      "score": 12,
+      "tags": [
+        "ads",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "reddit:t3_1xkd5to",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkd5to/new_dev_here_how_are_you_getting_to_250_highly/",
+      "author": "Double-Ear7796",
+      "date": "2026-10-31T15:30:15.000Z",
+      "title": "New dev here: how are you getting to 250 highly engaged players for under-16 access?",
+      "excerpt_en": "I just launched my first game a couple days ago and I'm trying to figure out the Kids and Select requirement. My checklist says I need 250 highly engaged players before under-16 players can join, and I'm at 0 right now since it's only 16+. The expedited review is 100,000 Robux…",
+      "score": 11,
+      "tags": [
+        "ads",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "devforum:4960325",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/what-am-im-doing-wrong-with-my-game-that-it-gets-so-little-players/4960325",
+      "author": "Profesornoobz1440",
+      "date": "2026-10-27T13:23:33.868Z",
+      "title": "What am im doing wrong with my game that it gets so little players?",
+      "excerpt_en": "Hello guys, I have made a game in style of retrostudio called RO2016 , which is a 2015-2017 roblox simulation with a mostly accurate website/mobile/console ui and studio (includes filtering compliant lua scripting editor), groups and bunch more. The game has launched in july…",
+      "score": 9.7,
+      "tags": [
+        "ads",
+        "marketing"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "views": 128
+      },
+      "first_seen": "2026-10-31T21:44:48.808Z"
     },
     {
       "id": "reddit:t3_1xjy5qh",
@@ -143,6 +212,21 @@
       "first_seen": "2026-10-31T05:56:42.257Z"
     },
     {
+      "id": "reddit:t3_1xkbicw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkbicw/first_game_first_ad_campaign_need_your_opinions/",
+      "author": "Xblue_007",
+      "date": "2026-10-31T14:22:38.000Z",
+      "title": "First game, first ad campaign. Need your opinions.",
+      "excerpt_en": "This is my first ad campaign so far (3 days for plays, CPP and play time), this is the 5th day. Currently I have 37 Highly Engaged Players. What do you think? ",
+      "score": 8,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
       "id": "reddit:t3_1xjtt9o",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjtt9o/demon_slayer_mmorpg_in_development/",
@@ -171,6 +255,41 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "devforum:4968652",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-before-my-game-launch/4968652",
+      "author": "exvirus2",
+      "date": "2026-10-31T21:01:40.597Z",
+      "title": "Looking for Feedback Before My Game Launch!",
+      "excerpt_en": "Hello! I’m planning to launch my game on October 6 and run ads for a week after release. Here’s the game link: +1 Speed Ice Skating Escape | Play on Roblox I’d really appreciate any feedback on the game, especially what could be improved before launch. Also, how difficult is it…",
+      "score": 4.7,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 12
+      },
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "reddit:t3_1xkk5xy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkk5xy/revshare_looking_for_scripter_animator_for/",
+      "author": "Wooden_Cellist_755",
+      "date": "2026-10-31T20:12:41.000Z",
+      "title": "[RevShare] Looking for Scripter & Animator for Ongoing Project (Assets and Models Ready)",
+      "excerpt_en": "About the Game I am developing a FPS PVP Shooter game set in an Imaginary univer with is own world continent geographie and geopolitic, the setting is the early 1880s that will focus on a war, so far 2 Factions are completed wich are the 2 First faction of the war, with their…",
+      "score": 4,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
     },
     {
       "id": "devforum:4967581",
@@ -214,6 +333,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-10-31T12:45:34.184Z"
+    },
+    {
+      "id": "reddit:t3_1xkjtpf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkjtpf/arms_made_with_constraints_that_physically/",
+      "author": "aliacfvb",
+      "date": "2026-10-31T19:59:11.000Z",
+      "title": "arms made with constraints that physically interact with the environment",
+      "excerpt_en": "for a physics based tactical gun system ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "reddit:t3_1xjy5sq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjy5sq/some_renders_i_made_for_my_asym_game/",
+      "author": "Winter_Wishbone_6674",
+      "date": "2026-10-31T02:04:57.000Z",
+      "title": "Some Renders i Made For My Asym Game",
+      "excerpt_en": "i made This Renders For My Game (Duh) 2 Monhts of Rendering ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-10-31T21:44:48.808Z"
     }
   ]
 }
