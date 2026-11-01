@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-01T13:40:29.641Z",
+  "generated_at": "2026-11-01T22:11:15.027Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 126411
+      "ms": 116859
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31556
+      "ms": 91313
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3914
+      "ms": 3314
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 178
+      "ms": 156
     },
     "hackernews": {
       "ok": true,
-      "fetched": 5,
-      "ms": 701
+      "fetched": 7,
+      "ms": 410
     }
   },
   "items": [
@@ -50,6 +50,23 @@
       "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
+      "id": "reddit:t3_1xleq8u",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq8u/game_peaked_at_13k_ccu/",
+      "author": "justkxnzoo",
+      "date": "2026-11-01T21:17:43.000Z",
+      "title": "Game peaked at 13k ccu!",
+      "excerpt_en": "Can’t believe this game hit those numbers and hit the front page. Been grinding for so long man ",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T22:11:15.027Z"
+    },
+    {
       "id": "reddit:t3_1xkq4pg",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkq4pg/we_need_an_investor/",
@@ -66,6 +83,27 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4969167",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
+      "author": "Celnak",
+      "date": "2026-11-01T04:23:39.182Z",
+      "title": "PhysBone - Streamlined Bone Simulation Plugin",
+      "excerpt_en": "PhysBone Get PhysBone on the Creator Store PhysBone adds secondary motion to skinned meshes in Roblox. Hair sways when a character turns, tails swing behind them, capes and flags ripple in the wind, and ears bounce when they land. You set it up once in Studio, and it runs by…",
+      "score": 14.5,
+      "tags": [
+        "revenue",
+        "story",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 5,
+        "views": 193
+      },
+      "first_seen": "2026-11-01T22:11:15.027Z"
     },
     {
       "id": "reddit:t3_1xkr96h",
@@ -154,6 +192,26 @@
       "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
+      "id": "devforum:4970683",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/800000-robux-stuck-in-limbo/4970683",
+      "author": "irw_ing",
+      "date": "2026-11-01T21:57:30.086Z",
+      "title": "800000 robux stuck in limbo",
+      "excerpt_en": "I want to state a problem that I’ve had for a couple of months now. I have a DevEx request that has been unresolved for multiple months now, I’ve tried multiple solutions of the problem but nothing worked. The root cause of the problem is that my Tipalti does not allow any…",
+      "score": 9.9,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 5
+      },
+      "first_seen": "2026-11-01T22:11:15.027Z"
+    },
+    {
       "id": "reddit:t3_1xkvett",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvett/im_a_playtester_and_id_love_to_test_your_game/",
@@ -184,6 +242,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
+      "id": "reddit:t3_1xlelph",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlelph/looking_for_a_partner/",
+      "author": "Cheap-Page8843",
+      "date": "2026-11-01T21:12:33.000Z",
+      "title": "Looking for a partner",
+      "excerpt_en": "Hello, I have an entire game planned and even started but my talent isn’t really designing itself and I am far to busy sadly. What I want is someone really motivated and can visualize the ideas I have I guess. Now even though this is unpaid I would 100% be willing to split…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T22:11:15.027Z"
     },
     {
       "id": "reddit:t3_1xkvp40",
@@ -246,6 +320,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xl7y17",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl7y17/ive_been_developing_a_pixel_art_roguelite_rpg_on/",
+      "author": "Negan_lucile123",
+      "date": "2026-11-01T16:50:27.000Z",
+      "title": "I've been developing a pixel art roguelite RPG on Roblox called AFTEREVER. Here's some of my progress!",
+      "excerpt_en": "Hey everyone! I've been working on a Roblox game called AFTEREVER for quite a while now, mostly on my own. It's a top-down pixel art action roguelite RPG with a pretty big focus on worldbuilding, exploration, and character progression. The game takes place in a world affected by…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T22:11:15.027Z"
     },
     {
       "id": "reddit:t3_1xl0i2c",
@@ -321,6 +410,19 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
+      "id": "reddit:t3_1xl5lg5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl5lg5/finish_your_lap_inspired_by_gran_turismo_2023/",
+      "author": "CameleonGames",
+      "date": "2026-11-01T15:16:39.000Z",
+      "title": "\"Finish your lap\" Inspired by Gran Turismo (2023), built in Roblox",
+      "excerpt_en": "I loved that scene in Gran Turismo where Jack Salter tells Jann Mardenborough to \"Finish your lap\" after the crash. I wanted to capture that exact tension, but right before hitting the track, the moment waiting inside the garage just before rolling out. Made this Porsche 992 GT3…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-01T22:11:15.027Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:40:29.704Z",
+  "generated_at": "2026-11-01T22:11:15.086Z",
   "from_files": [
     "2026-10-29.json",
     "2026-10-30.json",
@@ -142,6 +142,23 @@
       "first_seen": "2026-10-31T12:45:34.184Z"
     },
     {
+      "id": "reddit:t3_1xleq8u",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq8u/game_peaked_at_13k_ccu/",
+      "author": "justkxnzoo",
+      "date": "2026-11-01T21:17:43.000Z",
+      "title": "Game peaked at 13k ccu!",
+      "excerpt_en": "Can’t believe this game hit those numbers and hit the front page. Been grinding for so long man ",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T22:11:15.027Z"
+    },
+    {
       "id": "reddit:t3_1xkq4pg",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkq4pg/we_need_an_investor/",
@@ -158,6 +175,27 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4969167",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
+      "author": "Celnak",
+      "date": "2026-11-01T04:23:39.182Z",
+      "title": "PhysBone - Streamlined Bone Simulation Plugin",
+      "excerpt_en": "PhysBone Get PhysBone on the Creator Store PhysBone adds secondary motion to skinned meshes in Roblox. Hair sways when a character turns, tails swing behind them, capes and flags ripple in the wind, and ears bounce when they land. You set it up once in Studio, and it runs by…",
+      "score": 14.5,
+      "tags": [
+        "revenue",
+        "story",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 5,
+        "views": 193
+      },
+      "first_seen": "2026-11-01T22:11:15.027Z"
     },
     {
       "id": "reddit:t3_1xkr96h",
@@ -245,45 +283,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-31T21:44:48.808Z"
-    },
-    {
-      "id": "reddit:t3_1xkozbb",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkozbb/hitting_250_did_nothing/",
-      "author": "Ok_Statistician6759",
-      "date": "2026-10-31T23:55:52.000Z",
-      "title": "Hitting 250 did nothing",
-      "excerpt_en": "Everyone is talking about their games blowing up and going from 10 CCU to 200 after hitting 250 HEP. Well, I just hit it. It's the first game I've ever managed to get to 250 HEP with, and I did it after just 4 days of running ads. It wasn't an easy journey, but I made it, and…",
-      "score": 13,
-      "tags": [
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-01T06:20:17.382Z"
-    },
-    {
-      "id": "devforum:4964441",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
-      "author": "rubber1401",
-      "date": "2026-10-29T15:11:56.458Z",
-      "title": "An approach to creating games in roblox (Part 1: Beginner level)",
-      "excerpt_en": "Intro A lot of times, when people start creating games on Roblox, people decide “I want to create a game about (topic)” then work on it for a while and get bored of it then stop working on it and start a new project. This is a common thing when starting out and even I was like…",
-      "score": 12.7,
-      "tags": [
-        "ads",
-        "marketing",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 1,
-        "views": 24
-      },
-      "first_seen": "2026-10-29T18:35:07.825Z"
     }
   ]
 }
