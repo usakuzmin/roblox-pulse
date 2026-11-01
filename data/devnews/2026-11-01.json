@@ -1,0 +1,200 @@
+{
+  "generated_at": "2026-11-01T06:20:17.382Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 126398
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91562
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 4210
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 325
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 274
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xkq4pg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkq4pg/we_need_an_investor/",
+      "author": "EclipseGames23",
+      "date": "2026-11-01T00:52:51.000Z",
+      "title": "We need an investor",
+      "excerpt_en": "We are creating an original spin on the Call Of Duty Zombies formula. We are creating a completely original story, 4 fully voice acted main characters, original boss fights, maps, easter eggs, perks, etc. Our goal is to create an experience never seen on Roblox. Most developers…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "marketing",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkr96h",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
+      "author": "bigdick4484720",
+      "date": "2026-11-01T01:52:30.000Z",
+      "title": "How do you advertise games without running roblox ads?",
+      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
+      "score": 14,
+      "tags": [
+        "ads",
+        "marketing",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4968987",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987",
+      "author": "umitcan",
+      "date": "2026-11-01T01:38:02.046Z",
+      "title": "Looking for feedback for my incremental game!",
+      "excerpt_en": "here is the link: I dont want to give a brief. Please do write your impressions of the game! I am looking to improve my D1 retention and revenue mainly.",
+      "score": 13.2,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 17
+      },
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkozbb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkozbb/hitting_250_did_nothing/",
+      "author": "Ok_Statistician6759",
+      "date": "2026-10-31T23:55:52.000Z",
+      "title": "Hitting 250 did nothing",
+      "excerpt_en": "Everyone is talking about their games blowing up and going from 10 CCU to 200 after hitting 250 HEP. Well, I just hit it. It's the first game I've ever managed to get to 250 HEP with, and I did it after just 4 days of running ads. It wasn't an easy journey, but I made it, and…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkvett",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvett/im_a_playtester_and_id_love_to_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-01T05:51:28.000Z",
+      "title": "I'm a playtester, and I'd love to test your game!",
+      "excerpt_en": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkvp40",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvp40/is_0_impressions_both_on_home_and_search_normal/",
+      "author": "MudkippzReddit",
+      "date": "2026-11-01T06:09:27.000Z",
+      "title": "Is 0 impressions, both on home and search normal after 1 day of a game's release",
+      "excerpt_en": "I recently released my game, and looking for organic traffic for bounce rate/ctr before investing on ads, but after a day it still got absolutely 0 impressions, on home and search. And searching on an incognito tab didn't find my game even tho I searched the full title. Is this…",
+      "score": 8,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkni9e",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkni9e/r6_modelers_wanted_roblox_characters_killers_skins/",
+      "author": "Double-Grape-4232",
+      "date": "2026-10-31T22:44:19.000Z",
+      "title": "🛠️ R6 Modelers Wanted — Roblox Characters, Killers & Skins",
+      "excerpt_en": "Genre: Asymmetrical Horror Player Count: 1 Killer vs. 8 Survivors Platform: Roblox We're looking for talented 3D modelers to help create R6 characters, killers, survivors, and skins for our Roblox horror game! 🔨 WHAT WE NEED We're hiring modelers for: Custom R6 killers Survivor…",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkogdd",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkogdd/the_simpsons_slaughter_needed_developers/",
+      "author": "makar4ik_cat",
+      "date": "2026-10-31T23:29:34.000Z",
+      "title": "The Simpsons Slaughter! [NEEDED DEVELOPERS]",
+      "excerpt_en": "UNPAID OR CAN BE SHARED BY GAME REVENUE (for developers who cant read the flair, especially when the last time I did this I got DMS from scripters who required payment to work) I am making a Hide and Seek + Asymmetrical Horror game called \"The Simpsons Slaughter\", it's Inspired…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xksp8c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xksp8c/age_of_sails_isle_of_rogues/",
+      "author": "Melodic-Sundae3403",
+      "date": "2026-11-01T03:12:02.000Z",
+      "title": "Age of Sails - Isle of Rogues",
+      "excerpt_en": "Been adding physics and game mechanics everyday, trying to add as much useful and immersive content as possible, without making the game complex. Recent additions include : ship signals/emblems for non-verbal communication visuals for underwater exploration carts to load and…",
+      "score": 4,
+      "tags": [
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4959768",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/welded-ragdoll-looks-awful/4959768",
+      "author": "SalvatoreScripts",
+      "date": "2026-10-27T02:17:45.485Z",
+      "title": "Welded ragdoll looks awful",
+      "excerpt_en": "I’ve attempted to weld a ragdoll to my character. The limbs of the ragdoll are delayed behind the torso. I’ve tried doing the ragdoll on the server and client- neither worked. Despite all the limbs being massless, the ball-socket constraints are still applying force to my…",
+      "score": 3.2,
+      "tags": [],
+      "engagement": {
+        "likes": 1,
+        "replies": 4,
+        "views": 145
+      },
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    }
+  ]
+}

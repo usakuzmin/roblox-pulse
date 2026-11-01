@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-31T21:44:48.871Z",
+  "generated_at": "2026-11-01T06:20:17.445Z",
   "from_files": [
-    "2026-10-28.json",
     "2026-10-29.json",
     "2026-10-30.json",
-    "2026-10-31.json"
+    "2026-10-31.json",
+    "2026-11-01.json"
   ],
   "items": [
     {
@@ -122,37 +122,60 @@
       "first_seen": "2026-10-31T12:45:34.184Z"
     },
     {
-      "id": "reddit:t3_1xhaqgx",
+      "id": "reddit:t3_1xkq4pg",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhaqgx/roblox_algorithm_surge/",
-      "author": "Dizzy-Criticism-2649",
-      "date": "2026-10-28T01:15:40.000Z",
-      "title": "Roblox Algorithm Surge",
-      "excerpt_en": "I release my game about a week ago, and around an hour ago my game got a gradual surge from about 5-7 ccu up to a peak of around 84 ccu which happened around 30-40 minutes ago. It's now been gradually slowing down, being at ~55ccu 20 minutes ago, ~34ccu 10 minutes ago, and 29ccu…",
-      "score": 15,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkq4pg/we_need_an_investor/",
+      "author": "EclipseGames23",
+      "date": "2026-11-01T00:52:51.000Z",
+      "title": "We need an investor",
+      "excerpt_en": "We are creating an original spin on the Call Of Duty Zombies formula. We are creating a completely original story, 4 fully voice acted main characters, original boss fights, maps, easter eggs, perks, etc. Our goal is to create an experience never seen on Roblox. Most developers…",
+      "score": 16,
       "tags": [
-        "metrics",
-        "discovery",
+        "revenue",
+        "marketing",
+        "studio",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-28T01:22:09.382Z"
+      "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
-      "id": "reddit:t3_1xh3hsu",
+      "id": "reddit:t3_1xkr96h",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh3hsu/before_you_hit_the_250_engaged_players_for_all/",
-      "author": "LowPrestigious3669",
-      "date": "2026-10-27T20:16:44.000Z",
-      "title": "Before you hit the 250 engaged players for all ages, what CCU tells you the game actually has potential?",
-      "excerpt_en": "My game is still locked to age-checked 16+ until it reaches the 250 highly engaged players. Right now it averages around 1–5 CCU, and only while I’m running ads. My question is that is there a CCU (or a retention / playtime number) you’d want to see before the unlock that tells…",
-      "score": 13,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
+      "author": "bigdick4484720",
+      "date": "2026-11-01T01:52:30.000Z",
+      "title": "How do you advertise games without running roblox ads?",
+      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
+      "score": 14,
       "tags": [
-        "metrics",
-        "numbers"
+        "ads",
+        "marketing",
+        "story"
       ],
       "engagement": {},
-      "first_seen": "2026-10-28T01:22:09.382Z"
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4968987",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987",
+      "author": "umitcan",
+      "date": "2026-11-01T01:38:02.046Z",
+      "title": "Looking for feedback for my incremental game!",
+      "excerpt_en": "here is the link: I dont want to give a brief. Please do write your impressions of the game! I am looking to improve my D1 retention and revenue mainly.",
+      "score": 13.2,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 17
+      },
+      "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
       "id": "reddit:t3_1xi0e2c",
@@ -204,6 +227,23 @@
       "first_seen": "2026-10-31T21:44:48.808Z"
     },
     {
+      "id": "reddit:t3_1xkozbb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkozbb/hitting_250_did_nothing/",
+      "author": "Ok_Statistician6759",
+      "date": "2026-10-31T23:55:52.000Z",
+      "title": "Hitting 250 did nothing",
+      "excerpt_en": "Everyone is talking about their games blowing up and going from 10 CCU to 200 after hitting 250 HEP. Well, I just hit it. It's the first game I've ever managed to get to 250 HEP with, and I did it after just 4 days of running ads. It wasn't an easy journey, but I made it, and…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
       "id": "devforum:4964441",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
@@ -226,26 +266,6 @@
       "first_seen": "2026-10-29T18:35:07.825Z"
     },
     {
-      "id": "devforum:4961771",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/home-recommendations-buggedacting-weird/4961771",
-      "author": "CenturyofGaming",
-      "date": "2026-10-28T06:20:46.905Z",
-      "title": "Home Recommendations Bugged/Acting Weird",
-      "excerpt_en": "Screenshot 2026-10-28 151827 1296×450 94.8 KB Screenshot 2026-10-28 151809 1065×433 41.9 KB I noticed two issues, one is delayed reporting of thumbnails (is stuck at 3am even though its 3pm now, has always been about 3-4hours delayed but suddenly frozen) and day 1 + 7 retentions…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 10
-      },
-      "first_seen": "2026-10-28T07:21:04.285Z"
-    },
-    {
       "id": "reddit:t3_1xidn3f",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidn3f/help_with_advertising_and_impressions/",
@@ -261,23 +281,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-30T06:00:16.222Z"
-    },
-    {
-      "id": "reddit:t3_1xjsl5v",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjsl5v/i_made_a_small_simulator_as_a_side_project_to/",
-      "author": "QuietThunderStudios",
-      "date": "2026-10-30T21:54:56.000Z",
-      "title": "I made a small simulator as a side project to learn the whole Roblox process before releasing my RPG. What would you fix?",
-      "excerpt_en": "Hi everyone! My main project is a fantasy RPG with clashable magic that I've been working on for a few months. But before finishing it and releasing something that big, I wanted to go through the whole process once on a smaller game: building, publishing, monetization…",
-      "score": 12,
-      "tags": [
-        "revenue",
-        "ads",
-        "monetization"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-30T22:29:24.967Z"
     }
   ]
 }
