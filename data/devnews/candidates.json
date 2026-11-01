@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:20:17.445Z",
+  "generated_at": "2026-11-01T13:40:29.704Z",
   "from_files": [
     "2026-10-29.json",
     "2026-10-30.json",
@@ -7,6 +7,26 @@
     "2026-11-01.json"
   ],
   "items": [
+    {
+      "id": "reddit:t3_1xkzyty",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzyty/is_developing_and_marketing_roblox_games_a_viable/",
+      "author": "uuua_a",
+      "date": "2026-11-01T10:41:46.000Z",
+      "title": "Is developing and marketing Roblox games a viable business? Looking for honest experiences with development costs, player growth, and actual profits",
+      "excerpt_en": "Hi everyone, I’m considering getting into the business of creating, publishing, and marketing games on Roblox. Before committing serious time or money, I’d like to understand what running this kind of business actually involves. The possibility of building a game that people…",
+      "score": 23,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "monetization",
+        "story",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
     {
       "id": "devforum:4962952",
       "source": "devforum",
@@ -264,23 +284,6 @@
         "views": 24
       },
       "first_seen": "2026-10-29T18:35:07.825Z"
-    },
-    {
-      "id": "reddit:t3_1xidn3f",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidn3f/help_with_advertising_and_impressions/",
-      "author": "SomeoneNoobyYT",
-      "date": "2026-10-29T07:47:04.000Z",
-      "title": "Help with advertising and impressions",
-      "excerpt_en": "top one is plays ads, bottom one is engagement. Hello, I'm currently developing a roblox game relating catching crabs with crab pots in a Fisch-like loop. My general game performance is not horrible, with an average 12 minute playtime and pretty decent funnels, with a good…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "ads",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-30T06:00:16.222Z"
     }
   ]
 }

@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-11-01T06:20:17.382Z",
+  "generated_at": "2026-11-01T13:40:29.641Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 126398
+      "ms": 126411
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91562
+      "ms": 31556
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 4210
+      "fetched": 5,
+      "ms": 3914
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 325
+      "ms": 178
     },
     "hackernews": {
       "ok": true,
       "fetched": 5,
-      "ms": 274
+      "ms": 701
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xkzyty",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzyty/is_developing_and_marketing_roblox_games_a_viable/",
+      "author": "uuua_a",
+      "date": "2026-11-01T10:41:46.000Z",
+      "title": "Is developing and marketing Roblox games a viable business? Looking for honest experiences with development costs, player growth, and actual profits",
+      "excerpt_en": "Hi everyone, I’m considering getting into the business of creating, publishing, and marketing games on Roblox. Before committing serious time or money, I’d like to understand what running this kind of business actually involves. The possibility of building a game that people…",
+      "score": 23,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "monetization",
+        "story",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
     {
       "id": "reddit:t3_1xkq4pg",
       "source": "reddit",
@@ -103,6 +123,37 @@
       "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
+      "id": "reddit:t3_1xkxvbc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkxvbc/i_need_suggestions_for_my_dead_game/",
+      "author": "Repulsive-Pension544",
+      "date": "2026-11-01T08:28:09.000Z",
+      "title": "I need suggestions for my dead game",
+      "excerpt_en": "I have an incremental game, it had great CCU and stats all along but suddenly died, I don't know what's wrong really. If some of y'all try it and make some suggestions I would be grateful. https://www.roblox.com/games/136966381029085/Celestial-Rarities (We didn't use AI) ",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
+      "id": "reddit:t3_1xkz5vb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkz5vb/devex_closed_open_the_door_dave/",
+      "author": "Kotojokes",
+      "date": "2026-11-01T09:51:53.000Z",
+      "title": "DevEx Closed: Open the door, Dave.",
+      "excerpt_en": "https://preview.redd.it/zh79c5us2zyh1.png?width=1475&format=png&auto=webp&s=a0846f7d6ec98ccd0eedc46616f6f3d477f0a69b Hi. My rent is due on the 14th. :> DevEx is basically approved on first come first serve... I typically DevEx at 12AM EST sharp every first of the month so I'm…",
+      "score": 10,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
       "id": "reddit:t3_1xkvett",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvett/im_a_playtester_and_id_love_to_test_your_game/",
@@ -117,6 +168,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xkysok",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkysok/how_expensive_is_game_dev_for_roblox/",
+      "author": "Aromatic-Bell-4000",
+      "date": "2026-11-01T09:28:15.000Z",
+      "title": "How expensive is game dev for Roblox",
+      "excerpt_en": "I know basics and layout of Roblox Scripting, and I have this big idea for my roblox game. I dont really want to make it all about profit like those super ai generated saturated slop games, but like a game like Guts and Blackpowder. Though profit is profit, and profit is good…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
       "id": "reddit:t3_1xkvp40",
@@ -150,6 +217,22 @@
       "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
+      "id": "reddit:t3_1xl1poi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl1poi/roblox_campaigns_instantly_rejected/",
+      "author": "XausMaster",
+      "date": "2026-11-01T12:21:23.000Z",
+      "title": "Roblox campaigns instantly rejected",
+      "excerpt_en": "I'm developing a Roblox game and I'm trying to launch my first sponsored ad campaign, but every single thumbnail I upload gets rejected almost instantly https://preview.redd.it/shk8brdmtzyh1.png?width=715&format=png&auto=webp&s=24807c144bc50a9c08e310562ffbef682a1dca0f I've tried…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
       "id": "reddit:t3_1xkogdd",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkogdd/the_simpsons_slaughter_needed_developers/",
@@ -163,6 +246,36 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xl0i2c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0i2c/added_a_midbattle_bubble_so_players_on_a_shared/",
+      "author": "Phrygian100",
+      "date": "2026-11-01T11:13:32.000Z",
+      "title": "Added a \"mid-battle\" bubble so players on a shared server can see who's fighting. Now I need a few people on one server to try and break my PvP arena",
+      "excerpt_en": "I'm a solo dev with a day job, building a turn-based creature-collecting RPG on Roblox called Pet Battle Arena. It's a well known formula. You will recognise some game mechanics from a popular franchise.... The multiplayer side is the part I can't test properly on my own, so…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
+    },
+    {
+      "id": "reddit:t3_1xkzaxr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzaxr/is_my_ctr_terrible/",
+      "author": "Longjumping-Ad-5460",
+      "date": "2026-11-01T10:00:52.000Z",
+      "title": "is my CTR terrible?",
+      "excerpt_en": "I've been running ads for like 3 days so far, 57 ad credits in and I don't see any crazy results. The CTR started around 4% something, but went down to 3.3%, while it is better than the smaller past ad campaigns I ran with only 2.6 and 1.6 %, this still seems low. Should I stop…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
       "id": "reddit:t3_1xksp8c",
@@ -195,6 +308,19 @@
         "views": 145
       },
       "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xl02kn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl02kn/little_vid_of_my_game/",
+      "author": "banaenae3321",
+      "date": "2026-11-01T10:48:08.000Z",
+      "title": "little vid of my game",
+      "excerpt_en": "what do you think? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-01T13:40:29.641Z"
     }
   ]
 }
