@@ -1,0 +1,158 @@
+{
+  "generated_at": "2026-11-02T06:21:45.818Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 142013
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91275
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3294
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 97
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 262
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xlm9o6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlm9o6/ads_manager_says_creation_failed_http_504_on/",
+      "author": "CCCIsTheBest1",
+      "date": "2026-11-02T03:06:57.000Z",
+      "title": "Ads Manager says \"Creation failed\" (HTTP 504) on every campaign since Oct 21 - anyone else, or found a fix?",
+      "excerpt_en": "Hey all, I've been trying to run an ad for my game through Roblox's Ads Manager (create.roblox.com/advertise) and I can't create a campaign at all. I fill everything in, click Publish, confirm the box that says $5 will be deducted, and after a few seconds I get \"Creation…",
+      "score": 21,
+      "tags": [
+        "revenue",
+        "ads",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "devforum:4971118",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
+      "author": "AlecCreator",
+      "date": "2026-11-02T04:11:55.632Z",
+      "title": "Snapwise: snap, array, stairs and grip tools for whole selections [$5.99]",
+      "excerpt_en": "Everything you need to build faster, in one compact panel : resize, move, rotate and duplicate many parts at once with snapping, align and spread them in one click, build curved arrays, rings and spiral staircases, mirror, paint selections with a brush, manage attributes with…",
+      "score": 15.2,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 27
+      },
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlkf99",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkf99/need_some_clarification_regarding_engagement_ads/",
+      "author": "SomeoneNoobyYT",
+      "date": "2026-11-02T01:35:13.000Z",
+      "title": "Need some clarification regarding engagement ads",
+      "excerpt_en": "https://preview.redd.it/9d8niceyr3zh1.png?width=830&format=png&auto=webp&s=edd732720d4413f992171f6cb12f534ffb893bfd Hello! I'm a developer for a game that's currently running ads for the first time, and I realized that the current # impressions and CPC is abnormally high. I've…",
+      "score": 8,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlk955",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlk955/first_game_published/",
+      "author": "Human-Finding-551",
+      "date": "2026-11-02T01:26:45.000Z",
+      "title": "First Game Published!",
+      "excerpt_en": "Im so happy I just got my first completed game out! Yes, its mostly coded with AI, but I tried to take a lot of measures so it wouldn't just look like \"AI Slop.\" Its been out for maybe a day now, but the CCU has only broken 10 once. Im currently running 16 ad credits a day and…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "devforum:4970170",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/acesbrush-paint-foliage-rocks-and-props-onto-anything-plugin/4970170",
+      "author": "Neuroticxs",
+      "date": "2026-11-01T17:04:26.037Z",
+      "title": "AcesBrush - paint foliage, rocks and props onto anything [Plugin]",
+      "excerpt_en": "AcesBrush_Landscape 1025×248 55.6 KB Stop placing trees one by one. AcesBrush turns set dressing into painting. Pick your trees, rocks, grass and props, then sweep the brush across your map and watch it fill with natural, varied scenery. What used to take an afternoon of copy…",
+      "score": 5.8,
+      "tags": [],
+      "engagement": {
+        "likes": 24,
+        "replies": 8,
+        "views": 133
+      },
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlhb94",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhb94/152_year_modelling_difference/",
+      "author": "ErebusPr",
+      "date": "2026-11-01T23:09:04.000Z",
+      "title": "1.5-2 Year modelling difference",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xl3e9d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3e9d/more_of_the_physics_based_arms/",
+      "author": "aliacfvb",
+      "date": "2026-11-01T13:43:15.000Z",
+      "title": "more of the physics based arms",
+      "excerpt_en": "they are attached to the character via prismatic and ballsocket constraints and i use align orientation and positions to match the physics arms to the character's real arms which are invisible but still being animated. no ai used and i dont consent to ai stealing my idea ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlgbaa",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlgbaa/100_hep_requirement_reduction/",
+      "author": "Horror_Difference_75",
+      "date": "2026-11-01T22:24:25.000Z",
+      "title": "100 HEP Requirement Reduction",
+      "excerpt_en": "I heard it'll be reduced to 100 for November, does anyone know when? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    }
+  ]
+}

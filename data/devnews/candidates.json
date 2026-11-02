@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-01T22:11:15.086Z",
+  "generated_at": "2026-11-02T06:21:45.875Z",
   "from_files": [
-    "2026-10-29.json",
     "2026-10-30.json",
     "2026-10-31.json",
-    "2026-11-01.json"
+    "2026-11-01.json",
+    "2026-11-02.json"
   ],
   "items": [
     {
@@ -28,41 +28,22 @@
       "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
-      "id": "devforum:4962952",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/harsh-game-feedback-needed-why-is-my-playtime-and-monetization-so-low/4962952",
-      "author": "PandaPb",
-      "date": "2026-10-28T19:26:43.732Z",
-      "title": "Harsh Game Feedback Needed - Why is my playtime and monetization so low",
-      "excerpt_en": "Hi everyone, I have finally made the game I dreamed of after 7 years, but the playtime and monetization is really low, and I am not sure why. Could you give it a try and let me know what you think? It has a harsh dislike ratio due to releasing a bit early with bugs…",
-      "score": 19.5,
-      "tags": [
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 6,
-        "replies": 9,
-        "views": 48
-      },
-      "first_seen": "2026-10-29T01:20:47.884Z"
-    },
-    {
-      "id": "reddit:t3_1xi9n3b",
+      "id": "reddit:t3_1xlm9o6",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi9n3b/stuck_at_10_20_ccu/",
-      "author": "huntoir",
-      "date": "2026-10-29T03:48:48.000Z",
-      "title": "Stuck at 10 - 20 ccu",
-      "excerpt_en": "12 days ago I released my first game and have been stuck around 10 - 20 ccu. I've been running daily ads at $20/day with 1-2% CTR and am around 12min avg playtime. Working on improving my D1 retention and playtime avg...what is most important for me to be focusing on in this…",
-      "score": 19,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlm9o6/ads_manager_says_creation_failed_http_504_on/",
+      "author": "CCCIsTheBest1",
+      "date": "2026-11-02T03:06:57.000Z",
+      "title": "Ads Manager says \"Creation failed\" (HTTP 504) on every campaign since Oct 21 - anyone else, or found a fix?",
+      "excerpt_en": "Hey all, I've been trying to run an ad for my game through Roblox's Ads Manager (create.roblox.com/advertise) and I can't create a campaign at all. I fill everything in, click Publish, confirm the box that says $5 will be deducted, and after a few seconds I get \"Creation…",
+      "score": 21,
       "tags": [
         "revenue",
-        "metrics",
+        "ads",
+        "story",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-10-29T07:21:12.297Z"
+      "first_seen": "2026-11-02T06:21:45.818Z"
     },
     {
       "id": "reddit:t3_1xjd4h5",
@@ -177,6 +158,26 @@
       "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
+      "id": "devforum:4971118",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
+      "author": "AlecCreator",
+      "date": "2026-11-02T04:11:55.632Z",
+      "title": "Snapwise: snap, array, stairs and grip tools for whole selections [$5.99]",
+      "excerpt_en": "Everything you need to build faster, in one compact panel : resize, move, rotate and duplicate many parts at once with snapping, align and spread them in one click, build curved arrays, rings and spiral staircases, mirror, paint selections with a brush, manage attributes with…",
+      "score": 15.2,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 27
+      },
+      "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
       "id": "devforum:4969167",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
@@ -236,22 +237,6 @@
       "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
-      "id": "reddit:t3_1xi0e2c",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi0e2c/trouble_with_retention_in_game/",
-      "author": "Fine-Tangerine-3756",
-      "date": "2026-10-28T20:59:45.000Z",
-      "title": "Trouble with retention in game",
-      "excerpt_en": "Hey yall I made a game called Dress to Aura Farm, and am having trouble retaining players. I’ve made a lot of changes to try and see if they will help and I’ve seen somewhat negligible results. I’ve revamped ui, added faster gameplay, more rewards, more feedback, etc… I’d really…",
-      "score": 13,
-      "tags": [
-        "metrics",
-        "ads"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-29T01:20:47.884Z"
-    },
-    {
       "id": "reddit:t3_1xiq59k",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
@@ -283,6 +268,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-10-31T21:44:48.808Z"
+    },
+    {
+      "id": "reddit:t3_1xkozbb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkozbb/hitting_250_did_nothing/",
+      "author": "Ok_Statistician6759",
+      "date": "2026-10-31T23:55:52.000Z",
+      "title": "Hitting 250 did nothing",
+      "excerpt_en": "Everyone is talking about their games blowing up and going from 10 CCU to 200 after hitting 250 HEP. Well, I just hit it. It's the first game I've ever managed to get to 250 HEP with, and I did it after just 4 days of running ads. It wasn't an easy journey, but I made it, and…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
     }
   ]
 }
