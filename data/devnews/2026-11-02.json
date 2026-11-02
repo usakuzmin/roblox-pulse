@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-02T06:21:45.818Z",
+  "generated_at": "2026-11-02T21:48:08.070Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 142013
+      "ms": 116025
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91275
+      "ms": 91832
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 3294
+      "fetched": 7,
+      "ms": 4117
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 97
+      "ms": 202
     },
     "hackernews": {
       "ok": true,
-      "fetched": 7,
-      "ms": 262
+      "fetched": 9,
+      "ms": 295
     }
   },
   "items": [
@@ -48,6 +48,41 @@
       "first_seen": "2026-11-02T06:21:45.818Z"
     },
     {
+      "id": "reddit:t3_1xmadsv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmadsv/investor_entity_original_asym_horror_game_seeking/",
+      "author": "Double-Grape-4232",
+      "date": "2026-11-02T21:39:25.000Z",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
+      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
+      "author": null,
+      "date": "2026-11-02T11:05:00.000Z",
+      "title": "Hot Five: Ludia CEO talks acquisitions, Mark Otero talks $50m bet on UnGodly, and more than 80% of top Roblox games now use AI",
+      "excerpt_en": "To help get you primed and ready for another week in mobile gaming, we&rsquo;ve curated the biggest stories you need to know from the last seven days. 1) Ludia CEO Jimmy Gendron weighs in on acquisitions, life after Jam City and mobile&rsquo;s new reality ... [ MORE ]",
+      "score": 17,
+      "tags": [
+        "analyst",
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
       "id": "devforum:4971118",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
@@ -68,6 +103,163 @@
       "first_seen": "2026-11-02T06:21:45.818Z"
     },
     {
+      "id": "devforum:4972150",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/farming-sim-only-10-of-new-players-reach-15-minutes-looking-for-feedback-on-my-first-session/4972150",
+      "author": "SergMajV11",
+      "date": "2026-11-02T19:24:55.367Z",
+      "title": "Farming sim: only ~10% of new players reach 15 minutes. Looking for feedback on my first session",
+      "excerpt_en": "Hi everyone! I’m a solo developer working on Farmers Valley – Farm with Friends , a cozy farming sim with crops, animals, pets, fishing, a mine and clubs. Farmers Valley - Farm with Friends | Play on Roblox The problem: only about 10% of new players are still playing after 15…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 11
+      },
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xla9g1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xla9g1/are_top_roblox_developers_earning_more_than/",
+      "author": "FlyKnight_Official",
+      "date": "2026-11-01T18:19:41.000Z",
+      "title": "Are Top Roblox Developers Earning more than Standalone games?",
+      "excerpt_en": "Games like roblox rivals, 99 nights in the forest are rumored to have earned over 100 million USD. While others document the earnings for games like poppy playtime chapter 2 earned 7 million USD. Do you believe it is the truth? ",
+      "score": 15,
+      "tags": [
+        "revenue",
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xm9wus",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9wus/my_life_sim_just_hit_1400_ccu/",
+      "author": "visionaryillusion",
+      "date": "2026-11-02T21:21:30.000Z",
+      "title": "My life sim just hit 1,400 CCU!",
+      "excerpt_en": "I still can't believe I hit this peak, it feels like a dream. And to think that just 7 days ago I was about to give up on my game! When I turned off my ads, traffic dropped to almost zero and I thought that was the end. I didn't check anything about the game for days, just fixed…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xlsezj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlsezj/lf_investors_for_my_finished_roblox_game/",
+      "author": "Cyberspace_Sorcerer",
+      "date": "2026-11-02T09:09:27.000Z",
+      "title": "LF Investors for my finished ROBLOX game",
+      "excerpt_en": "Need funding to run ads for my roblox game. Further details will be given in dms about percentages and shares. About $15 per day for 1-2 weeks needed. I would also appreciate any advice on what I can improve. I don't want to waste anyone's time but i can't post a link here so…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "naavik:https://naavik.co/?p=34728",
+      "source": "naavik",
+      "url": "https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/",
+      "author": "Mark Ma",
+      "date": "2026-11-01T09:57:00.000Z",
+      "title": "Bilibili: From Games to Mega-Platform",
+      "excerpt_en": "Bilibili was founded in 2009 with anime, comics, and games (or ACG) at its core, as a danmaku video community in which viewer comments scroll across the video. Around 2020, it pushed beyond its fandom roots and leaned into other major content sections (like lifestyle, knowledge…",
+      "score": 13,
+      "tags": [
+        "analyst",
+        "revenue",
+        "marketing",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xm5a6d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm5a6d/roblox_ads_is_this_good_for_3_days/",
+      "author": "InformalDealer5264",
+      "date": "2026-11-02T18:30:50.000Z",
+      "title": "Roblox ads Is this good for 3 days ?",
+      "excerpt_en": "https://preview.redd.it/dzy56uuns8zh1.png?width=560&format=png&auto=webp&s=09ccabbc38fa3cbb41542d984b26347da9f69763 This is about 3 days if im sure I run 4.5$ a day on engangement and 2.5 on plays but I still only have like 1 player joining and after they leave another joins I'm…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xlynwm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlynwm/in_need_of_advice/",
+      "author": "stanilavl",
+      "date": "2026-11-02T14:28:38.000Z",
+      "title": "In need of advice",
+      "excerpt_en": "2 weeks ago i’ve launched my first project. I had no expectations really as it was made more as a hobby and didn’t have any real plan. I peaked at around 50 CCU after a few days(which was better than expected) and since then it’s been at around 20-30 CCU(i’ve also halved the ad…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xlyiwg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlyiwg/looking_for_investor_roblox_ads_manager/",
+      "author": "randomworldae",
+      "date": "2026-11-02T14:23:09.000Z",
+      "title": "Looking for Investor Roblox Ads Manager",
+      "excerpt_en": "I know you might say it’s a slop game but whatever. I am currently looking for investors for this Roblox Game I’ve made. It is called “Spin an Apple for IQ!” It is a RNG Incremental Simulator game in which you defeat NPCs with the IQ you obtain by clicking. You roll for Apple…",
+      "score": 10,
+      "tags": [
+        "revenue",
+        "ads",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xlxsfr",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlxsfr/im_a_playtester_can_i_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-02T13:54:21.000Z",
+      "title": "I'm a playtester, can i test your game?",
+      "excerpt_en": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
       "id": "reddit:t3_1xlkf99",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkf99/need_some_clarification_regarding_engagement_ads/",
@@ -82,6 +274,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlu8iu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlu8iu/icon_thumbnails_not_updating/",
+      "author": "Zestyclose_Ad5827",
+      "date": "2026-11-02T11:01:33.000Z",
+      "title": "Icon & Thumbnails not updating",
+      "excerpt_en": "I haven't been able to upload a thumbnail icon, or the slideshow. I've tried it on both home page and experience details and no change occurs. I've emailed Roblox for help and they haven't responded. I'm throwing money away in ads since the icon doesn't even show up. I created a…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
     },
     {
       "id": "reddit:t3_1xlk955",
@@ -114,6 +322,53 @@
         "views": 133
       },
       "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "devforum:4968764",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/bee-kingdom-%E2%80%94-looking-for-playtesters/4968764",
+      "author": "morsergen",
+      "date": "2026-10-31T22:16:04.119Z",
+      "title": "Bee Kingdom — looking for playtesters!",
+      "excerpt_en": "Hi everyone! I’m developing Bee Kingdom , a colourful game where you fly as a bee, collect nectar, make honey, and grow your hive into a castle! You can recruit helper bees, discover flower meadows, and dress up your bees. If you have 5–10 minutes , I’d love your feedback: Are…",
+      "score": 5.5,
+      "tags": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 6,
+        "views": 174
+      },
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xm55wt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm55wt/arpg_in_roblox_ive_played_arpgs_for_25_years_d2/",
+      "author": "RG_PankO",
+      "date": "2026-11-02T18:26:45.000Z",
+      "title": "ARPG in Roblox - I’ve played ARPGs for 25 years (D2, PoE since the beta), so I followed my passion and made one on Roblox: Path of Salvation",
+      "excerpt_en": "Hey guys, I’ve been an ARPG fan forever: Diablo 2, LoD, Torchlight, Titan Quest and of course Path of Exile. I’ve played PoE since the closed beta, back when Vaal in Act 2 was the last boss, and I still play every league. So I made the ARPG I wanted to find on Roblox. I took a…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xm1hwt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm1hwt/anyone_want_to_trade_playtesting/",
+      "author": "jappelflapper",
+      "date": "2026-11-02T16:15:24.000Z",
+      "title": "Anyone want to trade playtesting?",
+      "excerpt_en": "I have been working on a game and am now at the stage where I want to do a big AD campaign. But beforehand I would love some input from fellow creators. Send me a DM with your game and we can share some tips and improvements! ",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
     },
     {
       "id": "reddit:t3_1xlhb94",
@@ -153,6 +408,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xlzoo1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlzoo1/some_stylized_crafting_stations_ive_been_working/",
+      "author": "RiescArts",
+      "date": "2026-11-02T15:08:23.000Z",
+      "title": "Some stylized crafting stations I've been working on for Indie devs!",
+      "excerpt_en": "Been working on some low-poly crafting stations lately and wanted to share how they turned out in Roblox Studio! I wanted the upgrades to feel like actual improvements, while keeping the same colorful, stylized look across all the models. Any suggestions for future updates or…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xjss5o",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjss5o/should_i_sell_my_roblox_game_or_keep_developing_it/",
+      "author": "Dependent-Trainer582",
+      "date": "2026-10-30T22:02:38.000Z",
+      "title": "Should I Sell My Roblox Game or Keep Developing It?",
+      "excerpt_en": "Hey everyone! I’ve been working on a Roblox game, and I’m considering selling it rather than continuing development. I’m a bit confused about whether I should sell the game now or keep working on it and potentially earn from it later. For those experienced in Roblox development…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
     }
   ]
 }
