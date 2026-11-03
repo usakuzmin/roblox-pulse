@@ -1,34 +1,71 @@
 {
-  "generated_at": "2026-11-03T06:57:30.484Z",
+  "generated_at": "2026-11-03T19:36:02.394Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 107594
+      "ms": 133983
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 31030
+      "ms": 91702
     },
     "rss": {
       "ok": true,
-      "fetched": 7,
-      "ms": 2719
+      "fetched": 5,
+      "ms": 3955
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 34
+      "ms": 232
     },
     "hackernews": {
       "ok": true,
-      "fetched": 8,
-      "ms": 230
+      "fetched": 7,
+      "ms": 257
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xmxg0y",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxg0y/partnership_game_investor_sponsor_fps_game/",
+      "author": "RedBrocolis",
+      "date": "2026-11-03T16:23:36.000Z",
+      "title": "Partnership Game Investor / Sponsor FPS GAME",
+      "excerpt_en": "https://preview.redd.it/g2zoo0hyafzh1.png?width=1920&format=png&auto=webp&s=6ca90a8d3fc39f0e44d30c33945b3b17f7c89052 I release my game a week ago. And now I lauched the first big halloween update of the game with battle passe, new maps and general upgrades of the game in 31 of…",
+      "score": 22,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "reddit:t3_1xmuyw8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmuyw8/spent_30_on_roblox_ads_got_almost_no_real_players/",
+      "author": "Den1sBD",
+      "date": "2026-11-03T14:50:51.000Z",
+      "title": "Spent $30 on Roblox ads, got almost no real players. How do small devs actually promote their games?",
+      "excerpt_en": "I made my own game on Roblox, bought ads, and have already spent $30, but almost nobody plays it, and the click-through rate is really low. The game is a survival horror based on Little Red Riding Hood: you have to make your way through the forest and deliver the pies, passing…",
+      "score": 21,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
     {
       "id": "devforum:4972565",
       "source": "devforum",
@@ -48,6 +85,41 @@
         "views": 2397
       },
       "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "devforum:4973861",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861",
+      "author": "Vikramidy",
+      "date": "2026-11-03T18:20:41.657Z",
+      "title": "Excessive devex ban? Your DevEx access has been temporarily suspended",
+      "excerpt_en": "image 704×663 47.8 KB image 1651×1103 134 KB 40 days thats a whole month where i am now no longer able to pay rent isn’t this a bit too much? i mean it’s in the nature of UGC for an occasional flag on a face but getting restricted for 40 days for something like this. It was made…",
+      "score": 9.7,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 24
+      },
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "reddit:t3_1xmot2l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmot2l/im_a_playtester_can_i_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-03T09:47:20.000Z",
+      "title": "I'm a playtester, can i test your game?",
+      "excerpt_en": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
       "id": "devforum:4972702",
@@ -82,6 +154,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xmrr88",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmrr88/searching_for_people_to_develop_with/",
+      "author": "qkab",
+      "date": "2026-11-03T12:33:24.000Z",
+      "title": "Searching for people to develop with",
+      "excerpt_en": "I started developing just recently and honestly it's a bit depressing to develop alone, nobody to share ideas with, having just my own view etc So I'm searching for someone to develop with, idc if you never developed or don't know how to make games. Just basic English is enough…",
+      "score": 6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "devforum:4973120",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/clearer-reporting-guidance-for-suspected-ports-and-reuse-of-third-party-game-assets/4973120",
+      "author": "AmieNya",
+      "date": "2026-11-03T10:08:44.637Z",
+      "title": "Clearer reporting guidance for suspected ports and reuse of third-party game assets",
+      "excerpt_en": "Clearer reporting guidance for suspected ports and reuse of third-party game assets I would like Roblox to clarify how community members can submit factual concerns about possible unauthorized reuse of another game’s content. The published copyright process explains how rights…",
+      "score": 5.6,
+      "tags": [
+        "studio"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 1,
+        "views": 34
+      },
+      "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
       "id": "reddit:t3_1xmfofm",
@@ -202,6 +308,58 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xms196",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xms196/made_a_levelmap_editor_in_a_few_weeks_looking_for/",
+      "author": "Md_Ashraful_Islam",
+      "date": "2026-11-03T12:47:08.000Z",
+      "title": "Made a level/map editor in a few weeks, looking for feedback from people who design levels",
+      "excerpt_en": "I made a map editor where you draw a plan in 2D and the 3D view builds as you go. It handles roads, multi-storey buildings with stairs and roofs, terrain, and scenery, and you can walk through the result right away. It's closed source at the moment. If you design levels, what…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "reddit:t3_1xmja3c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmja3c/looking_for_feedback_on_my_first_roblox_game/",
+      "author": "hanepoo2525",
+      "date": "2026-11-03T04:18:52.000Z",
+      "title": "Looking for feedback on my first Roblox game!!",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "reddit:t3_1xmxkr4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxkr4/how_do_slop_game_creators_hit_the_highly_engaged/",
+      "author": "yamsiez",
+      "date": "2026-11-03T16:28:20.000Z",
+      "title": "How do “slop” game creators hit the highly engaged players minimum?",
+      "excerpt_en": "I’ve always wanted to know the answer to this question since it’s quite confusing, and nobody really talks about it. We all know that games such as slap towers, keyboard escapes, etc. are ALL targeted to the younger side of Roblox. We all ALSO know that in-order to reach this…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "reddit:t3_1xml7rq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xml7rq/looking_for_playtesters_for_my_cozy_pet_bakery/",
+      "author": "SecretaryOk4507",
+      "date": "2026-11-03T06:03:36.000Z",
+      "title": "Looking for playtesters for my cozy pet bakery game (honest feedback wanted)",
+      "excerpt_en": "Hey! I'm a solo dev and just launched Pawsome Bakery, a cozy pet-collecting game. Your pets drop ingredients, you bake them into treats, and mixing treats lures in new pets to collect. Looking for a few people to play for 15–20 minutes and give honest feedback. This is…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
     }
   ]
 }

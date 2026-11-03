@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:30.549Z",
+  "generated_at": "2026-11-03T19:36:02.453Z",
   "from_files": [
     "2026-10-31.json",
     "2026-11-01.json",
@@ -28,6 +28,25 @@
       "first_seen": "2026-11-01T13:40:29.641Z"
     },
     {
+      "id": "reddit:t3_1xmxg0y",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxg0y/partnership_game_investor_sponsor_fps_game/",
+      "author": "RedBrocolis",
+      "date": "2026-11-03T16:23:36.000Z",
+      "title": "Partnership Game Investor / Sponsor FPS GAME",
+      "excerpt_en": "https://preview.redd.it/g2zoo0hyafzh1.png?width=1920&format=png&auto=webp&s=6ca90a8d3fc39f0e44d30c33945b3b17f7c89052 I release my game a week ago. And now I lauched the first big halloween update of the game with battle passe, new maps and general upgrades of the game in 31 of…",
+      "score": 22,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
       "id": "reddit:t3_1xlm9o6",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlm9o6/ads_manager_says_creation_failed_http_504_on/",
@@ -44,6 +63,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T06:21:45.818Z"
+    },
+    {
+      "id": "reddit:t3_1xmuyw8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmuyw8/spent_30_on_roblox_ads_got_almost_no_real_players/",
+      "author": "Den1sBD",
+      "date": "2026-11-03T14:50:51.000Z",
+      "title": "Spent $30 on Roblox ads, got almost no real players. How do small devs actually promote their games?",
+      "excerpt_en": "I made my own game on Roblox, bought ads, and have already spent $30, but almost nobody plays it, and the click-through rate is really low. The game is a survival horror based on Little Red Riding Hood: you have to make your way through the forest and deliver the pies, passing…",
+      "score": 21,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
       "id": "reddit:t3_1xmadsv",
@@ -249,44 +286,6 @@
         "views": 193
       },
       "first_seen": "2026-11-01T22:11:15.027Z"
-    },
-    {
-      "id": "reddit:t3_1xkr96h",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
-      "author": "bigdick4484720",
-      "date": "2026-11-01T01:52:30.000Z",
-      "title": "How do you advertise games without running roblox ads?",
-      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
-      "score": 14,
-      "tags": [
-        "ads",
-        "marketing",
-        "story"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-01T06:20:17.382Z"
-    },
-    {
-      "id": "devforum:4968987",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987",
-      "author": "umitcan",
-      "date": "2026-11-01T01:38:02.046Z",
-      "title": "Looking for feedback for my incremental game!",
-      "excerpt_en": "here is the link: I dont want to give a brief. Please do write your impressions of the game! I am looking to improve my D1 retention and revenue mainly.",
-      "score": 13.2,
-      "tags": [
-        "revenue",
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "views": 17
-      },
-      "first_seen": "2026-11-01T06:20:17.382Z"
     }
   ]
 }
