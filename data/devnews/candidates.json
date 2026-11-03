@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-02T21:48:08.117Z",
+  "generated_at": "2026-11-03T06:57:30.549Z",
   "from_files": [
-    "2026-10-30.json",
     "2026-10-31.json",
     "2026-11-01.json",
-    "2026-11-02.json"
+    "2026-11-02.json",
+    "2026-11-03.json"
   ],
   "items": [
     {
@@ -62,43 +62,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "reddit:t3_1xjd4h5",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjd4h5/i_will_case_study_your_game/",
-      "author": "BlockEye_",
-      "date": "2026-10-30T11:45:29.000Z",
-      "title": "I will Case Study your Game.",
-      "excerpt_en": "Hello I am a Roblox Game & UI/UX designer and I will case study your game on why its failing. I primarily focus on: - Monitization - Core Loop - UI/UX Design - Retention & Playtime I have worked with many games for Monitization & Game design and have contributed to 2 games with…",
-      "score": 19,
-      "tags": [
-        "revenue",
-        "metrics",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-30T13:07:17.176Z"
-    },
-    {
-      "id": "reddit:t3_1xjp5x2",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjp5x2/anyone_here_trying_to_run_their_game_like_a/",
-      "author": "Neo10010",
-      "date": "2026-10-30T19:38:53.000Z",
-      "title": "Anyone here trying to run their game like a business? I want to team up",
-      "excerpt_en": "TLDR: I will invest in your game with time, money,and sweat. I’m on the business side, understand the Roblox economy and what actually goes viral. Not a dev. Want to partner with someone whose game is decent or even just built and take it to the next level. [edit: work…",
-      "score": 19,
-      "tags": [
-        "revenue",
-        "metrics",
-        "discovery",
-        "monetization",
-        "story"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-30T22:29:24.967Z"
     },
     {
       "id": "devforum:4967745",
@@ -286,6 +249,44 @@
         "views": 193
       },
       "first_seen": "2026-11-01T22:11:15.027Z"
+    },
+    {
+      "id": "reddit:t3_1xkr96h",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
+      "author": "bigdick4484720",
+      "date": "2026-11-01T01:52:30.000Z",
+      "title": "How do you advertise games without running roblox ads?",
+      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
+      "score": 14,
+      "tags": [
+        "ads",
+        "marketing",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "devforum:4968987",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987",
+      "author": "umitcan",
+      "date": "2026-11-01T01:38:02.046Z",
+      "title": "Looking for feedback for my incremental game!",
+      "excerpt_en": "here is the link: I dont want to give a brief. Please do write your impressions of the game! I am looking to improve my D1 retention and revenue mainly.",
+      "score": 13.2,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 17
+      },
+      "first_seen": "2026-11-01T06:20:17.382Z"
     }
   ]
 }

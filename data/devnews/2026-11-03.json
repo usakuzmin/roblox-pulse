@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-11-03T06:57:30.484Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 107594
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 31030
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 2719
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 34
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 8,
+      "ms": 230
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4972565",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565",
+      "author": "RbxRocketMan",
+      "date": "2026-11-02T23:46:36.172Z",
+      "title": "Update on Account Bans, Alt Detection, and Appeals",
+      "excerpt_en": "Creators, We’ve seen discussions across DevForum and social media about account bans, and we want to address this directly. Below, we explain the principles behind account bans, how we detect linked accounts, what we’re doing to improve, and answers to the questions we hear…",
+      "score": 10.8,
+      "tags": [
+        "platform",
+        "story"
+      ],
+      "engagement": {
+        "likes": 372,
+        "replies": 97,
+        "views": 2397
+      },
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "devforum:4972702",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/does-like-rating-of-a-game-affect-how-it-is-pushed-on-the-algorithm/4972702",
+      "author": "KingOfTheMeeps",
+      "date": "2026-11-03T01:34:14.117Z",
+      "title": "Does like rating of a game affect how it is pushed on the algorithm?",
+      "excerpt_en": "I saw someone say the like count doesn’t really matter to the algorithm (with only it affecting CTR because if people see a game with not alot of likes then most likely aren’t gonna click). Is this true and will a game with good stats (even if it has a low like ratio) still be…",
+      "score": 7.6,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 22
+      },
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xkhlw1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkhlw1/made_a_game_about_dodging_missiles/",
+      "author": "banaenae3321",
+      "date": "2026-10-31T18:28:02.000Z",
+      "title": "made a game about dodging missiles",
+      "excerpt_en": "I started making this game like a month ago for fun and I ended up liking it a lot The game is far from finished but I think its playable so now I just really need some feedbacks on what I could work on and improve. The game is mainly about planes dodging incoming missiles…",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xmfofm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfofm/would_a_fantasy_arpg_do_well_on_roblox/",
+      "author": "notkaileyyy",
+      "date": "2026-11-03T01:25:14.000Z",
+      "title": "would a fantasy arpg do well on roblox?",
+      "excerpt_en": "hi! i'm new to roblox dev, but an experienced concept artist and modeler. i'm looking to pick up a new project to work on in my free time and have always been interested in making a story-driven, open world, fantasy arpg game akin to genshin, wuthering waves (without the gacha)…",
+      "score": 5,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xmbfhx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmbfhx/looking_for_testers_paid/",
+      "author": "RandomHustler33",
+      "date": "2026-11-02T22:20:20.000Z",
+      "title": "Looking for testers (paid)",
+      "excerpt_en": "Hey there, looking for testers to play a fast paced PvP duelling arena game, planning to do game test sessions You will get paid 100 Robux for the test session If your interested pop up with a message, if you’d like to see how the game looks as well first that works as well. ",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "devforum:4972760",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760",
+      "author": "4slgy",
+      "date": "2026-11-03T03:39:13.025Z",
+      "title": "Roblox/discord wallet bot",
+      "excerpt_en": "I’m planning a Discord bot for Roblox communities that helps manage donations and treasury activity using Roblox’s official transaction systems. The planned system would: Link Discord users to their Roblox accounts through Roblox OAuth. Create gamepasses through Roblox’s…",
+      "score": 4.2,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 21
+      },
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "devforum:4972486",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/clean-up-server-memory-before-crashes-with-servermemorywarning/4972486",
+      "author": "PageFaults",
+      "date": "2026-11-02T22:43:30.468Z",
+      "title": "Clean Up Server Memory Before Crashes With `ServerMemoryWarning`",
+      "excerpt_en": "Hi Creators, Managing server memory is essential to maintaining smooth gameplay and preventing server crashes. Today, we’re introducing DataModel.ServerLowMemoryWarning , a Lua-connectable signal that fires when a live server moves from normal memory levels into high memory…",
+      "score": 3.6,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 65,
+        "replies": 8,
+        "views": 1060
+      },
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xjoyft",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xjoyft/starting_roblox_dev_in_2026/",
+      "author": "Klutzy-Bottle8286",
+      "date": "2026-10-30T19:30:58.000Z",
+      "title": "Starting Roblox Dev in 2026",
+      "excerpt_en": "Hello everyone, I'm currently learning Luau so I can start making my own Roblox games (I already have several tedious ideas). I was wondering if you had any advice or things I should know before I really dive in? I'm well aware I won't be a millionaire in a month 😂 Thanks! ^^ ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xgyiei",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgyiei/three_toyscale_maps_from_my_arena_shooter_house/",
+      "author": "PixelTownAI7",
+      "date": "2026-10-27T17:13:44.000Z",
+      "title": "Three toy-scale maps from my arena shooter: house, park and toybox",
+      "excerpt_en": "Working on a toy-soldier arena shooter and wanted feedback on the maps. Each one is built at toy scale: a living room, a backyard park, and the inside of a toybox. Biggest question: do the sightlines read clearly, or is there too much clutter for a shooter? Open to any critique…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xkqwdq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqwdq/testing_out_my_droppingpicking_up_items_and_scope/",
+      "author": "No_Application6917",
+      "date": "2026-11-01T01:33:13.000Z",
+      "title": "Testing out my: Dropping/Picking up items and Scope weapons!",
+      "excerpt_en": "really cool game im making. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "reddit:t3_1xkqoka",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqoka/looking_for_feedback_plate_game_with_100_events/",
+      "author": "Dense-Ad-3464",
+      "date": "2026-11-01T01:21:46.000Z",
+      "title": "Looking for Feedback! Plate game with 100+ events, abilities, and a revenge mechanic",
+      "excerpt_en": "- Hey everyone! I've been building Untitled Plate Game, my take on the classic \"everyone stands on a plate, random stuff happens, last one standing wins\" formula. It's at the point where I need fresh eyes on it. Please DM for link as well! Game Info: - 100 events paced chaos…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    }
+  ]
+}
