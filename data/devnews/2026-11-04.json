@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-11-04T06:37:57.934Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 110854
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91074
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 2885
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 38
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 187
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xndy4t",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
+      "author": "North_Ad6541",
+      "date": "2026-11-04T03:38:41.000Z",
+      "title": "Decrease in Advertisement Impressions?",
+      "excerpt_en": "Anyone else recognise or notice lower impressions or advertisements. I’m running plays advertisement and wow the impressions are low based off previous ads I’ve run. I don’t have any settings or direct target audience. All players and plays ad campaign Anyone else notice…",
+      "score": 14,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "devforum:4974489",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
+      "author": "TimerHotel",
+      "date": "2026-11-04T01:52:23.836Z",
+      "title": "Only 139 Home Rec impressions over 7 days",
+      "excerpt_en": "So I released a new game almost 2 weeks ago, ran sponsors, yada yada. Eventually it started getting a few home page impressions, but I’ve noticed that it’s getting way too few compared to what I’d expect: firefox_AFtvhQqh3p 1325×564 154 KB As you can see, since impressions…",
+      "score": 11.2,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 25
+      },
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xn5m6i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn5m6i/both_roblox_as_a_company_and_roblox_players_have/",
+      "author": "existential-asthma",
+      "date": "2026-11-03T21:22:53.000Z",
+      "title": "Both Roblox as a company and Roblox players have zero desire for high quality, high-effort games",
+      "excerpt_en": "For background, I’m a full-time software engineer, and for the past two years I’ve spent 8- 10 hours a day, 7 days a week building an original, non-anime RPG on Roblox. I’ve invested a significant amount of my own money and poured everything I have into this project. My game is…",
+      "score": 11,
+      "tags": [
+        "marketing",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xngo24",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngo24/my_game_getting_very_low_home_recs/",
+      "author": "DependentAbility6851",
+      "date": "2026-11-04T06:04:10.000Z",
+      "title": "My Game getting Very Low home Recs",
+      "excerpt_en": "https://preview.redd.it/mfzby06ncjzh1.png?width=889&format=png&auto=webp&s=be82a7e1d8f7d50c5e229f5b69695836e4e8acd7 https://preview.redd.it/zriydqxtcjzh1.png?width=918&format=png&auto=webp&s=c8e43975299e009fb6a2cd6a08e7dc2d1ef20708 These are My stats its been about 8-9 days…",
+      "score": 11,
+      "tags": [
+        "metrics",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xncxat",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xncxat/im_a_playtester_can_i_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-04T02:47:15.000Z",
+      "title": "I'm a playtester, can i test your game?",
+      "excerpt_en": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xncm1w",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xncm1w/looking_for_map_designer_animator_dev/",
+      "author": "Weekly-Platform2470",
+      "date": "2026-11-04T02:31:29.000Z",
+      "title": "Looking for map designer , animator , dev",
+      "excerpt_en": "Hiring dev, map designer, animator, modeller . Please share your Roblox creator page and experience. Revenue share Open to new folks also . ",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "devforum:4974344",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344",
+      "author": "TKn1ght",
+      "date": "2026-11-03T23:43:35.907Z",
+      "title": "(OPEN) In need of a scripter to rework a game",
+      "excerpt_en": "Hey everyone, my game is in need of a scripter as my game hasn’t been updated for a long time (my laptop broke). I just need scripter to help me with the game. You need to be active. if you don’t do that much work or just nothing then you won’t have access to the game. The game…",
+      "score": 6.5,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 65
+      },
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xngfjt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngfjt/looking_for_a_roblox_game_development_partner/",
+      "author": "NyxBlazeYT",
+      "date": "2026-11-04T05:50:48.000Z",
+      "title": "LOOKING FOR A ROBLOX GAME DEVELOPMENT PARTNER",
+      "excerpt_en": "Seeking a Roblox Development Partner I'm looking for a dedicated and experienced Roblox developer interested in partnering with me to create and manage a Roblox game project. I'm currently using a mobile device and don't have access to Roblox Studio, so I won't be able to handle…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xn60w7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn60w7/what_makes_a_good_roblox_game_title/",
+      "author": "Appropriate-Try-7626",
+      "date": "2026-11-03T21:38:49.000Z",
+      "title": "What makes a good roblox game title?",
+      "excerpt_en": "Hi, I'm a developer trying to make it big. I've been developing a fun game as a hobby but I've decided I wanna try take it further with gameplay loops, monetisation and marketing. I'm not worried about gameplay or monetisation, however marketing has always been difficult. I do…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "devforum:4974212",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212",
+      "author": "BitwiseAndrea",
+      "date": "2026-11-03T22:02:34.515Z",
+      "title": "Build Accessible UI Faster: New Color3 Contrast & Luminance Methods",
+      "excerpt_en": "Hello Creators Reading light text on a light background, or dark text on a dark background can be challenging to impossible for many people. To improve accessibility, it’s recommended to pick text and background colors with sufficient color contrast. High Contrast Low Contrast…",
+      "score": 4.5,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 264,
+        "replies": 21,
+        "views": 1547
+      },
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xnalxc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnalxc/i_made_an_archive_of_old_roblox_games/",
+      "author": "KlownCrim",
+      "date": "2026-11-04T00:55:27.000Z",
+      "title": "I made an archive of old Roblox games",
+      "excerpt_en": "After nearly 19 hours inside Roblox Studio, 8 hours of relearning Python, and over 80 hours of idle scraping. I have created a massive list of 1,030 + Roblox games, ranging from 2006-2009+ using Python to scrape games.roproxy and games.roblox with new games being added to the…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xndseb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndseb/a_glimpse_of_something_uncertain_that_im_just/",
+      "author": "awarz_luy",
+      "date": "2026-11-04T03:30:22.000Z",
+      "title": "A glimpse of something uncertain that I'm just tinkering with as a hobby",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xn4o4z",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn4o4z/can_games_get_any_traction_without_ads/",
+      "author": "Lopsided-Strength-42",
+      "date": "2026-11-03T20:46:37.000Z",
+      "title": "Can games get any traction without ads?",
+      "excerpt_en": "Me and my friend have just released a Roblox game with no players whatsoever, wondering if we NEED to buy ads for it to gain traction, how do people find it otherwise? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xmm5y1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmm5y1/i_made_a_knight_render/",
+      "author": "Outside-Wear3335",
+      "date": "2026-11-03T06:59:58.000Z",
+      "title": "I made a knight render",
+      "excerpt_en": "very basic, and yes, this was made in roblox studio without ai. i used eclipse animator for the rigging and some random foliage items from the toolbox. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xkqwl2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqwl2/i_make_another_game_progress/",
+      "author": "Serious-Animal3958",
+      "date": "2026-11-01T01:33:31.000Z",
+      "title": "I make another game progress",
+      "excerpt_en": ":D ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    }
+  ]
+}

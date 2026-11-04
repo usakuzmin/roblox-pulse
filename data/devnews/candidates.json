@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T19:36:02.453Z",
+  "generated_at": "2026-11-04T06:37:57.994Z",
   "from_files": [
-    "2026-10-31.json",
     "2026-11-01.json",
     "2026-11-02.json",
-    "2026-11-03.json"
+    "2026-11-03.json",
+    "2026-11-04.json"
   ],
   "items": [
     {
@@ -99,46 +99,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "devforum:4967745",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
-      "author": "youssof12314",
-      "date": "2026-10-31T11:52:57.449Z",
-      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
-      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
-      "score": 18.5,
-      "tags": [
-        "revenue",
-        "metrics",
-        "monetization",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 11
-      },
-      "first_seen": "2026-10-31T12:45:34.184Z"
-    },
-    {
-      "id": "reddit:t3_1xk86cr",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xk86cr/my_game_has_400500ccu_but_we_only_make_300400/",
-      "author": "youss020",
-      "date": "2026-10-31T11:49:19.000Z",
-      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
-      "excerpt_en": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are…",
-      "score": 18,
-      "tags": [
-        "revenue",
-        "metrics",
-        "monetization",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-10-31T12:45:34.184Z"
     },
     {
       "id": "reddit:t3_1xleq8u",
@@ -286,6 +246,39 @@
         "views": 193
       },
       "first_seen": "2026-11-01T22:11:15.027Z"
+    },
+    {
+      "id": "reddit:t3_1xkr96h",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
+      "author": "bigdick4484720",
+      "date": "2026-11-01T01:52:30.000Z",
+      "title": "How do you advertise games without running roblox ads?",
+      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
+      "score": 14,
+      "tags": [
+        "ads",
+        "marketing",
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-01T06:20:17.382Z"
+    },
+    {
+      "id": "reddit:t3_1xndy4t",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
+      "author": "North_Ad6541",
+      "date": "2026-11-04T03:38:41.000Z",
+      "title": "Decrease in Advertisement Impressions?",
+      "excerpt_en": "Anyone else recognise or notice lower impressions or advertisements. I’m running plays advertisement and wow the impressions are low based off previous ads I’ve run. I don’t have any settings or direct target audience. All players and plays ad campaign Anyone else notice…",
+      "score": 14,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
     }
   ]
 }
