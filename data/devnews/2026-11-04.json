@@ -1,34 +1,51 @@
 {
-  "generated_at": "2026-11-04T06:37:57.934Z",
+  "generated_at": "2026-11-04T19:53:38.116Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 110854
+      "ms": 109628
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91074
+      "ms": 92430
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 2885
+      "fetched": 5,
+      "ms": 4630
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 38
+      "ms": 165
     },
     "hackernews": {
       "ok": true,
-      "fetched": 7,
-      "ms": 187
+      "fetched": 6,
+      "ms": 280
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xnmn4p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnmn4p/how_to_increase_ccu_after_getting_into_the/",
+      "author": "Primary_March4865",
+      "date": "2026-11-04T12:12:07.000Z",
+      "title": "How to increase CCU after getting into the algorithm",
+      "excerpt_en": "I stopped ads about 5 days ago and since then my game was been getting 5–10 ccu, then I released an update and it was getting 30-40 then slowly ramped up over 30-60 minutes and reached 220ccu then it slowly started dropping again and was 40-70 for a bit then suddenly it just…",
+      "score": 19,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
     {
       "id": "reddit:t3_1xndy4t",
       "source": "reddit",
@@ -100,6 +117,25 @@
       "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
+      "id": "devforum:4975494",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494",
+      "author": "GamingStar6271",
+      "date": "2026-11-04T18:21:11.371Z",
+      "title": "Dont have a last name and want to devex",
+      "excerpt_en": "Hello! I want to do my first devex but I dont have a last name what should I do? image 707×240 10.2 KB",
+      "score": 9.2,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 28
+      },
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
       "id": "reddit:t3_1xncxat",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xncxat/im_a_playtester_can_i_test_your_game/",
@@ -116,6 +152,22 @@
       "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
+      "id": "reddit:t3_1xnux5s",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnux5s/knightfall_studios_looking_for_cofounders/",
+      "author": "Substantial_Lab6110",
+      "date": "2026-11-04T17:53:32.000Z",
+      "title": "KnightFall Studios | Looking for Co-Founders",
+      "excerpt_en": "Hey everyone, I’m currently looking for 1–2 people who would be interested in becoming co founders of KnightFall Studios. The goal is to build a Roblox game studio from the ground up and eventually create some genuinely great games on the platform. I have a few game ideas…",
+      "score": 9,
+      "tags": [
+        "marketing",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
       "id": "reddit:t3_1xncm1w",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xncm1w/looking_for_map_designer_animator_dev/",
@@ -130,6 +182,21 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xnjv7a",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnjv7a/low_impressions/",
+      "author": "Zestyclose_Ad5827",
+      "date": "2026-11-04T09:25:46.000Z",
+      "title": "Low Impressions",
+      "excerpt_en": "My game currently sits around 4% CTR. I’ve spent 28 USD on one campaign for 63000 impressions. On my other campaign, 300000 impressions for 50 USD. Not sure why as I don’t find my ads to be misleading. My CPP is also radically high at 0.088. Any help? ",
+      "score": 8,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
     },
     {
       "id": "devforum:4974344",
@@ -166,6 +233,25 @@
       "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
+      "id": "devforum:4975191",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-farming-game/4975191",
+      "author": "SergMajV11",
+      "date": "2026-11-04T14:59:10.845Z",
+      "title": "Looking for feedback on my farming game!",
+      "excerpt_en": "Looking for feedback on my Roblox farming game! I’m looking for players who are willing to try Farmers Valley and give me honest feedback. My biggest issue is player retention. Most players leave within the first 10 minutes, with a fairly steady drop-off throughout that period…",
+      "score": 5.2,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 19
+      },
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
       "id": "reddit:t3_1xn60w7",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn60w7/what_makes_a_good_roblox_game_title/",
@@ -198,6 +284,40 @@
         "views": 1547
       },
       "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "devforum:4973700",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/come-playtest-a-story-driven-medieval-single-player-strategy-game/4973700",
+      "author": "Arikiyo",
+      "date": "2026-11-03T16:56:05.814Z",
+      "title": "Come playtest a story driven medieval single player strategy game",
+      "excerpt_en": "Hi everyone! Would be interested to see what people think of our strategy game, based on yes your grace but with a twist on the mechanics and overall gameplay. Critical feedback welcome as we’re looking to iterate and improve Thanks so much in advance for your time!",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "views": 72
+      },
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "devforum:4971710",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-game-testers/4971710",
+      "author": "UnknownPlatformer",
+      "date": "2026-11-02T14:32:40.424Z",
+      "title": "Looking for Game Testers",
+      "excerpt_en": "Hello, I just released one of my games and I would like feedback on what works and what does not. Just play through and tell me what you like, what you didnt like, what made you want to leave, etc. The game is about diving for sea creatures and collecting rarer and rarer fish…",
+      "score": 3.6,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 62
+      },
+      "first_seen": "2026-11-04T19:53:38.116Z"
     },
     {
       "id": "reddit:t3_1xnalxc",
@@ -263,6 +383,71 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xnspqn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnspqn/roblox_game_steals_conecpt_of_another_roblox_game/",
+      "author": "Shoddy-Drive-8185",
+      "date": "2026-11-04T16:31:19.000Z",
+      "title": "Roblox Game Steals Conecpt of Another Roblox Game, gets 22X more Players",
+      "excerpt_en": "The crazy thing is that both of these games are almost 100% made by AI. Such a shame the world we live in. (image 3 being Tower Incremental, and tower 4 being Depth Incremental) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "reddit:t3_1xnvnqs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnvnqs/ive_finished_all_the_core_set_card_art_as_well_as/",
+      "author": "Consistent_Group8723",
+      "date": "2026-11-04T18:21:20.000Z",
+      "title": "I've finished all the core set card art, as well as the neutral cards of the 1st set. The hero now has their animation working and adding more sounds to the game makes it look really more than just a glorified power point.",
+      "excerpt_en": "In this video I'm playing the Astrologian class and they're the Dancer class. It is a bot. I made it ruthless. Checking for lethal, trading intelligently by compensating with cards in play, in hand, ALL keywords and they even try to reduce randomness to make sure to trade the…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "reddit:t3_1xngaas",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngaas/i_want_to_create_a_psychological_horror_game_but/",
+      "author": "Hamchowderandcheese",
+      "date": "2026-11-04T05:42:37.000Z",
+      "title": "I want to create a psychological horror game but I don't know how to do that... (16yr)",
+      "excerpt_en": "I'm probably gonna call it something like \"The Shining Star In A Dark, Dark Sky\", it will have dark topics like bullying, self harm, and implied suicide. I don't know how much I can really get away with on roblox and I don't want to break rules just to make a sub-par story as…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "reddit:t3_1xnnyjp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnnyjp/is_it_too_late_to_start_developing_games_on_roblox/",
+      "author": "emmans1213",
+      "date": "2026-11-04T13:17:16.000Z",
+      "title": "Is it too late to start developing games on Roblox?",
+      "excerpt_en": "what do you think guys? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "reddit:t3_1xkdayi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkdayi/legion_aura/",
+      "author": "Naive-Series821",
+      "date": "2026-10-31T15:35:55.000Z",
+      "title": "LEGION \"Aura..\"",
+      "excerpt_en": "I don't think I can even really call this an \"aura\" anymore. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
     }
   ]
 }

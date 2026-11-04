@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:37:57.994Z",
+  "generated_at": "2026-11-04T19:53:38.183Z",
   "from_files": [
     "2026-11-01.json",
     "2026-11-02.json",
@@ -99,6 +99,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xnmn4p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnmn4p/how_to_increase_ccu_after_getting_into_the/",
+      "author": "Primary_March4865",
+      "date": "2026-11-04T12:12:07.000Z",
+      "title": "How to increase CCU after getting into the algorithm",
+      "excerpt_en": "I stopped ads about 5 days ago and since then my game was been getting 5–10 ccu, then I released an update and it was getting 30-40 then slowly ramped up over 30-60 minutes and reached 220ccu then it slowly started dropping again and was 40-70 for a bit then suddenly it just…",
+      "score": 19,
+      "tags": [
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T19:53:38.116Z"
     },
     {
       "id": "reddit:t3_1xleq8u",
@@ -263,22 +280,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-01T06:20:17.382Z"
-    },
-    {
-      "id": "reddit:t3_1xndy4t",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
-      "author": "North_Ad6541",
-      "date": "2026-11-04T03:38:41.000Z",
-      "title": "Decrease in Advertisement Impressions?",
-      "excerpt_en": "Anyone else recognise or notice lower impressions or advertisements. I’m running plays advertisement and wow the impressions are low based off previous ads I’ve run. I don’t have any settings or direct target audience. All players and plays ad campaign Anyone else notice…",
-      "score": 14,
-      "tags": [
-        "ads",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-04T06:37:57.934Z"
     }
   ]
 }
