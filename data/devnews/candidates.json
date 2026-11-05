@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:59:02.686Z",
+  "generated_at": "2026-11-05T20:04:37.014Z",
   "from_files": [
     "2026-11-02.json",
     "2026-11-03.json",
@@ -189,6 +189,28 @@
       "first_seen": "2026-11-02T21:48:08.070Z"
     },
     {
+      "id": "devforum:4977115",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
+      "author": "cookiecoveredcream",
+      "date": "2026-11-05T17:33:31.113Z",
+      "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
+      "excerpt_en": "Hi Creators! Starting today, all creators can upload and sell their own Avatar Backgrounds on Marketplace. Backgrounds give your avatar an environment to stand out in and enhance your profile. Thank you to the creators in our pilot program, who published the first wave of…",
+      "score": 14.3,
+      "tags": [
+        "platform",
+        "revenue",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 89,
+        "replies": 19,
+        "views": 838
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
       "id": "reddit:t3_1xndy4t",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
@@ -255,23 +277,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
-    },
-    {
-      "id": "reddit:t3_1xm5a6d",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm5a6d/roblox_ads_is_this_good_for_3_days/",
-      "author": "InformalDealer5264",
-      "date": "2026-11-02T18:30:50.000Z",
-      "title": "Roblox ads Is this good for 3 days ?",
-      "excerpt_en": "https://preview.redd.it/dzy56uuns8zh1.png?width=560&format=png&auto=webp&s=09ccabbc38fa3cbb41542d984b26347da9f69763 This is about 3 days if im sure I run 4.5$ a day on engangement and 2.5 on plays but I still only have like 1 player joining and after they leave another joins I'm…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
     }
   ]
 }

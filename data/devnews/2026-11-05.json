@@ -1,34 +1,56 @@
 {
-  "generated_at": "2026-11-05T06:59:02.627Z",
+  "generated_at": "2026-11-05T20:04:36.959Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 108799
+      "ms": 112230
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 30966
+      "ms": 31445
     },
     "rss": {
       "ok": true,
       "fetched": 6,
-      "ms": 34442
+      "ms": 6351
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 55
+      "ms": 203
     },
     "hackernews": {
       "ok": true,
       "fetched": 6,
-      "ms": 266
+      "ms": 287
     }
   },
   "items": [
+    {
+      "id": "devforum:4977115",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
+      "author": "cookiecoveredcream",
+      "date": "2026-11-05T17:33:31.113Z",
+      "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
+      "excerpt_en": "Hi Creators! Starting today, all creators can upload and sell their own Avatar Backgrounds on Marketplace. Backgrounds give your avatar an environment to stand out in and enhance your profile. Thank you to the creators in our pilot program, who published the first wave of…",
+      "score": 14.3,
+      "tags": [
+        "platform",
+        "revenue",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 89,
+        "replies": 19,
+        "views": 838
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
     {
       "id": "reddit:t3_1xo193f",
       "source": "reddit",
@@ -44,6 +66,27 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4977309",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/best-way-to-start-making-ugc-items-in-2026/4977309",
+      "author": "speedruner1414",
+      "date": "2026-11-05T19:21:11.537Z",
+      "title": "Best Way to Start Making UGC Items in 2026",
+      "excerpt_en": "Hi everyone! I’ve been thinking about making UGC items for a little while, and with my modeling skills I feel like I could actually come up with something now. I have 3,000 Robux to spare, and I know UGC uploading & publishing is really expensive. That said, UGC for beginners is…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
     },
     {
       "id": "devforum:4975849",
@@ -113,6 +156,22 @@
       "first_seen": "2026-11-05T06:59:02.627Z"
     },
     {
+      "id": "reddit:t3_1xoqffi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqffi/looking_for_writers_to_help_me/",
+      "author": "Salt_Border_3825",
+      "date": "2026-11-05T18:34:33.000Z",
+      "title": "Looking for writers to help me",
+      "excerpt_en": "It's about how roblox myths attacks roblox I need a writer to help me make a game idea what it's about Revenue share but the game is new ",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
       "id": "reddit:t3_1xo8jey",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo8jey/paying_200_robux_for_you_to_play_test_and_review/",
@@ -141,6 +200,81 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xoq6ji",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoq6ji/any_roblox_developers_out_there/",
+      "author": "Big_Comfortable3077",
+      "date": "2026-11-05T18:25:07.000Z",
+      "title": "Any Roblox developers out there?",
+      "excerpt_en": "Potentially looking to have a game created. Was planning on doing it myself with no prior experience alongside using Claude code but curious if there’s any devs already out there that would want to help me out since I’m already pretty busy. Would be non payed but we would share…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xoobv6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoobv6/whats_a_small_thing_in_a_roblox_game_that_made/",
+      "author": "BearLao12",
+      "date": "2026-11-05T17:15:46.000Z",
+      "title": "What's a small thing in a Roblox game that made you stay past the first 5 minutes?",
+      "excerpt_en": "Working on retention for my own game and most players leave before minute 4. Curious what hooked you in games you ended up sticking with. Was it a first reward, a friend joining, the tutorial, the vibe? Small details especially. ",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xogqkh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/",
+      "author": "Even_Direction_8940",
+      "date": "2026-11-05T11:53:52.000Z",
+      "title": "Grand Strategy WW1 Game stats",
+      "excerpt_en": "Hi guys! I finally go to release my hoi4 inspired Countryball Strategy game! However, Ive come to quite some trouble with the retention. Ive checked a lot, fixed a lot and maybe itll change in a few days, but what do you guys think could be done? Id be really glad to get some…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xoduta",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoduta/how_can_i_get_a_consistent_player_base_i_tried/",
+      "author": "Superb-Gap7952",
+      "date": "2026-11-05T08:54:04.000Z",
+      "title": "How can I get a consistent player base? I tried Roblox Ads, but they didn’t work very well.",
+      "excerpt_en": "Hey everyone! I’ve recently released my Roblox game, Defeat a Mob Boss , and I’m struggling to build a consistent player base. I’ve tried running Roblox Ads, but the results haven’t been as good as I hoped. Some players join, but most don’t seem to stick around. The game focuses…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xocjpz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xocjpz/ad_strategy_advice/",
+      "author": "pwaper",
+      "date": "2026-11-05T07:26:10.000Z",
+      "title": "Ad strategy advice",
+      "excerpt_en": "I will be publishing my game soon. It heavily depends that there are at least 3 players in lobby so you can play it as it's competitive and other players vote the best. I'm planing initial Ads budget of 300$ to test the game and see if worth investing more. What's is your…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
     },
     {
       "id": "mobilegamer:https://mobilegamer.biz/?p=34822",
@@ -194,6 +328,23 @@
       "first_seen": "2026-11-05T06:59:02.627Z"
     },
     {
+      "id": "devforum:4974944",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944",
+      "author": "capsisle",
+      "date": "2026-11-04T11:24:39.424Z",
+      "title": "Need feedback on horror hotel game",
+      "excerpt_en": "Hey! Need some feedback and some suggestions for the new game! Roomservice | Play on Roblox Thanks!!",
+      "score": 3.3,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 2,
+        "views": 57
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
       "id": "reddit:t3_1xo2puy",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo2puy/my_arena_cars_game/",
@@ -244,6 +395,90 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4977292",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292",
+      "author": "sevmaker",
+      "date": "2026-11-05T19:15:10.006Z",
+      "title": "Increasing the Minimum Draw Distance to 500 Studs and Other Auto-Quality Level Improvements",
+      "excerpt_en": "Hi Creators, Our long-term vision for auto quality-level scaling is to have the engine scale quality smoothly across all device capabilities to balance performance while maintaining artistic intent. We want to give creators more freedom to build to their aesthetic vision instead…",
+      "score": 3,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 53,
+        "replies": 12,
+        "views": 500
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xocft4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xocft4/creating_a_shooter_game/",
+      "author": "Muted-Dress-9456",
+      "date": "2026-11-05T07:18:59.000Z",
+      "title": "Creating a shooter game",
+      "excerpt_en": "It’s come a long way ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xogvlj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogvlj/feedbacks_and_suggestions_on_my_earth_model_for/",
+      "author": "Insane-thinker987864",
+      "date": "2026-11-05T12:00:51.000Z",
+      "title": "Feedbacks and suggestions on my earth model (for my work in progress game)",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xol64j",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xol64j/please_someone_help_me/",
+      "author": "Horror_Double1484",
+      "date": "2026-11-05T15:13:49.000Z",
+      "title": "PLEASE, someone help me",
+      "excerpt_en": "I was working on some old maps, adding scripts to them, and I asked the AI ​​to generate a script for car traffic. After I hit play, I started getting disconnected due to a false error. At first, I assumed it wasn't malware—just some nonsense caused by the Studio's AI—so I tried…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xochen",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xochen/is_making_an_incremental_game_worth_it/",
+      "author": "Dramatic_Manner_100",
+      "date": "2026-11-05T07:21:53.000Z",
+      "title": "Is making an Incremental Game worth it?",
+      "excerpt_en": "Hi, I am a roblox developer. I played and made some incremental games. One of them did sorta successful. I like making them cuz they are fun to make and play. But, since Roblox added the HEP (Highly Engaged Players) update, I no longer get the motivation to build games. So, I…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "reddit:t3_1xnrng2",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnrng2/i_have_made_idle_walk_and_run_animations_what_do/",
+      "author": "AcademicalXi",
+      "date": "2026-11-04T15:50:18.000Z",
+      "title": "I have made idle, walk and run animations, what do you think?",
+      "excerpt_en": "Fyi, the reference for the run animation was Sifu's run animation. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T20:04:36.959Z"
     }
   ]
 }
