@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-11-04T19:53:38.183Z",
+  "generated_at": "2026-11-05T06:59:02.686Z",
   "from_files": [
-    "2026-11-01.json",
     "2026-11-02.json",
     "2026-11-03.json",
-    "2026-11-04.json"
+    "2026-11-04.json",
+    "2026-11-05.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1xkzyty",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzyty/is_developing_and_marketing_roblox_games_a_viable/",
-      "author": "uuua_a",
-      "date": "2026-11-01T10:41:46.000Z",
-      "title": "Is developing and marketing Roblox games a viable business? Looking for honest experiences with development costs, player growth, and actual profits",
-      "excerpt_en": "Hi everyone, I’m considering getting into the business of creating, publishing, and marketing games on Roblox. Before committing serious time or money, I’d like to understand what running this kind of business actually involves. The possibility of building a game that people…",
-      "score": 23,
-      "tags": [
-        "revenue",
-        "ads",
-        "marketing",
-        "monetization",
-        "story",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-01T13:40:29.641Z"
-    },
     {
       "id": "reddit:t3_1xmxg0y",
       "source": "reddit",
@@ -118,23 +98,6 @@
       "first_seen": "2026-11-04T19:53:38.116Z"
     },
     {
-      "id": "reddit:t3_1xleq8u",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq8u/game_peaked_at_13k_ccu/",
-      "author": "justkxnzoo",
-      "date": "2026-11-01T21:17:43.000Z",
-      "title": "Game peaked at 13k ccu!",
-      "excerpt_en": "Can’t believe this game hit those numbers and hit the front page. Been grinding for so long man ",
-      "score": 18,
-      "tags": [
-        "metrics",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-01T22:11:15.027Z"
-    },
-    {
       "id": "pocketgamer.biz:https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
       "source": "pocketgamer.biz",
       "url": "https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
@@ -150,24 +113,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "reddit:t3_1xkq4pg",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkq4pg/we_need_an_investor/",
-      "author": "EclipseGames23",
-      "date": "2026-11-01T00:52:51.000Z",
-      "title": "We need an investor",
-      "excerpt_en": "We are creating an original spin on the Call Of Duty Zombies formula. We are creating a completely original story, 4 fully voice acted main characters, original boss fights, maps, easter eggs, perks, etc. Our goal is to create an experience never seen on Roblox. Most developers…",
-      "score": 16,
-      "tags": [
-        "revenue",
-        "marketing",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-01T06:20:17.382Z"
     },
     {
       "id": "devforum:4971118",
@@ -244,42 +189,89 @@
       "first_seen": "2026-11-02T21:48:08.070Z"
     },
     {
-      "id": "devforum:4969167",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
-      "author": "Celnak",
-      "date": "2026-11-01T04:23:39.182Z",
-      "title": "PhysBone - Streamlined Bone Simulation Plugin",
-      "excerpt_en": "PhysBone Get PhysBone on the Creator Store PhysBone adds secondary motion to skinned meshes in Roblox. Hair sways when a character turns, tails swing behind them, capes and flags ripple in the wind, and ears bounce when they land. You set it up once in Studio, and it runs by…",
-      "score": 14.5,
-      "tags": [
-        "revenue",
-        "story",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 6,
-        "replies": 5,
-        "views": 193
-      },
-      "first_seen": "2026-11-01T22:11:15.027Z"
-    },
-    {
-      "id": "reddit:t3_1xkr96h",
+      "id": "reddit:t3_1xndy4t",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkr96h/how_do_you_advertise_games_without_running_roblox/",
-      "author": "bigdick4484720",
-      "date": "2026-11-01T01:52:30.000Z",
-      "title": "How do you advertise games without running roblox ads?",
-      "excerpt_en": "What is the best way for me to get my game out there without spending robux? I have posted on youtube, and tiktok. But that didn't seem to work out well. What do you guys recommend/what worked for you? ",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
+      "author": "North_Ad6541",
+      "date": "2026-11-04T03:38:41.000Z",
+      "title": "Decrease in Advertisement Impressions?",
+      "excerpt_en": "Anyone else recognise or notice lower impressions or advertisements. I’m running plays advertisement and wow the impressions are low based off previous ads I’ve run. I don’t have any settings or direct target audience. All players and plays ad campaign Anyone else notice…",
       "score": 14,
       "tags": [
         "ads",
-        "marketing",
-        "story"
+        "discovery"
       ],
       "engagement": {},
-      "first_seen": "2026-11-01T06:20:17.382Z"
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xlsezj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlsezj/lf_investors_for_my_finished_roblox_game/",
+      "author": "Cyberspace_Sorcerer",
+      "date": "2026-11-02T09:09:27.000Z",
+      "title": "LF Investors for my finished ROBLOX game",
+      "excerpt_en": "Need funding to run ads for my roblox game. Further details will be given in dms about percentages and shares. About $15 per day for 1-2 weeks needed. I would also appreciate any advice on what I can improve. I don't want to waste anyone's time but i can't post a link here so…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "naavik:https://naavik.co/?p=34728",
+      "source": "naavik",
+      "url": "https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/",
+      "author": "Mark Ma",
+      "date": "2026-11-01T09:57:00.000Z",
+      "title": "Bilibili: From Games to Mega-Platform",
+      "excerpt_en": "Bilibili was founded in 2009 with anime, comics, and games (or ACG) at its core, as a danmaku video community in which viewer comments scroll across the video. Around 2020, it pushed beyond its fandom roots and leaned into other major content sections (like lifestyle, knowledge…",
+      "score": 13,
+      "tags": [
+        "analyst",
+        "revenue",
+        "marketing",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
+    },
+    {
+      "id": "reddit:t3_1xo193f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo193f/earnings_ads/",
+      "author": "OkActive8598",
+      "date": "2026-11-04T21:59:38.000Z",
+      "title": "Earnings ads???",
+      "excerpt_en": "I've been running plays ads and they've been going pretty well but I haven't made a lot of robux from it, even though I think my game is well monetized. Are earnings ads worth getting? ",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xm5a6d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm5a6d/roblox_ads_is_this_good_for_3_days/",
+      "author": "InformalDealer5264",
+      "date": "2026-11-02T18:30:50.000Z",
+      "title": "Roblox ads Is this good for 3 days ?",
+      "excerpt_en": "https://preview.redd.it/dzy56uuns8zh1.png?width=560&format=png&auto=webp&s=09ccabbc38fa3cbb41542d984b26347da9f69763 This is about 3 days if im sure I run 4.5$ a day on engangement and 2.5 on plays but I still only have like 1 player joining and after they leave another joins I'm…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-02T21:48:08.070Z"
     }
   ]
 }

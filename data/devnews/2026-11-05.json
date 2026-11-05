@@ -1,0 +1,249 @@
+{
+  "generated_at": "2026-11-05T06:59:02.627Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 108799
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 30966
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 34442
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 55
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 266
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xo193f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo193f/earnings_ads/",
+      "author": "OkActive8598",
+      "date": "2026-11-04T21:59:38.000Z",
+      "title": "Earnings ads???",
+      "excerpt_en": "I've been running plays ads and they've been going pretty well but I haven't made a lot of robux from it, even though I think my game is well monetized. Are earnings ads worth getting? ",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4975849",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849",
+      "author": "1987rab",
+      "date": "2026-11-04T22:20:11.032Z",
+      "title": "Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows",
+      "excerpt_en": "Hi Creators, Making a game on Roblox isn’t only building it. You also import every asset you need manually, set up monetization, change settings, publish updates, and monitor its analytics to check how it’s doing. Most of that is managed in Creator Hub, away from where you…",
+      "score": 8,
+      "tags": [
+        "platform",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 140,
+        "replies": 21,
+        "views": 2081
+      },
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xo4pmf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo4pmf/sword_art_online_inspired_game/",
+      "author": "Historical_Staff_585",
+      "date": "2026-11-05T00:29:25.000Z",
+      "title": "sword art online inspired game",
+      "excerpt_en": "there is a really famous sao inspired roblox game called swordburst 2, there are some other ones but they aren't that well done compared to that game. i am an experienced roblox developer who really loves sao, and i really want to make a fan inspired game that includes alfheim…",
+      "score": 8,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xo11h9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo11h9/researching_roblox_player_demand_before/",
+      "author": "H-OBrien",
+      "date": "2026-11-04T21:50:51.000Z",
+      "title": "Researching Roblox player demand before committing to our next project — looking for feedback",
+      "excerpt_en": "Hi everyone! I’m currently working on establishing NorthLine Studios, an independent Roblox game-development studio. One thing I’m trying to avoid is spending months developing a game without knowing whether players would actually be interested in it. Rather than choosing a…",
+      "score": 8,
+      "tags": [
+        "metrics",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xnzc5t",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnzc5t/15_vs_45_ctr_on_the_exact_same_thumbnail/",
+      "author": "Thanosinfortnite",
+      "date": "2026-11-04T20:43:47.000Z",
+      "title": "1.5 v.s 4.5 CTR on the exact same thumbnail",
+      "excerpt_en": "https://preview.redd.it/7e745l5oqnzh1.png?width=1414&format=png&auto=webp&s=75f7d4deeb78760885a7fcbfd47709c780044a16 I believe that the target audience for my game are PC/Console players so I split my ad campaigns into 5$/day for Touch devices and 16$/day for PC/Console. However…",
+      "score": 8,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xo8jey",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo8jey/paying_200_robux_for_you_to_play_test_and_review/",
+      "author": "One_Buy9552",
+      "date": "2026-11-05T03:35:32.000Z",
+      "title": "Paying 200 robux for you to play test and review my game",
+      "excerpt_en": "Dm me if interested ",
+      "score": 7,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xnyhz4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnyhz4/hundreds_of_zombies_per_wave_in_my_roblox_game/",
+      "author": "BunkerGamesStudio",
+      "date": "2026-11-04T20:10:30.000Z",
+      "title": "Hundreds of zombies per wave in my Roblox game: the 4 tricks that keep it light",
+      "excerpt_en": "Solo dev, first real Roblox project: a top-down co-op zombie survival for 1-8 players. Waves get big fast (in this clip, a stress test with god mode on: wave 31, 496 zombies left in the wave), and it has to run on phones too. What keeps it light: Cap the living, queue the rest…",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "mobilegamer:https://mobilegamer.biz/?p=34822",
+      "source": "mobilegamer",
+      "url": "https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/",
+      "author": "Neil Long",
+      "date": "2026-11-05T00:01:00.000Z",
+      "title": "On the podcast: misleading ads, Apple’s ‘mobile gaming headwinds’, Roblox results, PlayStudios shenanigans, more",
+      "excerpt_en": "This week’s inside view of the mobile game business.",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4976299",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299",
+      "author": "shirleika1",
+      "date": "2026-11-05T03:55:02.794Z",
+      "title": "I need a name for my game... again",
+      "excerpt_en": "What should I name my story game? The plot, i havent developed fully yet, but basically, a guy called Nooby is trying to get his way back into Robloxia, because he tampered with his TV that was showing static at night time. Like i said, i havent thought of a plot yet, so this is…",
+      "score": 3.4,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 36
+      },
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4975616",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616",
+      "author": "m0bsterlobster",
+      "date": "2026-11-04T19:52:09.067Z",
+      "title": "PlayerCharacterDestroyBehavior Will Be Default on November 11",
+      "excerpt_en": "Hi Creators, What’s Changing We introduced PlayerCharacterDestroyBehavior as an opt-in property almost three years ago in this announcement . About 16% of games have opted in, and all Studio templates now ship with it enabled. With Phase 2 of the rollout, it will become the…",
+      "score": 3.3,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 88,
+        "replies": 15,
+        "views": 1450
+      },
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xo2puy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo2puy/my_arena_cars_game/",
+      "author": "gocommitepic",
+      "date": "2026-11-04T23:00:40.000Z",
+      "title": "my arena cars game ^ . ^",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xnrkg9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnrkg9/3d_model_for_my_game/",
+      "author": "fair3115",
+      "date": "2026-11-04T15:47:00.000Z",
+      "title": "3D Model for my game",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xo0en8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo0en8/i_guess_i_am_a_bot_because_i_literally_cannot/",
+      "author": "PenniesInTheNameOf",
+      "date": "2026-11-04T21:25:14.000Z",
+      "title": "I guess I am a bot. Because I literally cannot beat this test.",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "reddit:t3_1xnts8b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnts8b/roblox_horror_games_suck/",
+      "author": "KheetoCheetoe",
+      "date": "2026-11-04T17:11:38.000Z",
+      "title": "Roblox Horror Games Suck",
+      "excerpt_en": "I'm tired of the same copy and paste games coming to roblox. Don't get me wrong, a lot of them have potential, but the issue is the lives, each I have played you have limited lives ranging from 3-5, and you have to pay in order to win. The Mimic and Judy were extraordinary…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-05T06:59:02.627Z"
+    }
+  ]
+}
