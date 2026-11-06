@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-11-06T06:59:01.794Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 107320
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91226
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 3053
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 65
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 272
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xosssd",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
+      "author": "Double-Grape-4232",
+      "date": "2026-11-05T20:06:17.000Z",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
+      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xouhi9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
+      "author": "Zestyclose_Ad5827",
+      "date": "2026-11-05T21:14:00.000Z",
+      "title": "Sudden seemingly permanent drop in CCU",
+      "excerpt_en": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? ",
+      "score": 17,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xos0da",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0da/home_recommendations/",
+      "author": "ChocolateSoju",
+      "date": "2026-11-05T19:35:13.000Z",
+      "title": "Home Recommendations",
+      "excerpt_en": "November 3rd was 5 home recommendations and November 4th was 6 home recommendations is this the start of something good or bad? lol ",
+      "score": 9,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xp0ys6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xp0ys6/new_publisher_and_good_amount_of_faith_in_a_game/",
+      "author": "ApokalypticKing101",
+      "date": "2026-11-06T02:03:57.000Z",
+      "title": "New publisher and good amount of faith in a game I will be releasing Saturday",
+      "excerpt_en": "I wanted to get advice as I've never published on Roblox before and dont understand the optimal ads approach. Ive seen both wasy on Plays vs Enagagement and radically different opinions. I have no outside marketing and will fully be relying on the quality of the game and roblox…",
+      "score": 9,
+      "tags": [
+        "marketing",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "devforum:4977769",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769",
+      "author": "bballerblox",
+      "date": "2026-11-05T22:38:36.993Z",
+      "title": "Asset Versioning Is Coming to Meshes, Images, Audio, and Video",
+      "excerpt_en": "Hi Creators, Today, changing a mesh or texture means uploading a brand new asset, getting a new ID, and updating every property and script that points to the old one. Your inventory fills up with near-duplicates, and there’s no clean way to find earlier iterations. Our goal is…",
+      "score": 4.2,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 123,
+        "replies": 20,
+        "views": 1026
+      },
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "devforum:4977640",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/test-teleports-in-studio/4977640",
+      "author": "nidr_71",
+      "date": "2026-11-05T21:11:22.494Z",
+      "title": "Test Teleports in Studio",
+      "excerpt_en": "Hi Creators, You can now test the behavior of TeleportAsync in your experiences in Studio’s “Test” and “Team Test” modes. To get started, please first update to the latest version of Studio. Until now, testing a teleport meant publishing every place, joining a live server…",
+      "score": 4,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 160,
+        "replies": 19,
+        "views": 1482
+      },
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xomct8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xomct8/recreated_rolves_murder_game_arsenal_murder/",
+      "author": "MoneyTeaching3794",
+      "date": "2026-11-05T16:00:41.000Z",
+      "title": "Recreated ROLVe's MURDER Game (Arsenal Murder)",
+      "excerpt_en": "Had to bring this back because no other game hit the same after it closed last year. Managed to source the original UIs, maps, viewmodels, and audio to build a proper recreation. If you were there for the peak era, this one’s for you. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xp2iik",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xp2iik/some_of_my_favorite_models_ive_made_so_far/",
+      "author": "Western-Ad-2921",
+      "date": "2026-11-06T03:21:03.000Z",
+      "title": "Some of my favorite models I’ve made so far",
+      "excerpt_en": "Model of bulldozer that was the kill dozer, a few different types of coastal redwood old plasma TV and that’s kind of it ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xoylvz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoylvz/i_looked_at_the_names_of_every_game_on_robloxs/",
+      "author": "Suspicious_Sector622",
+      "date": "2026-11-06T00:10:36.000Z",
+      "title": "I looked at the names of every game on Roblox's charts (905). Median: 3 words.",
+      "excerpt_en": "Wanted to know what makes a good Roblox game name. So I measured everything and here are the results : median 3 words ; 94% are 4 words or fewer top 50 by visits : median 2 2026's biggest new games say the action : Steal An Egg, Kick a Lucky Block, Ride A Pet. single-word brands…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xoangj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoangj/i_will_become_the_biggest_game_dev_one_day/",
+      "author": "Practical_Bat4147",
+      "date": "2026-11-05T05:30:16.000Z",
+      "title": "I will become the biggest game dev one day",
+      "excerpt_en": "Mark my words and remember my name ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T06:59:01.794Z"
+    }
+  ]
+}

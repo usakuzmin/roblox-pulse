@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T20:04:37.014Z",
+  "generated_at": "2026-11-06T06:59:01.857Z",
   "from_files": [
-    "2026-11-02.json",
     "2026-11-03.json",
     "2026-11-04.json",
-    "2026-11-05.json"
+    "2026-11-05.json",
+    "2026-11-06.json"
   ],
   "items": [
     {
@@ -27,24 +27,6 @@
       "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
-      "id": "reddit:t3_1xlm9o6",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlm9o6/ads_manager_says_creation_failed_http_504_on/",
-      "author": "CCCIsTheBest1",
-      "date": "2026-11-02T03:06:57.000Z",
-      "title": "Ads Manager says \"Creation failed\" (HTTP 504) on every campaign since Oct 21 - anyone else, or found a fix?",
-      "excerpt_en": "Hey all, I've been trying to run an ad for my game through Roblox's Ads Manager (create.roblox.com/advertise) and I can't create a campaign at all. I fill everything in, click Publish, confirm the box that says $5 will be deducted, and after a few seconds I get \"Creation…",
-      "score": 21,
-      "tags": [
-        "revenue",
-        "ads",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T06:21:45.818Z"
-    },
-    {
       "id": "reddit:t3_1xmuyw8",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmuyw8/spent_30_on_roblox_ads_got_almost_no_real_players/",
@@ -63,11 +45,11 @@
       "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
-      "id": "reddit:t3_1xmadsv",
+      "id": "reddit:t3_1xosssd",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmadsv/investor_entity_original_asym_horror_game_seeking/",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
       "author": "Double-Grape-4232",
-      "date": "2026-11-02T21:39:25.000Z",
+      "date": "2026-11-05T20:06:17.000Z",
       "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
       "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
       "score": 20,
@@ -78,7 +60,7 @@
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
+      "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
       "id": "reddit:t3_1xnmn4p",
@@ -98,95 +80,21 @@
       "first_seen": "2026-11-04T19:53:38.116Z"
     },
     {
-      "id": "pocketgamer.biz:https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
-      "source": "pocketgamer.biz",
-      "url": "https://www.pocketgamer.biz/hot-five-ludia-ceo-talks-acquisitions-mark-otero-talks-50m-bet-on-ungodly-and-more-than-80-of-top-roblox-games-now-use-ai/",
-      "author": null,
-      "date": "2026-11-02T11:05:00.000Z",
-      "title": "Hot Five: Ludia CEO talks acquisitions, Mark Otero talks $50m bet on UnGodly, and more than 80% of top Roblox games now use AI",
-      "excerpt_en": "To help get you primed and ready for another week in mobile gaming, we&rsquo;ve curated the biggest stories you need to know from the last seven days. 1) Ludia CEO Jimmy Gendron weighs in on acquisitions, life after Jam City and mobile&rsquo;s new reality ... [ MORE ]",
+      "id": "reddit:t3_1xouhi9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
+      "author": "Zestyclose_Ad5827",
+      "date": "2026-11-05T21:14:00.000Z",
+      "title": "Sudden seemingly permanent drop in CCU",
+      "excerpt_en": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? ",
       "score": 17,
-      "tags": [
-        "analyst",
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "devforum:4971118",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
-      "author": "AlecCreator",
-      "date": "2026-11-02T04:11:55.632Z",
-      "title": "Snapwise: snap, array, stairs and grip tools for whole selections [$5.99]",
-      "excerpt_en": "Everything you need to build faster, in one compact panel : resize, move, rotate and duplicate many parts at once with snapping, align and spread them in one click, build curved arrays, rings and spiral staircases, mirror, paint selections with a brush, manage attributes with…",
-      "score": 15.2,
-      "tags": [
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 0,
-        "views": 27
-      },
-      "first_seen": "2026-11-02T06:21:45.818Z"
-    },
-    {
-      "id": "devforum:4972150",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/farming-sim-only-10-of-new-players-reach-15-minutes-looking-for-feedback-on-my-first-session/4972150",
-      "author": "SergMajV11",
-      "date": "2026-11-02T19:24:55.367Z",
-      "title": "Farming sim: only ~10% of new players reach 15 minutes. Looking for feedback on my first session",
-      "excerpt_en": "Hi everyone! I’m a solo developer working on Farmers Valley – Farm with Friends , a cozy farming sim with crops, animals, pets, fishing, a mine and clubs. Farmers Valley - Farm with Friends | Play on Roblox The problem: only about 10% of new players are still playing after 15…",
-      "score": 15,
       "tags": [
         "metrics",
         "ads",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 11
-      },
-      "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "reddit:t3_1xla9g1",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xla9g1/are_top_roblox_developers_earning_more_than/",
-      "author": "FlyKnight_Official",
-      "date": "2026-11-01T18:19:41.000Z",
-      "title": "Are Top Roblox Developers Earning more than Standalone games?",
-      "excerpt_en": "Games like roblox rivals, 99 nights in the forest are rumored to have earned over 100 million USD. While others document the earnings for games like poppy playtime chapter 2 earned 7 million USD. Do you believe it is the truth? ",
-      "score": 15,
-      "tags": [
-        "revenue",
-        "metrics"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "reddit:t3_1xm9wus",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9wus/my_life_sim_just_hit_1400_ccu/",
-      "author": "visionaryillusion",
-      "date": "2026-11-02T21:21:30.000Z",
-      "title": "My life sim just hit 1,400 CCU!",
-      "excerpt_en": "I still can't believe I hit this peak, it feels like a dream. And to think that just 7 days ago I was about to give up on my game! When I turned off my ads, traffic dropped to almost zero and I thought that was the end. I didn't check anything about the game for days, just fixed…",
-      "score": 15,
-      "tags": [
-        "metrics",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
+      "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
       "id": "devforum:4977115",
@@ -227,42 +135,6 @@
       "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
-      "id": "reddit:t3_1xlsezj",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlsezj/lf_investors_for_my_finished_roblox_game/",
-      "author": "Cyberspace_Sorcerer",
-      "date": "2026-11-02T09:09:27.000Z",
-      "title": "LF Investors for my finished ROBLOX game",
-      "excerpt_en": "Need funding to run ads for my roblox game. Further details will be given in dms about percentages and shares. About $15 per day for 1-2 weeks needed. I would also appreciate any advice on what I can improve. I don't want to waste anyone's time but i can't post a link here so…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
-      "id": "naavik:https://naavik.co/?p=34728",
-      "source": "naavik",
-      "url": "https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/",
-      "author": "Mark Ma",
-      "date": "2026-11-01T09:57:00.000Z",
-      "title": "Bilibili: From Games to Mega-Platform",
-      "excerpt_en": "Bilibili was founded in 2009 with anime, comics, and games (or ACG) at its core, as a danmaku video community in which viewer comments scroll across the video. Around 2020, it pushed beyond its fandom roots and leaned into other major content sections (like lifestyle, knowledge…",
-      "score": 13,
-      "tags": [
-        "analyst",
-        "revenue",
-        "marketing",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-02T21:48:08.070Z"
-    },
-    {
       "id": "reddit:t3_1xo193f",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo193f/earnings_ads/",
@@ -277,6 +149,139 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4974489",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
+      "author": "TimerHotel",
+      "date": "2026-11-04T01:52:23.836Z",
+      "title": "Only 139 Home Rec impressions over 7 days",
+      "excerpt_en": "So I released a new game almost 2 weeks ago, ran sponsors, yada yada. Eventually it started getting a few home page impressions, but I’ve noticed that it’s getting way too few compared to what I’d expect: firefox_AFtvhQqh3p 1325×564 154 KB As you can see, since impressions…",
+      "score": 11.2,
+      "tags": [
+        "ads",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 25
+      },
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xn5m6i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn5m6i/both_roblox_as_a_company_and_roblox_players_have/",
+      "author": "existential-asthma",
+      "date": "2026-11-03T21:22:53.000Z",
+      "title": "Both Roblox as a company and Roblox players have zero desire for high quality, high-effort games",
+      "excerpt_en": "For background, I’m a full-time software engineer, and for the past two years I’ve spent 8- 10 hours a day, 7 days a week building an original, non-anime RPG on Roblox. I’ve invested a significant amount of my own money and poured everything I have into this project. My game is…",
+      "score": 11,
+      "tags": [
+        "marketing",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xngo24",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngo24/my_game_getting_very_low_home_recs/",
+      "author": "DependentAbility6851",
+      "date": "2026-11-04T06:04:10.000Z",
+      "title": "My Game getting Very Low home Recs",
+      "excerpt_en": "https://preview.redd.it/mfzby06ncjzh1.png?width=889&format=png&auto=webp&s=be82a7e1d8f7d50c5e229f5b69695836e4e8acd7 https://preview.redd.it/zriydqxtcjzh1.png?width=918&format=png&auto=webp&s=c8e43975299e009fb6a2cd6a08e7dc2d1ef20708 These are My stats its been about 8-9 days…",
+      "score": 11,
+      "tags": [
+        "metrics",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "devforum:4977309",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/best-way-to-start-making-ugc-items-in-2026/4977309",
+      "author": "speedruner1414",
+      "date": "2026-11-05T19:21:11.537Z",
+      "title": "Best Way to Start Making UGC Items in 2026",
+      "excerpt_en": "Hi everyone! I’ve been thinking about making UGC items for a little while, and with my modeling skills I feel like I could actually come up with something now. I have 3,000 Robux to spare, and I know UGC uploading & publishing is really expensive. That said, UGC for beginners is…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-05T20:04:36.959Z"
+    },
+    {
+      "id": "devforum:4972565",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565",
+      "author": "RbxRocketMan",
+      "date": "2026-11-02T23:46:36.172Z",
+      "title": "Update on Account Bans, Alt Detection, and Appeals",
+      "excerpt_en": "Creators, We’ve seen discussions across DevForum and social media about account bans, and we want to address this directly. Below, we explain the principles behind account bans, how we detect linked accounts, what we’re doing to improve, and answers to the questions we hear…",
+      "score": 10.8,
+      "tags": [
+        "platform",
+        "story"
+      ],
+      "engagement": {
+        "likes": 372,
+        "replies": 97,
+        "views": 2397
+      },
+      "first_seen": "2026-11-03T06:57:30.484Z"
+    },
+    {
+      "id": "devforum:4973861",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861",
+      "author": "Vikramidy",
+      "date": "2026-11-03T18:20:41.657Z",
+      "title": "Excessive devex ban? Your DevEx access has been temporarily suspended",
+      "excerpt_en": "image 704×663 47.8 KB image 1651×1103 134 KB 40 days thats a whole month where i am now no longer able to pay rent isn’t this a bit too much? i mean it’s in the nature of UGC for an occasional flag on a face but getting restricted for 40 days for something like this. It was made…",
+      "score": 9.7,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 24
+      },
+      "first_seen": "2026-11-03T19:36:02.394Z"
+    },
+    {
+      "id": "devforum:4975494",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494",
+      "author": "GamingStar6271",
+      "date": "2026-11-04T18:21:11.371Z",
+      "title": "Dont have a last name and want to devex",
+      "excerpt_en": "Hello! I want to do my first devex but I dont have a last name what should I do? image 707×240 10.2 KB",
+      "score": 9.2,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 28
+      },
+      "first_seen": "2026-11-04T19:53:38.116Z"
     }
   ]
 }
