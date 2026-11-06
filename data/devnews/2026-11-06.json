@@ -1,34 +1,53 @@
 {
-  "generated_at": "2026-11-06T06:59:01.794Z",
+  "generated_at": "2026-11-06T19:31:50.625Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 107320
+      "ms": 111829
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91226
+      "ms": 91200
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 3053
+      "fetched": 4,
+      "ms": 3584
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 65
+      "ms": 230
     },
     "hackernews": {
       "ok": true,
       "fetched": 6,
-      "ms": 272
+      "ms": 226
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xpeooc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpeooc/help_understanding_if_my_home_recommendation/",
+      "author": "Dizzy-Criticism-2649",
+      "date": "2026-11-06T14:51:05.000Z",
+      "title": "Help understanding if my home recommendation exposure is normal",
+      "excerpt_en": "You can ignore the purple line, that was the first thumbnail was testing and it had a pretty low QPTR so I think the algorithm just started only pushing my second thumbnail (the green line). As you can see, every team a new peak was reached, a big drop followed. This most recent…",
+      "score": 21,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
     {
       "id": "reddit:t3_1xosssd",
       "source": "reddit",
@@ -48,6 +67,46 @@
       "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
+      "id": "reddit:t3_1xpa8c9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpa8c9/investor_entity_original_asym_horror_game_seeking/",
+      "author": "Double-Grape-4232",
+      "date": "2026-11-06T11:11:15.000Z",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)",
+      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "devforum:4978391",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391",
+      "author": "afraidoftheheight",
+      "date": "2026-11-06T09:57:49.899Z",
+      "title": "How do I get my somewhat \"niche\" game past 0 CCU?",
+      "excerpt_en": "I’ve been working on a game called “Many Movements” (somewhat complex freeform movement game) for the past two years (since 11/15/2024 specifically), and I released it 10/18/2026, to which it had around 20 CCU, but rapidly fell off in the next few days. I released SFM on…",
+      "score": 17.7,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "views": 67
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
       "id": "reddit:t3_1xouhi9",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
@@ -63,6 +122,59 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xpcsj3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpcsj3/looking_for_investors_for_my_games/",
+      "author": "Main_Cut_9819",
+      "date": "2026-11-06T13:28:26.000Z",
+      "title": "Looking for Investors for my Games",
+      "excerpt_en": "Hey everyone, I'm a solo dev working on a Roblox game, and I'm trying to figure out the sponsor/investor side of things. My situation: I can build and update the game, but I don't have the budget to run ads long enough to get a real test from the algorithm. I'd happily give…",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "devforum:4978959",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/stranger-things-creator-contest/4978959",
+      "author": "Netflix",
+      "date": "2026-11-06T18:00:05.467Z",
+      "title": "Stranger Things Creator Contest!",
+      "excerpt_en": "For ten years, Stranger Things has pulled fans into Hawkins — now it’s your turn. Today, Netflix is releasing an official Stranger Things Asset Pack — Eleven, Hopper, Vecna, the Demogorgon, and more, are ready for you to build with on Roblox. StrangerThings-AssetPack-LOGO…",
+      "score": 11.4,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 15,
+        "views": 582
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xpaxti",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpaxti/i_made_a_cat_shooter_on_roblox_looking_for/",
+      "author": "Few_Election_3799",
+      "date": "2026-11-06T11:53:59.000Z",
+      "title": "I made a cat shooter on Roblox — looking for feedback on the gunplay and retention",
+      "excerpt_en": "Hey everyone, I've been working on KittyBlaster , a free FPS on Roblox where you play as a battle-ready cat. It started as a small idea (cats + big guns) and turned into a full project. Right now it has: Free-for-All Team Deathmatch Gun Game (race through weapons) Zombie Waves…",
+      "score": 10,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
     },
     {
       "id": "reddit:t3_1xos0da",
@@ -94,6 +206,59 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "devforum:4970652",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/game-reviews-and-feedback-needed/4970652",
+      "author": "OnionSuport",
+      "date": "2026-11-01T21:39:05.522Z",
+      "title": "Game Reviews and Feedback Needed",
+      "excerpt_en": "I Just Released My First Roblox Game – Wolf Valley: Hunt or Survive. Looking for Honest Feedback! Hey everyone! Today at midnight, I officially released my first Roblox game, Wolf Valley – Hunt or Survive , and I’d really appreciate some feedback from other developers and…",
+      "score": 7.3,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 4,
+        "views": 124
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "devforum:4978672",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/streamline-dmca-request-process/4978672",
+      "author": "JTeaRBLX",
+      "date": "2026-11-06T14:25:20.760Z",
+      "title": "Streamline DMCA Request Process",
+      "excerpt_en": "Modded games are being published every day. For bigger studios with multiple people at managing level this forces the owner of the group (that the original game is published to) to submit DMCA removal requests or for someone to submit it on his behalf. Every time this request is…",
+      "score": 5,
+      "tags": [
+        "studio"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 39
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xpb0vg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpb0vg/my_roblox_game_and_ad_analytics/",
+      "author": "Correct-Forever-3458",
+      "date": "2026-11-06T11:58:48.000Z",
+      "title": "My roblox game and ad analytics",
+      "excerpt_en": "We just made a game based on a popular idea. Some people might think the idea is not original, but we had creative ideas and decided to publish it. Not only catching eggs but we have jousting duel system with mounts Our game has more than 200 animals and over 300 3D models made…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
     },
     {
       "id": "devforum:4977769",
@@ -184,6 +349,84 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-06T06:59:01.794Z"
+    },
+    {
+      "id": "reddit:t3_1xp5ub7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xp5ub7/my_own_ragdoll_game/",
+      "author": "Next_Employer_8410",
+      "date": "2026-11-06T06:26:55.000Z",
+      "title": "My own ragdoll game",
+      "excerpt_en": "https://reddit.com/link/1xp5ub7/video/72y3i43xqxzh1/player its to ride on that trend of ragdoll games on roblox. hoping to use its profits to fund my bigger project. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xpdjph",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpdjph/i_made_5_maps_for_my_roblox_game_would_you_take_a/",
+      "author": "Park_premorial",
+      "date": "2026-11-06T14:02:15.000Z",
+      "title": "I made 5 maps for my Roblox game! Would you take a look?",
+      "excerpt_en": "I've finished creating my Roblox game, Dig & Bloom! , and I wanted to share some of the maps I've created! The game features 5 different areas: Mine, Volcano, Desert, Snow, and Forest. Each area has its own atmosphere and unique seeds to discover. I tried to make each…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xpaluo",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpaluo/is_it_worth_switching_from_traditional_dev_to/",
+      "author": "No_Letter7795",
+      "date": "2026-11-06T11:34:01.000Z",
+      "title": "Is it worth switching from traditional dev to Roblox?",
+      "excerpt_en": "We're a traditional gamedev team, our only experience is through traditional publishing/platforms, and we're strictly experienced in C++/C#/C. Is it worth it jumping straight into Roblox? I was wondering about the reality of roblox gamedev in a very general sense, like YOUR…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xpabqo",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpabqo/after_an_week_on_45_engangement_and_25_plays_ads/",
+      "author": "InformalDealer5264",
+      "date": "2026-11-06T11:16:58.000Z",
+      "title": "After an week on 4.5$ engangement and 2.5$ plays ads on Roblox",
+      "excerpt_en": "Are those good stats enoungh to continue on the game? got 34/250 engangement players Should I invest more next time in plays instead of engangement ? game https://www.roblox.com/games/131004746739410/Cartoon-Ball-Battles If anyone want to come with opinions I'm open to all ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xoxlj3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxlj3/new_roblox_paint_engine_need_feedback/",
+      "author": "Sch4k4l",
+      "date": "2026-11-05T23:25:29.000Z",
+      "title": "new roblox paint engine need feedback",
+      "excerpt_en": "working on a texture paint engine in roblox and need some feedback about the differnt GUI types i tryed to design for smooth painting and maybe ideas for possible minigames if you like digital painting and have freetime to spend, let me know it please :) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
+      "id": "reddit:t3_1xoyxpq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoyxpq/paid_looking_for_a_3d_anime_modeler_and_combat/",
+      "author": "Worried-Foot9148",
+      "date": "2026-11-06T00:25:52.000Z",
+      "title": "[PAID] Looking for a 3D anime modeler and combat animator",
+      "excerpt_en": "Hey, I’m looking to hire someone for an indie project (open to one generalist or two separate people for modeling and animating). This is fully paid, either per asset, milestone, or hourly depending on what you prefer, so just let me know your rates upfront. On the modeling…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
     }
   ]
 }

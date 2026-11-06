@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:59:01.857Z",
+  "generated_at": "2026-11-06T19:31:50.692Z",
   "from_files": [
     "2026-11-03.json",
     "2026-11-04.json",
@@ -45,6 +45,25 @@
       "first_seen": "2026-11-03T19:36:02.394Z"
     },
     {
+      "id": "reddit:t3_1xpeooc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpeooc/help_understanding_if_my_home_recommendation/",
+      "author": "Dizzy-Criticism-2649",
+      "date": "2026-11-06T14:51:05.000Z",
+      "title": "Help understanding if my home recommendation exposure is normal",
+      "excerpt_en": "You can ignore the purple line, that was the first thumbnail was testing and it had a pretty low QPTR so I think the algorithm just started only pushing my second thumbnail (the green line). As you can see, every team a new peak was reached, a big drop followed. This most recent…",
+      "score": 21,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
       "id": "reddit:t3_1xosssd",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
@@ -63,6 +82,24 @@
       "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
+      "id": "reddit:t3_1xpa8c9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpa8c9/investor_entity_original_asym_horror_game_seeking/",
+      "author": "Double-Grape-4232",
+      "date": "2026-11-06T11:11:15.000Z",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)",
+      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
       "id": "reddit:t3_1xnmn4p",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnmn4p/how_to_increase_ccu_after_getting_into_the/",
@@ -78,6 +115,28 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "devforum:4978391",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391",
+      "author": "afraidoftheheight",
+      "date": "2026-11-06T09:57:49.899Z",
+      "title": "How do I get my somewhat \"niche\" game past 0 CCU?",
+      "excerpt_en": "I’ve been working on a game called “Many Movements” (somewhat complex freeform movement game) for the past two years (since 11/15/2024 specifically), and I released it 10/18/2026, to which it had around 20 CCU, but rapidly fell off in the next few days. I released SFM on…",
+      "score": 17.7,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "views": 67
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
     },
     {
       "id": "reddit:t3_1xouhi9",
@@ -135,6 +194,25 @@
       "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
+      "id": "reddit:t3_1xpcsj3",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpcsj3/looking_for_investors_for_my_games/",
+      "author": "Main_Cut_9819",
+      "date": "2026-11-06T13:28:26.000Z",
+      "title": "Looking for Investors for my Games",
+      "excerpt_en": "Hey everyone, I'm a solo dev working on a Roblox game, and I'm trying to figure out the sponsor/investor side of things. My situation: I can build and update the game, but I don't have the budget to run ads long enough to get a real test from the algorithm. I'd happily give…",
+      "score": 14,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-06T19:31:50.625Z"
+    },
+    {
       "id": "reddit:t3_1xo193f",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo193f/earnings_ads/",
@@ -149,6 +227,25 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-05T06:59:02.627Z"
+    },
+    {
+      "id": "devforum:4978959",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/stranger-things-creator-contest/4978959",
+      "author": "Netflix",
+      "date": "2026-11-06T18:00:05.467Z",
+      "title": "Stranger Things Creator Contest!",
+      "excerpt_en": "For ten years, Stranger Things has pulled fans into Hawkins — now it’s your turn. Today, Netflix is releasing an official Stranger Things Asset Pack — Eleven, Hopper, Vecna, the Demogorgon, and more, are ready for you to build with on Roblox. StrangerThings-AssetPack-LOGO…",
+      "score": 11.4,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 40,
+        "replies": 15,
+        "views": 582
+      },
+      "first_seen": "2026-11-06T19:31:50.625Z"
     },
     {
       "id": "devforum:4974489",
@@ -186,102 +283,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-04T06:37:57.934Z"
-    },
-    {
-      "id": "reddit:t3_1xngo24",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngo24/my_game_getting_very_low_home_recs/",
-      "author": "DependentAbility6851",
-      "date": "2026-11-04T06:04:10.000Z",
-      "title": "My Game getting Very Low home Recs",
-      "excerpt_en": "https://preview.redd.it/mfzby06ncjzh1.png?width=889&format=png&auto=webp&s=be82a7e1d8f7d50c5e229f5b69695836e4e8acd7 https://preview.redd.it/zriydqxtcjzh1.png?width=918&format=png&auto=webp&s=c8e43975299e009fb6a2cd6a08e7dc2d1ef20708 These are My stats its been about 8-9 days…",
-      "score": 11,
-      "tags": [
-        "metrics",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-04T06:37:57.934Z"
-    },
-    {
-      "id": "devforum:4977309",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/best-way-to-start-making-ugc-items-in-2026/4977309",
-      "author": "speedruner1414",
-      "date": "2026-11-05T19:21:11.537Z",
-      "title": "Best Way to Start Making UGC Items in 2026",
-      "excerpt_en": "Hi everyone! I’ve been thinking about making UGC items for a little while, and with my modeling skills I feel like I could actually come up with something now. I have 3,000 Robux to spare, and I know UGC uploading & publishing is really expensive. That said, UGC for beginners is…",
-      "score": 11,
-      "tags": [
-        "revenue",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 10
-      },
-      "first_seen": "2026-11-05T20:04:36.959Z"
-    },
-    {
-      "id": "devforum:4972565",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565",
-      "author": "RbxRocketMan",
-      "date": "2026-11-02T23:46:36.172Z",
-      "title": "Update on Account Bans, Alt Detection, and Appeals",
-      "excerpt_en": "Creators, We’ve seen discussions across DevForum and social media about account bans, and we want to address this directly. Below, we explain the principles behind account bans, how we detect linked accounts, what we’re doing to improve, and answers to the questions we hear…",
-      "score": 10.8,
-      "tags": [
-        "platform",
-        "story"
-      ],
-      "engagement": {
-        "likes": 372,
-        "replies": 97,
-        "views": 2397
-      },
-      "first_seen": "2026-11-03T06:57:30.484Z"
-    },
-    {
-      "id": "devforum:4973861",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861",
-      "author": "Vikramidy",
-      "date": "2026-11-03T18:20:41.657Z",
-      "title": "Excessive devex ban? Your DevEx access has been temporarily suspended",
-      "excerpt_en": "image 704×663 47.8 KB image 1651×1103 134 KB 40 days thats a whole month where i am now no longer able to pay rent isn’t this a bit too much? i mean it’s in the nature of UGC for an occasional flag on a face but getting restricted for 40 days for something like this. It was made…",
-      "score": 9.7,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 1,
-        "views": 24
-      },
-      "first_seen": "2026-11-03T19:36:02.394Z"
-    },
-    {
-      "id": "devforum:4975494",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494",
-      "author": "GamingStar6271",
-      "date": "2026-11-04T18:21:11.371Z",
-      "title": "Dont have a last name and want to devex",
-      "excerpt_en": "Hello! I want to do my first devex but I dont have a last name what should I do? image 707×240 10.2 KB",
-      "score": 9.2,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 28
-      },
-      "first_seen": "2026-11-04T19:53:38.116Z"
     }
   ]
 }
