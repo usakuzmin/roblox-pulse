@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:15:17.162Z",
+  "generated_at": "2026-11-07T21:58:27.221Z",
   "from_files": [
     "2026-11-04.json",
     "2026-11-05.json",
@@ -137,6 +137,24 @@
       "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
+      "id": "reddit:t3_1xqan9r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqan9r/i_m_looking_for_studios_who_invest_in_games_im/",
+      "author": "The_Sneight",
+      "date": "2026-11-07T16:37:42.000Z",
+      "title": "I m looking for studios who invest in games im owner of a scouting agency!",
+      "excerpt_en": "Hi everyone, I am the founder of VJX Scouts, a specialized B2B talent and game scouting agency operating within the Roblox ecosystem. We act as an outsourced deal-flow engine. Our agency manages an active network of performance-based scouts who continuously track, run analytics…",
+      "score": 17,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
+    },
+    {
       "id": "devforum:4979885",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
@@ -267,23 +285,6 @@
         "replies": 0,
         "views": 25
       },
-      "first_seen": "2026-11-04T06:37:57.934Z"
-    },
-    {
-      "id": "reddit:t3_1xn5m6i",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn5m6i/both_roblox_as_a_company_and_roblox_players_have/",
-      "author": "existential-asthma",
-      "date": "2026-11-03T21:22:53.000Z",
-      "title": "Both Roblox as a company and Roblox players have zero desire for high quality, high-effort games",
-      "excerpt_en": "For background, I’m a full-time software engineer, and for the past two years I’ve spent 8- 10 hours a day, 7 days a week building an original, non-anime RPG on Roblox. I’ve invested a significant amount of my own money and poured everything I have into this project. My game is…",
-      "score": 11,
-      "tags": [
-        "marketing",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
       "first_seen": "2026-11-04T06:37:57.934Z"
     }
   ]

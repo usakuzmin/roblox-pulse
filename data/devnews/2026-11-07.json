@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-07T13:15:17.106Z",
+  "generated_at": "2026-11-07T21:58:27.164Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 106920
+      "ms": 107927
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91297
+      "ms": 31599
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 5282
+      "ms": 4822
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 198
+      "ms": 150
     },
     "hackernews": {
       "ok": true,
       "fetched": 6,
-      "ms": 416
+      "ms": 217
     }
   },
   "items": [
@@ -46,6 +46,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xqan9r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqan9r/i_m_looking_for_studios_who_invest_in_games_im/",
+      "author": "The_Sneight",
+      "date": "2026-11-07T16:37:42.000Z",
+      "title": "I m looking for studios who invest in games im owner of a scouting agency!",
+      "excerpt_en": "Hi everyone, I am the founder of VJX Scouts, a specialized B2B talent and game scouting agency operating within the Roblox ecosystem. We act as an outsourced deal-flow engine. Our agency manages an active network of performance-based scouts who continuously track, run analytics…",
+      "score": 17,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
     },
     {
       "id": "devforum:4979885",
@@ -102,6 +120,42 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4979084",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/scp-world-rp-game/4979084",
+      "author": "franciscoabech17",
+      "date": "2026-11-06T19:35:35.621Z",
+      "title": "SCP World RP GAME",
+      "excerpt_en": "yp4ytmvw99ue1 400×400 15.5 KB Hello! I’d like to introduce my new game to you! It’s an SCP Rp game, but not like any other scp rp you seen before (problably), It has: Xp system wich is used to upgrade your keycard clearance, Events wich i already made 1 “Pizza day”, You can…",
+      "score": 7.4,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "views": 70
+      },
+      "first_seen": "2026-11-07T21:58:27.164Z"
+    },
+    {
+      "id": "reddit:t3_1xqi07e",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqi07e/looking_for_investors_for_an_upcoming_roblox/",
+      "author": "Youbout_",
+      "date": "2026-11-07T21:55:15.000Z",
+      "title": "Looking for investors for an upcoming Roblox Elden Ring replica (dev is NOT me but a close friend)",
+      "excerpt_en": "They initial pay should be about 2k robux, then a percentage of the earnings will go to the investor. For negotiation you can DM me, supposed development has been going for more than 2 years ",
+      "score": 7,
+      "tags": [
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
     },
     {
       "id": "devforum:4979241",
@@ -236,6 +290,21 @@
       "first_seen": "2026-11-07T13:15:17.106Z"
     },
     {
+      "id": "reddit:t3_1xq8sbs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8sbs/wie_kriegt_ein_spiel_aufrufe/",
+      "author": "lureacore",
+      "date": "2026-11-07T15:18:45.000Z",
+      "title": "Wie kriegt ein Spiel Aufrufe?",
+      "excerpt_en": "Roblox ads? TikTok? Oder doch eine andere Idee? Und was ist besser roblox ads oder von TikTok Aufrufe kaufen Oder wie kann man das Spiel am besten vermarkten ",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
+    },
+    {
       "id": "devforum:4978859",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859",
@@ -292,6 +361,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xq6ot7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq6ot7/why_is_requirement_still_250/",
+      "author": "Dismal-Evening1527",
+      "date": "2026-11-07T13:43:24.000Z",
+      "title": "Why is requirement still 250?",
+      "excerpt_en": "Wasn't there update and it should be 100? I saw on social medias people have 100 already ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
+    },
+    {
+      "id": "reddit:t3_1xq5wyq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq5wyq/my_recreation_of_kalbaryo_in_binangonan_rizal/",
+      "author": "IamChe3se",
+      "date": "2026-11-07T13:05:23.000Z",
+      "title": "My recreation of Kalbaryo in Binangonan Rizal (SOLO DEV)",
+      "excerpt_en": "I spent 2 years making the buildings and just now finished the mountains What do you think? Had 30fps on unisoct7225 low graphics ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-07T21:58:27.164Z"
     }
   ]
 }
