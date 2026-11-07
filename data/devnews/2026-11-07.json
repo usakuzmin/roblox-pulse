@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-07T06:10:14.681Z",
+  "generated_at": "2026-11-07T13:15:17.106Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 115102
+      "ms": 106920
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91510
+      "ms": 91297
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 4328
+      "fetched": 5,
+      "ms": 5282
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 108
+      "ms": 198
     },
     "hackernews": {
       "ok": true,
       "fetched": 6,
-      "ms": 474
+      "ms": 416
     }
   },
   "items": [
@@ -46,6 +46,47 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4979885",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
+      "author": "GreenTreeGamingYT",
+      "date": "2026-11-07T06:51:42.148Z",
+      "title": "How can I improve retention (8.5 mins) in my tycoon game?",
+      "excerpt_en": "Hey everyone! I am wondering how I can improve the retention and D1/D7 numbers in my game, Build a Business! Currently, retention is sitting around 8 minutes, and D1 is around 4%. I’m running ads right now, $16/7 days. Please let me know!",
+      "score": 16.2,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 25
+      },
+      "first_seen": "2026-11-07T13:15:17.106Z"
+    },
+    {
+      "id": "devforum:4976953",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/release-check-if-your-clothing-or-ugc-has-been-re-uploaded-by-someone-else/4976953",
+      "author": "begi_dll",
+      "date": "2026-11-05T15:40:29.780Z",
+      "title": "[RELEASE] Check if your clothing or UGC has been re-uploaded by someone else",
+      "excerpt_en": "Hey everyone, Re-uploads are one of the biggest problems for clothing and UGC creators. To see how bad it is, I checked one best-selling classic shirt (356k favorites). Searching its name returned 487 Marketplace listings, and 103 of them were the exact same image, sold by 90…",
+      "score": 10.5,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 1,
+        "views": 88
+      },
+      "first_seen": "2026-11-07T13:15:17.106Z"
     },
     {
       "id": "reddit:t3_1xpsif5",
@@ -150,6 +191,51 @@
       "first_seen": "2026-11-07T06:10:14.681Z"
     },
     {
+      "id": "reddit:t3_1xq1i7f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1i7f/roblox_publishing_game/",
+      "author": "floppedmind",
+      "date": "2026-11-07T08:31:21.000Z",
+      "title": "Roblox Publishing Game",
+      "excerpt_en": "Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how to advertise or what ads to use etc…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T13:15:17.106Z"
+    },
+    {
+      "id": "reddit:t3_1xq1i5p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1i5p/roblox_publishing_game/",
+      "author": "floppedmind",
+      "date": "2026-11-07T08:31:16.000Z",
+      "title": "Roblox Publishing Game",
+      "excerpt_en": "Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how to advertise or what ads to use etc…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T13:15:17.106Z"
+    },
+    {
+      "id": "reddit:t3_1xpzwwm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzwwm/i_made_a_doorsinspired_hotel_horror_game_looking/",
+      "author": "balikcil123",
+      "date": "2026-11-07T06:50:55.000Z",
+      "title": "I made a DOORS-inspired hotel horror game, looking for feedback!",
+      "excerpt_en": "I made a horror game inspired by DOORS, set in a hotel, and I'm looking for some feedback! I'm considering running an ad campaign, but I'm not sure which type of campaign to use or how much I should spend. I'd really appreciate it if anyone could give the game a try and share…",
+      "score": 5,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T13:15:17.106Z"
+    },
+    {
       "id": "devforum:4978859",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859",
@@ -165,6 +251,21 @@
         "views": 96
       },
       "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/pgc-jordan-2026-begins/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/pgc-jordan-2026-begins/",
+      "author": null,
+      "date": "2026-11-07T07:20:00.000Z",
+      "title": "Pocket Gamer Connects Jordan 2026 begins with talks from Roblox, Epic Games, Minecraft, Yalla Group, Maysalward and more",
+      "excerpt_en": "Pocket Gamer Connects Jordan has officially begun, starting two days of networking and insightful sessions for 1,500+ attendees. Heading up the show&rsquo;s opening talks are Endless Access&rsquo; Nasser Jaber E, Maysalward&rsquo;s Nour Khrais, Roblox&rsquo;s Mohamed El Sheakh…",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T13:15:17.106Z"
     },
     {
       "id": "reddit:t3_1xpv800",

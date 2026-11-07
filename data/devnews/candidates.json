@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:10:14.748Z",
+  "generated_at": "2026-11-07T13:15:17.162Z",
   "from_files": [
     "2026-11-04.json",
     "2026-11-05.json",
@@ -137,6 +137,27 @@
       "first_seen": "2026-11-06T06:59:01.794Z"
     },
     {
+      "id": "devforum:4979885",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
+      "author": "GreenTreeGamingYT",
+      "date": "2026-11-07T06:51:42.148Z",
+      "title": "How can I improve retention (8.5 mins) in my tycoon game?",
+      "excerpt_en": "Hey everyone! I am wondering how I can improve the retention and D1/D7 numbers in my game, Build a Business! Currently, retention is sitting around 8 minutes, and D1 is around 4%. I’m running ads right now, $16/7 days. Please let me know!",
+      "score": 16.2,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 25
+      },
+      "first_seen": "2026-11-07T13:15:17.106Z"
+    },
+    {
       "id": "devforum:4977115",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
@@ -259,23 +280,6 @@
       "score": 11,
       "tags": [
         "marketing",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-04T06:37:57.934Z"
-    },
-    {
-      "id": "reddit:t3_1xngo24",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngo24/my_game_getting_very_low_home_recs/",
-      "author": "DependentAbility6851",
-      "date": "2026-11-04T06:04:10.000Z",
-      "title": "My Game getting Very Low home Recs",
-      "excerpt_en": "https://preview.redd.it/mfzby06ncjzh1.png?width=889&format=png&auto=webp&s=be82a7e1d8f7d50c5e229f5b69695836e4e8acd7 https://preview.redd.it/zriydqxtcjzh1.png?width=918&format=png&auto=webp&s=c8e43975299e009fb6a2cd6a08e7dc2d1ef20708 These are My stats its been about 8-9 days…",
-      "score": 11,
-      "tags": [
-        "metrics",
         "discovery",
         "studio"
       ],
