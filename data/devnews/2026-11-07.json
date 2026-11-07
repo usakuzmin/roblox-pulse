@@ -1,0 +1,196 @@
+{
+  "generated_at": "2026-11-07T06:10:14.681Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 115102
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91510
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 4328
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 108
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 474
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xpxidp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxidp/delivery_madness_lf_investors_min_investment_10k/",
+      "author": "just_rg12",
+      "date": "2026-11-07T04:32:21.000Z",
+      "title": "Delivery Madness (LF Investors, Min Investment: 10k Robux+ or 35 USD+)",
+      "excerpt_en": "Hello, So me(UI) and my friend(Modelling) are creating a game, Delivery Madness which is 90% done. It has a very simple game loop, You Get Parcels, Deliver Them, Upgrade Strength, Get Parcels, Deliver Them, Rebirth and start again. It might seem boring but you can test it out…",
+      "score": 18,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xpsif5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsif5/is_my_playtime_low_cause_of_all_play_ads_or_am_i/",
+      "author": "doiwannaknow123",
+      "date": "2026-11-07T00:16:56.000Z",
+      "title": "is my playtime low cause of All Play ads or am I coping",
+      "excerpt_en": "Running all play ads for the last 4 days average playtime is 7 mins, is this a sign that my game loop is boring. The game is a simple hide and seek game where the seekers are actually missiles 😄 maybe this idea is not enough for a complete game 🤔 . Could it be the maps/lobby…",
+      "score": 10,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4979241",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/game-review-and-feedbacl/4979241",
+      "author": "frozen_flippers",
+      "date": "2026-11-06T21:42:03.693Z",
+      "title": "Game Review and Feedbacl",
+      "excerpt_en": "Blades and Blood – Looking for Honest Feedback! Hey everyone! I’ve been working on a Roblox game called Blades and Blood , and I’d really appreciate some honest feedback from other developers and players. About the game Blades and Blood is fast paced multiplayer fighting game…",
+      "score": 6.5,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 0,
+        "views": 35
+      },
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4978669",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669",
+      "author": "exvirus2",
+      "date": "2026-11-06T14:22:14.607Z",
+      "title": "Looking for Feedback on the Fair Market Value of My Unreleased Game",
+      "excerpt_en": "Hello! I’ve received a few offers for my game, but since it hasn’t been released yet and I don’t have any analytics, I’m not sure whether the offers are fair. I’d appreciate some honest feedback on what you think the game could reasonably be worth at this stage. I’m also unsure…",
+      "score": 6,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 2,
+        "views": 39
+      },
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xpqg19",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpqg19/developers_needed_downtown_calamity/",
+      "author": "JohnTheDoorDasher",
+      "date": "2026-11-06T22:42:13.000Z",
+      "title": "[DEVELOPERS NEEDED] Downtown Calamity",
+      "excerpt_en": "Early Logo EITHER UNPAID OR CAN BE SHARED BY GAME REVENUE I'm making the original hide and seek + asymmetrical horror game called \"Downtown Calamity\" where it is seperated from others. The game is about just hiding from entities/killers. There are currently have 7…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xpnn15",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpnn15/need_an_experienced_play_tester/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-06T20:44:16.000Z",
+      "title": "Need an Experienced Play Tester?",
+      "excerpt_en": "Hey! I'm back again and looking for developers who want to have their games play tested! Just to be clear, this is a paid service. I don't just play your game and point out bugs. I also give honest feedback, advice, and suggestions on how you can improve your game. I've helped…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4979313",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313",
+      "author": "wmsnghhrblx",
+      "date": "2026-11-06T22:20:44.399Z",
+      "title": "Test Graphics and Memory on Lower-End Devices With the Performance Simulator",
+      "excerpt_en": "Hi Creators, The Device Simulator already shows you how your game looks on a phone, tablet, or console screen. What it couldn’t tell you is how the gamer holds up on that device’s hardware: what graphics quality it typically runs at, and how much content stays loaded when memory…",
+      "score": 5,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 122,
+        "replies": 32,
+        "views": 1204
+      },
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "devforum:4978859",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859",
+      "author": "saturnosun",
+      "date": "2026-11-06T16:38:43.646Z",
+      "title": "RobloxAIBuilderPRO Plugin - AI Assistant Code & Copilot & Building",
+      "excerpt_en": "RobloxAIBuilder PRO Elevate Your Roblox Development Workflow to the Next Level Introducing RobloxAIBuilder PRO , an advanced AI assistant for Roblox Studio designed to eliminate technical bottlenecks and give developers greater control over code architecture, game generation…",
+      "score": 4.3,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 3,
+        "views": 96
+      },
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xpv800",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpv800/how_do_people_create_good_sound_effects/",
+      "author": "ZXen0on",
+      "date": "2026-11-07T02:30:43.000Z",
+      "title": "How do people create good sound effects?",
+      "excerpt_en": "Most of the posts I've seen always tell you to capture SFX from websites like Pixabay. However, I'm just genuinely curious because I've been interested in TSBG's sound effects and that's usually the type of sound I want (attempt) to go for. And I'm having doubts that it's even…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    },
+    {
+      "id": "reddit:t3_1xpxeqx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxeqx/the_first_2d_game_that_i_have_released_chalk/",
+      "author": "Interesting_Beat7877",
+      "date": "2026-11-07T04:26:53.000Z",
+      "title": "The First 2D Game that I have released - Chalk Runner - Feedback is greatly appreciated",
+      "excerpt_en": "Game: https://www.roblox.com/games/70625706501268/Chalk-Runner ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
+    }
+  ]
+}

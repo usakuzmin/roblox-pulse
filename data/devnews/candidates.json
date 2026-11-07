@@ -1,49 +1,12 @@
 {
-  "generated_at": "2026-11-06T19:31:50.692Z",
+  "generated_at": "2026-11-07T06:10:14.748Z",
   "from_files": [
-    "2026-11-03.json",
     "2026-11-04.json",
     "2026-11-05.json",
-    "2026-11-06.json"
+    "2026-11-06.json",
+    "2026-11-07.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1xmxg0y",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxg0y/partnership_game_investor_sponsor_fps_game/",
-      "author": "RedBrocolis",
-      "date": "2026-11-03T16:23:36.000Z",
-      "title": "Partnership Game Investor / Sponsor FPS GAME",
-      "excerpt_en": "https://preview.redd.it/g2zoo0hyafzh1.png?width=1920&format=png&auto=webp&s=6ca90a8d3fc39f0e44d30c33945b3b17f7c89052 I release my game a week ago. And now I lauched the first big halloween update of the game with battle passe, new maps and general upgrades of the game in 31 of…",
-      "score": 22,
-      "tags": [
-        "revenue",
-        "ads",
-        "marketing",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-03T19:36:02.394Z"
-    },
-    {
-      "id": "reddit:t3_1xmuyw8",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmuyw8/spent_30_on_roblox_ads_got_almost_no_real_players/",
-      "author": "Den1sBD",
-      "date": "2026-11-03T14:50:51.000Z",
-      "title": "Spent $30 on Roblox ads, got almost no real players. How do small devs actually promote their games?",
-      "excerpt_en": "I made my own game on Roblox, bought ads, and have already spent $30, but almost nobody plays it, and the click-through rate is really low. The game is a survival horror based on Little Red Riding Hood: you have to make your way through the forest and deliver the pies, passing…",
-      "score": 21,
-      "tags": [
-        "revenue",
-        "ads",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-03T19:36:02.394Z"
-    },
     {
       "id": "reddit:t3_1xpeooc",
       "source": "reddit",
@@ -115,6 +78,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-04T19:53:38.116Z"
+    },
+    {
+      "id": "reddit:t3_1xpxidp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxidp/delivery_madness_lf_investors_min_investment_10k/",
+      "author": "just_rg12",
+      "date": "2026-11-07T04:32:21.000Z",
+      "title": "Delivery Madness (LF Investors, Min Investment: 10k Robux+ or 35 USD+)",
+      "excerpt_en": "Hello, So me(UI) and my friend(Modelling) are creating a game, Delivery Madness which is 90% done. It has a very simple game loop, You Get Parcels, Deliver Them, Upgrade Strength, Get Parcels, Deliver Them, Rebirth and start again. It might seem boring but you can test it out…",
+      "score": 18,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-07T06:10:14.681Z"
     },
     {
       "id": "devforum:4978391",
@@ -278,6 +259,23 @@
       "score": 11,
       "tags": [
         "marketing",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-04T06:37:57.934Z"
+    },
+    {
+      "id": "reddit:t3_1xngo24",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xngo24/my_game_getting_very_low_home_recs/",
+      "author": "DependentAbility6851",
+      "date": "2026-11-04T06:04:10.000Z",
+      "title": "My Game getting Very Low home Recs",
+      "excerpt_en": "https://preview.redd.it/mfzby06ncjzh1.png?width=889&format=png&auto=webp&s=be82a7e1d8f7d50c5e229f5b69695836e4e8acd7 https://preview.redd.it/zriydqxtcjzh1.png?width=918&format=png&auto=webp&s=c8e43975299e009fb6a2cd6a08e7dc2d1ef20708 These are My stats its been about 8-9 days…",
+      "score": 11,
+      "tags": [
+        "metrics",
         "discovery",
         "studio"
       ],
