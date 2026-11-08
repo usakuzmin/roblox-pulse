@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-11-08T06:14:44.389Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 113603
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91585
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3569
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 140
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 202
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4981637",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637",
+      "author": "Smithyed",
+      "date": "2026-11-08T03:12:40.406Z",
+      "title": "[Release] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators",
+      "excerpt_en": "RoBulk Announcing the release to the community of RoBulk , a free Chrome extension developed by BloxSmithery that adds bulk management tools directly to the Roblox Creator Dashboard! This is exactly the tool we needed to manage our sales so we built it and are offering it to the…",
+      "score": 18.2,
+      "tags": [
+        "revenue",
+        "monetization",
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 23
+      },
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqnkn0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqnkn0/am_i_just_stuck_on_20ccu_forever/",
+      "author": "Ok_Statistician6759",
+      "date": "2026-11-08T02:28:01.000Z",
+      "title": "Am I just stuck on 20CCU forever?",
+      "excerpt_en": "I averaged around 25 CCU throughout my ad campaign. After two weeks, Roblox's algorithm started picking up my game just as the campaign ended. Now it's day 4, and I'm still hovering between 10 and 20 CCU, with a highest peak of 31. Has anyone experienced something similar? Did…",
+      "score": 17,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "devforum:4981346",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
+      "author": "NeroCrafted",
+      "date": "2026-11-07T23:15:27.713Z",
+      "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
+      "excerpt_en": "Today, November 7, 2026, my experience suddenly stopped getting players from ads within just a few minutes. Everything was working normally, and players were joining through Experience Ads until the traffic suddenly dropped to almost nothing. The game eventually reached 0…",
+      "score": 16.8,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 30
+      },
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqn2nb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqn2nb/rule_changes_ai_in_posts_limited_to_discussion/",
+      "author": "AutoModerator",
+      "date": "2026-11-08T02:01:14.000Z",
+      "title": "Rule Changes: AI in posts limited to discussion only, banning links to third party services, plus clarifications on current rules",
+      "excerpt_en": "New Rules New Rule: Keep AI topics to Discussion only. This means that you can post about AI, and you can discuss about AI usage in Roblox development. However, you cannot have a post that's primarily AI images, written by AI, or shows a creation that's primarily AI (such as AI…",
+      "score": 11,
+      "tags": [
+        "ads",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqr7vi",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqr7vi/looking_for_a_roblox_scripter_to_help_bring_a/",
+      "author": "Intelligent-Dig5131",
+      "date": "2026-11-08T05:54:06.000Z",
+      "title": "Looking for a Roblox scripter to help bring a horror game to life.",
+      "excerpt_en": "Psychological horror, supernatural deception, and cinematic monster transformations. We're building a team to create something genuinely terrifying. I'm developing LAST ONE ALIVE , a multiplayer horror game where one player becomes THE MIMIC a creature that can disguise itself…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqok1q",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqok1q/id_like_to_test_your_game/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-08T03:21:36.000Z",
+      "title": "I'd like to test your game!",
+      "excerpt_en": "I'm open for game testing again! If you have a game that's about to launch, struggling with low retention, or not getting any players, we can look into the problems together. I'll also provide suggestions and advice to help improve your game. Just to be clear, this is a paid…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "devforum:4981423",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
+      "author": "cherrypathy",
+      "date": "2026-11-08T00:12:33.718Z",
+      "title": "TuxBlox - The New Way to Run Roblox Studio on Linux",
+      "excerpt_en": "What is TuxBlox? TuxBlox is an open-source (GPL-3.0) launcher and compatibility layer for Roblox Studio. It runs the official, unmodified Roblox Windows client on Linux, using its own custom fork of Proton and Wine 11.0, built and tuned specifically for Roblox. It’s bundled with…",
+      "score": 4.2,
+      "tags": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 2,
+        "views": 84
+      },
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqjbez",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqjbez/built_a_treehouse_concept_earlier_i_miss_roblox/",
+      "author": "Artistic_Magazine_18",
+      "date": "2026-11-07T22:56:01.000Z",
+      "title": "Built a treehouse concept earlier; I miss ROBLOX studio!",
+      "excerpt_en": "I've been on Roblox since 2010, and I feel like the platform has become increasingly saturated with AI slop. There don't seem to be many genuinely detailed showcase games anymore where people can simply explore, appreciate the environment, and hang out. I'd love to bring that…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqpnxf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqpnxf/mesh_deformation_for_realistic_car_crashes/",
+      "author": "Distinct-Tie-3285",
+      "date": "2026-11-08T04:23:06.000Z",
+      "title": "Mesh Deformation for realistic car crashes",
+      "excerpt_en": "I added a new feature to my car crash system, inspired by BeamNG. It utilizes editable mesh to add part deformation. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T21:58:27.221Z",
+  "generated_at": "2026-11-08T06:14:44.444Z",
   "from_files": [
-    "2026-11-04.json",
     "2026-11-05.json",
     "2026-11-06.json",
-    "2026-11-07.json"
+    "2026-11-07.json",
+    "2026-11-08.json"
   ],
   "items": [
     {
@@ -63,21 +63,25 @@
       "first_seen": "2026-11-06T19:31:50.625Z"
     },
     {
-      "id": "reddit:t3_1xnmn4p",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnmn4p/how_to_increase_ccu_after_getting_into_the/",
-      "author": "Primary_March4865",
-      "date": "2026-11-04T12:12:07.000Z",
-      "title": "How to increase CCU after getting into the algorithm",
-      "excerpt_en": "I stopped ads about 5 days ago and since then my game was been getting 5–10 ccu, then I released an update and it was getting 30-40 then slowly ramped up over 30-60 minutes and reached 220ccu then it slowly started dropping again and was 40-70 for a bit then suddenly it just…",
-      "score": 19,
+      "id": "devforum:4981637",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637",
+      "author": "Smithyed",
+      "date": "2026-11-08T03:12:40.406Z",
+      "title": "[Release] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators",
+      "excerpt_en": "RoBulk Announcing the release to the community of RoBulk , a free Chrome extension developed by BloxSmithery that adds bulk management tools directly to the Roblox Creator Dashboard! This is exactly the tool we needed to manage our sales so we built it and are offering it to the…",
+      "score": 18.2,
       "tags": [
-        "metrics",
-        "discovery",
-        "numbers"
+        "revenue",
+        "monetization",
+        "story"
       ],
-      "engagement": {},
-      "first_seen": "2026-11-04T19:53:38.116Z"
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 23
+      },
+      "first_seen": "2026-11-08T06:14:44.389Z"
     },
     {
       "id": "reddit:t3_1xpxidp",
@@ -155,6 +159,46 @@
       "first_seen": "2026-11-07T21:58:27.164Z"
     },
     {
+      "id": "reddit:t3_1xqnkn0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqnkn0/am_i_just_stuck_on_20ccu_forever/",
+      "author": "Ok_Statistician6759",
+      "date": "2026-11-08T02:28:01.000Z",
+      "title": "Am I just stuck on 20CCU forever?",
+      "excerpt_en": "I averaged around 25 CCU throughout my ad campaign. After two weeks, Roblox's algorithm started picking up my game just as the campaign ended. Now it's day 4, and I'm still hovering between 10 and 20 CCU, with a highest peak of 31. Has anyone experienced something similar? Did…",
+      "score": 17,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "devforum:4981346",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
+      "author": "NeroCrafted",
+      "date": "2026-11-07T23:15:27.713Z",
+      "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
+      "excerpt_en": "Today, November 7, 2026, my experience suddenly stopped getting players from ads within just a few minutes. Everything was working normally, and players were joining through Experience Ads until the traffic suddenly dropped to almost nothing. The game eventually reached 0…",
+      "score": 16.8,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 30
+      },
+      "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
       "id": "devforum:4979885",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
@@ -196,22 +240,6 @@
         "views": 838
       },
       "first_seen": "2026-11-05T20:04:36.959Z"
-    },
-    {
-      "id": "reddit:t3_1xndy4t",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xndy4t/decrease_in_advertisement_impressions/",
-      "author": "North_Ad6541",
-      "date": "2026-11-04T03:38:41.000Z",
-      "title": "Decrease in Advertisement Impressions?",
-      "excerpt_en": "Anyone else recognise or notice lower impressions or advertisements. I’m running plays advertisement and wow the impressions are low based off previous ads I’ve run. I don’t have any settings or direct target audience. All players and plays ad campaign Anyone else notice…",
-      "score": 14,
-      "tags": [
-        "ads",
-        "discovery"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-04T06:37:57.934Z"
     },
     {
       "id": "reddit:t3_1xpcsj3",
@@ -266,26 +294,6 @@
         "views": 582
       },
       "first_seen": "2026-11-06T19:31:50.625Z"
-    },
-    {
-      "id": "devforum:4974489",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
-      "author": "TimerHotel",
-      "date": "2026-11-04T01:52:23.836Z",
-      "title": "Only 139 Home Rec impressions over 7 days",
-      "excerpt_en": "So I released a new game almost 2 weeks ago, ran sponsors, yada yada. Eventually it started getting a few home page impressions, but I’ve noticed that it’s getting way too few compared to what I’d expect: firefox_AFtvhQqh3p 1325×564 154 KB As you can see, since impressions…",
-      "score": 11.2,
-      "tags": [
-        "ads",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 25
-      },
-      "first_seen": "2026-11-04T06:37:57.934Z"
     }
   ]
 }
