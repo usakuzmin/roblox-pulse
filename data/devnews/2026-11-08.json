@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-08T06:14:44.389Z",
+  "generated_at": "2026-11-08T13:36:49.267Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 113603
+      "ms": 106784
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91585
+      "ms": 91592
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 3569
+      "fetched": 4,
+      "ms": 3857
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 140
+      "ms": 181
     },
     "hackernews": {
       "ok": true,
       "fetched": 6,
-      "ms": 202
+      "ms": 298
     }
   },
   "items": [
@@ -138,6 +138,21 @@
       "first_seen": "2026-11-08T06:14:44.389Z"
     },
     {
+      "id": "reddit:t3_1xqtr00",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqtr00/my_pixel_graphic_game_ui/",
+      "author": "Negan_lucile123",
+      "date": "2026-11-08T08:37:15.000Z",
+      "title": "My pixel graphic game UI",
+      "excerpt_en": "This is the UI I designed for my game. I'm sharing it to get some feedback and advice on marketing the game. ",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T13:36:49.267Z"
+    },
+    {
       "id": "devforum:4981423",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
@@ -179,6 +194,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xqoajz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqoajz/how_could_i_make_my_guy_scarier/",
+      "author": "Original-Yak-2004",
+      "date": "2026-11-08T03:07:10.000Z",
+      "title": "how could i make my guy scarier?",
+      "excerpt_en": "i feel like this thing isn't scary enough. it'd be much appreciate on how to make this look scarier. (btw the thing at the top back of his head is his ears) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T13:36:49.267Z"
+    },
+    {
+      "id": "reddit:t3_1xqv4jy",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqv4jy/can_i_use_toolbox_assets_like_models/",
+      "author": "salataaa1",
+      "date": "2026-11-08T10:09:59.000Z",
+      "title": "Can I use toolbox assets, like models?",
+      "excerpt_en": "I just got into game developing and I want to test some things using user/Roblox created assets. Am I allowed to use them or can I get sued or something like that? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T13:36:49.267Z"
+    },
+    {
+      "id": "reddit:t3_1xq0ndn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0ndn/hello_beginner_here_can_this_get_me_money/",
+      "author": "SolutionPurple237",
+      "date": "2026-11-07T07:37:07.000Z",
+      "title": "hello beginner here can this get me money ?",
+      "excerpt_en": "https://preview.redd.it/83up65ow850i1.png?width=709&format=png&auto=webp&s=197717c4b07549a3e71830fc45d671e547abec06 it still needs work tho ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T13:36:49.267Z"
     }
   ]
 }
