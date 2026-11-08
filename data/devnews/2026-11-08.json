@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-11-08T13:36:49.267Z",
+  "generated_at": "2026-11-08T22:16:17.109Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 106784
+      "ms": 112079
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91592
+      "ms": 91234
     },
     "rss": {
       "ok": true,
       "fetched": 4,
-      "ms": 3857
+      "ms": 2943
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 181
+      "ms": 115
     },
     "hackernews": {
       "ok": true,
-      "fetched": 6,
-      "ms": 298
+      "fetched": 4,
+      "ms": 215
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xr4eoc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr4eoc/investor_entity_original_asym_horror_game_seeking/",
+      "author": "Double-Grape-4232",
+      "date": "2026-11-08T17:51:26.000Z",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)",
+      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
     {
       "id": "devforum:4981637",
       "source": "devforum",
@@ -91,6 +109,64 @@
       "first_seen": "2026-11-08T06:14:44.389Z"
     },
     {
+      "id": "devforum:4982569",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/799-540-christmas-assets/4982569",
+      "author": "TrippingDawg",
+      "date": "2026-11-08T16:22:06.543Z",
+      "title": "[$7.99] 540+ Christmas assets",
+      "excerpt_en": "Ola people! I’ve been working on a few horror games lately, trying out lots of ideas and themes. One of them was a Christmas game that we decided to take in a completely different direction. It’s not scrapped, it’s just a different concept now. Since we’re changing direction…",
+      "score": 16.4,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 0,
+        "views": 91
+      },
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xr5g2c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr5g2c/how_does_this_game_have_70k_ccu/",
+      "author": "Steel_YT",
+      "date": "2026-11-08T18:33:38.000Z",
+      "title": "How does this game have 70k CCU?",
+      "excerpt_en": "https://preview.redd.it/8dxeyaezmf0i1.png?width=1012&format=png&auto=webp&s=c1e3b3fac58bc39282dd8aad9107a606b7e3b6d3 I played the game for a bit and its really simple, you only get a few guns and you can spawn some characters on a baseplate, theres literally nothing else to it…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "devforum:4983055",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
+      "author": "SupremeViande",
+      "date": "2026-11-08T20:58:26.379Z",
+      "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
+      "excerpt_en": "Hello everyone, I’ve been working on this game for quite a while now. I created the experience in late april, worked on it for around 3-4 months, published the game and ran ads. it wasn’t that bad, I also updated the game multiple times. I eventually reached the Highly Engaged…",
+      "score": 14.7,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 20
+      },
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
       "id": "reddit:t3_1xqn2nb",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqn2nb/rule_changes_ai_in_posts_limited_to_discussion/",
@@ -106,6 +182,72 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xraevf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xraevf/help_me_improve_my_stats/",
+      "author": "Final-Ad1893",
+      "date": "2026-11-08T22:01:36.000Z",
+      "title": "Help me improve my stats",
+      "excerpt_en": "https://preview.redd.it/kg17yh5sng0i1.png?width=2781&format=png&auto=webp&s=de72500004f91ea4f1f3f532d5131ea512261850 I advertised the game on roblox, but my retention is so low, someone can give me tips to increase my retention, i don't wanna add some perks to join everyday…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xr4gi5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr4gi5/i_cant_buy_ads_credit/",
+      "author": "Choice_Bill_1336",
+      "date": "2026-11-08T17:53:29.000Z",
+      "title": "I cant buy ads credit",
+      "excerpt_en": "I don’t know why I’m getting this error. I have over $100 on each card, and it doesn’t even show any attempted charges—the error pops up instantly. I’ve tried on both my phone and PC, tested it using settings for the U.S. and for my own country, and even tried with other…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "devforum:4979978",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/players-leave-my-farming-game-early-%E2%80%93-feedback-for-feedback/4979978",
+      "author": "SergMajV11",
+      "date": "2026-11-07T08:16:41.476Z",
+      "title": "Players Leave My Farming Game Early – Feedback for Feedback",
+      "excerpt_en": "Hi everyone! Feedback for feedback: if you give me feedback, I’ll happily play your game and give you honest, detailed feedback back. Just drop your game link in your reply. I’m working on Farmers Valley – Farm with Friends , a cozy farming game where you plant crops, raise…",
+      "score": 8.3,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 15,
+        "replies": 7,
+        "views": 145
+      },
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xr6ztb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr6ztb/why_is_my_ad_campaign_completely_invisible/",
+      "author": "Rustygamess",
+      "date": "2026-11-08T19:36:33.000Z",
+      "title": "Why is my ad campaign completely invisible?",
+      "excerpt_en": "Last night i bought an ad campaign to run for 2 days and spend 10 credits, it was scheduled to run for midnight, then an hour latter, it just dissapeared out of my manage ads. no notification or anything. so i tried to create another one, and it didnt appear, again, didnt…",
+      "score": 8,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
     },
     {
       "id": "reddit:t3_1xqr7vi",
@@ -153,6 +295,38 @@
       "first_seen": "2026-11-08T13:36:49.267Z"
     },
     {
+      "id": "reddit:t3_1xr5dtp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr5dtp/subject_feature_concept_physical_roblox_advent/",
+      "author": "Klutzy_Crab3623",
+      "date": "2026-11-08T18:31:04.000Z",
+      "title": "Subject: Feature Concept: Physical Roblox Advent Calendars with Interactive In-Game Quest System",
+      "excerpt_en": "Dear Roblox Team, I have a unique and exciting concept for an official physical Roblox Advent Calendar that bridges the gap between a real-world product and an interactive in-game quest system. Below is the detailed breakdown of how this feature and system would work. Overview…",
+      "score": 5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "devforum:4980569",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-should-item-data-be-structured-and-managed-in-a-custom-inventory-system/4980569",
+      "author": "exvirus2",
+      "date": "2026-11-07T15:29:07.419Z",
+      "title": "How Should Item Data Be Structured and Managed in a Custom Inventory System?",
+      "excerpt_en": "I’m planning to implement a custom inventory system, and I’d like to hear some suggestions on how to structure it properly. First of all, right now I only have one item (Tool) that uses the Durability attribute. It decreases with each use until it eventually reaches 0 HP, at…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 9,
+        "views": 95
+      },
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
       "id": "devforum:4981423",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
@@ -168,6 +342,21 @@
         "views": 84
       },
       "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xr0ajb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr0ajb/how_do_i_improve_playtime/",
+      "author": "Some_Advertising_791",
+      "date": "2026-11-08T14:57:16.000Z",
+      "title": "How do I improve playtime?",
+      "excerpt_en": "A positive is my 10% CTR however the bounce rate is high and playtime is low. I'm on the fence of abandoning this project, cause the core game might simply be fundamentally uninteresting. 99% of players are on mobile btw To increase playtime, I added following things - Very…",
+      "score": 4,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
     },
     {
       "id": "reddit:t3_1xqjbez",
@@ -233,6 +422,61 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-08T13:36:49.267Z"
+    },
+    {
+      "id": "reddit:t3_1xn3nm8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn3nm8/making_a_physically_realistic_tactical_gun_system/",
+      "author": "aliacfvb",
+      "date": "2026-11-03T20:08:01.000Z",
+      "title": "making a physically realistic tactical gun system",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xr8sjk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr8sjk/new_to_roblox_development_need_a_little_help/",
+      "author": "WatsonTTBK",
+      "date": "2026-11-08T20:51:37.000Z",
+      "title": "New to Roblox development. Need a little help",
+      "excerpt_en": "So there's a hundred games that copy other Roblox games. Like 99 nights in the forest. I've seen like 30 other games with the deer and so on in their game. If I put the deer in my game, with a different story what would happen if it got big? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xqu1xq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqu1xq/my_new_uk_roleplay_game/",
+      "author": "Noobieowo",
+      "date": "2026-11-08T08:57:49.000Z",
+      "title": "My new UK roleplay game",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xr7707",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr7707/made_a_new_game_recently_need_help/",
+      "author": "arasevoli",
+      "date": "2026-11-08T19:44:48.000Z",
+      "title": "Made a new game recently, need help",
+      "excerpt_en": "these are my stats (it hasnt been out for over 7 days). they seem very good, looking at them. this is out of 1k visits. i've spent about $40 on ads so far and haven't been posting on social media. i don't really know how to get my game out there and reach the 100 engaged player…",
+      "score": 3,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
     }
   ]
 }
