@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:48:42.227Z",
+  "generated_at": "2026-11-09T22:30:54.381Z",
   "from_files": [
     "2026-11-06.json",
     "2026-11-07.json",
@@ -258,42 +258,40 @@
       "first_seen": "2026-11-07T13:15:17.106Z"
     },
     {
-      "id": "reddit:t3_1xr5g2c",
+      "id": "reddit:t3_1xrpqp0",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr5g2c/how_does_this_game_have_70k_ccu/",
-      "author": "Steel_YT",
-      "date": "2026-11-08T18:33:38.000Z",
-      "title": "How does this game have 70k CCU?",
-      "excerpt_en": "https://preview.redd.it/8dxeyaezmf0i1.png?width=1012&format=png&auto=webp&s=c1e3b3fac58bc39282dd8aad9107a606b7e3b6d3 I played the game for a bit and its really simple, you only get a few guns and you can spawn some characters on a baseplate, theres literally nothing else to it…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-08T22:16:17.109Z"
-    },
-    {
-      "id": "devforum:4983055",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
-      "author": "SupremeViande",
-      "date": "2026-11-08T20:58:26.379Z",
-      "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
-      "excerpt_en": "Hello everyone, I’ve been working on this game for quite a while now. I created the experience in late april, worked on it for around 3-4 months, published the game and ran ads. it wasn’t that bad, I also updated the game multiple times. I eventually reached the Highly Engaged…",
-      "score": 14.7,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpqp0/is_my_game_doing_good/",
+      "author": "lygail",
+      "date": "2026-11-09T11:54:19.000Z",
+      "title": "Is my game doing good?",
+      "excerpt_en": "Is my game doing well? Ran ads for 13 dollars first day and 5 dollars daily for 2 days, can't run ads now since im out of money lmao. Can i still continue my ad campaign after I save some money from my school allowance? Or will it be a flop already? During ads, it averages 20…",
+      "score": 16,
       "tags": [
         "metrics",
         "ads",
-        "marketing",
-        "discovery"
+        "story",
+        "numbers"
       ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 20
-      },
-      "first_seen": "2026-11-08T22:16:17.109Z"
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs3gpc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/",
+      "author": "JamesWinlee",
+      "date": "2026-11-09T20:55:01.000Z",
+      "title": "Huge jump in highly engaged players?",
+      "excerpt_en": "I'm 3 days in to a $16/day 1 week campaign, took me 3 days to hit 160 highly engaged, and it was at 160 between 9 am and 10 am, then 2 hours later I check and its at 252, why??? What does this mean for my game? Right now I avg 10 ccu, 5k total plays, 141k impressions off 41…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
     }
   ]
 }

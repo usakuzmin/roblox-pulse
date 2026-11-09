@@ -1,34 +1,139 @@
 {
-  "generated_at": "2026-11-09T06:48:42.163Z",
+  "generated_at": "2026-11-09T22:30:54.324Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 107935
+      "ms": 106689
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91672
+      "ms": 91644
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 3642
+      "fetched": 3,
+      "ms": 16016
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 75
+      "ms": 236
     },
     "hackernews": {
       "ok": true,
-      "fetched": 4,
-      "ms": 216
+      "fetched": 2,
+      "ms": 254
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xrpqp0",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpqp0/is_my_game_doing_good/",
+      "author": "lygail",
+      "date": "2026-11-09T11:54:19.000Z",
+      "title": "Is my game doing good?",
+      "excerpt_en": "Is my game doing well? Ran ads for 13 dollars first day and 5 dollars daily for 2 days, can't run ads now since im out of money lmao. Can i still continue my ad campaign after I save some money from my school allowance? Or will it be a flop already? During ads, it averages 20…",
+      "score": 16,
+      "tags": [
+        "metrics",
+        "ads",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs3gpc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/",
+      "author": "JamesWinlee",
+      "date": "2026-11-09T20:55:01.000Z",
+      "title": "Huge jump in highly engaged players?",
+      "excerpt_en": "I'm 3 days in to a $16/day 1 week campaign, took me 3 days to hit 160 highly engaged, and it was at 160 between 9 am and 10 am, then 2 hours later I check and its at 252, why??? What does this mean for my game? Right now I avg 10 ccu, 5k total plays, 141k impressions off 41…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "metrics",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs58im",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
+      "author": "15Momoz",
+      "date": "2026-11-09T22:03:44.000Z",
+      "title": "Our game is at 1.3K CCU!",
+      "excerpt_en": "We recently posted that my game peaked at 98CCU but it immediately dropped back down to about 10CCU. We stayed consistent with updates and listened to the community and reached this milestone. I’m posting this to show to you guys that you should stay committed to your games and…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs3tm6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
+      "author": "ZettAy6111",
+      "date": "2026-11-09T21:08:30.000Z",
+      "title": "Looking for music composer for a passionate project (PvZ Fangame)",
+      "excerpt_en": "Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project, we want to give the game its own…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrozd7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrozd7/whatcha_think_of_my_games_thumbnail/",
+      "author": "Forsaken_Swan_6968",
+      "date": "2026-11-09T11:10:36.000Z",
+      "title": "What'cha think of my game's Thumbnail?",
+      "excerpt_en": "The current one's boring and outdated, so I made a new one for the front page to see ^^ This will be released alongside the big update! ",
+      "score": 12,
+      "tags": [
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "devforum:4984216",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/paying-50k-to-get-a-game-16/4984216",
+      "author": "ChadTheCreator",
+      "date": "2026-11-09T16:17:48.059Z",
+      "title": "Paying 50k to get a game <16?",
+      "excerpt_en": "So I know you can pay 50,000 Robux ($190) to have an expedited, personal review on your game. image 507×219 17.7 KB But how does this work? I keep getting mixed answers. When the review is done, do you get refunded the 50k? When the review is done, is the 50k lost forever? When…",
+      "score": 11.3,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 4,
+        "replies": 3,
+        "views": 90
+      },
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
     {
       "id": "reddit:t3_1xr982r",
       "source": "reddit",
@@ -62,6 +167,98 @@
       "first_seen": "2026-11-09T06:48:42.163Z"
     },
     {
+      "id": "devforum:4983932",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-overusing-modules-bad/4983932",
+      "author": "NastyaMafine",
+      "date": "2026-11-09T12:20:12.381Z",
+      "title": "Is Overusing Modules bad?",
+      "excerpt_en": "I love Module scripts, especially when it comes to tweens and stuff like that. But i feel like im overusing them, so.. i had a question: Does module overusage really bad? How bad can it affect to my game? Also: If this is really bad problem, how can i solve it? Would be cool to…",
+      "score": 6.2,
+      "tags": [],
+      "engagement": {
+        "likes": 19,
+        "replies": 9,
+        "views": 154
+      },
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrmz11",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrmz11/im_opening_animation_commision/",
+      "author": "MrWill_789",
+      "date": "2026-11-09T09:06:55.000Z",
+      "title": "im opening animation commision",
+      "excerpt_en": "if youre interisted i can help you in making animation for your game https://discord.gg/3r6q6QyB https://www.tiktok.com/@wilz.io?\\_r=1&\\_t=ZS-9BFzWuSgm5k ",
+      "score": 6,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs4vt4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/",
+      "author": "WinReasonable3771",
+      "date": "2026-11-09T21:49:48.000Z",
+      "title": "Looking for a Playtester? I'm Available!",
+      "excerpt_en": "I'm Open for Game Testing Again! Need honest feedback before launching your Roblox game? Struggling with low retention or player count? I can help identify problems and suggest improvements. What I offer - Testing on PC, mobile, and tablet. - 2 sessions, 2 hours each (4 hours…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xs3hyo",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3hyo/want_to_know_if_its_decent_enough_to_run_ads/",
+      "author": "LaiosW",
+      "date": "2026-11-09T20:56:23.000Z",
+      "title": "Want to know if its decent enough to run ads",
+      "excerpt_en": "So I recently finished a new game and I'd like you guys' opinion. It's already published I want to know if this game has potential, nothing crazy just can it get to 1k+ ccu? and any tips on how to manage ads. game is called Finish The Puzzle by Laios_wrath…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrtdz8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrtdz8/looking_for_constructive_feedback/",
+      "author": "APointProven",
+      "date": "2026-11-09T14:41:36.000Z",
+      "title": "Looking for constructive feedback",
+      "excerpt_en": "My game has been struggling immensely so I’ve been updating it as much as possible on my 2-week vacation from my day job. I’m close to giving up on it, but I feel like it has potential. I’m just probably missing something/overlooking something. The game is a room runner type…",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrpktq",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpktq/players_leaving_within_1_second_of_joining/",
+      "author": "Glass-Chipmunk-901",
+      "date": "2026-11-09T11:45:15.000Z",
+      "title": "Players leaving within 1 second of joining",
+      "excerpt_en": "​ Whenever I'm in game, (I spend 3 ad credits daily), some players I've seen play for over 15+ minutes. I wasn't sure why my average playtime was 4 minutes. However, when playing my game again today, I noticed every so often a bacon hair would join, and these players would leave…",
+      "score": 6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
       "id": "reddit:t3_1xreu1d",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xreu1d/can_anyone_help_me_with_some_sort_of_painting/",
@@ -92,6 +289,21 @@
       "first_seen": "2026-11-09T06:48:42.163Z"
     },
     {
+      "id": "reddit:t3_1xrprw6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrprw6/stop_ads_or_continue/",
+      "author": "Greedy-Pea-5637",
+      "date": "2026-11-09T11:56:14.000Z",
+      "title": "Stop Ads or Continue?",
+      "excerpt_en": "I've been running ads for around 5 days now. Im just now starting to get home recommendation impressions. Should I stop ads now, or continue them for a couple more days? I still havent hit algorithm yet, the ads are keeping the game alive besides around 15 or 20 dedicated…",
+      "score": 5,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
       "id": "reddit:t3_1xrdume",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrdume/working_on_procedural_facial_animations_and/",
@@ -116,6 +328,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xrwn4n",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrwn4n/best_way_to_efficiently_practice_animations/",
+      "author": "Medium_System2027",
+      "date": "2026-11-09T16:43:55.000Z",
+      "title": "Best way to efficiently practice animations?",
+      "excerpt_en": "R6 animator , I have animator experience (but its from stick stuff) but I want to know secure tips that can help me improve or something to keep me practicing daily ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrpax8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpax8/opening_scene_for_my_roblox_horror_game/",
+      "author": "dogpizz",
+      "date": "2026-11-09T11:29:34.000Z",
+      "title": "Opening scene for my roblox horror game!",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xrf031",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrf031/anybody_want_free_music_or_sfx_for_their_roblox/",
+      "author": "MazorAtom",
+      "date": "2026-11-09T01:36:55.000Z",
+      "title": "Anybody want free music or SFX for their ROBLOX game?",
+      "excerpt_en": "Hey everyone! I used to make music and SFX for ROBLOX games a while ago and have been wanting to get back into it. I've worked on a good amount of games in the past and am trying to get back into the scene and hopefully start making some money from it again! Since I've been away…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
     }
   ]
 }
