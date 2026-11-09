@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-11-09T06:48:42.163Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 107935
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91672
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 3642
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 75
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 216
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xr982r",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr982r/cant_get_players_on_my_game_1_bomb_throwing/",
+      "author": "WinByBit",
+      "date": "2026-11-08T21:09:56.000Z",
+      "title": "Can't get players on my game (+1 Bomb Throwing)",
+      "excerpt_en": "I just released a new game on Roblox, and even put ads on it, but somehow it's not getting any players. It's at around 120 visits and I barely join to 1 CCU and I'm not even close to 250 HEP. It's a super high quality and polished game with decent thumbnails but it's still not…",
+      "score": 9,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xra5ns",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xra5ns/how_do_i_improve_payer_conversion/",
+      "author": "After-Isopod-8607",
+      "date": "2026-11-08T21:50:36.000Z",
+      "title": "how do i improve payer conversion",
+      "excerpt_en": "btw ik this is ai slop idk how tf i got 10k visits especially when locked to 16+ maybe its because the idea is bad or because the game is poorly monitized i genuintly got no idea ",
+      "score": 7,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xreu1d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xreu1d/can_anyone_help_me_with_some_sort_of_painting/",
+      "author": "Glittering_Acadia_11",
+      "date": "2026-11-09T01:28:21.000Z",
+      "title": "Can anyone help me with some sort of painting system?",
+      "excerpt_en": "Apologizes if this is the wrong flair, but I recently came up with an idea for a Roblox game that involves a painting system. I’d like for it to work like this: 1. The player presses a button and it pulls up a blank canvas. 2. There are 4 main “tools”: - An adjustable opacity…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xrdnb6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrdnb6/how_can_i_keep_players_engaged_longer_in_my/",
+      "author": "Quick_Lychee_723",
+      "date": "2026-11-09T00:30:14.000Z",
+      "title": "How can I keep players engaged longer in my Roblox game?",
+      "excerpt_en": "Hi everyone! I released my first Roblox game over the weekend! Currently, around 300 players visit my game each day, but most seem to leave after playing for about 5 minutes. My game is about exploring a map and collecting animals. After watching how players interact with the…",
+      "score": 5,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xrdume",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrdume/working_on_procedural_facial_animations_and/",
+      "author": "ryduzz",
+      "date": "2026-11-09T00:39:47.000Z",
+      "title": "Working on procedural facial animations and dynamic injuries for my upcoming Roblox game",
+      "excerpt_en": "feedback welcome, pretty happy with how it's turning out so far! ryduzz.com/discord for updates :) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    },
+    {
+      "id": "reddit:t3_1xr8486",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr8486/should_i_release_this_game/",
+      "author": "Sea-Caregiver3858",
+      "date": "2026-11-08T20:22:23.000Z",
+      "title": "Should i release this game",
+      "excerpt_en": "https://preview.redd.it/omm2jww75g0i1.png?width=1290&format=png&auto=webp&s=40a0966992ae2695417994caef5e390b1078f868 https://preview.redd.it/oju652ri5g0i1.png?width=1260&format=png&auto=webp&s=b53541bfaa6ca0549dcf96feada632037fe16306 So i am working on a game Which will be like…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-09T06:48:42.163Z"
+    }
+  ]
+}
