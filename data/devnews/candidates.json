@@ -1,67 +1,12 @@
 {
-  "generated_at": "2026-11-09T22:30:54.381Z",
+  "generated_at": "2026-11-10T07:30:09.318Z",
   "from_files": [
-    "2026-11-06.json",
     "2026-11-07.json",
     "2026-11-08.json",
-    "2026-11-09.json"
+    "2026-11-09.json",
+    "2026-11-10.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1xpeooc",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpeooc/help_understanding_if_my_home_recommendation/",
-      "author": "Dizzy-Criticism-2649",
-      "date": "2026-11-06T14:51:05.000Z",
-      "title": "Help understanding if my home recommendation exposure is normal",
-      "excerpt_en": "You can ignore the purple line, that was the first thumbnail was testing and it had a pretty low QPTR so I think the algorithm just started only pushing my second thumbnail (the green line). As you can see, every team a new peak was reached, a big drop followed. This most recent…",
-      "score": 21,
-      "tags": [
-        "metrics",
-        "ads",
-        "marketing",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-06T19:31:50.625Z"
-    },
-    {
-      "id": "reddit:t3_1xosssd",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
-      "author": "Double-Grape-4232",
-      "date": "2026-11-05T20:06:17.000Z",
-      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
-      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
-      "score": 20,
-      "tags": [
-        "revenue",
-        "monetization",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-06T06:59:01.794Z"
-    },
-    {
-      "id": "reddit:t3_1xpa8c9",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpa8c9/investor_entity_original_asym_horror_game_seeking/",
-      "author": "Double-Grape-4232",
-      "date": "2026-11-06T11:11:15.000Z",
-      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)",
-      "excerpt_en": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory…",
-      "score": 20,
-      "tags": [
-        "revenue",
-        "monetization",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-06T19:31:50.625Z"
-    },
     {
       "id": "reddit:t3_1xr4eoc",
       "source": "reddit",
@@ -120,43 +65,22 @@
       "first_seen": "2026-11-07T06:10:14.681Z"
     },
     {
-      "id": "devforum:4978391",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391",
-      "author": "afraidoftheheight",
-      "date": "2026-11-06T09:57:49.899Z",
-      "title": "How do I get my somewhat \"niche\" game past 0 CCU?",
-      "excerpt_en": "I’ve been working on a game called “Many Movements” (somewhat complex freeform movement game) for the past two years (since 11/15/2024 specifically), and I released it 10/18/2026, to which it had around 20 CCU, but rapidly fell off in the next few days. I released SFM on…",
-      "score": 17.7,
-      "tags": [
-        "metrics",
-        "marketing",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 8,
-        "replies": 3,
-        "views": 67
-      },
-      "first_seen": "2026-11-06T19:31:50.625Z"
-    },
-    {
-      "id": "reddit:t3_1xouhi9",
+      "id": "reddit:t3_1xs76ow",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
-      "author": "Zestyclose_Ad5827",
-      "date": "2026-11-05T21:14:00.000Z",
-      "title": "Sudden seemingly permanent drop in CCU",
-      "excerpt_en": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? ",
-      "score": 17,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs76ow/dev_log_followup_my_d1_went_185_313_after_the/",
+      "author": "Suspicious_Swan4988",
+      "date": "2026-11-09T23:21:55.000Z",
+      "title": "Dev log follow-up: my D1 went 1.85% → 3.13% after the first-minute rework — retention is still the whole fight",
+      "excerpt_en": "Solo dev here — Sebastian, building EXIT POINT (wingsuit / skydiving / BASE jumping on Roblox) in public. Follow-up to my launch post from a few weeks ago — three commenters here tore apart my first minute, so this sub gets the honest numbers first.The headline: acquisition…",
+      "score": 18,
       "tags": [
         "metrics",
         "ads",
+        "studio",
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-06T06:59:01.794Z"
+      "first_seen": "2026-11-10T07:30:09.271Z"
     },
     {
       "id": "reddit:t3_1xqan9r",
@@ -289,6 +213,77 @@
         "metrics",
         "discovery",
         "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "reddit:t3_1xr5g2c",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr5g2c/how_does_this_game_have_70k_ccu/",
+      "author": "Steel_YT",
+      "date": "2026-11-08T18:33:38.000Z",
+      "title": "How does this game have 70k CCU?",
+      "excerpt_en": "https://preview.redd.it/8dxeyaezmf0i1.png?width=1012&format=png&auto=webp&s=c1e3b3fac58bc39282dd8aad9107a606b7e3b6d3 I played the game for a bit and its really simple, you only get a few guns and you can spawn some characters on a baseplate, theres literally nothing else to it…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xs58im",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
+      "author": "15Momoz",
+      "date": "2026-11-09T22:03:44.000Z",
+      "title": "Our game is at 1.3K CCU!",
+      "excerpt_en": "We recently posted that my game peaked at 98CCU but it immediately dropped back down to about 10CCU. We stayed consistent with updates and listened to the community and reached this milestone. I’m posting this to show to you guys that you should stay committed to your games and…",
+      "score": 15,
+      "tags": [
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-09T22:30:54.324Z"
+    },
+    {
+      "id": "devforum:4983055",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
+      "author": "SupremeViande",
+      "date": "2026-11-08T20:58:26.379Z",
+      "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
+      "excerpt_en": "Hello everyone, I’ve been working on this game for quite a while now. I created the experience in late april, worked on it for around 3-4 months, published the game and ran ads. it wasn’t that bad, I also updated the game multiple times. I eventually reached the Highly Engaged…",
+      "score": 14.7,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 20
+      },
+      "first_seen": "2026-11-08T22:16:17.109Z"
+    },
+    {
+      "id": "reddit:t3_1xs3tm6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
+      "author": "ZettAy6111",
+      "date": "2026-11-09T21:08:30.000Z",
+      "title": "Looking for music composer for a passionate project (PvZ Fangame)",
+      "excerpt_en": "Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project, we want to give the game its own…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization"
       ],
       "engagement": {},
       "first_seen": "2026-11-09T22:30:54.324Z"

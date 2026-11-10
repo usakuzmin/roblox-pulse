@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-11-10T07:30:09.271Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 116408
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 100,
+      "ms": 91727
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 3,
+      "ms": 6715
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 176
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 1655
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xs76ow",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs76ow/dev_log_followup_my_d1_went_185_313_after_the/",
+      "author": "Suspicious_Swan4988",
+      "date": "2026-11-09T23:21:55.000Z",
+      "title": "Dev log follow-up: my D1 went 1.85% → 3.13% after the first-minute rework — retention is still the whole fight",
+      "excerpt_en": "Solo dev here — Sebastian, building EXIT POINT (wingsuit / skydiving / BASE jumping on Roblox) in public. Follow-up to my launch post from a few weeks ago — three commenters here tore apart my first minute, so this sub gets the honest numbers first.The headline: acquisition…",
+      "score": 18,
+      "tags": [
+        "metrics",
+        "ads",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xsgp00",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
+      "author": "hazenn-ch",
+      "date": "2026-11-10T07:26:05.000Z",
+      "title": "are roblox ad players real/need general advice",
+      "excerpt_en": "i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are people that join and leave within 5…",
+      "score": 12,
+      "tags": [
+        "metrics",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "devforum:4984934",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
+      "author": "agaetisbyrun",
+      "date": "2026-11-10T00:32:32.929Z",
+      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
+      "excerpt_en": "Hey Creators, We’re launching the 2027 Roblox Incubator, which gives ambitious teams hands-on support from Roblox to turn a novel game idea into a polished, launch-ready title. Our goal is to bring more 18+ players to Roblox, and games that feel new in mechanics, depth, and…",
+      "score": 10.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 2,
+        "views": 461
+      },
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "devforum:4984986",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
+      "author": "2XIth",
+      "date": "2026-11-10T01:39:44.602Z",
+      "title": "Allow Players to Gift Roblox Plus Subscriptions",
+      "excerpt_en": "Allow Players to Gift Roblox Plus Subscriptions! The Problem As a Roblox developer and player, it is currently too hard to gift subscription benefits to other users, particularly with the introduction and increasing promotion of Roblox Plus. Roblox has already introduced the…",
+      "score": 10.8,
+      "tags": [
+        "marketing",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 24
+      },
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xse9gp",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/",
+      "author": "slimebrowser",
+      "date": "2026-11-10T05:03:01.000Z",
+      "title": "What do you guys think about my thumbnail?",
+      "excerpt_en": "New thumbnail for my game OVERDUE , based off the game mode, Mayhem . Any feedback much appreciated! ",
+      "score": 9,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xs6df9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs6df9/my_first_roblox_game_is_finally_out_what_should_i/",
+      "author": "_Apyr_Apyr_",
+      "date": "2026-11-09T22:49:30.000Z",
+      "title": "My first Roblox game is finally out! What should I do next?",
+      "excerpt_en": "My friend and I recently released the first version of our game! It took quite a while to get everything ready. We spent about 6 months programming this version, but overall, it's been a really fun experience. For a first game, I suppose we were pretty ambitious. We decided to…",
+      "score": 5,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xs5e7b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs5e7b/do_i_have_to_use_r6_models/",
+      "author": "notkaileyyy",
+      "date": "2026-11-09T22:09:57.000Z",
+      "title": "do i have to use r6 models?",
+      "excerpt_en": "i'm making a story-driven open-world ARPG and am planning to make custom character models for both the player and npcs. after talking to some people about the idea i've gotten mixed feedback on not using the classic r6 models. some people liked my models, but many others heavily…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xsa34d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa34d/pickleball_demo/",
+      "author": "Lean_Orange95716",
+      "date": "2026-11-10T01:32:25.000Z",
+      "title": "Pickleball Demo",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    }
+  ]
+}
