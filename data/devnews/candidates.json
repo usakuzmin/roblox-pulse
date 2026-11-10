@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:30:09.318Z",
+  "generated_at": "2026-11-10T19:52:10.366Z",
   "from_files": [
     "2026-11-07.json",
     "2026-11-08.json",
@@ -7,6 +7,25 @@
     "2026-11-10.json"
   ],
   "items": [
+    {
+      "id": "reddit:t3_1xsiw9n",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiw9n/revshare_hatch_n_match_looking_for_3d_artists_ui/",
+      "author": "scissor_bedwars",
+      "date": "2026-11-10T09:50:36.000Z",
+      "title": "[REVSHARE] Hatch N Match — Looking for 3D Artists, UI Designers, Gameplay Designers & a Marketing Partner",
+      "excerpt_en": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced…",
+      "score": 23,
+      "tags": [
+        "revenue",
+        "metrics",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
     {
       "id": "reddit:t3_1xr4eoc",
       "source": "reddit",
@@ -83,6 +102,27 @@
       "first_seen": "2026-11-10T07:30:09.271Z"
     },
     {
+      "id": "devforum:4985415",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
+      "author": "misesunny",
+      "date": "2026-11-10T08:12:09.713Z",
+      "title": "Roblox isn't recommending game to high-revenue countries",
+      "excerpt_en": "We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game being primarily recommended to…",
+      "score": 17.8,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 37
+      },
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
       "id": "reddit:t3_1xqan9r",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqan9r/i_m_looking_for_studios_who_invest_in_games_im/",
@@ -117,6 +157,24 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-08T06:14:44.389Z"
+    },
+    {
+      "id": "reddit:t3_1xst16y",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst16y/revshare_looking_for_experienced_roblox_luau/",
+      "author": "terminator38roblox",
+      "date": "2026-11-10T17:30:17.000Z",
+      "title": "[REVSHARE] Looking for Experienced Roblox Luau Scripter / Gameplay Developer",
+      "excerpt_en": "Hey everyone! I'm the solo developer of Hatch N Match, a nearly completed Roblox game focused on hatching, collecting, riding and battling dinosaurs. I've already developed most of the core systems, including egg gacha, plot claiming, hatching, dinosaur battles, shops…",
+      "score": 17,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
       "id": "devforum:4981346",
@@ -218,75 +276,21 @@
       "first_seen": "2026-11-09T22:30:54.324Z"
     },
     {
-      "id": "reddit:t3_1xr5g2c",
+      "id": "reddit:t3_1xst51i",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr5g2c/how_does_this_game_have_70k_ccu/",
-      "author": "Steel_YT",
-      "date": "2026-11-08T18:33:38.000Z",
-      "title": "How does this game have 70k CCU?",
-      "excerpt_en": "https://preview.redd.it/8dxeyaezmf0i1.png?width=1012&format=png&auto=webp&s=c1e3b3fac58bc39282dd8aad9107a606b7e3b6d3 I played the game for a bit and its really simple, you only get a few guns and you can spawn some characters on a baseplate, theres literally nothing else to it…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-08T22:16:17.109Z"
-    },
-    {
-      "id": "reddit:t3_1xs58im",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
-      "author": "15Momoz",
-      "date": "2026-11-09T22:03:44.000Z",
-      "title": "Our game is at 1.3K CCU!",
-      "excerpt_en": "We recently posted that my game peaked at 98CCU but it immediately dropped back down to about 10CCU. We stayed consistent with updates and listened to the community and reached this milestone. I’m posting this to show to you guys that you should stay committed to your games and…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
-    },
-    {
-      "id": "devforum:4983055",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
-      "author": "SupremeViande",
-      "date": "2026-11-08T20:58:26.379Z",
-      "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
-      "excerpt_en": "Hello everyone, I’ve been working on this game for quite a while now. I created the experience in late april, worked on it for around 3-4 months, published the game and ran ads. it wasn’t that bad, I also updated the game multiple times. I eventually reached the Highly Engaged…",
-      "score": 14.7,
-      "tags": [
-        "metrics",
-        "ads",
-        "marketing",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 20
-      },
-      "first_seen": "2026-11-08T22:16:17.109Z"
-    },
-    {
-      "id": "reddit:t3_1xs3tm6",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
-      "author": "ZettAy6111",
-      "date": "2026-11-09T21:08:30.000Z",
-      "title": "Looking for music composer for a passionate project (PvZ Fangame)",
-      "excerpt_en": "Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project, we want to give the game its own…",
-      "score": 13,
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst51i/revshare_looking_for_roblox_thumbnail_branding/",
+      "author": "terminator38roblox",
+      "date": "2026-11-10T17:34:20.000Z",
+      "title": "[REVSHARE] Looking for Roblox Thumbnail, Branding & SFX Artists — Hatch N Match",
+      "excerpt_en": "Hey everyone! I'm currently looking for a Branding / Thumbnail Designer and an SFX Designer for my Roblox game, Hatch N Match. Hatch N Match is a nearly completed dinosaur hatching, collecting, riding and battling game. Most of the core gameplay is already developed, and I'm now…",
+      "score": 16,
       "tags": [
         "revenue",
-        "metrics",
-        "monetization"
+        "marketing",
+        "studio"
       ],
       "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
+      "first_seen": "2026-11-10T19:52:10.301Z"
     }
   ]
 }

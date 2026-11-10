@@ -1,34 +1,53 @@
 {
-  "generated_at": "2026-11-10T07:30:09.271Z",
+  "generated_at": "2026-11-10T19:52:10.301Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 116408
+      "ms": 120696
     },
     "reddit": {
       "ok": true,
       "fetched": 100,
-      "ms": 91727
+      "ms": 92357
     },
     "rss": {
       "ok": true,
-      "fetched": 3,
-      "ms": 6715
+      "fetched": 2,
+      "ms": 4090
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 176
+      "ms": 179
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 1655
+      "ms": 262
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xsiw9n",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiw9n/revshare_hatch_n_match_looking_for_3d_artists_ui/",
+      "author": "scissor_bedwars",
+      "date": "2026-11-10T09:50:36.000Z",
+      "title": "[REVSHARE] Hatch N Match — Looking for 3D Artists, UI Designers, Gameplay Designers & a Marketing Partner",
+      "excerpt_en": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced…",
+      "score": 23,
+      "tags": [
+        "revenue",
+        "metrics",
+        "marketing",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
     {
       "id": "reddit:t3_1xs76ow",
       "source": "reddit",
@@ -46,6 +65,79 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "devforum:4985415",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
+      "author": "misesunny",
+      "date": "2026-11-10T08:12:09.713Z",
+      "title": "Roblox isn't recommending game to high-revenue countries",
+      "excerpt_en": "We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game being primarily recommended to…",
+      "score": 17.8,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 37
+      },
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xst16y",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst16y/revshare_looking_for_experienced_roblox_luau/",
+      "author": "terminator38roblox",
+      "date": "2026-11-10T17:30:17.000Z",
+      "title": "[REVSHARE] Looking for Experienced Roblox Luau Scripter / Gameplay Developer",
+      "excerpt_en": "Hey everyone! I'm the solo developer of Hatch N Match, a nearly completed Roblox game focused on hatching, collecting, riding and battling dinosaurs. I've already developed most of the core systems, including egg gacha, plot claiming, hatching, dinosaur battles, shops…",
+      "score": 17,
+      "tags": [
+        "revenue",
+        "metrics",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xst51i",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst51i/revshare_looking_for_roblox_thumbnail_branding/",
+      "author": "terminator38roblox",
+      "date": "2026-11-10T17:34:20.000Z",
+      "title": "[REVSHARE] Looking for Roblox Thumbnail, Branding & SFX Artists — Hatch N Match",
+      "excerpt_en": "Hey everyone! I'm currently looking for a Branding / Thumbnail Designer and an SFX Designer for my Roblox game, Hatch N Match. Hatch N Match is a nearly completed dinosaur hatching, collecting, riding and battling game. Most of the core gameplay is already developed, and I'm now…",
+      "score": 16,
+      "tags": [
+        "revenue",
+        "marketing",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xst6yj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst6yj/revshare_looking_for_roblox_guiux_designer_for/",
+      "author": "terminator38roblox",
+      "date": "2026-11-10T17:36:18.000Z",
+      "title": "[REVSHARE] Looking for Roblox GUI/UX Designer for Nearly Finished Game",
+      "excerpt_en": "Hey! I'm looking for a GUI/UX Designer for my Roblox game, Hatch N Match. It's a dinosaur collecting, hatching and battling game that I've been developing on my own. Most of the gameplay is already finished, and I'm now focusing on improving the game's presentation and making it…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
       "id": "reddit:t3_1xsgp00",
@@ -104,6 +196,38 @@
       "first_seen": "2026-11-10T07:30:09.271Z"
     },
     {
+      "id": "reddit:t3_1xsquhk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
+      "author": "StrikeCritical1988",
+      "date": "2026-11-10T16:08:39.000Z",
+      "title": "[REVSHARE] Asym game plan - in concept phase",
+      "excerpt_en": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after…",
+      "score": 10,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xshiru",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/",
+      "author": "Just_Excitement_7392",
+      "date": "2026-11-10T08:19:53.000Z",
+      "title": "Looking for a Roblox Environment Builder (RevShare)! 🏗️",
+      "excerpt_en": "We are looking for a creative and reliable Environment Builder to join our development team and help bring our upcoming Roblox game to life. Requirements: Strong experience in Roblox Studio (lighting, terrain, and prop placement). Ability to create cohesive, immersive, and…",
+      "score": 10,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
       "id": "reddit:t3_1xse9gp",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/",
@@ -117,6 +241,56 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xsj4nt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsj4nt/i_finally_finished_building_my_own_game_looking/",
+      "author": "Hamza-user",
+      "date": "2026-11-10T10:05:02.000Z",
+      "title": "I finally finished building my own game! Looking for feedback, and wondering how to find the right partner to help launch it? 🚀",
+      "excerpt_en": "Hey everyone! I’ve been working hard on making Ai working hard on a fully completed game, and I finally got it built and ready to play. Since I'm mostly focused on the core development side, I've been thinking a lot about the next steps—especially regarding marketing, community…",
+      "score": 8,
+      "tags": [
+        "marketing",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "devforum:4985901",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/allow-creators-to-run-their-own-discounts-sales-on-passes-and-developer-products/4985901",
+      "author": "guestw3334",
+      "date": "2026-11-10T18:40:04.517Z",
+      "title": "Allow creators to run their own discounts / sales on Passes and Developer Products",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to run discounts on passes and developer products. When planning a launch sale or a holiday event, there’s no proper way to put passes on sale. The only options are changing the price by hand and changing it back later, or making a…",
+      "score": 7.6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 9
+      },
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xsp3hf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsp3hf/is_it_worth_learning_and_getting_into_roblox_game/",
+      "author": "Impressive_Swim7333",
+      "date": "2026-11-10T15:01:21.000Z",
+      "title": "Is it worth learning and getting into roblox game dev in 2026/2027?",
+      "excerpt_en": "I've seen so many people copying games off of Twitter and making slop games using AI, and the market is really saturated. I am thinking: is it worth it to start learning roblox game development for an income in 2026, 2027? ",
+      "score": 6,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
       "id": "reddit:t3_1xs6df9",
@@ -158,6 +332,32 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xsk76l",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/",
+      "author": "Ok_Corgi_6403",
+      "date": "2026-11-10T11:09:20.000Z",
+      "title": "Any game or creation examples that look like this",
+      "excerpt_en": "I saw this on the roblox forum and absolutely love it, I wanted to see more games or just of this artstyle and how it'd feel in game and can not find anything like it. Is there any games or references that I can use to see if it actually plays smooth as it looks. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
+    },
+    {
+      "id": "reddit:t3_1xsq4t6",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsq4t6/when_is_roblox_making_the_highly_engaged_players/",
+      "author": "xcytherz",
+      "date": "2026-11-10T15:41:52.000Z",
+      "title": "When is roblox making the highly engaged players down from 250 to 100?",
+      "excerpt_en": "Hi! For short I've been working on a game for quite some time and started running ads, but I heard manage audience is going from 250 to 100, I was wondering when is it officially starting since it's stated it's being started in November. I've already accumulated 100, so what…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
     }
   ]
 }
