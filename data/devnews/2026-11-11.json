@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-11-11T06:38:27.579Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 101578
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 30843
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 2892
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 85
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 207
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xt23sj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
+      "author": "Terminabsage",
+      "date": "2026-11-10T23:27:55.000Z",
+      "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
+      "excerpt_en": "Solo dev here. My game is a pawn shop where monsters bring you items and you check them with a UV lamp, a lens and the papers to decide: real or fake? It went public last week. New experiences start in a 16+ trial: until 250 \"highly engaged\" players have played within 60 days…",
+      "score": 20,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-11T06:38:27.579Z"
+    },
+    {
+      "id": "devforum:4983991",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/when-should-you-use-oop-instead-of-regular-modules-and-functions/4983991",
+      "author": "exvirus2",
+      "date": "2026-11-09T13:13:47.596Z",
+      "title": "When Should You Use OOP Instead of Regular Modules and Functions?",
+      "excerpt_en": "Hello, I have a question about OOP, classes, and function definitions: when should you use . versus : ? This has been on my mind for a while, and I’m still not entirely sure I understand the reasoning behind using OOP. As far as I understand, : should be used when you need self…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 5,
+        "views": 126
+      },
+      "first_seen": "2026-11-11T06:38:27.579Z"
+    },
+    {
+      "id": "reddit:t3_1xsyciw",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsyciw/big_project_ive_been_working_on_on_the_side_for/",
+      "author": "peatmossing",
+      "date": "2026-11-10T20:52:34.000Z",
+      "title": "big project i’ve been working on on the side for around a year at this point",
+      "excerpt_en": "i’ve just been building and researching so far so it will be a while until it’s out but it’s going to be a game about heretics and victorian era hunters sorry for the blur it was a screenshot of a small window on my screen ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-11T06:38:27.579Z"
+    },
+    {
+      "id": "reddit:t3_1xt3g5k",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt3g5k/i_made_this_game_icon_v1_what_do_you_think/",
+      "author": "GadixPro",
+      "date": "2026-11-11T00:25:59.000Z",
+      "title": "i made this GAME icon V1 , what do you think ?",
+      "excerpt_en": "lol ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-11T06:38:27.579Z"
+    }
+  ]
+}
