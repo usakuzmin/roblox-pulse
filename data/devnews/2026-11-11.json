@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-11T06:38:27.579Z",
+  "generated_at": "2026-11-11T19:43:54.610Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 101578
+      "ms": 121869
     },
     "reddit": {
       "ok": true,
       "fetched": 50,
-      "ms": 30843
+      "ms": 91065
     },
     "rss": {
       "ok": true,
-      "fetched": 2,
-      "ms": 2892
+      "fetched": 4,
+      "ms": 4364
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 85
+      "ms": 229
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 207
+      "ms": 253
     }
   },
   "items": [
@@ -45,6 +45,132 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-11T06:38:27.579Z"
+    },
+    {
+      "id": "devforum:4983971",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/crystal-heist-i-simplified-the-first-minute-so-nobody-gets-lost-can-you-still-get-stuck/4983971",
+      "author": "Prisnor20",
+      "date": "2026-11-09T13:01:46.044Z",
+      "title": "Crystal Heist: I simplified the first minute so nobody gets lost. Can you still get stuck?",
+      "excerpt_en": "Game: Crystal Heist | Play on Roblox (16+, age verification needed to join) The GIF shows the current first minute. I rebuilt it step by step because my first funnel (Nov 6-8, 30 new players) lost most people before their first steal: Step Players Lost Spawned 30 Intro started…",
+      "score": 9.6,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 81
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "naavik:https://naavik.co/?p=34772",
+      "source": "naavik",
+      "url": "https://naavik.co/ai-gaming/the-state-of-ai-voices-in-games/",
+      "author": "Mike Markin",
+      "date": "2026-11-10T07:21:55.000Z",
+      "title": "The State of AI Voices in Games",
+      "excerpt_en": "Source: Keywords Studios AI voice for games has grown well past basic speech synthesis and is already live in several AAA games. For NHL 27, EA confirmed it used AI to expand on more than 50 recording sessions, with the consent and continued involvement of commentators John…",
+      "score": 9,
+      "tags": [
+        "analyst",
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4977645",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
+      "author": "zleakwashere",
+      "date": "2026-11-05T21:15:05.729Z",
+      "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
+      "excerpt_en": "OmniStore — Typed Persistence for Roblox 2172×724 1.19 MB What is OmniStore? OmniStore is an open-source Roblox persistence library for loading, updating, validating, and saving data. It follows a simple structure: OmniStore → Store → Record → Data A record can represent a…",
+      "score": 8.7,
+      "tags": [
+        "story",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 4,
+        "views": 225
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+      "author": null,
+      "date": "2026-11-11T13:22:00.000Z",
+      "title": "Merak Capital leads $1.3m round in Lambda Studios",
+      "excerpt_en": "Saudi-based Lambda Studios has raised a $1.3 million investment round led by Merak Capital to expand onto new platforms including Steam. Founded in 2024, Lambda Studios is a Saudi game development and publishing company that initially began on Roblox. ... [ MORE ]",
+      "score": 7,
+      "tags": [
+        "analyst",
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "reddit:t3_1xtia7s",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/",
+      "author": "Random_dude01011",
+      "date": "2026-11-11T13:52:51.000Z",
+      "title": "Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejected?",
+      "excerpt_en": "I’m making a steel ball run inspired game having no developper or coding experience. The game is fun (my cousins and I tried it) and I think it’d be a good game experience for fans of the anime, I posted progress and asked for ideas on JJBA subreddits and got a wave of petty…",
+      "score": 6,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4985352",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352",
+      "author": "Not_Lowest",
+      "date": "2026-11-10T06:15:03.661Z",
+      "title": "LUI - Code in the same language you make games with, but for apps!",
+      "excerpt_en": "Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblox. The idea started with a pretty simple question: Why should knowing…",
+      "score": 5.1,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 7,
+        "views": 271
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4982785",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/offsale-label-for-avatar-looks-in-creator-hub/4982785",
+      "author": "Rockerite",
+      "date": "2026-11-08T18:10:13.311Z",
+      "title": "Offsale Label for Avatar Looks in Creator Hub",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to tell if my Avatar Looks are still available in the Marketplace. Avatar Looks require many dependencies that are vulnerable to being deleted or taken offsale. This is especially common with 2D Clothing, which has been stolen and…",
+      "score": 4.8,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 44
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
     },
     {
       "id": "devforum:4983991",
