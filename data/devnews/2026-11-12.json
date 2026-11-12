@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-11-12T07:23:14.380Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 103275
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 90742
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 3130
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 104
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 1,
+      "ms": 430
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4981278",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
+      "author": "starwarstotal1",
+      "date": "2026-11-07T22:31:49.642Z",
+      "title": "PVP Tower Defense",
+      "excerpt_en": "Hello there! I’ve been working on a tower defense over the last 4 months and I’ve wanted to get some feedback on it. Logo 1280×720 168 KB I have created this game reaching for something that is pretty unusual for a majority of Roblox tower defense games out there: the lack of…",
+      "score": 7,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "views": 97
+      },
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "devforum:4987003",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003",
+      "author": "jonbyte",
+      "date": "2026-11-11T19:08:18.852Z",
+      "title": "Be careful with PostSimulation if you’re using Server Authority",
+      "excerpt_en": "PostSimulation is often treated as the newer replacement for Heartbeat , so it’s tempting to use it for anything that should run every frame, like animation, UI motion, springs or polling loops. Without client prediction that mostly works, but under Server Authority it causes…",
+      "score": 3.1,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "views": 72
+      },
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xttqfk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xttqfk/what_do_you_think_about_this_icon_fully_hand_made/",
+      "author": "iknowankn",
+      "date": "2026-11-11T21:08:47.000Z",
+      "title": "What do you think about this icon? fully hand made in photoshop",
+      "excerpt_en": "I am using it for my GTA style game called HustleBlox ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xttn0f",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xttn0f/i_wanted_to_create_a_movement_demo_for_fun/",
+      "author": "TeomanDeniz",
+      "date": "2026-11-11T21:05:15.000Z",
+      "title": "I wanted to create a movement demo for fun",
+      "excerpt_en": "I've been working on this small demo for about a year now, mainly to experiment with Roblox Studio. I initially started by creating some models to learn how to use Roblox Studio's parts and such, along with a mini DOS to experiment with Lua scripting. And now this \"experience\"…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xtx47g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtx47g/a_very_70s_makeover_for_a_shopping_mall_ive_been/",
+      "author": "Sherbet18",
+      "date": "2026-11-11T23:28:37.000Z",
+      "title": "A very 70s makeover for a Shopping mall I've been developing for a While",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xtw1bb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtw1bb/i_made_this_game_icon_v2_what_do_you_think_is_it/",
+      "author": "GadixPro",
+      "date": "2026-11-11T22:42:12.000Z",
+      "title": "i made this GAME icon V2 !! what do you think ? is it better than V1 ?",
+      "excerpt_en": "v1 -> v2 lol 💀 ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xtn6p1",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtn6p1/i_asked_for_artists_to_reach_out_so_i_can/",
+      "author": "friedbeann",
+      "date": "2026-11-11T17:03:04.000Z",
+      "title": "I asked for artists to reach out so I can commission someone to make my thumbnails and most of the replies have been AI.",
+      "excerpt_en": "It’s crazy. When I ask for a a portfolio they send me 30 AI thumbnails. Like do they think we won’t notice ? I’m trying to do the right thing and pay an artist but I genuinely can’t find one in the sea of AI. Anyone have someone they use ? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xtw5gt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtw5gt/im_14_i_hope_future_me_made_it_and_you_too/",
+      "author": "Some_League_9253",
+      "date": "2026-11-11T22:47:03.000Z",
+      "title": "I'm 14. I hope future me made it (and you too!!)",
+      "excerpt_en": "HII, I'm 14 yo and I've been playing Roblox since 2023. Yes I'm not an og like all you other 2013 Roblox users, but it doesn't change the fact that I like this platform and wish it gets better (especially in moderation). I'm learning scripting and building (even without blender)…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xu01av",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu01av/i_have_a_question/",
+      "author": "Infinite-Math45",
+      "date": "2026-11-12T01:42:09.000Z",
+      "title": "i have a question.",
+      "excerpt_en": "So, I decided to come here in the hopes that I might find an answer to my concern. I have an idea for a Roblox game, and while I'm not familiar with scripting in Lua (I do know a little Python and C), I do know how to make models and icons in Photoshop. I feel bad about using AI…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    }
+  ]
+}
