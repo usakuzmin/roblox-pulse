@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:23:14.434Z",
+  "generated_at": "2026-11-12T20:03:45.028Z",
   "from_files": [
     "2026-11-09.json",
     "2026-11-10.json",
@@ -101,6 +101,28 @@
       "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
+      "id": "devforum:4988305",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305",
+      "author": "quazotheduck",
+      "date": "2026-11-12T18:00:28.595Z",
+      "title": "Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics",
+      "excerpt_en": "Hi Creators, Until now, every experiment measured success with the same topline metrics, like playtime, retention and ARPU. But no two experiences are built the same, and these metrics don’t always tell the full story. They tell you whether a change moved the needle, but rarely…",
+      "score": 16.7,
+      "tags": [
+        "platform",
+        "revenue",
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 14,
+        "replies": 0,
+        "views": 439
+      },
+      "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
       "id": "reddit:t3_1xrpqp0",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpqp0/is_my_game_doing_good/",
@@ -170,6 +192,27 @@
       "first_seen": "2026-11-09T22:30:54.324Z"
     },
     {
+      "id": "devforum:4988144",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/your-game-become-famous-review-tool/4988144",
+      "author": "amindez24",
+      "date": "2026-11-12T16:00:45.691Z",
+      "title": "Your game become famous? Review tool",
+      "excerpt_en": "In the process of learning these lessons, I lost the best opportunity for my game to gain popularity, lost top-tier players, and failed to build a loyal community. I have now compiled all the challenges—and the insights I previously lacked—into a checklist. My goal is to save at…",
+      "score": 13.3,
+      "tags": [
+        "revenue",
+        "metrics",
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 48
+      },
+      "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
       "id": "reddit:t3_1xs3tm6",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
@@ -204,6 +247,23 @@
       "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
+      "id": "reddit:t3_1xtl1zt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtl1zt/should_i_keep_pushing_or_stop_ads/",
+      "author": "nottheguy120",
+      "date": "2026-11-11T15:44:05.000Z",
+      "title": "Should i Keep pushing or stop ads?",
+      "excerpt_en": "The game has been out for almost a month now. I spent 152 USD on ads, plus reinvested14K Robux I earned into more ad credits, and I still have another 9K pending. So I basically got about half of my investment \"back\" (24K Robux converts to almost $90). But even after kids became…",
+      "score": 13,
+      "tags": [
+        "revenue",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
       "id": "reddit:t3_1xrozd7",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrozd7/whatcha_think_of_my_games_thumbnail/",
@@ -218,62 +278,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-09T22:30:54.324Z"
-    },
-    {
-      "id": "reddit:t3_1xsgp00",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
-      "author": "hazenn-ch",
-      "date": "2026-11-10T07:26:05.000Z",
-      "title": "are roblox ad players real/need general advice",
-      "excerpt_en": "i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are people that join and leave within 5…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T07:30:09.271Z"
-    },
-    {
-      "id": "devforum:4984216",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/paying-50k-to-get-a-game-16/4984216",
-      "author": "ChadTheCreator",
-      "date": "2026-11-09T16:17:48.059Z",
-      "title": "Paying 50k to get a game <16?",
-      "excerpt_en": "So I know you can pay 50,000 Robux ($190) to have an expedited, personal review on your game. image 507×219 17.7 KB But how does this work? I keep getting mixed answers. When the review is done, do you get refunded the 50k? When the review is done, is the 50k lost forever? When…",
-      "score": 11.3,
-      "tags": [
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 4,
-        "replies": 3,
-        "views": 90
-      },
-      "first_seen": "2026-11-09T22:30:54.324Z"
-    },
-    {
-      "id": "devforum:4984934",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
-      "author": "agaetisbyrun",
-      "date": "2026-11-10T00:32:32.929Z",
-      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
-      "excerpt_en": "Hey Creators, We’re launching the 2027 Roblox Incubator, which gives ambitious teams hands-on support from Roblox to turn a novel game idea into a polished, launch-ready title. Our goal is to bring more 18+ players to Roblox, and games that feel new in mechanics, depth, and…",
-      "score": 10.8,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 23,
-        "replies": 2,
-        "views": 461
-      },
-      "first_seen": "2026-11-10T07:30:09.271Z"
     }
   ]
 }
