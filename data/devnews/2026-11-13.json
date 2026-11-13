@@ -1,34 +1,53 @@
 {
-  "generated_at": "2026-11-13T06:55:32.180Z",
+  "generated_at": "2026-11-13T19:51:36.583Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 101474
+      "ms": 100246
     },
     "reddit": {
       "ok": true,
       "fetched": 50,
-      "ms": 30749
+      "ms": 91044
     },
     "rss": {
       "ok": true,
       "fetched": 3,
-      "ms": 11523
+      "ms": 4097
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 68
+      "ms": 221
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 273
+      "ms": 274
     }
   },
   "items": [
+    {
+      "id": "devforum:4989541",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541",
+      "author": "verva1_n",
+      "date": "2026-11-13T18:45:54.077Z",
+      "title": "Monetize your Roblox game | Donation Board 5.0",
+      "excerpt_en": "Donation Board V5 ‎ ‎ ‎ Donation Board has come a long way since its original release. What started as a simple way for players to support their favorite experiences has grown into something much bigger. With V5, we’re taking another step forward. Built from the ground up with a…",
+      "score": 9.1,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 21
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
     {
       "id": "reddit:t3_1xuqeee",
       "source": "reddit",
@@ -43,6 +62,40 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4980598",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598",
+      "author": "SpookyStud10s",
+      "date": "2026-11-07T15:50:10.440Z",
+      "title": "Lack of Transparency Around AI-Generated Content in Roblox Experiences",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to distinguish experiences created through traditional, hands-on development from those that rely heavily on AI-generated content or automated creation tools. There is currently very little visibility into how an experience’s…",
+      "score": 5.3,
+      "tags": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 4,
+        "views": 210
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
+    {
+      "id": "devforum:4988813",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/cobalt-hand-built-intuitive-ui-framework-for-luau/4988813",
+      "author": "azelised",
+      "date": "2026-11-13T02:54:07.426Z",
+      "title": "Cobalt - Hand-built, intuitive UI framework for Luau",
+      "excerpt_en": "Cobalt|690x202, 2000×587 169 KB Created by the developer of Avaport Cobalt is a hand-built, intuitive UI framework for Luau, made as an beginner-friendly alternative to Fusion. Who is this for? The Cobalt framework is meant for people starting out and existing users of other…",
+      "score": 4.7,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 7,
+        "views": 243
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
       "id": "devforum:4984224",
@@ -60,6 +113,23 @@
         "views": 152
       },
       "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4989031",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-on-new-game/4989031",
+      "author": "2ZO",
+      "date": "2026-11-13T09:47:05.037Z",
+      "title": "Feedback On new game",
+      "excerpt_en": "**Hey I’d like some feedback regarding my new game “My Cake Store”. I’m open to all criticism so the game can be improved further. Please feel free to share any new ideas as well. **",
+      "score": 4.3,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "views": 84
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
       "id": "devforum:4986400",
@@ -94,6 +164,23 @@
         "views": 53
       },
       "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4988964",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964",
+      "author": "exvirus2",
+      "date": "2026-11-13T07:39:16.936Z",
+      "title": "Should I Use AlyaNum From the Start in My Simulator Game?",
+      "excerpt_en": "Would it make sense to use a big number library like AlyaNum from the very beginning when developing a simulator game where numbers can eventually grow very large? I’m planning to maintain the game long-term, and I don’t intend to introduce additional currencies for progression…",
+      "score": 3.4,
+      "tags": [],
+      "engagement": {
+        "likes": 2,
+        "replies": 4,
+        "views": 72
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
       "id": "reddit:t3_1xun2cx",
@@ -146,6 +233,58 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xvdn4b",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvdn4b/superchefs_gameplay_preview/",
+      "author": "zeb14_",
+      "date": "2026-11-13T17:14:50.000Z",
+      "title": "SUPERCHEFS! Gameplay preview",
+      "excerpt_en": "SUPERCHEFS! gameplay preview 👨‍🍳🔥 Co-op chaos cooking with superpowers. Beta this December! We've been working on the game for more than 2 years. Here's how it looks now:) https://www.reddit.com/r/robloxgamedev/comments/1en6yu3/creating_an_overcooked_inspired_game/…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
+    {
+      "id": "reddit:t3_1xukliu",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xukliu/is_the_pace_of_the_game_too_fast_for_kids/",
+      "author": "Affectionate-Ad-3961",
+      "date": "2026-11-12T18:30:08.000Z",
+      "title": "Is the pace of the game too fast for kids?",
+      "excerpt_en": "I may have went overboard with the dopamine maxing and I fear that it may be too dofficult to play. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
+    {
+      "id": "reddit:t3_1xvd9sm",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvd9sm/made_stylized_flowers_with_5_growth_stages_for/",
+      "author": "RiescArts",
+      "date": "2026-11-13T17:01:21.000Z",
+      "title": "Made stylized flowers with 5 growth stages for farming games – thoughts on the style?",
+      "excerpt_en": "18 flowers & plants, 5 growth stages each, 14 bouquets and 10 garden plots. Everything is low poly so it runs fine on mobile. Would love feedback from Roblox devs. Is this the kind of style you'd use in a farming or tycoon game? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
+    {
+      "id": "reddit:t3_1xv89rh",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv89rh/dark_fantasy_stuff/",
+      "author": "peatmossing",
+      "date": "2026-11-13T13:45:34.000Z",
+      "title": "dark fantasy stuff",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T19:51:36.583Z"
     }
   ]
 }
