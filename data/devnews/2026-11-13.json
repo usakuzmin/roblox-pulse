@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-11-13T06:55:32.180Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 101474
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 30749
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 3,
+      "ms": 11523
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 68
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 273
+    }
+  },
+  "items": [
+    {
+      "id": "reddit:t3_1xuqeee",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
+      "author": "Careless-Duty8400",
+      "date": "2026-11-12T22:12:57.000Z",
+      "title": "How do roblox anime and superhero games avoid being copyrighted?",
+      "excerpt_en": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I…",
+      "score": 7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4984224",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/inventory-system-and-ui/4984224",
+      "author": "tompotio4",
+      "date": "2026-11-09T16:24:45.729Z",
+      "title": "Inventory system and UI",
+      "excerpt_en": "Hello! I started working on this system about a year ago. Two days ago, I jumped back into it to refactor the code, improve the architecture and finally finish it… There are still small bugs to fix and improvements to make though. Here is a quick video I made showcasing it. You…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 3,
+        "views": 152
+      },
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4986400",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400",
+      "author": "Syphon_Tactical",
+      "date": "2026-11-11T06:12:30.399Z",
+      "title": "Road Builder Plugin (SMOOTH ROADS!)",
+      "excerpt_en": "Road Builder Tired of every road plugin forcing ugly stepping or weird road grading on hills and curves? Road Builder lets you set grade, yaw, and roll so your roads actually follow the terrain the way they should. Unlike Redupe and other road plugins, turns and elevation…",
+      "score": 4.2,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 2,
+        "views": 139
+      },
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "devforum:4988166",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/best-practice-for-structuring-a-centralized-buff-system/4988166",
+      "author": "exvirus2",
+      "date": "2026-11-12T16:14:01.934Z",
+      "title": "Best Practice for Structuring a Centralized Buff System?",
+      "excerpt_en": "Hello! I’m trying to figure out the best way to structure a buff system. Let’s take Pet Simulator 99 as an example. It has multiple buff sources, such as potions, fruits, VIP bonuses, pet bonuses, world multipliers, upgrades, etc. Would it make sense to have a single BuffService…",
+      "score": 3.6,
+      "tags": [],
+      "engagement": {
+        "likes": 5,
+        "replies": 2,
+        "views": 53
+      },
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xun2cx",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xun2cx/my_best_performing_ad_yet/",
+      "author": "GameKnight76",
+      "date": "2026-11-12T20:00:57.000Z",
+      "title": "My best performing ad yet",
+      "excerpt_en": "I started running ads for the game about 5 days ago. I've run plenty of ads for my other games in the past, but none of them have come close to getting results like this. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xuf1wa",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuf1wa/an_gamemap_model_i_wish_i_could_publish_it/",
+      "author": "Intelligent-Gas5129",
+      "date": "2026-11-12T15:03:09.000Z",
+      "title": "An game/map model I wish I could publish it publicly for free. (It could be used on any game genre actually).",
+      "excerpt_en": "Note: Some parts of this map are still in progress and need to improve. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xu5ld7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu5ld7/my_solo_port_to_roblox_is_80_done/",
+      "author": "Due_Cat_2320",
+      "date": "2026-11-12T06:32:45.000Z",
+      "title": "My solo port to Roblox is 80% done",
+      "excerpt_en": "I started this port as a solo project, and it's been a lot of fun. Bringing a game like this into the Roblox engine has thrown plenty of challenges and roadblocks my way, and working through them has been half the fun. Right now it's about 80% ported, and it already supports…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xu1vik",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu1vik/este_es_mi_juego_en_desarrollo/",
+      "author": "Chemical-Reading3163",
+      "date": "2026-11-12T03:11:36.000Z",
+      "title": "Este es mi juego en desarrollo",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    }
+  ]
+}

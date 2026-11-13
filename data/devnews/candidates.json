@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-12T20:03:45.028Z",
+  "generated_at": "2026-11-13T06:55:32.233Z",
   "from_files": [
-    "2026-11-09.json",
     "2026-11-10.json",
     "2026-11-11.json",
-    "2026-11-12.json"
+    "2026-11-12.json",
+    "2026-11-13.json"
   ],
   "items": [
     {
@@ -123,42 +123,6 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "reddit:t3_1xrpqp0",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpqp0/is_my_game_doing_good/",
-      "author": "lygail",
-      "date": "2026-11-09T11:54:19.000Z",
-      "title": "Is my game doing good?",
-      "excerpt_en": "Is my game doing well? Ran ads for 13 dollars first day and 5 dollars daily for 2 days, can't run ads now since im out of money lmao. Can i still continue my ad campaign after I save some money from my school allowance? Or will it be a flop already? During ads, it averages 20…",
-      "score": 16,
-      "tags": [
-        "metrics",
-        "ads",
-        "story",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
-    },
-    {
-      "id": "reddit:t3_1xs3gpc",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/",
-      "author": "JamesWinlee",
-      "date": "2026-11-09T20:55:01.000Z",
-      "title": "Huge jump in highly engaged players?",
-      "excerpt_en": "I'm 3 days in to a $16/day 1 week campaign, took me 3 days to hit 160 highly engaged, and it was at 160 between 9 am and 10 am, then 2 hours later I check and its at 252, why??? What does this mean for my game? Right now I avg 10 ccu, 5k total plays, 141k impressions off 41…",
-      "score": 16,
-      "tags": [
-        "revenue",
-        "metrics",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
-    },
-    {
       "id": "reddit:t3_1xst51i",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst51i/revshare_looking_for_roblox_thumbnail_branding/",
@@ -174,22 +138,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-10T19:52:10.301Z"
-    },
-    {
-      "id": "reddit:t3_1xs58im",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
-      "author": "15Momoz",
-      "date": "2026-11-09T22:03:44.000Z",
-      "title": "Our game is at 1.3K CCU!",
-      "excerpt_en": "We recently posted that my game peaked at 98CCU but it immediately dropped back down to about 10CCU. We stayed consistent with updates and listened to the community and reached this milestone. I’m posting this to show to you guys that you should stay committed to your games and…",
-      "score": 15,
-      "tags": [
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
     },
     {
       "id": "devforum:4988144",
@@ -211,23 +159,6 @@
         "views": 48
       },
       "first_seen": "2026-11-12T20:03:44.976Z"
-    },
-    {
-      "id": "reddit:t3_1xs3tm6",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
-      "author": "ZettAy6111",
-      "date": "2026-11-09T21:08:30.000Z",
-      "title": "Looking for music composer for a passionate project (PvZ Fangame)",
-      "excerpt_en": "Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project, we want to give the game its own…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
     },
     {
       "id": "reddit:t3_1xst6yj",
@@ -264,20 +195,97 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "reddit:t3_1xrozd7",
+      "id": "reddit:t3_1xsgp00",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrozd7/whatcha_think_of_my_games_thumbnail/",
-      "author": "Forsaken_Swan_6968",
-      "date": "2026-11-09T11:10:36.000Z",
-      "title": "What'cha think of my game's Thumbnail?",
-      "excerpt_en": "The current one's boring and outdated, so I made a new one for the front page to see ^^ This will be released alongside the big update! ",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
+      "author": "hazenn-ch",
+      "date": "2026-11-10T07:26:05.000Z",
+      "title": "are roblox ad players real/need general advice",
+      "excerpt_en": "i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are people that join and leave within 5…",
       "score": 12,
       "tags": [
+        "metrics",
         "marketing",
-        "discovery"
+        "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-09T22:30:54.324Z"
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "devforum:4988260",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260",
+      "author": "JCollision",
+      "date": "2026-11-12T17:25:33.439Z",
+      "title": "Policy Clarification: Paid Access Sales and In-Game Development Milestone Tracker",
+      "excerpt_en": "We are preparing to launch a commercial MMORPG experience using Roblox’s native Paid Access in Local Currency system, with Demo Mode enabled. Before implementation, we would like clarification on a proposed in-game feature to ensure it fully complies with Roblox’s Community…",
+      "score": 11,
+      "tags": [
+        "revenue",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 9
+      },
+      "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
+      "id": "devforum:4984934",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
+      "author": "agaetisbyrun",
+      "date": "2026-11-10T00:32:32.929Z",
+      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
+      "excerpt_en": "Hey Creators, We’re launching the 2027 Roblox Incubator, which gives ambitious teams hands-on support from Roblox to turn a novel game idea into a polished, launch-ready title. Our goal is to bring more 18+ players to Roblox, and games that feel new in mechanics, depth, and…",
+      "score": 10.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 23,
+        "replies": 2,
+        "views": 461
+      },
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "devforum:4984986",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
+      "author": "2XIth",
+      "date": "2026-11-10T01:39:44.602Z",
+      "title": "Allow Players to Gift Roblox Plus Subscriptions",
+      "excerpt_en": "Allow Players to Gift Roblox Plus Subscriptions! The Problem As a Roblox developer and player, it is currently too hard to gift subscription benefits to other users, particularly with the introduction and increasing promotion of Roblox Plus. Roblox has already introduced the…",
+      "score": 10.8,
+      "tags": [
+        "marketing",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 24
+      },
+      "first_seen": "2026-11-10T07:30:09.271Z"
+    },
+    {
+      "id": "reddit:t3_1xsquhk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
+      "author": "StrikeCritical1988",
+      "date": "2026-11-10T16:08:39.000Z",
+      "title": "[REVSHARE] Asym game plan - in concept phase",
+      "excerpt_en": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after…",
+      "score": 10,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-10T19:52:10.301Z"
     }
   ]
 }
