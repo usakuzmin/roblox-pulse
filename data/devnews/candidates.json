@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:38:38.004Z",
+  "generated_at": "2026-11-14T18:16:05.587Z",
   "from_files": [
     "2026-11-11.json",
     "2026-11-12.json",
@@ -7,6 +7,23 @@
     "2026-11-14.json"
   ],
   "items": [
+    {
+      "id": "reddit:t3_1xw6b1p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/",
+      "author": "15Momoz",
+      "date": "2026-11-14T16:18:27.000Z",
+      "title": "My game hit 20K CCU!!",
+      "excerpt_en": "Ran a new update event and peaked at 23K CCU!!! Keep working guys I believe in you all! ",
+      "score": 22,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
     {
       "id": "reddit:t3_1xt23sj",
       "source": "reddit",
@@ -105,6 +122,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
+      "id": "devforum:4990299",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-tool-turn-a-photo-or-text-prompt-into-a-roblox-ready-3d-mesh-and-send-it-straight-into-studio/4990299",
+      "author": "Frankekokol",
+      "date": "2026-11-14T07:00:18.391Z",
+      "title": "[Free tool] Turn a photo or text prompt into a Roblox-ready 3D mesh and send it straight into Studio",
+      "excerpt_en": "Hey everyone I’ve been building Waspes 3D Studio , a tool that turns a photo or a text prompt into a 3D model (.glb) and pushes it live into Roblox Studio through a small plugin, so you don’t have to export and import files by hand. What it does Image-to-3D: upload a photo of a…",
+      "score": 11.7,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 11,
+        "replies": 4,
+        "views": 88
+      },
+      "first_seen": "2026-11-14T18:16:05.533Z"
     },
     {
       "id": "devforum:4988260",
@@ -256,40 +293,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-11T19:43:54.610Z"
-    },
-    {
-      "id": "devforum:4981278",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
-      "author": "starwarstotal1",
-      "date": "2026-11-07T22:31:49.642Z",
-      "title": "PVP Tower Defense",
-      "excerpt_en": "Hello there! I’ve been working on a tower defense over the last 4 months and I’ve wanted to get some feedback on it. Logo 1280×720 168 KB I have created this game reaching for something that is pretty unusual for a majority of Roblox tower defense games out there: the lack of…",
-      "score": 7,
-      "tags": [
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 7,
-        "replies": 2,
-        "views": 97
-      },
-      "first_seen": "2026-11-12T07:23:14.380Z"
-    },
-    {
-      "id": "reddit:t3_1xuqeee",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
-      "author": "Careless-Duty8400",
-      "date": "2026-11-12T22:12:57.000Z",
-      "title": "How do roblox anime and superhero games avoid being copyrighted?",
-      "excerpt_en": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I…",
-      "score": 7,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-13T06:55:32.180Z"
     }
   ]
 }

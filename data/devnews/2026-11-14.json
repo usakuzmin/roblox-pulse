@@ -1,34 +1,51 @@
 {
-  "generated_at": "2026-11-14T06:38:37.942Z",
+  "generated_at": "2026-11-14T18:16:05.533Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 104482
+      "ms": 126263
     },
     "reddit": {
       "ok": true,
       "fetched": 50,
-      "ms": 91184
+      "ms": 91271
     },
     "rss": {
       "ok": true,
       "fetched": 3,
-      "ms": 4192
+      "ms": 3180
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 135
+      "ms": 131
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 522
+      "ms": 277
     }
   },
   "items": [
+    {
+      "id": "reddit:t3_1xw6b1p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/",
+      "author": "15Momoz",
+      "date": "2026-11-14T16:18:27.000Z",
+      "title": "My game hit 20K CCU!!",
+      "excerpt_en": "Ran a new update event and peaked at 23K CCU!!! Keep working guys I believe in you all! ",
+      "score": 22,
+      "tags": [
+        "metrics",
+        "story",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
     {
       "id": "devforum:4989671",
       "source": "devforum",
@@ -52,6 +69,26 @@
       "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
+      "id": "devforum:4990299",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/free-tool-turn-a-photo-or-text-prompt-into-a-roblox-ready-3d-mesh-and-send-it-straight-into-studio/4990299",
+      "author": "Frankekokol",
+      "date": "2026-11-14T07:00:18.391Z",
+      "title": "[Free tool] Turn a photo or text prompt into a Roblox-ready 3D mesh and send it straight into Studio",
+      "excerpt_en": "Hey everyone I’ve been building Waspes 3D Studio , a tool that turns a photo or a text prompt into a 3D model (.glb) and pushes it live into Roblox Studio through a small plugin, so you don’t have to export and import files by hand. What it does Image-to-3D: upload a photo of a…",
+      "score": 11.7,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 11,
+        "replies": 4,
+        "views": 88
+      },
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
       "id": "devforum:4989614",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/stormbreaker-horns-can-be-observed-having-erroneous-behavior-unlike-the-rest-of-the-series/4989614",
@@ -69,6 +106,73 @@
       "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
+      "id": "reddit:t3_1xus9xg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
+      "author": "Holiday_Pea_3021",
+      "date": "2026-11-12T23:33:49.000Z",
+      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
+      "excerpt_en": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a…",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "devforum:4990854",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854",
+      "author": "owerall1919",
+      "date": "2026-11-14T16:53:07.826Z",
+      "title": "Yall split up your scripts or keep them in one?",
+      "excerpt_en": "I was wondering. Should i keep my admin panel’s functuality into one script or should i use different scripts that connect to each other for different things that the admin panel does? (for example every panel in my admin panel is in one script named AdminServerHandler and i had…",
+      "score": 5.5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 5,
+        "views": 42
+      },
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "devforum:4986234",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/want-feedback-fast-paced-elevator-mining-game/4986234",
+      "author": "Piggy_Gam1ngg",
+      "date": "2026-11-11T01:51:17.398Z",
+      "title": "Want feedback: fast-paced elevator mining game!",
+      "excerpt_en": "I’ve been working on Iridium Mines, a co-op mining game where you descend an elevator down a procedurally-generated mine. Mine ore, bring it back within the time limit, and craft pickaxes by dropping items onto another. It’s an early demo, and the current goal is to craft an…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 12,
+        "replies": 2,
+        "views": 122
+      },
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xvrsm9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/",
+      "author": "Extension_Store1218",
+      "date": "2026-11-14T03:13:00.000Z",
+      "title": "Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.",
+      "excerpt_en": "I’m a Roblox developer. On Nov 12 I opened my account and found 8.4K Robux I never bought. The transaction history showed I purchased them. 4 purchases $79.96 total within 30 seconds exactly 10 seconds apart, which is clearly a bot. My bank blocked my card automatically and I…",
+      "score": 4,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
       "id": "reddit:t3_1xurrnn",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurrnn/openworld_age_of_sail_game/",
@@ -80,6 +184,71 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-14T06:38:37.942Z"
+    },
+    {
+      "id": "reddit:t3_1xvt9r9",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/",
+      "author": "shootboots_",
+      "date": "2026-11-14T04:32:24.000Z",
+      "title": "Sneak peek at my own doors-inspired horror game!",
+      "excerpt_en": "been grinding for a couple months now, close to finishing 1.0! ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xw42wf",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw42wf/my_first_attempt_making_survival_adventure_roblox/",
+      "author": "ZealousidealPitch528",
+      "date": "2026-11-14T14:44:08.000Z",
+      "title": "My first attempt making survival adventure Roblox game, what do you guys think?",
+      "excerpt_en": "The name is Escape to Space! ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xvv1cv",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvv1cv/is_it_weird_that_my_friends_suddenly_want_to_do/",
+      "author": "Southern_Impact4547",
+      "date": "2026-11-14T06:10:31.000Z",
+      "title": "Is it weird that my friends suddenly want to do what I'm doing after seeing me become successful?",
+      "excerpt_en": "I've been working on game development for quite some time now, mainly making games on Roblox and browser games. Recently, I've started seeing some success on both platforms, and I'm genuinely happy that my hard work is finally paying off. But something weird has started…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xqvpn8",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqvpn8/new_shop_in_my_game/",
+      "author": "Calm-Try1206",
+      "date": "2026-11-08T10:48:44.000Z",
+      "title": "New Shop in my game",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xw2eb7",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw2eb7/im_finally_getting_close_to_250_hep/",
+      "author": "Cyberspace_Sorcerer",
+      "date": "2026-11-14T13:27:39.000Z",
+      "title": "I'm finally getting close to 250 HEP :)",
+      "excerpt_en": "I cant believe how easy it was. All I did was run a few bucks of play ads, make some fixes, run a few more bucks of play ads, fix some more issues and then run engagement ads! and now all i had to do was run 15 bucks in engagement ads to get 150 HEP! :)) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
     }
   ]
 }
