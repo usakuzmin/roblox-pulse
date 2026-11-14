@@ -1,31 +1,12 @@
 {
-  "generated_at": "2026-11-13T19:51:36.638Z",
+  "generated_at": "2026-11-14T06:38:38.004Z",
   "from_files": [
-    "2026-11-10.json",
     "2026-11-11.json",
     "2026-11-12.json",
-    "2026-11-13.json"
+    "2026-11-13.json",
+    "2026-11-14.json"
   ],
   "items": [
-    {
-      "id": "reddit:t3_1xsiw9n",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiw9n/revshare_hatch_n_match_looking_for_3d_artists_ui/",
-      "author": "scissor_bedwars",
-      "date": "2026-11-10T09:50:36.000Z",
-      "title": "[REVSHARE] Hatch N Match — Looking for 3D Artists, UI Designers, Gameplay Designers & a Marketing Partner",
-      "excerpt_en": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced…",
-      "score": 23,
-      "tags": [
-        "revenue",
-        "metrics",
-        "marketing",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T19:52:10.301Z"
-    },
     {
       "id": "reddit:t3_1xt23sj",
       "source": "reddit",
@@ -42,63 +23,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-11T06:38:27.579Z"
-    },
-    {
-      "id": "reddit:t3_1xs76ow",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs76ow/dev_log_followup_my_d1_went_185_313_after_the/",
-      "author": "Suspicious_Swan4988",
-      "date": "2026-11-09T23:21:55.000Z",
-      "title": "Dev log follow-up: my D1 went 1.85% → 3.13% after the first-minute rework — retention is still the whole fight",
-      "excerpt_en": "Solo dev here — Sebastian, building EXIT POINT (wingsuit / skydiving / BASE jumping on Roblox) in public. Follow-up to my launch post from a few weeks ago — three commenters here tore apart my first minute, so this sub gets the honest numbers first.The headline: acquisition…",
-      "score": 18,
-      "tags": [
-        "metrics",
-        "ads",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T07:30:09.271Z"
-    },
-    {
-      "id": "devforum:4985415",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
-      "author": "misesunny",
-      "date": "2026-11-10T08:12:09.713Z",
-      "title": "Roblox isn't recommending game to high-revenue countries",
-      "excerpt_en": "We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game being primarily recommended to…",
-      "score": 17.8,
-      "tags": [
-        "revenue",
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 37
-      },
-      "first_seen": "2026-11-10T19:52:10.301Z"
-    },
-    {
-      "id": "reddit:t3_1xst16y",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst16y/revshare_looking_for_experienced_roblox_luau/",
-      "author": "terminator38roblox",
-      "date": "2026-11-10T17:30:17.000Z",
-      "title": "[REVSHARE] Looking for Experienced Roblox Luau Scripter / Gameplay Developer",
-      "excerpt_en": "Hey everyone! I'm the solo developer of Hatch N Match, a nearly completed Roblox game focused on hatching, collecting, riding and battling dinosaurs. I've already developed most of the core systems, including egg gacha, plot claiming, hatching, dinosaur battles, shops…",
-      "score": 17,
-      "tags": [
-        "revenue",
-        "metrics",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T19:52:10.301Z"
     },
     {
       "id": "devforum:4988305",
@@ -123,21 +47,26 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "reddit:t3_1xst51i",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst51i/revshare_looking_for_roblox_thumbnail_branding/",
-      "author": "terminator38roblox",
-      "date": "2026-11-10T17:34:20.000Z",
-      "title": "[REVSHARE] Looking for Roblox Thumbnail, Branding & SFX Artists — Hatch N Match",
-      "excerpt_en": "Hey everyone! I'm currently looking for a Branding / Thumbnail Designer and an SFX Designer for my Roblox game, Hatch N Match. Hatch N Match is a nearly completed dinosaur hatching, collecting, riding and battling game. Most of the core gameplay is already developed, and I'm now…",
-      "score": 16,
+      "id": "devforum:4989671",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671",
+      "author": "kru3nt",
+      "date": "2026-11-13T20:30:58.789Z",
+      "title": "Looking for honest feedback on my first game",
+      "excerpt_en": "Hey everyone, This is the first game I’ve ever actually finished and published on Roblox, so I’m still figuring out the post-launch side of things. I’ve been running some ads to get initial data, and while people are playing, I feel like my monetization and retention could be…",
+      "score": 14.8,
       "tags": [
-        "revenue",
-        "marketing",
+        "metrics",
+        "discovery",
+        "monetization",
         "studio"
       ],
-      "engagement": {},
-      "first_seen": "2026-11-10T19:52:10.301Z"
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 40
+      },
+      "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
       "id": "devforum:4988144",
@@ -161,23 +90,6 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "reddit:t3_1xst6yj",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst6yj/revshare_looking_for_roblox_guiux_designer_for/",
-      "author": "terminator38roblox",
-      "date": "2026-11-10T17:36:18.000Z",
-      "title": "[REVSHARE] Looking for Roblox GUI/UX Designer for Nearly Finished Game",
-      "excerpt_en": "Hey! I'm looking for a GUI/UX Designer for my Roblox game, Hatch N Match. It's a dinosaur collecting, hatching and battling game that I've been developing on my own. Most of the gameplay is already finished, and I'm now focusing on improving the game's presentation and making it…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "monetization",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T19:52:10.301Z"
-    },
-    {
       "id": "reddit:t3_1xtl1zt",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtl1zt/should_i_keep_pushing_or_stop_ads/",
@@ -193,23 +105,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-12T20:03:44.976Z"
-    },
-    {
-      "id": "reddit:t3_1xsgp00",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
-      "author": "hazenn-ch",
-      "date": "2026-11-10T07:26:05.000Z",
-      "title": "are roblox ad players real/need general advice",
-      "excerpt_en": "i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are people that join and leave within 5…",
-      "score": 12,
-      "tags": [
-        "metrics",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-10T07:30:09.271Z"
     },
     {
       "id": "devforum:4988260",
@@ -233,59 +128,168 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "devforum:4984934",
+      "id": "devforum:4989614",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
-      "author": "agaetisbyrun",
-      "date": "2026-11-10T00:32:32.929Z",
-      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
-      "excerpt_en": "Hey Creators, We’re launching the 2027 Roblox Incubator, which gives ambitious teams hands-on support from Roblox to turn a novel game idea into a polished, launch-ready title. Our goal is to bring more 18+ players to Roblox, and games that feel new in mechanics, depth, and…",
-      "score": 10.8,
+      "url": "https://devforum.roblox.com/t/stormbreaker-horns-can-be-observed-having-erroneous-behavior-unlike-the-rest-of-the-series/4989614",
+      "author": "0wknh",
+      "date": "2026-11-13T19:46:38.900Z",
+      "title": "Stormbreaker Horns can be observed having erroneous behavior unlike the rest of the series",
+      "excerpt_en": "Seeing the change of the ghostly pumpkin head, I believe it is in best interest to change the stormbreaker horns to have a fire effect just like the reset of the series has. They should add a flame whilst also keeping the storm breaker effect. If you don’t want to add a flame…",
+      "score": 10.4,
+      "tags": [],
+      "engagement": {
+        "likes": 750,
+        "replies": 58,
+        "views": 943
+      },
+      "first_seen": "2026-11-14T06:38:37.942Z"
+    },
+    {
+      "id": "devforum:4988133",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-ai-support-keeps-closing-my-chat-and-preventing-me-from-reaching-devex-email-support/4988133",
+      "author": "H9_zy",
+      "date": "2026-11-12T15:51:11.535Z",
+      "title": "Roblox AI Support Keeps Closing My Chat and Preventing Me from Reaching DevEx Email Support",
+      "excerpt_en": "My DevEx request submitted on November 3, 2026, is still Pending on Roblox, with no corresponding payment showing in Tipalti. This isn’t my first cash-out. I’ve tried contacting support, but the chatbot keeps repeating the general processing timeline and closing the chat before…",
+      "score": 10,
       "tags": [
         "revenue"
       ],
       "engagement": {
-        "likes": 23,
+        "likes": 0,
         "replies": 2,
-        "views": 461
+        "views": 33
       },
-      "first_seen": "2026-11-10T07:30:09.271Z"
+      "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "devforum:4984986",
+      "id": "devforum:4983971",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
-      "author": "2XIth",
-      "date": "2026-11-10T01:39:44.602Z",
-      "title": "Allow Players to Gift Roblox Plus Subscriptions",
-      "excerpt_en": "Allow Players to Gift Roblox Plus Subscriptions! The Problem As a Roblox developer and player, it is currently too hard to gift subscription benefits to other users, particularly with the introduction and increasing promotion of Roblox Plus. Roblox has already introduced the…",
-      "score": 10.8,
+      "url": "https://devforum.roblox.com/t/crystal-heist-i-simplified-the-first-minute-so-nobody-gets-lost-can-you-still-get-stuck/4983971",
+      "author": "Prisnor20",
+      "date": "2026-11-09T13:01:46.044Z",
+      "title": "Crystal Heist: I simplified the first minute so nobody gets lost. Can you still get stuck?",
+      "excerpt_en": "Game: Crystal Heist | Play on Roblox (16+, age verification needed to join) The GIF shows the current first minute. I rebuilt it step by step because my first funnel (Nov 6-8, 30 new players) lost most people before their first steal: Step Players Lost Spawned 30 Intro started…",
+      "score": 9.6,
       "tags": [
-        "marketing",
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 81
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4989541",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541",
+      "author": "verva1_n",
+      "date": "2026-11-13T18:45:54.077Z",
+      "title": "Monetize your Roblox game | Donation Board 5.0",
+      "excerpt_en": "Donation Board V5 ‎ ‎ ‎ Donation Board has come a long way since its original release. What started as a simple way for players to support their favorite experiences has grown into something much bigger. With V5, we’re taking another step forward. Built from the ground up with a…",
+      "score": 9.1,
+      "tags": [
         "monetization"
       ],
       "engagement": {
-        "likes": 1,
+        "likes": 2,
         "replies": 0,
-        "views": 24
+        "views": 21
       },
-      "first_seen": "2026-11-10T07:30:09.271Z"
+      "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
-      "id": "reddit:t3_1xsquhk",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
-      "author": "StrikeCritical1988",
-      "date": "2026-11-10T16:08:39.000Z",
-      "title": "[REVSHARE] Asym game plan - in concept phase",
-      "excerpt_en": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after…",
-      "score": 10,
+      "id": "naavik:https://naavik.co/?p=34772",
+      "source": "naavik",
+      "url": "https://naavik.co/ai-gaming/the-state-of-ai-voices-in-games/",
+      "author": "Mike Markin",
+      "date": "2026-11-10T07:21:55.000Z",
+      "title": "The State of AI Voices in Games",
+      "excerpt_en": "Source: Keywords Studios AI voice for games has grown well past basic speech synthesis and is already live in several AAA games. For NHL 27, EA confirmed it used AI to expand on more than 50 recording sessions, with the consent and continued involvement of commentators John…",
+      "score": 9,
       "tags": [
+        "analyst",
         "revenue",
-        "studio"
+        "studio",
+        "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-10T19:52:10.301Z"
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4977645",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
+      "author": "zleakwashere",
+      "date": "2026-11-05T21:15:05.729Z",
+      "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
+      "excerpt_en": "OmniStore — Typed Persistence for Roblox 2172×724 1.19 MB What is OmniStore? OmniStore is an open-source Roblox persistence library for loading, updating, validating, and saving data. It follows a simple structure: OmniStore → Store → Record → Data A record can represent a…",
+      "score": 8.7,
+      "tags": [
+        "story",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 4,
+        "views": 225
+      },
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
+      "author": null,
+      "date": "2026-11-11T13:22:00.000Z",
+      "title": "Merak Capital leads $1.3m round in Lambda Studios",
+      "excerpt_en": "Saudi-based Lambda Studios has raised a $1.3 million investment round led by Merak Capital to expand onto new platforms including Steam. Founded in 2024, Lambda Studios is a Saudi game development and publishing company that initially began on Roblox. ... [ MORE ]",
+      "score": 7,
+      "tags": [
+        "analyst",
+        "revenue",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-11T19:43:54.610Z"
+    },
+    {
+      "id": "devforum:4981278",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
+      "author": "starwarstotal1",
+      "date": "2026-11-07T22:31:49.642Z",
+      "title": "PVP Tower Defense",
+      "excerpt_en": "Hello there! I’ve been working on a tower defense over the last 4 months and I’ve wanted to get some feedback on it. Logo 1280×720 168 KB I have created this game reaching for something that is pretty unusual for a majority of Roblox tower defense games out there: the lack of…",
+      "score": 7,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "views": 97
+      },
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xuqeee",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
+      "author": "Careless-Duty8400",
+      "date": "2026-11-12T22:12:57.000Z",
+      "title": "How do roblox anime and superhero games avoid being copyrighted?",
+      "excerpt_en": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I…",
+      "score": 7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
     }
   ]
 }

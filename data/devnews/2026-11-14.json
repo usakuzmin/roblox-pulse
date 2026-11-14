@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-11-14T06:38:37.942Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 104482
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 91184
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 3,
+      "ms": 4192
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 135
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 522
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4989671",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671",
+      "author": "kru3nt",
+      "date": "2026-11-13T20:30:58.789Z",
+      "title": "Looking for honest feedback on my first game",
+      "excerpt_en": "Hey everyone, This is the first game I’ve ever actually finished and published on Roblox, so I’m still figuring out the post-launch side of things. I’ve been running some ads to get initial data, and while people are playing, I feel like my monetization and retention could be…",
+      "score": 14.8,
+      "tags": [
+        "metrics",
+        "discovery",
+        "monetization",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 40
+      },
+      "first_seen": "2026-11-14T06:38:37.942Z"
+    },
+    {
+      "id": "devforum:4989614",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/stormbreaker-horns-can-be-observed-having-erroneous-behavior-unlike-the-rest-of-the-series/4989614",
+      "author": "0wknh",
+      "date": "2026-11-13T19:46:38.900Z",
+      "title": "Stormbreaker Horns can be observed having erroneous behavior unlike the rest of the series",
+      "excerpt_en": "Seeing the change of the ghostly pumpkin head, I believe it is in best interest to change the stormbreaker horns to have a fire effect just like the reset of the series has. They should add a flame whilst also keeping the storm breaker effect. If you don’t want to add a flame…",
+      "score": 10.4,
+      "tags": [],
+      "engagement": {
+        "likes": 750,
+        "replies": 58,
+        "views": 943
+      },
+      "first_seen": "2026-11-14T06:38:37.942Z"
+    },
+    {
+      "id": "reddit:t3_1xurrnn",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurrnn/openworld_age_of_sail_game/",
+      "author": "Melodic-Sundae3403",
+      "date": "2026-11-12T23:11:23.000Z",
+      "title": "Open-world age of sail game.",
+      "excerpt_en": "Some progress on my game. I've added 5 ammunition types, each physically displayed as an object. Various damage markers, hitpoint and collision locations, various realistic ranges per each. Different effects based on the type (fire rounds cause fires and flooding). Custom sail…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-14T06:38:37.942Z"
+    }
+  ]
+}
