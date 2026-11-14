@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:16:05.587Z",
+  "generated_at": "2026-11-14T22:33:21.855Z",
   "from_files": [
     "2026-11-11.json",
     "2026-11-12.json",
@@ -62,6 +62,24 @@
         "views": 439
       },
       "first_seen": "2026-11-12T20:03:44.976Z"
+    },
+    {
+      "id": "reddit:t3_1xwax44",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwax44/game_finally_exploded/",
+      "author": "Flat-Worldliness-960",
+      "date": "2026-11-14T19:23:59.000Z",
+      "title": "Game finally exploded",
+      "excerpt_en": "Created obby game, medium monetization on Nov 3, spent about 100 USD advertising plays, was hovering around 60-80 CCU and when all ages unlocked I now seem to never go below 300, and have been at over 500 the past 8 hours. Now have 125k visits and the Robux is flowing fast. Want…",
+      "score": 16,
+      "tags": [
+        "metrics",
+        "ads",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T22:33:21.798Z"
     },
     {
       "id": "devforum:4989671",
@@ -274,24 +292,6 @@
         "replies": 4,
         "views": 225
       },
-      "first_seen": "2026-11-11T19:43:54.610Z"
-    },
-    {
-      "id": "pocketgamer.biz:https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
-      "source": "pocketgamer.biz",
-      "url": "https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/",
-      "author": null,
-      "date": "2026-11-11T13:22:00.000Z",
-      "title": "Merak Capital leads $1.3m round in Lambda Studios",
-      "excerpt_en": "Saudi-based Lambda Studios has raised a $1.3 million investment round led by Merak Capital to expand onto new platforms including Steam. Founded in 2024, Lambda Studios is a Saudi game development and publishing company that initially began on Roblox. ... [ MORE ]",
-      "score": 7,
-      "tags": [
-        "analyst",
-        "revenue",
-        "studio",
-        "numbers"
-      ],
-      "engagement": {},
       "first_seen": "2026-11-11T19:43:54.610Z"
     }
   ]
