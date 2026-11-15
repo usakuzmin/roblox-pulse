@@ -1,0 +1,158 @@
+{
+  "generated_at": "2026-11-15T06:45:50.968Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 101248
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 90720
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 1138
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 39
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 164
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4991076",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
+      "author": "DevRylen",
+      "date": "2026-11-14T19:41:33.685Z",
+      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
+      "excerpt_en": "**I’m here to kind of ask for help and show of some algorithm issues that Im not sure if other people are experiencing. I dropped this game recently, its not an insanely high quality game but it is FAR above the quality and gameplay of a simulator game.** **The issue 50% Russian…",
+      "score": 10.9,
+      "tags": [
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 3,
+        "views": 108
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "devforum:4991657",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/prophecy-feedback/4991657",
+      "author": "nowflybird",
+      "date": "2026-11-15T04:17:50.755Z",
+      "title": "PROPHECY Feedback",
+      "excerpt_en": "Hello everyone, I’m back and this time I fulfiled my promise of releasing PROPHECY . I initialled revealed my revamp of the game on May 19 2026, and I just released it in testing today. I would love some feedback on the gameplay loop, mechanics, and overall quality of the game…",
+      "score": 5.2,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 24
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "devforum:4987793",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793",
+      "author": "CreeperJackson10",
+      "date": "2026-11-12T07:34:50.372Z",
+      "title": "StepSet - A improved move and rotation plugin",
+      "excerpt_en": "StepSet - A improved move and rotation plugin Icon 128×128 10.4 KB Download from the Creator Hub Current Version: v1.0.0 Updated: 11/11/26 Jump to: Features · Roadmap · Changelog · Credits DISCLAIMER: Generative AI was used in the creation of this plugin. More details on this…",
+      "score": 4,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 1,
+        "views": 155
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "devforum:4990199",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/fifa-meets-roblox-introducing-supreme-soccer-tycoon/4990199",
+      "author": "JacksonDC23",
+      "date": "2026-11-14T04:26:07.783Z",
+      "title": "FIFA Meets Roblox? Introducing Supreme Soccer Tycoon",
+      "excerpt_en": "Ever imagined combining FIFA-style soccer matches with the ability to build and manage your very own soccer stadium? That’s exactly what we’re bringing to Roblox with Supreme Soccer Tycoon! In SST, you start with a small plot of land and an empty soccer field. From there, you…",
+      "score": 3,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 56
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "reddit:t3_1xwgj4d",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwgj4d/added_pick_and_place_machines_to_the_factory_game/",
+      "author": "jebeDIEah_Kerbal",
+      "date": "2026-11-14T23:31:59.000Z",
+      "title": "Added pick and place machines to the factory game, its now possible to make simple circuit boards!",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "reddit:t3_1xt8leb",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt8leb/crazy_ui_made_with_ai/",
+      "author": "Mammoth_Buy_262",
+      "date": "2026-11-11T04:37:42.000Z",
+      "title": "Crazy UI made with AI",
+      "excerpt_en": "I made this with AI and it’s in Figma and works well in Roblox studio with the correct layout. What do you think? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "reddit:t3_1xwke6g",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwke6g/mortar_and_such/",
+      "author": "peatmossing",
+      "date": "2026-11-15T02:45:21.000Z",
+      "title": "mortar and such",
+      "excerpt_en": "",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "reddit:t3_1xwl7lz",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwl7lz/some_things_im_making_for_a_game/",
+      "author": "Western-Ad-2921",
+      "date": "2026-11-15T03:28:00.000Z",
+      "title": "Some things i’m making for a game",
+      "excerpt_en": "I thought it was pretty neat just wanted to know if it’s the good stuff Also, it’s a spooky game. BWAAHH ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T22:33:21.855Z",
+  "generated_at": "2026-11-15T06:45:51.011Z",
   "from_files": [
-    "2026-11-11.json",
     "2026-11-12.json",
     "2026-11-13.json",
-    "2026-11-14.json"
+    "2026-11-14.json",
+    "2026-11-15.json"
   ],
   "items": [
     {
@@ -23,23 +23,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-14T18:16:05.533Z"
-    },
-    {
-      "id": "reddit:t3_1xt23sj",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
-      "author": "Terminabsage",
-      "date": "2026-11-10T23:27:55.000Z",
-      "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
-      "excerpt_en": "Solo dev here. My game is a pawn shop where monsters bring you items and you check them with a UV lamp, a lens and the papers to decide: real or fake? It went public last week. New experiences start in a 16+ trial: until 250 \"highly engaged\" players have played within 60 days…",
-      "score": 20,
-      "tags": [
-        "revenue",
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-11T06:38:27.579Z"
     },
     {
       "id": "devforum:4988305",
@@ -183,6 +166,26 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
+      "id": "devforum:4991076",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
+      "author": "DevRylen",
+      "date": "2026-11-14T19:41:33.685Z",
+      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
+      "excerpt_en": "**I’m here to kind of ask for help and show of some algorithm issues that Im not sure if other people are experiencing. I dropped this game recently, its not an insanely high quality game but it is FAR above the quality and gameplay of a simulator game.** **The issue 50% Russian…",
+      "score": 10.9,
+      "tags": [
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 3,
+        "views": 108
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
       "id": "devforum:4989614",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/stormbreaker-horns-can-be-observed-having-erroneous-behavior-unlike-the-rest-of-the-series/4989614",
@@ -219,25 +222,6 @@
       "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
-      "id": "devforum:4983971",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/crystal-heist-i-simplified-the-first-minute-so-nobody-gets-lost-can-you-still-get-stuck/4983971",
-      "author": "Prisnor20",
-      "date": "2026-11-09T13:01:46.044Z",
-      "title": "Crystal Heist: I simplified the first minute so nobody gets lost. Can you still get stuck?",
-      "excerpt_en": "Game: Crystal Heist | Play on Roblox (16+, age verification needed to join) The GIF shows the current first minute. I rebuilt it step by step because my first funnel (Nov 6-8, 30 new players) lost most people before their first steal: Step Players Lost Spawned 30 Intro started…",
-      "score": 9.6,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {
-        "likes": 6,
-        "replies": 3,
-        "views": 81
-      },
-      "first_seen": "2026-11-11T19:43:54.610Z"
-    },
-    {
       "id": "devforum:4989541",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541",
@@ -257,42 +241,53 @@
       "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
-      "id": "naavik:https://naavik.co/?p=34772",
-      "source": "naavik",
-      "url": "https://naavik.co/ai-gaming/the-state-of-ai-voices-in-games/",
-      "author": "Mike Markin",
-      "date": "2026-11-10T07:21:55.000Z",
-      "title": "The State of AI Voices in Games",
-      "excerpt_en": "Source: Keywords Studios AI voice for games has grown well past basic speech synthesis and is already live in several AAA games. For NHL 27, EA confirmed it used AI to expand on more than 50 recording sessions, with the consent and continued involvement of commentators John…",
-      "score": 9,
+      "id": "devforum:4981278",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
+      "author": "starwarstotal1",
+      "date": "2026-11-07T22:31:49.642Z",
+      "title": "PVP Tower Defense",
+      "excerpt_en": "Hello there! I’ve been working on a tower defense over the last 4 months and I’ve wanted to get some feedback on it. Logo 1280×720 168 KB I have created this game reaching for something that is pretty unusual for a majority of Roblox tower defense games out there: the lack of…",
+      "score": 7,
       "tags": [
-        "analyst",
-        "revenue",
-        "studio",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 2,
+        "views": 97
+      },
+      "first_seen": "2026-11-12T07:23:14.380Z"
+    },
+    {
+      "id": "reddit:t3_1xuqeee",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
+      "author": "Careless-Duty8400",
+      "date": "2026-11-12T22:12:57.000Z",
+      "title": "How do roblox anime and superhero games avoid being copyrighted?",
+      "excerpt_en": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I…",
+      "score": 7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xus9xg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
+      "author": "Holiday_Pea_3021",
+      "date": "2026-11-12T23:33:49.000Z",
+      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
+      "excerpt_en": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a…",
+      "score": 6,
+      "tags": [
         "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-11T19:43:54.610Z"
-    },
-    {
-      "id": "devforum:4977645",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
-      "author": "zleakwashere",
-      "date": "2026-11-05T21:15:05.729Z",
-      "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
-      "excerpt_en": "OmniStore — Typed Persistence for Roblox 2172×724 1.19 MB What is OmniStore? OmniStore is an open-source Roblox persistence library for loading, updating, validating, and saving data. It follows a simple structure: OmniStore → Store → Record → Data A record can represent a…",
-      "score": 8.7,
-      "tags": [
-        "story",
-        "studio"
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 4,
-        "views": 225
-      },
-      "first_seen": "2026-11-11T19:43:54.610Z"
+      "first_seen": "2026-11-14T18:16:05.533Z"
     }
   ]
 }
