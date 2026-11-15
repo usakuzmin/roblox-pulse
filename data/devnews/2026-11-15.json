@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-15T06:45:50.968Z",
+  "generated_at": "2026-11-15T18:59:04.419Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 101248
+      "ms": 114261
     },
     "reddit": {
       "ok": true,
       "fetched": 50,
-      "ms": 90720
+      "ms": 91180
     },
     "rss": {
       "ok": true,
       "fetched": 2,
-      "ms": 1138
+      "ms": 1626
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 39
+      "ms": 179
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 164
+      "ms": 231
     }
   },
   "items": [
@@ -48,6 +48,38 @@
         "views": 108
       },
       "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "devforum:4990229",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/have-settopbartransparency-work-on-the-current-coregui/4990229",
+      "author": "LuaW1z",
+      "date": "2026-11-14T05:06:08.206Z",
+      "title": "Have :SetTopbarTransparency() work on the current CoreGui",
+      "excerpt_en": "Before Roblox introduced the new topbar in 2020, there was a method that allowed developers to tweak the transparency of the topbar’s background. image 690×340 48.7 KB Following the introduction of the new topbar in 2020, the function was deprecated. It currently does nothing…",
+      "score": 7.2,
+      "tags": [],
+      "engagement": {
+        "likes": 69,
+        "replies": 12,
+        "views": 379
+      },
+      "first_seen": "2026-11-15T18:59:04.419Z"
+    },
+    {
+      "id": "reddit:t3_1xwi4i5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/",
+      "author": "WarEffective",
+      "date": "2026-11-15T00:47:50.000Z",
+      "title": "struggling to get recognition for my game out there",
+      "excerpt_en": "feels like i made an original horror game, and my ads arent really working. marketing is really weak rn. tiktok link ",
+      "score": 6,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-15T18:59:04.419Z"
     },
     {
       "id": "devforum:4991657",
@@ -84,6 +116,23 @@
         "views": 155
       },
       "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "devforum:4990294",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/user-made-lightmaps-and-baked-lighting-support/4990294",
+      "author": "sk1ntalker",
+      "date": "2026-11-14T06:41:32.076Z",
+      "title": "User-made Lightmaps and Baked Lighting Support",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to make realistic but optimized static environments for low-end devices. I’d like support for user-made lightmaps and/or baked lighting. Lightmapping precomputes the lighting of a static scene and stores it on 2D textures. Unlike…",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 1,
+        "views": 76
+      },
+      "first_seen": "2026-11-15T18:59:04.419Z"
     },
     {
       "id": "devforum:4990199",
@@ -153,6 +202,45 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-15T06:45:50.968Z"
+    },
+    {
+      "id": "reddit:t3_1xwlp5m",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwlp5m/adventure_quest_worlds_inspired_game_on_roblox/",
+      "author": "OppositeMental4347",
+      "date": "2026-11-15T03:54:23.000Z",
+      "title": "adventure quest worlds inspired game on Roblox",
+      "excerpt_en": "game is called Adventure World - hey guys!! my name is Matty:) i first played aqw when i was 11, now im 29 lol... i am a game dev on roblox, and i always wanted to make a 2d mmorpg like aqw, so imade an aqw inspired game on roblox!! i am working on it a lot, currently i have a…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T18:59:04.419Z"
+    },
+    {
+      "id": "reddit:t3_1xwr61z",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwr61z/join_us_in_forest_survival_2_we_need_testers_and/",
+      "author": "bugerexile",
+      "date": "2026-11-15T09:19:41.000Z",
+      "title": "Join US In Forest Survival 2 (we need testers and or voulantiers with talent)",
+      "excerpt_en": "r/ForestSurvival2 the only thing we can offer is a dev skin for the future if you want rn. You might get a few bucks when the game does some good tho lol u/rustythelion ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T18:59:04.419Z"
+    },
+    {
+      "id": "reddit:t3_1xw900p",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw900p/some_anomaly_designs_in_my_floor_survival_game/",
+      "author": "CoffeeInfamous2787",
+      "date": "2026-11-14T18:06:42.000Z",
+      "title": "Some anomaly designs in my floor survival game.",
+      "excerpt_en": "fyi: this game is slightly inspired by dandy's world, but actually tries to be a bit scary. Plus the stamina regen isn't dogshit. The seek-lookin anomaly is called The Straggler and is basically the baseline for all common Anomalies. The Hunter (second one) is like Twisted…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-15T18:59:04.419Z"
     }
   ]
 }

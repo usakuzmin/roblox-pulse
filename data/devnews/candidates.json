@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:45:51.011Z",
+  "generated_at": "2026-11-15T18:59:04.459Z",
   "from_files": [
     "2026-11-12.json",
     "2026-11-13.json",
@@ -241,6 +241,23 @@
       "first_seen": "2026-11-13T19:51:36.583Z"
     },
     {
+      "id": "devforum:4990229",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/have-settopbartransparency-work-on-the-current-coregui/4990229",
+      "author": "LuaW1z",
+      "date": "2026-11-14T05:06:08.206Z",
+      "title": "Have :SetTopbarTransparency() work on the current CoreGui",
+      "excerpt_en": "Before Roblox introduced the new topbar in 2020, there was a method that allowed developers to tweak the transparency of the topbar’s background. image 690×340 48.7 KB Following the introduction of the new topbar in 2020, the function was deprecated. It currently does nothing…",
+      "score": 7.2,
+      "tags": [],
+      "engagement": {
+        "likes": 69,
+        "replies": 12,
+        "views": 379
+      },
+      "first_seen": "2026-11-15T18:59:04.419Z"
+    },
+    {
       "id": "devforum:4981278",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
@@ -273,21 +290,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-13T06:55:32.180Z"
-    },
-    {
-      "id": "reddit:t3_1xus9xg",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
-      "author": "Holiday_Pea_3021",
-      "date": "2026-11-12T23:33:49.000Z",
-      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
-      "excerpt_en": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a…",
-      "score": 6,
-      "tags": [
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-14T18:16:05.533Z"
     }
   ]
 }
