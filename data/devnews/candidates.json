@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T18:59:04.459Z",
+  "generated_at": "2026-11-16T06:44:19.763Z",
   "from_files": [
-    "2026-11-12.json",
     "2026-11-13.json",
     "2026-11-14.json",
-    "2026-11-15.json"
+    "2026-11-15.json",
+    "2026-11-16.json"
   ],
   "items": [
     {
@@ -23,28 +23,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-14T18:16:05.533Z"
-    },
-    {
-      "id": "devforum:4988305",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305",
-      "author": "quazotheduck",
-      "date": "2026-11-12T18:00:28.595Z",
-      "title": "Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics",
-      "excerpt_en": "Hi Creators, Until now, every experiment measured success with the same topline metrics, like playtime, retention and ARPU. But no two experiences are built the same, and these metrics don’t always tell the full story. They tell you whether a change moved the needle, but rarely…",
-      "score": 16.7,
-      "tags": [
-        "platform",
-        "revenue",
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 14,
-        "replies": 0,
-        "views": 439
-      },
-      "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
       "id": "reddit:t3_1xwax44",
@@ -87,44 +65,6 @@
       "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
-      "id": "devforum:4988144",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/your-game-become-famous-review-tool/4988144",
-      "author": "amindez24",
-      "date": "2026-11-12T16:00:45.691Z",
-      "title": "Your game become famous? Review tool",
-      "excerpt_en": "In the process of learning these lessons, I lost the best opportunity for my game to gain popularity, lost top-tier players, and failed to build a loyal community. I have now compiled all the challenges—and the insights I previously lacked—into a checklist. My goal is to save at…",
-      "score": 13.3,
-      "tags": [
-        "revenue",
-        "metrics",
-        "story"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 48
-      },
-      "first_seen": "2026-11-12T20:03:44.976Z"
-    },
-    {
-      "id": "reddit:t3_1xtl1zt",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtl1zt/should_i_keep_pushing_or_stop_ads/",
-      "author": "nottheguy120",
-      "date": "2026-11-11T15:44:05.000Z",
-      "title": "Should i Keep pushing or stop ads?",
-      "excerpt_en": "The game has been out for almost a month now. I spent 152 USD on ads, plus reinvested14K Robux I earned into more ad credits, and I still have another 9K pending. So I basically got about half of my investment \"back\" (24K Robux converts to almost $90). But even after kids became…",
-      "score": 13,
-      "tags": [
-        "revenue",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-12T20:03:44.976Z"
-    },
-    {
       "id": "devforum:4990299",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/free-tool-turn-a-photo-or-text-prompt-into-a-roblox-ready-3d-mesh-and-send-it-straight-into-studio/4990299",
@@ -143,27 +83,6 @@
         "views": 88
       },
       "first_seen": "2026-11-14T18:16:05.533Z"
-    },
-    {
-      "id": "devforum:4988260",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260",
-      "author": "JCollision",
-      "date": "2026-11-12T17:25:33.439Z",
-      "title": "Policy Clarification: Paid Access Sales and In-Game Development Milestone Tracker",
-      "excerpt_en": "We are preparing to launch a commercial MMORPG experience using Roblox’s native Paid Access in Local Currency system, with Demo Mode enabled. Before implementation, we would like clarification on a proposed in-game feature to ensure it fully complies with Roblox’s Community…",
-      "score": 11,
-      "tags": [
-        "revenue",
-        "monetization",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 9
-      },
-      "first_seen": "2026-11-12T20:03:44.976Z"
     },
     {
       "id": "devforum:4991076",
@@ -203,23 +122,22 @@
       "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
-      "id": "devforum:4988133",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/roblox-ai-support-keeps-closing-my-chat-and-preventing-me-from-reaching-devex-email-support/4988133",
-      "author": "H9_zy",
-      "date": "2026-11-12T15:51:11.535Z",
-      "title": "Roblox AI Support Keeps Closing My Chat and Preventing Me from Reaching DevEx Email Support",
-      "excerpt_en": "My DevEx request submitted on November 3, 2026, is still Pending on Roblox, with no corresponding payment showing in Tipalti. This isn’t my first cash-out. I’ve tried contacting support, but the chatbot keeps repeating the general processing timeline and closing the chat before…",
+      "id": "naavik:https://naavik.co/?p=34778",
+      "source": "naavik",
+      "url": "https://naavik.co/weekly-digest/discords-path-to-ipo-needs-game-developers/",
+      "author": "Naavik",
+      "date": "2026-11-15T06:06:40.000Z",
+      "title": "Discord’s Path to IPO Needs Game Developers",
+      "excerpt_en": "Source: Discord In January, Discord confidentially filed for an IPO , making it the most important gaming-related listing since Roblox. The company heading toward its public-market debut looks quite different from the one that last raised money in 2021 at a $15B valuation…",
       "score": 10,
       "tags": [
-        "revenue"
+        "analyst",
+        "revenue",
+        "ads",
+        "monetization"
       ],
-      "engagement": {
-        "likes": 0,
-        "replies": 2,
-        "views": 33
-      },
-      "first_seen": "2026-11-12T20:03:44.976Z"
+      "engagement": {},
+      "first_seen": "2026-11-16T06:44:19.708Z"
     },
     {
       "id": "devforum:4989541",
@@ -258,25 +176,6 @@
       "first_seen": "2026-11-15T18:59:04.419Z"
     },
     {
-      "id": "devforum:4981278",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
-      "author": "starwarstotal1",
-      "date": "2026-11-07T22:31:49.642Z",
-      "title": "PVP Tower Defense",
-      "excerpt_en": "Hello there! I’ve been working on a tower defense over the last 4 months and I’ve wanted to get some feedback on it. Logo 1280×720 168 KB I have created this game reaching for something that is pretty unusual for a majority of Roblox tower defense games out there: the lack of…",
-      "score": 7,
-      "tags": [
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 7,
-        "replies": 2,
-        "views": 97
-      },
-      "first_seen": "2026-11-12T07:23:14.380Z"
-    },
-    {
       "id": "reddit:t3_1xuqeee",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
@@ -290,6 +189,91 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-13T06:55:32.180Z"
+    },
+    {
+      "id": "reddit:t3_1xus9xg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
+      "author": "Holiday_Pea_3021",
+      "date": "2026-11-12T23:33:49.000Z",
+      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
+      "excerpt_en": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a…",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xwi4i5",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/",
+      "author": "WarEffective",
+      "date": "2026-11-15T00:47:50.000Z",
+      "title": "struggling to get recognition for my game out there",
+      "excerpt_en": "feels like i made an original horror game, and my ads arent really working. marketing is really weak rn. tiktok link ",
+      "score": 6,
+      "tags": [
+        "marketing"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-15T18:59:04.419Z"
+    },
+    {
+      "id": "devforum:4990854",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854",
+      "author": "owerall1919",
+      "date": "2026-11-14T16:53:07.826Z",
+      "title": "Yall split up your scripts or keep them in one?",
+      "excerpt_en": "I was wondering. Should i keep my admin panel’s functuality into one script or should i use different scripts that connect to each other for different things that the admin panel does? (for example every panel in my admin panel is in one script named AdminServerHandler and i had…",
+      "score": 5.5,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 5,
+        "views": 42
+      },
+      "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "devforum:4980598",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598",
+      "author": "SpookyStud10s",
+      "date": "2026-11-07T15:50:10.440Z",
+      "title": "Lack of Transparency Around AI-Generated Content in Roblox Experiences",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to distinguish experiences created through traditional, hands-on development from those that rely heavily on AI-generated content or automated creation tools. There is currently very little visibility into how an experience’s…",
+      "score": 5.3,
+      "tags": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 4,
+        "views": 210
+      },
+      "first_seen": "2026-11-13T19:51:36.583Z"
+    },
+    {
+      "id": "devforum:4991657",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/prophecy-feedback/4991657",
+      "author": "nowflybird",
+      "date": "2026-11-15T04:17:50.755Z",
+      "title": "PROPHECY Feedback",
+      "excerpt_en": "Hello everyone, I’m back and this time I fulfiled my promise of releasing PROPHECY . I initialled revealed my revamp of the game on May 19 2026, and I just released it in testing today. I would love some feedback on the gameplay loop, mechanics, and overall quality of the game…",
+      "score": 5.2,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 24
+      },
+      "first_seen": "2026-11-15T06:45:50.968Z"
     }
   ]
 }

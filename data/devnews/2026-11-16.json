@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-11-16T06:44:19.708Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 106921
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 91172
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 4,
+      "ms": 5082
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 366
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 352
+    }
+  },
+  "items": [
+    {
+      "id": "naavik:https://naavik.co/?p=34778",
+      "source": "naavik",
+      "url": "https://naavik.co/weekly-digest/discords-path-to-ipo-needs-game-developers/",
+      "author": "Naavik",
+      "date": "2026-11-15T06:06:40.000Z",
+      "title": "Discord’s Path to IPO Needs Game Developers",
+      "excerpt_en": "Source: Discord In January, Discord confidentially filed for an IPO , making it the most important gaming-related listing since Roblox. The company heading toward its public-market debut looks quite different from the one that last raised money in 2021 at a $15B valuation…",
+      "score": 10,
+      "tags": [
+        "analyst",
+        "revenue",
+        "ads",
+        "monetization"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "devforum:4992496",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/tnl%C3%B8-optimized-instance-access-%E2%80%94-faster-property-access-with-full-intellisense/4992496",
+      "author": "Yarik_superpro",
+      "date": "2026-11-15T20:13:27.159Z",
+      "title": "[TNLØ] Optimized Instance Access — Faster Property Access With Full IntelliSense",
+      "excerpt_en": "[TNLØ] Optimized Instance Access — Faster Property Access With Full IntelliSense Inspired by Narrowing the LuaBridge Overhead . This implementation takes that optimization approach further by combining it with Luau type functions, providing faster property access while retaining…",
+      "score": 3.3,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 4,
+        "views": 137
+      },
+      "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "reddit:t3_1xwzmdl",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwzmdl/any_tips_on_improving_the_ui_or_the_lighting/",
+      "author": "CoffeeTime5610",
+      "date": "2026-11-15T16:23:07.000Z",
+      "title": "Any tips on improving the UI or the Lighting?",
+      "excerpt_en": "I'm currently doing a rework on my Boss Fight game, where I'm adding this new map, some additional UI as well as changes to the lighting and the Skybox. Any tips or suggestions would be appreciated! ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "reddit:t3_1xxgdb4",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxgdb4/which_ai_is_best_to_help_me_write_code/",
+      "author": "Reinfinite",
+      "date": "2026-11-16T04:41:29.000Z",
+      "title": "Which Ai is best to help me write code?",
+      "excerpt_en": "So for context, I have a lot of ideas for a roblox game i want to make (I don't want to share it for obvious reasons, I know what roblox devs are like) But I have NO idea how to code, though i'm comfortable with designing and animating. I'm still relatively young and broke so I…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "reddit:t3_1xwm3hg",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwm3hg/is_this_jumpscare_scary_enough/",
+      "author": "shootboots_",
+      "date": "2026-11-15T04:15:58.000Z",
+      "title": "Is this jumpscare scary enough??",
+      "excerpt_en": "This is the jumpscare for one of the entities (bellboy, name is a wip) in my upcoming horror game, is it scary enough? (It tries your door handle, and if you move when it does, it kicks down ur door to get you) ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T06:44:19.708Z"
+    }
+  ]
+}
