@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:44:19.763Z",
+  "generated_at": "2026-11-16T22:16:54.260Z",
   "from_files": [
     "2026-11-13.json",
     "2026-11-14.json",
@@ -7,6 +7,29 @@
     "2026-11-16.json"
   ],
   "items": [
+    {
+      "id": "devforum:4993062",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/16-game-plays-goal-54-across-3-small-campaigns-my-real-numbers-what-are-yours/4993062",
+      "author": "Prisnor20",
+      "date": "2026-11-16T10:09:32.719Z",
+      "title": "16+ game, Plays goal, $54 across 3 small campaigns: my real numbers. What are yours?",
+      "excerpt_en": "I could not find many real Ads Manager numbers for 16+ experiences, so here are mine. Three small campaigns for a crystal-stealing simulator, $54 in total, 386 plays in the report. The same thumbnails went from 1.0% to 1.7% CTR and from $0.142 to $0.129 per play between two…",
+      "score": 25.7,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 4,
+        "views": 115
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
     {
       "id": "reddit:t3_1xw6b1p",
       "source": "reddit",
@@ -23,6 +46,23 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-14T18:16:05.533Z"
+    },
+    {
+      "id": "reddit:t3_1xwxw50",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwxw50/ads_have_5_ctr_yet_unable_to_go_past_20_ccu/",
+      "author": "kebablover12",
+      "date": "2026-11-15T15:12:30.000Z",
+      "title": "Ads have 5% CTR yet unable to go past 20 CCU",
+      "excerpt_en": "Hi, as the title says, I've been running ads on my game for a couple of days now. 33k total visits and have an average of about 15-20 CCU, yet I'm unable to go past this. Would appreciate honest review/feedback on teh game, it's a chaotic minigame Additionally, I'm really not…",
+      "score": 19,
+      "tags": [
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
     },
     {
       "id": "reddit:t3_1xwax44",
@@ -191,6 +231,23 @@
       "first_seen": "2026-11-13T06:55:32.180Z"
     },
     {
+      "id": "devforum:4992636",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
+      "author": "judash399",
+      "date": "2026-11-15T22:47:29.063Z",
+      "title": "Peek - Quickly Peek on anything",
+      "excerpt_en": "Peek Banner 1280×512 9.69 KB Peek is a plugin that makes it quick and easy to preview instances and assets directly inside Roblox Studio. To use Peek’s Instance preview, all you have to do is select an instance in the explorer, and instantly see an interactive preview inside the…",
+      "score": 7,
+      "tags": [],
+      "engagement": {
+        "likes": 55,
+        "replies": 13,
+        "views": 331
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
       "id": "reddit:t3_1xus9xg",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
@@ -219,61 +276,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-15T18:59:04.419Z"
-    },
-    {
-      "id": "devforum:4990854",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854",
-      "author": "owerall1919",
-      "date": "2026-11-14T16:53:07.826Z",
-      "title": "Yall split up your scripts or keep them in one?",
-      "excerpt_en": "I was wondering. Should i keep my admin panel’s functuality into one script or should i use different scripts that connect to each other for different things that the admin panel does? (for example every panel in my admin panel is in one script named AdminServerHandler and i had…",
-      "score": 5.5,
-      "tags": [
-        "story"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 5,
-        "views": 42
-      },
-      "first_seen": "2026-11-14T18:16:05.533Z"
-    },
-    {
-      "id": "devforum:4980598",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598",
-      "author": "SpookyStud10s",
-      "date": "2026-11-07T15:50:10.440Z",
-      "title": "Lack of Transparency Around AI-Generated Content in Roblox Experiences",
-      "excerpt_en": "As a Roblox developer, it is currently too hard to distinguish experiences created through traditional, hands-on development from those that rely heavily on AI-generated content or automated creation tools. There is currently very little visibility into how an experience’s…",
-      "score": 5.3,
-      "tags": [],
-      "engagement": {
-        "likes": 18,
-        "replies": 4,
-        "views": 210
-      },
-      "first_seen": "2026-11-13T19:51:36.583Z"
-    },
-    {
-      "id": "devforum:4991657",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/prophecy-feedback/4991657",
-      "author": "nowflybird",
-      "date": "2026-11-15T04:17:50.755Z",
-      "title": "PROPHECY Feedback",
-      "excerpt_en": "Hello everyone, I’m back and this time I fulfiled my promise of releasing PROPHECY . I initialled revealed my revamp of the game on May 19 2026, and I just released it in testing today. I would love some feedback on the gameplay loop, mechanics, and overall quality of the game…",
-      "score": 5.2,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 24
-      },
-      "first_seen": "2026-11-15T06:45:50.968Z"
     }
   ]
 }

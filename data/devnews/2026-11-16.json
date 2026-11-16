@@ -1,34 +1,74 @@
 {
-  "generated_at": "2026-11-16T06:44:19.708Z",
+  "generated_at": "2026-11-16T22:16:54.208Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 106921
+      "ms": 107303
     },
     "reddit": {
       "ok": true,
       "fetched": 50,
-      "ms": 91172
+      "ms": 91126
     },
     "rss": {
       "ok": true,
-      "fetched": 4,
-      "ms": 5082
+      "fetched": 6,
+      "ms": 9202
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 366
+      "ms": 211
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 352
+      "ms": 290
     }
   },
   "items": [
+    {
+      "id": "devforum:4993062",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/16-game-plays-goal-54-across-3-small-campaigns-my-real-numbers-what-are-yours/4993062",
+      "author": "Prisnor20",
+      "date": "2026-11-16T10:09:32.719Z",
+      "title": "16+ game, Plays goal, $54 across 3 small campaigns: my real numbers. What are yours?",
+      "excerpt_en": "I could not find many real Ads Manager numbers for 16+ experiences, so here are mine. Three small campaigns for a crystal-stealing simulator, $54 in total, 386 plays in the report. The same thumbnails went from 1.0% to 1.7% CTR and from $0.142 to $0.129 per play between two…",
+      "score": 25.7,
+      "tags": [
+        "revenue",
+        "ads",
+        "marketing",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 4,
+        "views": 115
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "reddit:t3_1xwxw50",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwxw50/ads_have_5_ctr_yet_unable_to_go_past_20_ccu/",
+      "author": "kebablover12",
+      "date": "2026-11-15T15:12:30.000Z",
+      "title": "Ads have 5% CTR yet unable to go past 20 CCU",
+      "excerpt_en": "Hi, as the title says, I've been running ads on my game for a couple of days now. 33k total visits and have an average of about 15-20 CCU, yet I'm unable to go past this. Would appreciate honest review/feedback on teh game, it's a chaotic minigame Additionally, I'm really not…",
+      "score": 19,
+      "tags": [
+        "metrics",
+        "monetization",
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
     {
       "id": "naavik:https://naavik.co/?p=34778",
       "source": "naavik",
@@ -46,6 +86,87 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "devforum:4992636",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
+      "author": "judash399",
+      "date": "2026-11-15T22:47:29.063Z",
+      "title": "Peek - Quickly Peek on anything",
+      "excerpt_en": "Peek Banner 1280×512 9.69 KB Peek is a plugin that makes it quick and easy to preview instances and assets directly inside Roblox Studio. To use Peek’s Instance preview, all you have to do is select an instance in the explorer, and instantly see an interactive preview inside the…",
+      "score": 7,
+      "tags": [],
+      "engagement": {
+        "likes": 55,
+        "replies": 13,
+        "views": 331
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "devforum:4993293",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/performance-4-parts-or-1-union/4993293",
+      "author": "RoboterB4",
+      "date": "2026-11-16T15:20:36.249Z",
+      "title": "Performance: 4 Parts or 1 Union?",
+      "excerpt_en": "Which is better for performance when creating something like a window (just as an example): building it with 4 separate parts or using a single union? While it might not make a major difference individually, it could slightly impact performance on low-end devices in large games…",
+      "score": 4.6,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 12,
+        "views": 123
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "mobilegamer:https://mobilegamer.biz/?p=51138",
+      "source": "mobilegamer",
+      "url": "https://mobilegamer.biz/octobers-top-grossing-mobile-game-chart-honor-of-kings-roblox-monopoly-go-gossip-harbor-more/",
+      "author": "Neil Long",
+      "date": "2026-11-16T11:35:37.000Z",
+      "title": "October’s top grossing mobile game chart: Honor of Kings, Roblox, Monopoly Go, Gossip Harbor, more",
+      "excerpt_en": "Come for the AppMagic numbers, stay for the analysis.",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "mobilegamer:https://mobilegamer.biz/?p=51113",
+      "source": "mobilegamer",
+      "url": "https://mobilegamer.biz/octobers-mobile-game-download-chart-roblox-free-fire-block-blast-meowdoku-brain-puzzle-more/",
+      "author": "Neil Long",
+      "date": "2026-11-16T11:35:08.000Z",
+      "title": "October’s mobile game download chart: Roblox, Free Fire, Block Blast, Meowdoku, Brain Puzzle, more",
+      "excerpt_en": "We've crunched the AppMagic numbers so you don't have to.",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "devforum:4987881",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/chat-filtering-suggestion-for-id-verified-users-aged-18/4987881",
+      "author": "mehmet184",
+      "date": "2026-11-12T10:30:50.624Z",
+      "title": "Chat Filtering Suggestion for ID-Verified Users Aged 18+",
+      "excerpt_en": "As you know, Roblox recently introduced an age-group update and separated users into different age groups. First of all, I have no complaints about this update; in fact, I think it should have been introduced a long time ago. However, Roblox has had an ongoing issue for years…",
+      "score": 3.8,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 1,
+        "views": 127
+      },
+      "first_seen": "2026-11-16T22:16:54.208Z"
     },
     {
       "id": "devforum:4992496",
@@ -102,6 +223,71 @@
       "tags": [],
       "engagement": {},
       "first_seen": "2026-11-16T06:44:19.708Z"
+    },
+    {
+      "id": "reddit:t3_1xxnqti",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxnqti/finally_hit_250_hep/",
+      "author": "Legacy277",
+      "date": "2026-11-16T12:08:38.000Z",
+      "title": "Finally hit 250 HEP",
+      "excerpt_en": "After 8 days,. I've finally hit the all ages threshold Should i swirch my ads from engagement to plays? And I've had 5 good ctr thumbnails ranging from 4-6% should i keep the ads on all of em still or should i pick the best performing ones? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "reddit:t3_1xxjwjk",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxjwjk/help_for_gun_system/",
+      "author": "gigaking15",
+      "date": "2026-11-16T08:10:49.000Z",
+      "title": "Help for gun system",
+      "excerpt_en": "I am a developer with beginner-intermediate skills and recently started developing a arena weapon combat game, inspired by rivals, big paintball and murderer mystery 2. I decided to start with a simple gun system, so i made a basic pistol model, turned it into a tool and made it…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "reddit:t3_1xy1lgs",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xy1lgs/reached_250_highly_engaged_players_and_got_my_age/",
+      "author": "UnbloxingLIVE",
+      "date": "2026-11-16T21:18:43.000Z",
+      "title": "Reached 250 highly engaged players and got my age restriction lifted, this is what changed",
+      "excerpt_en": "The player count didnt blow up, the median and mean went down and early checkpoints that were being hit by basically every player drastically went down, its only 24 hours in, but Im just saying all this to let you know that the highly engaged player restriction isnt the only…",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "reddit:t3_1xxlffj",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxlffj/made_in_eclipse_animator/",
+      "author": "Cyberspace_Sorcerer",
+      "date": "2026-11-16T09:50:23.000Z",
+      "title": "Made in eclipse animator",
+      "excerpt_en": "is there anything I can improve on? ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
+    },
+    {
+      "id": "reddit:t3_1xxdula",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxdula/anyone_ever_get_this/",
+      "author": "Crazy-Aspect9908",
+      "date": "2026-11-16T02:29:18.000Z",
+      "title": "anyone ever get this?",
+      "excerpt_en": "https://preview.redd.it/gk1c1dqbyv1i1.png?width=957&format=png&auto=webp&s=6ac3313e640b3fcb1fabe6f7dd073ab76efe61a0 Got this on a game i published an then forgot an when i went to setup an ad it rejected it automatically. Also i didn't copy anyone's stuff ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-16T22:16:54.208Z"
     }
   ]
 }
