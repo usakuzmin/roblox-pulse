@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:04:49.753Z",
+  "generated_at": "2026-11-17T21:03:57.627Z",
   "from_files": [
     "2026-11-14.json",
     "2026-11-15.json",
@@ -83,6 +83,27 @@
       "first_seen": "2026-11-14T22:33:21.798Z"
     },
     {
+      "id": "devforum:4994298",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298",
+      "author": "Bloxynet",
+      "date": "2026-11-17T12:56:37.025Z",
+      "title": "Sponsored ads still running, but player count dropped to 0 since yesterday",
+      "excerpt_en": "Hi everyone, I’m advertising my game Stack Eggs to Hatch! with Sponsored Experience ads. Until yesterday the ads brought a steady flow of players, about 15-20 concurrent players. Since then, the player count has been 0 constantly, even though the campaign is still running. image…",
+      "score": 15.3,
+      "tags": [
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 29
+      },
+      "first_seen": "2026-11-17T21:03:57.567Z"
+    },
+    {
       "id": "devforum:4989671",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671",
@@ -123,6 +144,26 @@
         "views": 57
       },
       "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "devforum:4994228",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/i-made-72-r15-fantasy-rpg-animations-using-robloxs-built-in-clip-editor/4994228",
+      "author": "9GAMESBOY",
+      "date": "2026-11-17T11:03:08.966Z",
+      "title": "I Made 72 R15 Fantasy RPG Animations Using Roblox's Built-in Clip Editor",
+      "excerpt_en": "I Made 72 R15 Fantasy RPG Animations Using Roblox’s Built-in Clip Editor I’ve always wanted to make some fantasy RPG characters, so I decided to try making my own animations for them. I ended up working on 4 different R15 rigs, each with a different weapon: a bow, sword, staff…",
+      "score": 12.2,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 16,
+        "replies": 5,
+        "views": 136
+      },
+      "first_seen": "2026-11-17T21:03:57.567Z"
     },
     {
       "id": "devforum:4990299",
@@ -252,38 +293,6 @@
         "views": 379
       },
       "first_seen": "2026-11-15T18:59:04.419Z"
-    },
-    {
-      "id": "devforum:4992636",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
-      "author": "judash399",
-      "date": "2026-11-15T22:47:29.063Z",
-      "title": "Peek - Quickly Peek on anything",
-      "excerpt_en": "Peek Banner 1280×512 9.69 KB Peek is a plugin that makes it quick and easy to preview instances and assets directly inside Roblox Studio. To use Peek’s Instance preview, all you have to do is select an instance in the explorer, and instantly see an interactive preview inside the…",
-      "score": 7,
-      "tags": [],
-      "engagement": {
-        "likes": 55,
-        "replies": 13,
-        "views": 331
-      },
-      "first_seen": "2026-11-16T22:16:54.208Z"
-    },
-    {
-      "id": "reddit:t3_1xus9xg",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
-      "author": "Holiday_Pea_3021",
-      "date": "2026-11-12T23:33:49.000Z",
-      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
-      "excerpt_en": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a…",
-      "score": 6,
-      "tags": [
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-14T18:16:05.533Z"
     }
   ]
 }
