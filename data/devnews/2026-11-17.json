@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-11-17T08:04:49.702Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 106839
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 50,
+      "ms": 91122
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 4457
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 364
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 273
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4993828",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/massive-ccu-drop-on-many-games-including-my-own/4993828",
+      "author": "HatlessBanjo",
+      "date": "2026-11-17T00:44:28.290Z",
+      "title": "Massive CCU Drop on many games including my own",
+      "excerpt_en": "Has anyone else noticed a significant drop in CCU starting from around October 31st? I own two high CCU games (One Tap and Ability Arena) on the Platform and around the start of this month both games player count began to slowly drop. Here are some screenshots from Rotrends, One…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 57
+      },
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "devforum:4993813",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/expand-experience-ab-tests-detail-page-media-title-and-description/4993813",
+      "author": "dobdev",
+      "date": "2026-11-17T00:18:05.926Z",
+      "title": "Expand experience A/B tests: detail page media, title and description",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to find out which parts of my experience’s listing help or hurt acquisition. Only Home thumbnails can be tested. The title, the description, and the thumbnails and videos on the detail page can only be changed for everyone, then…",
+      "score": 10.9,
+      "tags": [
+        "marketing",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 31
+      },
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "reddit:t3_1xxtpon",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxtpon/no_budget_to_hire_experienced_developers_what/",
+      "author": "Crazy_Carry_1470",
+      "date": "2026-11-16T16:24:17.000Z",
+      "title": "No budget to hire experienced developers, what should I do?",
+      "excerpt_en": "I want to create a nice game on Roblox. I’ve spent three months working on what is essentially a game design document, but there’s a problem: I have a relatively small budget enough only for one-off tasks like creating an icon or ads. Meanwhile, based on my extensive google…",
+      "score": 9,
+      "tags": [
+        "revenue",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "reddit:t3_1xya484",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
+      "author": "PrismaticStellarys",
+      "date": "2026-11-17T03:38:47.000Z",
+      "title": "Need Helpppp from exp Roblox Devs",
+      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "reddit:t3_1xxym61",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxym61/gun_texture_i_did_for_a_roblox_game/",
+      "author": "Scared_Amphibian6758",
+      "date": "2026-11-16T19:27:04.000Z",
+      "title": "Gun texture I did for a Roblox game",
+      "excerpt_en": "Gun texture I did for a roblox game. Hope you like it. #substancepainter #Blender #Roblox #robloxgame #weapon #gun ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "reddit:t3_1xxykna",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxykna/what_do_you_guys_think_of_this_orange_tree/",
+      "author": "Budget_Touch_9304",
+      "date": "2026-11-16T19:25:29.000Z",
+      "title": "What do you guys think of this Orange tree?",
+      "excerpt_en": "the oranges are not meant to be that obvious since the leafs are already orange ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "reddit:t3_1xxn5nc",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxn5nc/roblox_ads_strategy/",
+      "author": "stamina1st",
+      "date": "2026-11-16T11:35:32.000Z",
+      "title": "Roblox Ads Strategy !",
+      "excerpt_en": "Drop your roblox ads strategy. Let's Discuss. ",
+      "score": 3,
+      "tags": [],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    }
+  ]
+}

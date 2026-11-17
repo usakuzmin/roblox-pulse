@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-16T22:16:54.260Z",
+  "generated_at": "2026-11-17T08:04:49.753Z",
   "from_files": [
-    "2026-11-13.json",
     "2026-11-14.json",
     "2026-11-15.json",
-    "2026-11-16.json"
+    "2026-11-16.json",
+    "2026-11-17.json"
   ],
   "items": [
     {
@@ -105,6 +105,26 @@
       "first_seen": "2026-11-14T06:38:37.942Z"
     },
     {
+      "id": "devforum:4993828",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/massive-ccu-drop-on-many-games-including-my-own/4993828",
+      "author": "HatlessBanjo",
+      "date": "2026-11-17T00:44:28.290Z",
+      "title": "Massive CCU Drop on many games including my own",
+      "excerpt_en": "Has anyone else noticed a significant drop in CCU starting from around October 31st? I own two high CCU games (One Tap and Ability Arena) on the Platform and around the start of this month both games player count began to slowly drop. Here are some screenshots from Rotrends, One…",
+      "score": 13,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 57
+      },
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
       "id": "devforum:4990299",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/free-tool-turn-a-photo-or-text-prompt-into-a-roblox-ready-3d-mesh-and-send-it-straight-into-studio/4990299",
@@ -145,6 +165,27 @@
       "first_seen": "2026-11-15T06:45:50.968Z"
     },
     {
+      "id": "devforum:4993813",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/expand-experience-ab-tests-detail-page-media-title-and-description/4993813",
+      "author": "dobdev",
+      "date": "2026-11-17T00:18:05.926Z",
+      "title": "Expand experience A/B tests: detail page media, title and description",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to find out which parts of my experience’s listing help or hurt acquisition. Only Home thumbnails can be tested. The title, the description, and the thumbnails and videos on the detail page can only be changed for everyone, then…",
+      "score": 10.9,
+      "tags": [
+        "marketing",
+        "discovery",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 31
+      },
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
       "id": "devforum:4989614",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/stormbreaker-horns-can-be-observed-having-erroneous-behavior-unlike-the-rest-of-the-series/4989614",
@@ -180,23 +221,20 @@
       "first_seen": "2026-11-16T06:44:19.708Z"
     },
     {
-      "id": "devforum:4989541",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541",
-      "author": "verva1_n",
-      "date": "2026-11-13T18:45:54.077Z",
-      "title": "Monetize your Roblox game | Donation Board 5.0",
-      "excerpt_en": "Donation Board V5 ‎ ‎ ‎ Donation Board has come a long way since its original release. What started as a simple way for players to support their favorite experiences has grown into something much bigger. With V5, we’re taking another step forward. Built from the ground up with a…",
-      "score": 9.1,
+      "id": "reddit:t3_1xxtpon",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxtpon/no_budget_to_hire_experienced_developers_what/",
+      "author": "Crazy_Carry_1470",
+      "date": "2026-11-16T16:24:17.000Z",
+      "title": "No budget to hire experienced developers, what should I do?",
+      "excerpt_en": "I want to create a nice game on Roblox. I’ve spent three months working on what is essentially a game design document, but there’s a problem: I have a relatively small budget enough only for one-off tasks like creating an icon or ads. Meanwhile, based on my extensive google…",
+      "score": 9,
       "tags": [
-        "monetization"
+        "revenue",
+        "studio"
       ],
-      "engagement": {
-        "likes": 2,
-        "replies": 0,
-        "views": 21
-      },
-      "first_seen": "2026-11-13T19:51:36.583Z"
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
     },
     {
       "id": "devforum:4990229",
@@ -214,21 +252,6 @@
         "views": 379
       },
       "first_seen": "2026-11-15T18:59:04.419Z"
-    },
-    {
-      "id": "reddit:t3_1xuqeee",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
-      "author": "Careless-Duty8400",
-      "date": "2026-11-12T22:12:57.000Z",
-      "title": "How do roblox anime and superhero games avoid being copyrighted?",
-      "excerpt_en": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I…",
-      "score": 7,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-13T06:55:32.180Z"
     },
     {
       "id": "devforum:4992636",
@@ -261,21 +284,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-14T18:16:05.533Z"
-    },
-    {
-      "id": "reddit:t3_1xwi4i5",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/",
-      "author": "WarEffective",
-      "date": "2026-11-15T00:47:50.000Z",
-      "title": "struggling to get recognition for my game out there",
-      "excerpt_en": "feels like i made an original horror game, and my ads arent really working. marketing is really weak rn. tiktok link ",
-      "score": 6,
-      "tags": [
-        "marketing"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-15T18:59:04.419Z"
     }
   ]
 }
