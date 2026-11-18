@@ -1,32 +1,110 @@
 {
-  "generated_at": "2026-11-18T07:41:10.222Z",
+  "generated_at": "2026-11-18T20:40:29.418Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 102926
+      "ms": 109662
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90354
+      "ms": 30315
     },
     "rss": {
       "ok": true,
-      "fetched": 6,
-      "ms": 3985
+      "fetched": 5,
+      "ms": 4382
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 178
+      "ms": 183
     },
     "hackernews": {
       "ok": true,
-      "fetched": 1,
-      "ms": 268
+      "fetched": 2,
+      "ms": 403
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "devforum:4995698",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698",
+      "author": "handsomepoliceman22",
+      "date": "2026-11-18T18:44:46.264Z",
+      "title": "Big problem with average playtime and bounce rate. Need an outside perspective",
+      "excerpt_en": "So i recently released a game, it follows that new ragdoll physics sim trend, but with a twist. basically to get money for new weapons you complete “quotas” where you have to injure enough dummies badly enough within a time limit, buying new weapons in between each round. There…",
+      "score": 13.3,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 29
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
+      "id": "devforum:4995451",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-algorithm-is-very-broken-at-the-moment/4995451",
+      "author": "ATutili",
+      "date": "2026-11-18T14:07:25.606Z",
+      "title": "Roblox Algorithm is very broken at the moment",
+      "excerpt_en": "I am trying to be as nice as possible because this issue costed me nearly everything. So, i recently released this game : Regrowth Incremental | Play on Roblox And its dying very fast because i just lost 3x active players in 4 days , and your first thought is horrible benchmarks…",
+      "score": 10,
+      "tags": [
+        "metrics",
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 57
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
+      "id": "devforum:4995397",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
+      "author": "amindez24",
+      "date": "2026-11-18T12:42:03.246Z",
+      "title": "GUI Exam and Certification-Development",
+      "excerpt_en": "image 1920×1080 746 KB At the end of each test, you will receive a certificate and a score, along with a breakdown of your performance. If you’d like, you can share your certificate here and compete with others. Please leave a comment here if you encounter any issues. This…",
+      "score": 6.4,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 3,
+        "views": 119
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
+      "id": "devforum:4995362",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/why-is-my-game-so-unpopular/4995362",
+      "author": "Nightmare_pogg",
+      "date": "2026-11-18T11:39:08.885Z",
+      "title": "Why is my game so unpopular?",
+      "excerpt_en": "Hey, I made a game inspired by one old mobile game. After publishing i noticed barely any activity at all. I even tried paying for ads and nothing much. What have I done wrong? here are some game metrics: image 1343×490 76.1 KB",
+      "score": 5.8,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 7,
+        "views": 108
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    }
+  ]
 }

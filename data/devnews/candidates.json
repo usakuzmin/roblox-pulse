@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:41:10.271Z",
+  "generated_at": "2026-11-18T20:40:29.466Z",
   "from_files": [
     "2026-11-15.json",
     "2026-11-16.json",
@@ -67,6 +67,26 @@
         "views": 29
       },
       "first_seen": "2026-11-17T21:03:57.567Z"
+    },
+    {
+      "id": "devforum:4995698",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698",
+      "author": "handsomepoliceman22",
+      "date": "2026-11-18T18:44:46.264Z",
+      "title": "Big problem with average playtime and bounce rate. Need an outside perspective",
+      "excerpt_en": "So i recently released a game, it follows that new ragdoll physics sim trend, but with a twist. basically to get money for new weapons you complete “quotas” where you have to injure enough dummies badly enough within a time limit, buying new weapons in between each round. There…",
+      "score": 13.3,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 29
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
       "id": "devforum:4993828",
@@ -168,6 +188,27 @@
       "first_seen": "2026-11-16T06:44:19.708Z"
     },
     {
+      "id": "devforum:4995451",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-algorithm-is-very-broken-at-the-moment/4995451",
+      "author": "ATutili",
+      "date": "2026-11-18T14:07:25.606Z",
+      "title": "Roblox Algorithm is very broken at the moment",
+      "excerpt_en": "I am trying to be as nice as possible because this issue costed me nearly everything. So, i recently released this game : Regrowth Incremental | Play on Roblox And its dying very fast because i just lost 3x active players in 4 days , and your first thought is horrible benchmarks…",
+      "score": 10,
+      "tags": [
+        "metrics",
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 57
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
       "id": "reddit:t3_1xxtpon",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxtpon/no_budget_to_hire_experienced_developers_what/",
@@ -218,6 +259,25 @@
       "first_seen": "2026-11-16T22:16:54.208Z"
     },
     {
+      "id": "devforum:4995397",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
+      "author": "amindez24",
+      "date": "2026-11-18T12:42:03.246Z",
+      "title": "GUI Exam and Certification-Development",
+      "excerpt_en": "image 1920×1080 746 KB At the end of each test, you will receive a certificate and a score, along with a breakdown of your performance. If you’d like, you can share your certificate here and compete with others. Please leave a comment here if you encounter any issues. This…",
+      "score": 6.4,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 3,
+        "views": 119
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
       "id": "reddit:t3_1xwi4i5",
       "source": "reddit",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/",
@@ -231,57 +291,6 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-15T18:59:04.419Z"
-    },
-    {
-      "id": "reddit:t3_1xya484",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
-      "author": "PrismaticStellarys",
-      "date": "2026-11-17T03:38:47.000Z",
-      "title": "Need Helpppp from exp Roblox Devs",
-      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
-      "score": 6,
-      "tags": [
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-17T08:04:49.702Z"
-    },
-    {
-      "id": "devforum:4991657",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/prophecy-feedback/4991657",
-      "author": "nowflybird",
-      "date": "2026-11-15T04:17:50.755Z",
-      "title": "PROPHECY Feedback",
-      "excerpt_en": "Hello everyone, I’m back and this time I fulfiled my promise of releasing PROPHECY . I initialled revealed my revamp of the game on May 19 2026, and I just released it in testing today. I would love some feedback on the gameplay loop, mechanics, and overall quality of the game…",
-      "score": 5.2,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 24
-      },
-      "first_seen": "2026-11-15T06:45:50.968Z"
-    },
-    {
-      "id": "devforum:4993293",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/performance-4-parts-or-1-union/4993293",
-      "author": "RoboterB4",
-      "date": "2026-11-16T15:20:36.249Z",
-      "title": "Performance: 4 Parts or 1 Union?",
-      "excerpt_en": "Which is better for performance when creating something like a window (just as an example): building it with 4 separate parts or using a single union? While it might not make a major difference individually, it could slightly impact performance on low-end devices in large games…",
-      "score": 4.6,
-      "tags": [],
-      "engagement": {
-        "likes": 4,
-        "replies": 12,
-        "views": 123
-      },
-      "first_seen": "2026-11-16T22:16:54.208Z"
     }
   ]
 }
