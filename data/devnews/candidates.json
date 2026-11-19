@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:36:54.879Z",
+  "generated_at": "2026-11-19T20:47:21.098Z",
   "from_files": [
     "2026-11-16.json",
     "2026-11-17.json",
@@ -150,6 +150,26 @@
       "first_seen": "2026-11-19T07:36:54.813Z"
     },
     {
+      "id": "devforum:4996898",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/devex-cashout-pending-since-a-month-even-after-receiving-my-money/4996898",
+      "author": "AFloidDEV",
+      "date": "2026-11-19T20:34:13.673Z",
+      "title": "DevEx Cashout Pending since a month even after receiving my money",
+      "excerpt_en": "Hello! I have been kinda Ghosted by Roblox Support Regarding my Cashout Problem for DevEx. I have submitted my Cashout for the First Time before and it went trough no Problem as I have received my money after a few days. But then I have been wondering since the DevEx Page still…",
+      "score": 11.7,
+      "tags": [
+        "revenue",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 2
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
       "id": "devforum:4993813",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/expand-experience-ab-tests-detail-page-media-title-and-description/4993813",
@@ -169,6 +189,45 @@
         "views": 31
       },
       "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "devforum:4996578",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/problem-with-new-sponsor/4996578",
+      "author": "0Dev_Dev",
+      "date": "2026-11-19T14:51:35.993Z",
+      "title": "Problem with new Sponsor",
+      "excerpt_en": "I’ve recently launched a new party game and currently have around 22 daily ad credits. However, I’m barely getting any players, and the ones I do get are spread throughout the day. As a result, there are usually only 2 players online at a time, occasionally reaching 5. Since…",
+      "score": 10.9,
+      "tags": [
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 35
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996612",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-roblox-game-got-shadowbanned-with-same-benchmark-as-games-with-15000-active-players/4996612",
+      "author": "ATutili",
+      "date": "2026-11-19T15:25:22.603Z",
+      "title": "My Roblox game got shadowbanned with same benchmark as games with 15,000 active players",
+      "excerpt_en": "I don’t know what is happening with my game and i already wait for 2 days and i violently lose players My game just went from 45,000 daily players to 2,000 in just 3 days and no one can tell me why This is the original post : Roblox Algorithm is very broken at the moment The…",
+      "score": 10.2,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 13,
+        "views": 85
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
     },
     {
       "id": "naavik:https://naavik.co/?p=34778",
@@ -226,72 +285,24 @@
       "first_seen": "2026-11-17T08:04:49.702Z"
     },
     {
-      "id": "devforum:4992636",
+      "id": "devforum:4996365",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
-      "author": "judash399",
-      "date": "2026-11-15T22:47:29.063Z",
-      "title": "Peek - Quickly Peek on anything",
-      "excerpt_en": "Peek Banner 1280×512 9.69 KB Peek is a plugin that makes it quick and easy to preview instances and assets directly inside Roblox Studio. To use Peek’s Instance preview, all you have to do is select an instance in the explorer, and instantly see an interactive preview inside the…",
-      "score": 7,
-      "tags": [],
-      "engagement": {
-        "likes": 55,
-        "replies": 13,
-        "views": 331
-      },
-      "first_seen": "2026-11-16T22:16:54.208Z"
-    },
-    {
-      "id": "devforum:4995397",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
-      "author": "amindez24",
-      "date": "2026-11-18T12:42:03.246Z",
-      "title": "GUI Exam and Certification-Development",
-      "excerpt_en": "image 1920×1080 746 KB At the end of each test, you will receive a certificate and a score, along with a breakdown of your performance. If you’d like, you can share your certificate here and compete with others. Please leave a comment here if you encounter any issues. This…",
-      "score": 6.4,
+      "url": "https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365",
+      "author": "VcodedDevx",
+      "date": "2026-11-19T08:56:05.603Z",
+      "title": "DevEx Request Declined Due to Missing Tipalti Registration Email",
+      "excerpt_en": "My first DevEx request was recently declined on November 18, 2026, for “Failed to complete Tipalti registration.” However, I’ve been waiting for the Tipalti registration email since November 1, 2026, and have yet to receive anything. As a result, I was unable to complete the…",
+      "score": 7.4,
       "tags": [
+        "revenue",
         "story"
       ],
       "engagement": {
-        "likes": 2,
-        "replies": 3,
-        "views": 119
+        "likes": 1,
+        "replies": 1,
+        "views": 52
       },
-      "first_seen": "2026-11-18T20:40:29.418Z"
-    },
-    {
-      "id": "reddit:t3_1xya484",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
-      "author": "PrismaticStellarys",
-      "date": "2026-11-17T03:38:47.000Z",
-      "title": "Need Helpppp from exp Roblox Devs",
-      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
-      "score": 6,
-      "tags": [
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-17T08:04:49.702Z"
-    },
-    {
-      "id": "devforum:4995362",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/why-is-my-game-so-unpopular/4995362",
-      "author": "Nightmare_pogg",
-      "date": "2026-11-18T11:39:08.885Z",
-      "title": "Why is my game so unpopular?",
-      "excerpt_en": "Hey, I made a game inspired by one old mobile game. After publishing i noticed barely any activity at all. I even tried paying for ads and nothing much. What have I done wrong? here are some game metrics: image 1343×490 76.1 KB",
-      "score": 5.8,
-      "tags": [],
-      "engagement": {
-        "likes": 8,
-        "replies": 7,
-        "views": 108
-      },
-      "first_seen": "2026-11-18T20:40:29.418Z"
+      "first_seen": "2026-11-19T20:47:21.046Z"
     }
   ]
 }

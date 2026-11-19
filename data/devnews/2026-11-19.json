@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-19T07:36:54.813Z",
+  "generated_at": "2026-11-19T20:47:21.046Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 108482
+      "ms": 109350
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90492
+      "ms": 90340
     },
     "rss": {
       "ok": true,
       "fetched": 5,
-      "ms": 3672
+      "ms": 6611
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 226
+      "ms": 253
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 367
+      "ms": 229
     }
   },
   "items": [
@@ -51,6 +51,117 @@
       "first_seen": "2026-11-19T07:36:54.813Z"
     },
     {
+      "id": "devforum:4996898",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/devex-cashout-pending-since-a-month-even-after-receiving-my-money/4996898",
+      "author": "AFloidDEV",
+      "date": "2026-11-19T20:34:13.673Z",
+      "title": "DevEx Cashout Pending since a month even after receiving my money",
+      "excerpt_en": "Hello! I have been kinda Ghosted by Roblox Support Regarding my Cashout Problem for DevEx. I have submitted my Cashout for the First Time before and it went trough no Problem as I have received my money after a few days. But then I have been wondering since the DevEx Page still…",
+      "score": 11.7,
+      "tags": [
+        "revenue",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 2
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996578",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/problem-with-new-sponsor/4996578",
+      "author": "0Dev_Dev",
+      "date": "2026-11-19T14:51:35.993Z",
+      "title": "Problem with new Sponsor",
+      "excerpt_en": "I’ve recently launched a new party game and currently have around 22 daily ad credits. However, I’m barely getting any players, and the ones I do get are spread throughout the day. As a result, there are usually only 2 players online at a time, occasionally reaching 5. Since…",
+      "score": 10.9,
+      "tags": [
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 35
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996612",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-roblox-game-got-shadowbanned-with-same-benchmark-as-games-with-15000-active-players/4996612",
+      "author": "ATutili",
+      "date": "2026-11-19T15:25:22.603Z",
+      "title": "My Roblox game got shadowbanned with same benchmark as games with 15,000 active players",
+      "excerpt_en": "I don’t know what is happening with my game and i already wait for 2 days and i violently lose players My game just went from 45,000 daily players to 2,000 in just 3 days and no one can tell me why This is the original post : Roblox Algorithm is very broken at the moment The…",
+      "score": 10.2,
+      "tags": [
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 17,
+        "replies": 13,
+        "views": 85
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996365",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365",
+      "author": "VcodedDevx",
+      "date": "2026-11-19T08:56:05.603Z",
+      "title": "DevEx Request Declined Due to Missing Tipalti Registration Email",
+      "excerpt_en": "My first DevEx request was recently declined on November 18, 2026, for “Failed to complete Tipalti registration.” However, I’ve been waiting for the Tipalti registration email since November 1, 2026, and have yet to receive anything. As a result, I was unable to complete the…",
+      "score": 7.4,
+      "tags": [
+        "revenue",
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 52
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4995903",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
+      "author": "Cheeteau",
+      "date": "2026-11-18T21:50:02.545Z",
+      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
+      "excerpt_en": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website…",
+      "score": 4.9,
+      "tags": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "views": 167
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/robloxs-nilay-erdem-joins-pgc-london-speaker-lineup/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/robloxs-nilay-erdem-joins-pgc-london-speaker-lineup/",
+      "author": null,
+      "date": "2026-11-19T11:25:00.000Z",
+      "title": "Roblox’s Nilay Erdem joins PGC London speaker lineup",
+      "excerpt_en": "Roblox&rsquo;s director of public policy for EMEA, Nilay Erdem, will speak at Pocket Gamer Connects London in January. Erdem joined Roblox in 2025 and leads its government relations and global impact work across Europe, the Middle East and Africa. Before that, she spent eight…",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
       "id": "devforum:4996198",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198",
@@ -66,6 +177,25 @@
         "views": 44
       },
       "first_seen": "2026-11-19T07:36:54.813Z"
+    },
+    {
+      "id": "devforum:4996710",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/read-your-games-server-region-with-new-api/4996710",
+      "author": "jarjar1230rbx",
+      "date": "2026-11-19T17:15:05.910Z",
+      "title": "Read Your Game's Server Region With New API",
+      "excerpt_en": "Hi Creators, Starting today, you can read the geographic region of your live game servers using the new game.ServerRegion property. You can now build accurate regional telemetry, schedule in-game events based on local time zones, and more. This gives you native access to…",
+      "score": 3.1,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 64,
+        "replies": 9,
+        "views": 816
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
     },
     {
       "id": "devforum:4995785",
