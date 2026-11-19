@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-11-19T07:36:54.813Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 108482
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90492
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 5,
+      "ms": 3672
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 226
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 367
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4995943",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/introducing-pass-free-trials/4995943",
+      "author": "runlola_run24",
+      "date": "2026-11-18T22:26:12.333Z",
+      "title": "Introducing Pass Free Trials",
+      "excerpt_en": "Hi Creators, Starting today, you can opt-in some or all of your passes for free trials to help players discover them before they buy. A free trial automatically gives a player all the benefits of the pass for an entire game session, which can lead to more sales, better…",
+      "score": 11.9,
+      "tags": [
+        "platform",
+        "revenue",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 108,
+        "replies": 13,
+        "views": 1726
+      },
+      "first_seen": "2026-11-19T07:36:54.813Z"
+    },
+    {
+      "id": "devforum:4996198",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198",
+      "author": "alexfrye2010",
+      "date": "2026-11-19T03:10:14.702Z",
+      "title": "HYPERREALISTIC Planetary eclipses + atmospheric scattering via editableimages",
+      "excerpt_en": "Hello! Lately, I’ve been working on and improving my editableimages atmospheres for my planet creator plugin. I’ve since accurately created rayleigh + mie scattering and the respective colors for their wavelengths, and now ECLIPSES! Of course, there are flaws. I still have…",
+      "score": 3.5,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 1,
+        "views": 44
+      },
+      "first_seen": "2026-11-19T07:36:54.813Z"
+    },
+    {
+      "id": "devforum:4995785",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/countering-resolution-penalty-on-roblox-studio-for-render-photos-is-now-real-nvidia/4995785",
+      "author": "Dawntalon_Sunrise",
+      "date": "2026-11-18T20:10:54.720Z",
+      "title": "Countering resolution penalty on roblox studio for render photos is now real! (Nvidia)",
+      "excerpt_en": "Hey, folks. Now I found myself some good way to make a roblox renders on roblox studio without losing resolution. (if you don’t know how to use blender like me) Lemme explain: What is a resolution penalty? You’re losing resolution of your photo because of roblox studio windows…",
+      "score": 3,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 2,
+        "views": 70
+      },
+      "first_seen": "2026-11-19T07:36:54.813Z"
+    }
+  ]
+}

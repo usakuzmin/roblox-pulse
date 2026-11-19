@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T20:40:29.466Z",
+  "generated_at": "2026-11-19T07:36:54.879Z",
   "from_files": [
-    "2026-11-15.json",
     "2026-11-16.json",
     "2026-11-17.json",
-    "2026-11-18.json"
+    "2026-11-18.json",
+    "2026-11-19.json"
   ],
   "items": [
     {
@@ -129,24 +129,25 @@
       "first_seen": "2026-11-17T21:03:57.567Z"
     },
     {
-      "id": "devforum:4991076",
+      "id": "devforum:4995943",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
-      "author": "DevRylen",
-      "date": "2026-11-14T19:41:33.685Z",
-      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
-      "excerpt_en": "**I’m here to kind of ask for help and show of some algorithm issues that Im not sure if other people are experiencing. I dropped this game recently, its not an insanely high quality game but it is FAR above the quality and gameplay of a simulator game.** **The issue 50% Russian…",
-      "score": 10.9,
+      "url": "https://devforum.roblox.com/t/introducing-pass-free-trials/4995943",
+      "author": "runlola_run24",
+      "date": "2026-11-18T22:26:12.333Z",
+      "title": "Introducing Pass Free Trials",
+      "excerpt_en": "Hi Creators, Starting today, you can opt-in some or all of your passes for free trials to help players discover them before they buy. A free trial automatically gives a player all the benefits of the pass for an entire game session, which can lead to more sales, better…",
+      "score": 11.9,
       "tags": [
-        "discovery",
-        "numbers"
+        "platform",
+        "revenue",
+        "monetization"
       ],
       "engagement": {
-        "likes": 16,
-        "replies": 3,
-        "views": 108
+        "likes": 108,
+        "replies": 13,
+        "views": 1726
       },
-      "first_seen": "2026-11-15T06:45:50.968Z"
+      "first_seen": "2026-11-19T07:36:54.813Z"
     },
     {
       "id": "devforum:4993813",
@@ -225,23 +226,6 @@
       "first_seen": "2026-11-17T08:04:49.702Z"
     },
     {
-      "id": "devforum:4990229",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/have-settopbartransparency-work-on-the-current-coregui/4990229",
-      "author": "LuaW1z",
-      "date": "2026-11-14T05:06:08.206Z",
-      "title": "Have :SetTopbarTransparency() work on the current CoreGui",
-      "excerpt_en": "Before Roblox introduced the new topbar in 2020, there was a method that allowed developers to tweak the transparency of the topbar’s background. image 690×340 48.7 KB Following the introduction of the new topbar in 2020, the function was deprecated. It currently does nothing…",
-      "score": 7.2,
-      "tags": [],
-      "engagement": {
-        "likes": 69,
-        "replies": 12,
-        "views": 379
-      },
-      "first_seen": "2026-11-15T18:59:04.419Z"
-    },
-    {
       "id": "devforum:4992636",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
@@ -278,19 +262,36 @@
       "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
-      "id": "reddit:t3_1xwi4i5",
+      "id": "reddit:t3_1xya484",
       "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/",
-      "author": "WarEffective",
-      "date": "2026-11-15T00:47:50.000Z",
-      "title": "struggling to get recognition for my game out there",
-      "excerpt_en": "feels like i made an original horror game, and my ads arent really working. marketing is really weak rn. tiktok link ",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
+      "author": "PrismaticStellarys",
+      "date": "2026-11-17T03:38:47.000Z",
+      "title": "Need Helpppp from exp Roblox Devs",
+      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
       "score": 6,
       "tags": [
-        "marketing"
+        "numbers"
       ],
       "engagement": {},
-      "first_seen": "2026-11-15T18:59:04.419Z"
+      "first_seen": "2026-11-17T08:04:49.702Z"
+    },
+    {
+      "id": "devforum:4995362",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/why-is-my-game-so-unpopular/4995362",
+      "author": "Nightmare_pogg",
+      "date": "2026-11-18T11:39:08.885Z",
+      "title": "Why is my game so unpopular?",
+      "excerpt_en": "Hey, I made a game inspired by one old mobile game. After publishing i noticed barely any activity at all. I even tried paying for ads and nothing much. What have I done wrong? here are some game metrics: image 1343×490 76.1 KB",
+      "score": 5.8,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 7,
+        "views": 108
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
     }
   ]
 }
