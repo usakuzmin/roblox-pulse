@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-11-19T20:47:21.098Z",
+  "generated_at": "2026-11-20T07:28:38.938Z",
   "from_files": [
-    "2026-11-16.json",
     "2026-11-17.json",
     "2026-11-18.json",
-    "2026-11-19.json"
+    "2026-11-19.json",
+    "2026-11-20.json"
   ],
   "items": [
-    {
-      "id": "devforum:4993062",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/16-game-plays-goal-54-across-3-small-campaigns-my-real-numbers-what-are-yours/4993062",
-      "author": "Prisnor20",
-      "date": "2026-11-16T10:09:32.719Z",
-      "title": "16+ game, Plays goal, $54 across 3 small campaigns: my real numbers. What are yours?",
-      "excerpt_en": "I could not find many real Ads Manager numbers for 16+ experiences, so here are mine. Three small campaigns for a crystal-stealing simulator, $54 in total, 386 plays in the report. The same thumbnails went from 1.0% to 1.7% CTR and from $0.142 to $0.129 per play between two…",
-      "score": 25.7,
-      "tags": [
-        "revenue",
-        "ads",
-        "marketing",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 4,
-        "views": 115
-      },
-      "first_seen": "2026-11-16T22:16:54.208Z"
-    },
-    {
-      "id": "reddit:t3_1xwxw50",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwxw50/ads_have_5_ctr_yet_unable_to_go_past_20_ccu/",
-      "author": "kebablover12",
-      "date": "2026-11-15T15:12:30.000Z",
-      "title": "Ads have 5% CTR yet unable to go past 20 CCU",
-      "excerpt_en": "Hi, as the title says, I've been running ads on my game for a couple of days now. 33k total visits and have an average of about 15-20 CCU, yet I'm unable to go past this. Would appreciate honest review/feedback on teh game, it's a chaotic minigame Additionally, I'm really not…",
-      "score": 19,
-      "tags": [
-        "metrics",
-        "monetization",
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-16T22:16:54.208Z"
-    },
     {
       "id": "devforum:4994298",
       "source": "devforum",
@@ -230,24 +190,6 @@
       "first_seen": "2026-11-19T20:47:21.046Z"
     },
     {
-      "id": "naavik:https://naavik.co/?p=34778",
-      "source": "naavik",
-      "url": "https://naavik.co/weekly-digest/discords-path-to-ipo-needs-game-developers/",
-      "author": "Naavik",
-      "date": "2026-11-15T06:06:40.000Z",
-      "title": "Discord’s Path to IPO Needs Game Developers",
-      "excerpt_en": "Source: Discord In January, Discord confidentially filed for an IPO , making it the most important gaming-related listing since Roblox. The company heading toward its public-market debut looks quite different from the one that last raised money in 2021 at a $15B valuation…",
-      "score": 10,
-      "tags": [
-        "analyst",
-        "revenue",
-        "ads",
-        "monetization"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-16T06:44:19.708Z"
-    },
-    {
       "id": "devforum:4995451",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/roblox-algorithm-is-very-broken-at-the-moment/4995451",
@@ -303,6 +245,59 @@
         "views": 52
       },
       "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4995397",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
+      "author": "amindez24",
+      "date": "2026-11-18T12:42:03.246Z",
+      "title": "GUI Exam and Certification-Development",
+      "excerpt_en": "image 1920×1080 746 KB At the end of each test, you will receive a certificate and a score, along with a breakdown of your performance. If you’d like, you can share your certificate here and compete with others. Please leave a comment here if you encounter any issues. This…",
+      "score": 6.4,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 3,
+        "views": 119
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
+      "id": "devforum:4997314",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/mononymous-name-roblox-doesnt-have-anything-for-it/4997314",
+      "author": "GamingScripterW",
+      "date": "2026-11-20T05:33:56.375Z",
+      "title": "Mononymous name & Roblox doesnt have anything for it",
+      "excerpt_en": "I have a Mononymous name even in my legal documents (Name with no last name or surname) before anyone says how its possible, My country allows for Mononymous names I tried doing my first devex but realised I couldnt leave the “Last name” slot empty image 1003×807 48 KB I made a…",
+      "score": 6.1,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 3,
+        "views": 20
+      },
+      "first_seen": "2026-11-20T07:28:38.878Z"
+    },
+    {
+      "id": "reddit:t3_1xya484",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
+      "author": "PrismaticStellarys",
+      "date": "2026-11-17T03:38:47.000Z",
+      "title": "Need Helpppp from exp Roblox Devs",
+      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
+      "score": 6,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-17T08:04:49.702Z"
     }
   ]
 }
