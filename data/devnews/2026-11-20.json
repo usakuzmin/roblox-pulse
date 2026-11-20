@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-20T07:28:38.878Z",
+  "generated_at": "2026-11-20T20:30:30.774Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 102900
+      "ms": 115228
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90217
+      "ms": 30248
     },
     "rss": {
       "ok": true,
-      "fetched": 5,
-      "ms": 3188
+      "fetched": 7,
+      "ms": 3936
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 262
+      "ms": 922
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 285
+      "ms": 2420
     }
   },
   "items": [
@@ -49,6 +49,23 @@
       "first_seen": "2026-11-20T07:28:38.878Z"
     },
     {
+      "id": "devforum:4997243",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lunaut-a-luau-language-server-for-vs-code-zed-neovim-and-helix/4997243",
+      "author": "TREMNOR_TTR",
+      "date": "2026-11-20T03:40:55.893Z",
+      "title": "Lunaut: a Luau language server for VS Code, Zed, Neovim and Helix",
+      "excerpt_en": "lunaut: a Luau language server for Roblox (VS Code, Zed, Neovim, Helix) Hi everyone! I made lunaut , a free and open-source language server for Luau and Roblox, written in C++ on top of the official Luau analysis library. It ships as one executable for Windows, macOS and Linux…",
+      "score": 5.2,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 7,
+        "views": 140
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
       "id": "devforum:4996538",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/removing-roblox-core-buttons/4996538",
@@ -64,6 +81,76 @@
         "views": 183
       },
       "first_seen": "2026-11-20T07:28:38.878Z"
+    },
+    {
+      "id": "devforum:4997013",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-welcome-to-lauderville/4997013",
+      "author": "InternetAccounts",
+      "date": "2026-11-19T22:16:22.616Z",
+      "title": "Feedback Wanted - Welcome to Lauderville",
+      "excerpt_en": "Welcome to Lauderville! We’ve been developing an ultra realistic roleplay game called Lauderville , and we’d love to reinvent a new standard for roleplay games on Roblox. Lauderville is a fictional take on Fort Lauderdale, Florida. We’re Tsunami Experiences , and we want to…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 3,
+        "views": 99
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
+      "id": "devforum:4997778",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/create-avatar-moments-to-showcase-and-sell-your-items/4997778",
+      "author": "KINGABEOKUTA",
+      "date": "2026-11-20T17:00:06.942Z",
+      "title": "Create Avatar Moments to Showcase and Sell Your Items",
+      "excerpt_en": "Hi Creators, We’re launching Avatar Moments, a new way for all eligible users to showcase their style, share shoppable looks and discover new creations across Roblox. Any eligible user can create an Avatar Moment featuring Marketplace items, giving creators more opportunities to…",
+      "score": 4.2,
+      "tags": [
+        "platform",
+        "revenue",
+        "studio"
+      ],
+      "engagement": {
+        "likes": 42,
+        "replies": 9,
+        "views": 700
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
+      "id": "devforum:4996604",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/seamless-edges-between-meshparts/4996604",
+      "author": "Collect1ve",
+      "date": "2026-11-19T15:18:55.834Z",
+      "title": "Seamless edges between MeshParts",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to rely solely on physics for driving games when using MeshParts. The new CollisionFidelity property has allowed for much greater accuracy when designing a world with twisting roads and challenging terrain, however this was only…",
+      "score": 4,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 4,
+        "views": 145
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify/",
+      "author": null,
+      "date": "2026-11-20T11:33:00.000Z",
+      "title": "Roblox faces Senate hearing as alleged grooming survivors testify",
+      "excerpt_en": "Roblox has come under fire at a US Senate subcommittee hearing where people who claim they were groomed on the platform testified about its child safety risks. As reported by Wired, the hearing addressed the No Forced Arbitration for Child Sexual Exploitation and Cyber Injuries…",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-20T20:30:30.774Z"
     }
   ]
 }
