@@ -1,33 +1,12 @@
 {
-  "generated_at": "2026-11-20T20:30:30.824Z",
+  "generated_at": "2026-11-21T07:21:49.297Z",
   "from_files": [
-    "2026-11-17.json",
     "2026-11-18.json",
     "2026-11-19.json",
-    "2026-11-20.json"
+    "2026-11-20.json",
+    "2026-11-21.json"
   ],
   "items": [
-    {
-      "id": "devforum:4994298",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298",
-      "author": "Bloxynet",
-      "date": "2026-11-17T12:56:37.025Z",
-      "title": "Sponsored ads still running, but player count dropped to 0 since yesterday",
-      "excerpt_en": "Hi everyone, I’m advertising my game Stack Eggs to Hatch! with Sponsored Experience ads. Until yesterday the ads brought a steady flow of players, about 15-20 concurrent players. Since then, the player count has been 0 constantly, even though the campaign is still running. image…",
-      "score": 15.3,
-      "tags": [
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "views": 29
-      },
-      "first_seen": "2026-11-17T21:03:57.567Z"
-    },
     {
       "id": "devforum:4995698",
       "source": "devforum",
@@ -47,46 +26,6 @@
         "views": 29
       },
       "first_seen": "2026-11-18T20:40:29.418Z"
-    },
-    {
-      "id": "devforum:4993828",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/massive-ccu-drop-on-many-games-including-my-own/4993828",
-      "author": "HatlessBanjo",
-      "date": "2026-11-17T00:44:28.290Z",
-      "title": "Massive CCU Drop on many games including my own",
-      "excerpt_en": "Has anyone else noticed a significant drop in CCU starting from around October 31st? I own two high CCU games (One Tap and Ability Arena) on the Platform and around the start of this month both games player count began to slowly drop. Here are some screenshots from Rotrends, One…",
-      "score": 13,
-      "tags": [
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 0,
-        "views": 57
-      },
-      "first_seen": "2026-11-17T08:04:49.702Z"
-    },
-    {
-      "id": "devforum:4994228",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/i-made-72-r15-fantasy-rpg-animations-using-robloxs-built-in-clip-editor/4994228",
-      "author": "9GAMESBOY",
-      "date": "2026-11-17T11:03:08.966Z",
-      "title": "I Made 72 R15 Fantasy RPG Animations Using Roblox's Built-in Clip Editor",
-      "excerpt_en": "I Made 72 R15 Fantasy RPG Animations Using Roblox’s Built-in Clip Editor I’ve always wanted to make some fantasy RPG characters, so I decided to try making my own animations for them. I ended up working on 4 different R15 rigs, each with a different weapon: a bow, sword, staff…",
-      "score": 12.2,
-      "tags": [
-        "revenue",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 16,
-        "replies": 5,
-        "views": 136
-      },
-      "first_seen": "2026-11-17T21:03:57.567Z"
     },
     {
       "id": "devforum:4995943",
@@ -128,27 +67,6 @@
         "views": 2
       },
       "first_seen": "2026-11-19T20:47:21.046Z"
-    },
-    {
-      "id": "devforum:4993813",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/expand-experience-ab-tests-detail-page-media-title-and-description/4993813",
-      "author": "dobdev",
-      "date": "2026-11-17T00:18:05.926Z",
-      "title": "Expand experience A/B tests: detail page media, title and description",
-      "excerpt_en": "As a Roblox developer, it is currently too hard to find out which parts of my experience’s listing help or hurt acquisition. Only Home thumbnails can be tested. The title, the description, and the thumbnails and videos on the detail page can only be changed for everyone, then…",
-      "score": 10.9,
-      "tags": [
-        "marketing",
-        "discovery",
-        "studio"
-      ],
-      "engagement": {
-        "likes": 3,
-        "replies": 1,
-        "views": 31
-      },
-      "first_seen": "2026-11-17T08:04:49.702Z"
     },
     {
       "id": "devforum:4996578",
@@ -211,22 +129,6 @@
       "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
-      "id": "reddit:t3_1xxtpon",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxtpon/no_budget_to_hire_experienced_developers_what/",
-      "author": "Crazy_Carry_1470",
-      "date": "2026-11-16T16:24:17.000Z",
-      "title": "No budget to hire experienced developers, what should I do?",
-      "excerpt_en": "I want to create a nice game on Roblox. I’ve spent three months working on what is essentially a game design document, but there’s a problem: I have a relatively small budget enough only for one-off tasks like creating an icon or ads. Meanwhile, based on my extensive google…",
-      "score": 9,
-      "tags": [
-        "revenue",
-        "studio"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-17T08:04:49.702Z"
-    },
-    {
       "id": "devforum:4996365",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365",
@@ -245,6 +147,44 @@
         "views": 52
       },
       "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4998408",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
+      "author": "Scripth",
+      "date": "2026-11-21T02:28:57.709Z",
+      "title": "Flux - A reactive UI library for Luau",
+      "excerpt_en": "Flux 512×512 14.8 KB Be lazy. Do more. Go fast. Flux is a reactive UI library for Luau. It’s strictly typed for accurate autocomplete, batches updates once per frame, and keeps syntax terse enough to read like plain Luau. Flux leans on Luau’s strict type checker so your editor…",
+      "score": 7.1,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 90
+      },
+      "first_seen": "2026-11-21T07:21:49.240Z"
+    },
+    {
+      "id": "devforum:4998020",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020",
+      "author": "Binarix",
+      "date": "2026-11-20T20:33:07.980Z",
+      "title": "Feedback Wanted On My Fighting Game - Sever Engine",
+      "excerpt_en": "Hello everyone. I recently published my first game Sever Engine- a FFA battleground/Combat Warriors type fighting game where kills lead to progression. However, my like ratio on the game is terrible, and I don’t know why. I have made improvements like simplifying the combat…",
+      "score": 6.7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 47
+      },
+      "first_seen": "2026-11-21T07:21:49.240Z"
     },
     {
       "id": "devforum:4995397",
@@ -285,19 +225,72 @@
       "first_seen": "2026-11-20T07:28:38.878Z"
     },
     {
-      "id": "reddit:t3_1xya484",
-      "source": "reddit",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xya484/need_helpppp_from_exp_roblox_devs/",
-      "author": "PrismaticStellarys",
-      "date": "2026-11-17T03:38:47.000Z",
-      "title": "Need Helpppp from exp Roblox Devs",
-      "excerpt_en": "I have recently released a game on Roblox!! What's the best way to get past that initial 250 players required to unlock game to under 16s too, my game is primarily designed for U16 audience. Helpp me beat this cruel system ",
-      "score": 6,
-      "tags": [
-        "numbers"
-      ],
-      "engagement": {},
-      "first_seen": "2026-11-17T08:04:49.702Z"
+      "id": "devforum:4995362",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/why-is-my-game-so-unpopular/4995362",
+      "author": "Nightmare_pogg",
+      "date": "2026-11-18T11:39:08.885Z",
+      "title": "Why is my game so unpopular?",
+      "excerpt_en": "Hey, I made a game inspired by one old mobile game. After publishing i noticed barely any activity at all. I even tried paying for ads and nothing much. What have I done wrong? here are some game metrics: image 1343×490 76.1 KB",
+      "score": 5.8,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 7,
+        "views": 108
+      },
+      "first_seen": "2026-11-18T20:40:29.418Z"
+    },
+    {
+      "id": "devforum:4997243",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lunaut-a-luau-language-server-for-vs-code-zed-neovim-and-helix/4997243",
+      "author": "TREMNOR_TTR",
+      "date": "2026-11-20T03:40:55.893Z",
+      "title": "Lunaut: a Luau language server for VS Code, Zed, Neovim and Helix",
+      "excerpt_en": "lunaut: a Luau language server for Roblox (VS Code, Zed, Neovim, Helix) Hi everyone! I made lunaut , a free and open-source language server for Luau and Roblox, written in C++ on top of the official Luau analysis library. It ships as one executable for Windows, macOS and Linux…",
+      "score": 5.2,
+      "tags": [],
+      "engagement": {
+        "likes": 7,
+        "replies": 7,
+        "views": 140
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
+      "id": "devforum:4995903",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
+      "author": "Cheeteau",
+      "date": "2026-11-18T21:50:02.545Z",
+      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
+      "excerpt_en": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website…",
+      "score": 4.9,
+      "tags": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "views": 167
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996538",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/removing-roblox-core-buttons/4996538",
+      "author": "Meatloaferss",
+      "date": "2026-11-19T13:56:32.311Z",
+      "title": "Removing Roblox Core Buttons",
+      "excerpt_en": "Is there a documented workaround on how to disable Roblox Core Menu Buttons in game? Some methods I tried are patched, I’m trying to make my own menu here…",
+      "score": 4.7,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 7,
+        "views": 183
+      },
+      "first_seen": "2026-11-20T07:28:38.878Z"
     }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-11-21T07:21:49.240Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 98779
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90154
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 2757
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 100
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 221
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:4998408",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
+      "author": "Scripth",
+      "date": "2026-11-21T02:28:57.709Z",
+      "title": "Flux - A reactive UI library for Luau",
+      "excerpt_en": "Flux 512×512 14.8 KB Be lazy. Do more. Go fast. Flux is a reactive UI library for Luau. It’s strictly typed for accurate autocomplete, batches updates once per frame, and keeps syntax terse enough to read like plain Luau. Flux leans on Luau’s strict type checker so your editor…",
+      "score": 7.1,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 6,
+        "replies": 3,
+        "views": 90
+      },
+      "first_seen": "2026-11-21T07:21:49.240Z"
+    },
+    {
+      "id": "devforum:4998020",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020",
+      "author": "Binarix",
+      "date": "2026-11-20T20:33:07.980Z",
+      "title": "Feedback Wanted On My Fighting Game - Sever Engine",
+      "excerpt_en": "Hello everyone. I recently published my first game Sever Engine- a FFA battleground/Combat Warriors type fighting game where kills lead to progression. However, my like ratio on the game is terrible, and I don’t know why. I have made improvements like simplifying the combat…",
+      "score": 6.7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 47
+      },
+      "first_seen": "2026-11-21T07:21:49.240Z"
+    }
+  ]
+}
