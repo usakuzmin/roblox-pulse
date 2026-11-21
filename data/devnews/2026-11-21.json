@@ -1,34 +1,74 @@
 {
-  "generated_at": "2026-11-21T07:21:49.240Z",
+  "generated_at": "2026-11-21T19:25:54.871Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 98779
+      "ms": 101573
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90154
+      "ms": 90155
     },
     "rss": {
       "ok": true,
       "fetched": 7,
-      "ms": 2757
+      "ms": 2645
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 100
+      "ms": 121
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 221
+      "ms": 228
     }
   },
   "items": [
+    {
+      "id": "devforum:4999267",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/evidence-for-group-mr-labs-17-day-zero-sales-gap-search-visibility-sponsored-items-and-publishing-costs-without-regional-pricing/4999267",
+      "author": "fazberfreddy",
+      "date": "2026-11-21T19:02:35.101Z",
+      "title": "Evidence for group MR LABS: 17-day zero-sales gap, search visibility, Sponsored Items, and publishing costs without regional pricing",
+      "excerpt_en": "Summary and a correction I am the owner of the UGC group MR LABS (group ID 901151079). Over the last months I opened several reports and support tickets. I have now pulled the complete sales history of the group from the transaction records, and it does not support some of what…",
+      "score": 18.4,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 5
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
+    },
+    {
+      "id": "devforum:4998818",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/new-developers-receive-creator-rewards-earned-60-days-ago/4998818",
+      "author": "vice_devv",
+      "date": "2026-11-21T12:04:45.146Z",
+      "title": "New Developers Receive Creator Rewards Earned 60 Days Ago",
+      "excerpt_en": "Hey, Me and my friend worked on developing and updating our game for around 2 months before taking a short break and deciding to hire a few developers to take care of the game, each receiving 10% of the total revenue. However, after a few weeks, we noticed something really…",
+      "score": 9.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 40
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
+    },
     {
       "id": "devforum:4998408",
       "source": "devforum",
@@ -66,6 +106,25 @@
         "views": 47
       },
       "first_seen": "2026-11-21T07:21:49.240Z"
+    },
+    {
+      "id": "devforum:4998794",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/trust-based-chat-architecture-to-combat-botting-and-harassment/4998794",
+      "author": "hwwii9",
+      "date": "2026-11-21T11:43:16.511Z",
+      "title": "Trust-Based Chat Architecture to Combat Botting and Harassment",
+      "excerpt_en": "Roblox Platform Safety & Trust-Based Chat Architecture Proposal 1. Smart AI Metadata Verification (Settings, Email & Age Integration) Instead of relying on basic keyword filters, an advanced Context-Aware AI Bot automatically checks account settings (Registered Date of Birth +…",
+      "score": 6.7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 42
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
     }
   ]
 }

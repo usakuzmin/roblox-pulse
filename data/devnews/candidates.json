@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:21:49.297Z",
+  "generated_at": "2026-11-21T19:25:54.920Z",
   "from_files": [
     "2026-11-18.json",
     "2026-11-19.json",
@@ -7,6 +7,27 @@
     "2026-11-21.json"
   ],
   "items": [
+    {
+      "id": "devforum:4999267",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/evidence-for-group-mr-labs-17-day-zero-sales-gap-search-visibility-sponsored-items-and-publishing-costs-without-regional-pricing/4999267",
+      "author": "fazberfreddy",
+      "date": "2026-11-21T19:02:35.101Z",
+      "title": "Evidence for group MR LABS: 17-day zero-sales gap, search visibility, Sponsored Items, and publishing costs without regional pricing",
+      "excerpt_en": "Summary and a correction I am the owner of the UGC group MR LABS (group ID 901151079). Over the last months I opened several reports and support tickets. I have now pulled the complete sales history of the group from the transaction records, and it does not support some of what…",
+      "score": 18.4,
+      "tags": [
+        "revenue",
+        "ads",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 5
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
+    },
     {
       "id": "devforum:4995698",
       "source": "devforum",
@@ -129,6 +150,25 @@
       "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
+      "id": "devforum:4998818",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/new-developers-receive-creator-rewards-earned-60-days-ago/4998818",
+      "author": "vice_devv",
+      "date": "2026-11-21T12:04:45.146Z",
+      "title": "New Developers Receive Creator Rewards Earned 60 Days Ago",
+      "excerpt_en": "Hey, Me and my friend worked on developing and updating our game for around 2 months before taking a short break and deciding to hire a few developers to take care of the game, each receiving 10% of the total revenue. However, after a few weeks, we noticed something really…",
+      "score": 9.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 40
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
+    },
+    {
       "id": "devforum:4996365",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365",
@@ -187,6 +227,25 @@
       "first_seen": "2026-11-21T07:21:49.240Z"
     },
     {
+      "id": "devforum:4998794",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/trust-based-chat-architecture-to-combat-botting-and-harassment/4998794",
+      "author": "hwwii9",
+      "date": "2026-11-21T11:43:16.511Z",
+      "title": "Trust-Based Chat Architecture to Combat Botting and Harassment",
+      "excerpt_en": "Roblox Platform Safety & Trust-Based Chat Architecture Proposal 1. Smart AI Metadata Verification (Settings, Email & Age Integration) Instead of relying on basic keyword filters, an advanced Context-Aware AI Bot automatically checks account settings (Registered Date of Birth +…",
+      "score": 6.7,
+      "tags": [
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 1,
+        "views": 42
+      },
+      "first_seen": "2026-11-21T19:25:54.871Z"
+    },
+    {
       "id": "devforum:4995397",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
@@ -240,57 +299,6 @@
         "views": 108
       },
       "first_seen": "2026-11-18T20:40:29.418Z"
-    },
-    {
-      "id": "devforum:4997243",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/lunaut-a-luau-language-server-for-vs-code-zed-neovim-and-helix/4997243",
-      "author": "TREMNOR_TTR",
-      "date": "2026-11-20T03:40:55.893Z",
-      "title": "Lunaut: a Luau language server for VS Code, Zed, Neovim and Helix",
-      "excerpt_en": "lunaut: a Luau language server for Roblox (VS Code, Zed, Neovim, Helix) Hi everyone! I made lunaut , a free and open-source language server for Luau and Roblox, written in C++ on top of the official Luau analysis library. It ships as one executable for Windows, macOS and Linux…",
-      "score": 5.2,
-      "tags": [],
-      "engagement": {
-        "likes": 7,
-        "replies": 7,
-        "views": 140
-      },
-      "first_seen": "2026-11-20T20:30:30.774Z"
-    },
-    {
-      "id": "devforum:4995903",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
-      "author": "Cheeteau",
-      "date": "2026-11-18T21:50:02.545Z",
-      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
-      "excerpt_en": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website…",
-      "score": 4.9,
-      "tags": [],
-      "engagement": {
-        "likes": 10,
-        "replies": 5,
-        "views": 167
-      },
-      "first_seen": "2026-11-19T20:47:21.046Z"
-    },
-    {
-      "id": "devforum:4996538",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/removing-roblox-core-buttons/4996538",
-      "author": "Meatloaferss",
-      "date": "2026-11-19T13:56:32.311Z",
-      "title": "Removing Roblox Core Buttons",
-      "excerpt_en": "Is there a documented workaround on how to disable Roblox Core Menu Buttons in game? Some methods I tried are patched, I’m trying to make my own menu here…",
-      "score": 4.7,
-      "tags": [],
-      "engagement": {
-        "likes": 6,
-        "replies": 7,
-        "views": 183
-      },
-      "first_seen": "2026-11-20T07:28:38.878Z"
     }
   ]
 }
