@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-11-22T07:02:07.565Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 102557
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90104
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 3138
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 167
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 503
+    }
+  },
+  "items": []
+}

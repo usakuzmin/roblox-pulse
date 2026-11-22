@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-21T19:25:54.920Z",
+  "generated_at": "2026-11-22T07:02:07.623Z",
   "from_files": [
-    "2026-11-18.json",
     "2026-11-19.json",
     "2026-11-20.json",
-    "2026-11-21.json"
+    "2026-11-21.json",
+    "2026-11-22.json"
   ],
   "items": [
     {
@@ -27,26 +27,6 @@
         "views": 5
       },
       "first_seen": "2026-11-21T19:25:54.871Z"
-    },
-    {
-      "id": "devforum:4995698",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698",
-      "author": "handsomepoliceman22",
-      "date": "2026-11-18T18:44:46.264Z",
-      "title": "Big problem with average playtime and bounce rate. Need an outside perspective",
-      "excerpt_en": "So i recently released a game, it follows that new ragdoll physics sim trend, but with a twist. basically to get money for new weapons you complete “quotas” where you have to injure enough dummies badly enough within a time limit, buying new weapons in between each round. There…",
-      "score": 13.3,
-      "tags": [
-        "metrics",
-        "discovery"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 1,
-        "views": 29
-      },
-      "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
       "id": "devforum:4995943",
@@ -127,27 +107,6 @@
         "views": 85
       },
       "first_seen": "2026-11-19T20:47:21.046Z"
-    },
-    {
-      "id": "devforum:4995451",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/roblox-algorithm-is-very-broken-at-the-moment/4995451",
-      "author": "ATutili",
-      "date": "2026-11-18T14:07:25.606Z",
-      "title": "Roblox Algorithm is very broken at the moment",
-      "excerpt_en": "I am trying to be as nice as possible because this issue costed me nearly everything. So, i recently released this game : Regrowth Incremental | Play on Roblox And its dying very fast because i just lost 3x active players in 4 days , and your first thought is horrible benchmarks…",
-      "score": 10,
-      "tags": [
-        "metrics",
-        "discovery",
-        "story"
-      ],
-      "engagement": {
-        "likes": 3,
-        "replies": 1,
-        "views": 57
-      },
-      "first_seen": "2026-11-18T20:40:29.418Z"
     },
     {
       "id": "devforum:4998818",
@@ -246,25 +205,6 @@
       "first_seen": "2026-11-21T19:25:54.871Z"
     },
     {
-      "id": "devforum:4995397",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/gui-exam-and-certification-development/4995397",
-      "author": "amindez24",
-      "date": "2026-11-18T12:42:03.246Z",
-      "title": "GUI Exam and Certification-Development",
-      "excerpt_en": "image 1920×1080 746 KB At the end of each test, you will receive a certificate and a score, along with a breakdown of your performance. If you’d like, you can share your certificate here and compete with others. Please leave a comment here if you encounter any issues. This…",
-      "score": 6.4,
-      "tags": [
-        "story"
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 3,
-        "views": 119
-      },
-      "first_seen": "2026-11-18T20:40:29.418Z"
-    },
-    {
       "id": "devforum:4997314",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/mononymous-name-roblox-doesnt-have-anything-for-it/4997314",
@@ -284,21 +224,72 @@
       "first_seen": "2026-11-20T07:28:38.878Z"
     },
     {
-      "id": "devforum:4995362",
+      "id": "devforum:4997243",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/why-is-my-game-so-unpopular/4995362",
-      "author": "Nightmare_pogg",
-      "date": "2026-11-18T11:39:08.885Z",
-      "title": "Why is my game so unpopular?",
-      "excerpt_en": "Hey, I made a game inspired by one old mobile game. After publishing i noticed barely any activity at all. I even tried paying for ads and nothing much. What have I done wrong? here are some game metrics: image 1343×490 76.1 KB",
-      "score": 5.8,
+      "url": "https://devforum.roblox.com/t/lunaut-a-luau-language-server-for-vs-code-zed-neovim-and-helix/4997243",
+      "author": "TREMNOR_TTR",
+      "date": "2026-11-20T03:40:55.893Z",
+      "title": "Lunaut: a Luau language server for VS Code, Zed, Neovim and Helix",
+      "excerpt_en": "lunaut: a Luau language server for Roblox (VS Code, Zed, Neovim, Helix) Hi everyone! I made lunaut , a free and open-source language server for Luau and Roblox, written in C++ on top of the official Luau analysis library. It ships as one executable for Windows, macOS and Linux…",
+      "score": 5.2,
       "tags": [],
       "engagement": {
-        "likes": 8,
+        "likes": 7,
         "replies": 7,
-        "views": 108
+        "views": 140
       },
-      "first_seen": "2026-11-18T20:40:29.418Z"
+      "first_seen": "2026-11-20T20:30:30.774Z"
+    },
+    {
+      "id": "devforum:4995903",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
+      "author": "Cheeteau",
+      "date": "2026-11-18T21:50:02.545Z",
+      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
+      "excerpt_en": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website…",
+      "score": 4.9,
+      "tags": [],
+      "engagement": {
+        "likes": 10,
+        "replies": 5,
+        "views": 167
+      },
+      "first_seen": "2026-11-19T20:47:21.046Z"
+    },
+    {
+      "id": "devforum:4996538",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/removing-roblox-core-buttons/4996538",
+      "author": "Meatloaferss",
+      "date": "2026-11-19T13:56:32.311Z",
+      "title": "Removing Roblox Core Buttons",
+      "excerpt_en": "Is there a documented workaround on how to disable Roblox Core Menu Buttons in game? Some methods I tried are patched, I’m trying to make my own menu here…",
+      "score": 4.7,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 7,
+        "views": 183
+      },
+      "first_seen": "2026-11-20T07:28:38.878Z"
+    },
+    {
+      "id": "devforum:4997013",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-welcome-to-lauderville/4997013",
+      "author": "InternetAccounts",
+      "date": "2026-11-19T22:16:22.616Z",
+      "title": "Feedback Wanted - Welcome to Lauderville",
+      "excerpt_en": "Welcome to Lauderville! We’ve been developing an ultra realistic roleplay game called Lauderville , and we’d love to reinvent a new standard for roleplay games on Roblox. Lauderville is a fictional take on Fort Lauderdale, Florida. We’re Tsunami Experiences , and we want to…",
+      "score": 4.4,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 3,
+        "views": 99
+      },
+      "first_seen": "2026-11-20T20:30:30.774Z"
     }
   ]
 }
