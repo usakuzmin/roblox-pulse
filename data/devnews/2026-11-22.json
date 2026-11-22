@@ -1,32 +1,130 @@
 {
-  "generated_at": "2026-11-22T07:02:07.565Z",
+  "generated_at": "2026-11-22T19:49:47.056Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 102557
+      "ms": 110317
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90104
+      "ms": 90453
     },
     "rss": {
       "ok": true,
       "fetched": 6,
-      "ms": 3138
+      "ms": 4071
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 167
+      "ms": 310
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 503
+      "ms": 274
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "devforum:5000460",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/many-new-players-leave-my-storm-chasing-game-before-the-first-storm-ends-looking-for-playtesters-and-honest-feedback/5000460",
+      "author": "Hi12023967",
+      "date": "2026-11-22T17:35:58.741Z",
+      "title": "Many new players leave my storm chasing game before the first storm ends. Looking for playtesters and honest feedback",
+      "excerpt_en": "Hi everyone, I’ve been working on Severe Weather Simulation: Sequel, a storm chasing game. You watch tornadoes and windstorms form, take shelter or ride them out in armored vehicles, place weather probes that pay you for surviving, and slowly save up for bigger vehicles. My…",
+      "score": 16.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 26
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5000206",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206",
+      "author": "AlienX1258",
+      "date": "2026-11-22T13:26:59.686Z",
+      "title": "Extremely low plays amount despite really high CTR",
+      "excerpt_en": "So my game finally got the ‘All Ages’ rating, and I thought it was open to everyone. I didn’t know about the final review, so I started running ads early. Turns out it was still under final review, and my ‘Plays’ ad was getting clicks with zero plays because of it. Do you think…",
+      "score": 13.4,
+      "tags": [
+        "revenue",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 3,
+        "views": 65
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5000499",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499",
+      "author": "0Dev_Dev",
+      "date": "2026-11-22T18:20:23.285Z",
+      "title": "My game has terrible stats and im not sure why",
+      "excerpt_en": "Heres my game: The Settlement | Play on Roblox Its playtime, retention, and monetization stats are extremly bad. Like the worst I’ve ever seen in my games. It was inspired on a kind-of old game called breaking point which was very succesful. I feel like the game visuals and…",
+      "score": 9.2,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 30
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:4999964",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/drivescan-convert-ui-to-code/4999964",
+      "author": "Iaromir2012",
+      "date": "2026-11-22T08:16:37.988Z",
+      "title": "DriveScan | Convert UI to code",
+      "excerpt_en": "Hi everyone! Actually, my first post here but anyways. I made a small module for converting UI into scripts. I wasn’t planning to post this, but I found out that only plugins existed, and some were even paid, so here’s a script version-you can use it in play.luau or in vs code…",
+      "score": 5,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 12,
+        "views": 186
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5000342",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/multiplayer-how/5000342",
+      "author": "xXSWAGJAWADXx",
+      "date": "2026-11-22T15:41:43.844Z",
+      "title": "Multiplayer how?",
+      "excerpt_en": "You know how multiplayer games rely on multiple players playing a game? How would this be achieved cos when you first publish a game, not many people are going to be playing the game at the same time so they’ll just leave. Also, I’m not too sure if this is the right place to…",
+      "score": 4.2,
+      "tags": [],
+      "engagement": {
+        "likes": 4,
+        "replies": 7,
+        "views": 94
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    }
+  ]
 }

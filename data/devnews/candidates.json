@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:02:07.623Z",
+  "generated_at": "2026-11-22T19:49:47.109Z",
   "from_files": [
     "2026-11-19.json",
     "2026-11-20.json",
@@ -27,6 +27,49 @@
         "views": 5
       },
       "first_seen": "2026-11-21T19:25:54.871Z"
+    },
+    {
+      "id": "devforum:5000460",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/many-new-players-leave-my-storm-chasing-game-before-the-first-storm-ends-looking-for-playtesters-and-honest-feedback/5000460",
+      "author": "Hi12023967",
+      "date": "2026-11-22T17:35:58.741Z",
+      "title": "Many new players leave my storm chasing game before the first storm ends. Looking for playtesters and honest feedback",
+      "excerpt_en": "Hi everyone, I’ve been working on Severe Weather Simulation: Sequel, a storm chasing game. You watch tornadoes and windstorms form, take shelter or ride them out in armored vehicles, place weather probes that pay you for surviving, and slowly save up for bigger vehicles. My…",
+      "score": 16.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "ads",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 0,
+        "views": 26
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5000206",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206",
+      "author": "AlienX1258",
+      "date": "2026-11-22T13:26:59.686Z",
+      "title": "Extremely low plays amount despite really high CTR",
+      "excerpt_en": "So my game finally got the ‘All Ages’ rating, and I thought it was open to everyone. I didn’t know about the final review, so I started running ads early. Turns out it was still under final review, and my ‘Plays’ ad was getting clicks with zero plays because of it. Do you think…",
+      "score": 13.4,
+      "tags": [
+        "revenue",
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 3,
+        "views": 65
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
       "id": "devforum:4995943",
@@ -126,6 +169,26 @@
         "views": 40
       },
       "first_seen": "2026-11-21T19:25:54.871Z"
+    },
+    {
+      "id": "devforum:5000499",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499",
+      "author": "0Dev_Dev",
+      "date": "2026-11-22T18:20:23.285Z",
+      "title": "My game has terrible stats and im not sure why",
+      "excerpt_en": "Heres my game: The Settlement | Play on Roblox Its playtime, retention, and monetization stats are extremly bad. Like the worst I’ve ever seen in my games. It was inspired on a kind-of old game called breaking point which was very succesful. I feel like the game visuals and…",
+      "score": 9.2,
+      "tags": [
+        "metrics",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 30
+      },
+      "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
       "id": "devforum:4996365",
@@ -237,57 +300,6 @@
         "likes": 7,
         "replies": 7,
         "views": 140
-      },
-      "first_seen": "2026-11-20T20:30:30.774Z"
-    },
-    {
-      "id": "devforum:4995903",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
-      "author": "Cheeteau",
-      "date": "2026-11-18T21:50:02.545Z",
-      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
-      "excerpt_en": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website…",
-      "score": 4.9,
-      "tags": [],
-      "engagement": {
-        "likes": 10,
-        "replies": 5,
-        "views": 167
-      },
-      "first_seen": "2026-11-19T20:47:21.046Z"
-    },
-    {
-      "id": "devforum:4996538",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/removing-roblox-core-buttons/4996538",
-      "author": "Meatloaferss",
-      "date": "2026-11-19T13:56:32.311Z",
-      "title": "Removing Roblox Core Buttons",
-      "excerpt_en": "Is there a documented workaround on how to disable Roblox Core Menu Buttons in game? Some methods I tried are patched, I’m trying to make my own menu here…",
-      "score": 4.7,
-      "tags": [],
-      "engagement": {
-        "likes": 6,
-        "replies": 7,
-        "views": 183
-      },
-      "first_seen": "2026-11-20T07:28:38.878Z"
-    },
-    {
-      "id": "devforum:4997013",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/feedback-wanted-welcome-to-lauderville/4997013",
-      "author": "InternetAccounts",
-      "date": "2026-11-19T22:16:22.616Z",
-      "title": "Feedback Wanted - Welcome to Lauderville",
-      "excerpt_en": "Welcome to Lauderville! We’ve been developing an ultra realistic roleplay game called Lauderville , and we’d love to reinvent a new standard for roleplay games on Roblox. Lauderville is a fictional take on Fort Lauderdale, Florida. We’re Tsunami Experiences , and we want to…",
-      "score": 4.4,
-      "tags": [],
-      "engagement": {
-        "likes": 9,
-        "replies": 3,
-        "views": 99
       },
       "first_seen": "2026-11-20T20:30:30.774Z"
     }
