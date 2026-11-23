@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-11-23T07:51:35.809Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 101802
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90300
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 6,
+      "ms": 3320
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 174
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 217
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:5001080",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080",
+      "author": "Piggy_Gam1ngg",
+      "date": "2026-11-23T07:47:31.058Z",
+      "title": "Help with improving 16+ CTR, plays, and playtime (all are terrible)",
+      "excerpt_en": "I’ve just released my game Iridium Mines. It’s a roguelike mining game set in a procedurally generated cave system. Unearth rare ore, bring it back before the elevator leaves, and craft items to help you go deeper! You can play it here: Iridium Mines | Play on Roblox . Happy to…",
+      "score": 12.2,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 1
+      },
+      "first_seen": "2026-11-23T07:51:35.809Z"
+    },
+    {
+      "id": "devforum:5000693",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/home-recommendation-doesnt-push-my-thumbnails/5000693",
+      "author": "superalp1111",
+      "date": "2026-11-22T21:43:12.354Z",
+      "title": "Home Recommendation doesn't push my thumbnails",
+      "excerpt_en": "Hello. I wanted to learn more about if this is a platform bug or I’m doing something wrong. We pushed ads for a long time while in Alpha to test our game, we got about 15K plays so far. We handled the engagement goal too, with 250 HEP limit. We turned on Home Recommendations…",
+      "score": 12.1,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 2,
+        "views": 51
+      },
+      "first_seen": "2026-11-23T07:51:35.809Z"
+    },
+    {
+      "id": "devforum:5000607",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/my-new-soccer-game-just-released-id-like-some-critique/5000607",
+      "author": "FizzineDev",
+      "date": "2026-11-22T20:11:52.109Z",
+      "title": "My new soccer game just released! I'd like some critique",
+      "excerpt_en": "**Me and my small team of developers have released our first project under our group. It’s called “Flow Soccer” and is a touch soccer inspired game with cool effects, more polished mechanics, progression and customizability, and more! I am looking for feedback on a few parts of…",
+      "score": 9.8,
+      "tags": [
+        "marketing",
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 5,
+        "replies": 3,
+        "views": 51
+      },
+      "first_seen": "2026-11-23T07:51:35.809Z"
+    },
+    {
+      "id": "devforum:5000861",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861",
+      "author": "LEOLOX77",
+      "date": "2026-11-23T01:18:48.393Z",
+      "title": "Need Help Finding a DevEx oriented page through Dashboard Directory",
+      "excerpt_en": "I’m trying to find a page on Roblox’s studio dashboard, it tells the user how much USD their selected game has made in robux translated to DevEx rates in the last 30 days. The page contains a drop-down to view all the data for all experiences the user has development access to…",
+      "score": 5.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 3,
+        "views": 42
+      },
+      "first_seen": "2026-11-23T07:51:35.809Z"
+    }
+  ]
+}
