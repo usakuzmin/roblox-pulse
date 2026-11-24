@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-11-24T00:02:19.330Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 105649
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90191
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 3544
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 172
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 2,
+      "ms": 9957
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:5001662",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/reviving-an-old-pve-zombie-game-looking-for-feedback/5001662",
+      "author": "artllur",
+      "date": "2026-11-23T20:56:40.425Z",
+      "title": "Reviving an old PvE zombie game - looking for feedback",
+      "excerpt_en": "ive been trying to revive my game, which previously had a healthy player base and received consistent RFY traffic. i stopped updating it for almost a year and now im struggling to even get above 1k home recs. i lost my previous audience and im now struggling to bring it back…",
+      "score": 15.7,
+      "tags": [
+        "metrics",
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 23
+      },
+      "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
+      "id": "devforum:5001641",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-can-i-monetize-my-ro-store-game/5001641",
+      "author": "liamxz82",
+      "date": "2026-11-23T20:40:24.233Z",
+      "title": "How can I monetize my ro-store game?",
+      "excerpt_en": "Hiya, I have developed a ro-store shopping game inspired by Aldi, the game is a realistic roleplaying experience with real staff. The question is, how can I monetize it so that more people would buy gamepasses so that I can afford ads? Currently the only things for sale are…",
+      "score": 7.2,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 19
+      },
+      "first_seen": "2026-11-24T00:02:19.330Z"
+    }
+  ]
+}

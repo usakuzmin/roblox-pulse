@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T07:51:35.858Z",
+  "generated_at": "2026-11-24T00:02:19.383Z",
   "from_files": [
-    "2026-11-20.json",
     "2026-11-21.json",
     "2026-11-22.json",
-    "2026-11-23.json"
+    "2026-11-23.json",
+    "2026-11-24.json"
   ],
   "items": [
     {
@@ -49,6 +49,27 @@
         "views": 26
       },
       "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5001662",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/reviving-an-old-pve-zombie-game-looking-for-feedback/5001662",
+      "author": "artllur",
+      "date": "2026-11-23T20:56:40.425Z",
+      "title": "Reviving an old PvE zombie game - looking for feedback",
+      "excerpt_en": "ive been trying to revive my game, which previously had a healthy player base and received consistent RFY traffic. i stopped updating it for almost a year and now im struggling to even get above 1k home recs. i lost my previous audience and im now struggling to bring it back…",
+      "score": 15.7,
+      "tags": [
+        "metrics",
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 23
+      },
+      "first_seen": "2026-11-24T00:02:19.330Z"
     },
     {
       "id": "devforum:5000206",
@@ -173,6 +194,25 @@
       "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
+      "id": "devforum:5001641",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-can-i-monetize-my-ro-store-game/5001641",
+      "author": "liamxz82",
+      "date": "2026-11-23T20:40:24.233Z",
+      "title": "How can I monetize my ro-store game?",
+      "excerpt_en": "Hiya, I have developed a ro-store shopping game inspired by Aldi, the game is a realistic roleplaying experience with real staff. The question is, how can I monetize it so that more people would buy gamepasses so that I can afford ads? Currently the only things for sale are…",
+      "score": 7.2,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 19
+      },
+      "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
       "id": "devforum:4998408",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
@@ -230,25 +270,6 @@
       "first_seen": "2026-11-21T19:25:54.871Z"
     },
     {
-      "id": "devforum:4997314",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/mononymous-name-roblox-doesnt-have-anything-for-it/4997314",
-      "author": "GamingScripterW",
-      "date": "2026-11-20T05:33:56.375Z",
-      "title": "Mononymous name & Roblox doesnt have anything for it",
-      "excerpt_en": "I have a Mononymous name even in my legal documents (Name with no last name or surname) before anyone says how its possible, My country allows for Mononymous names I tried doing my first devex but realised I couldnt leave the “Last name” slot empty image 1003×807 48 KB I made a…",
-      "score": 6.1,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 3,
-        "views": 20
-      },
-      "first_seen": "2026-11-20T07:28:38.878Z"
-    },
-    {
       "id": "devforum:5000861",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861",
@@ -266,23 +287,6 @@
         "views": 42
       },
       "first_seen": "2026-11-23T07:51:35.809Z"
-    },
-    {
-      "id": "devforum:4997243",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/lunaut-a-luau-language-server-for-vs-code-zed-neovim-and-helix/4997243",
-      "author": "TREMNOR_TTR",
-      "date": "2026-11-20T03:40:55.893Z",
-      "title": "Lunaut: a Luau language server for VS Code, Zed, Neovim and Helix",
-      "excerpt_en": "lunaut: a Luau language server for Roblox (VS Code, Zed, Neovim, Helix) Hi everyone! I made lunaut , a free and open-source language server for Luau and Roblox, written in C++ on top of the official Luau analysis library. It ships as one executable for Windows, macOS and Linux…",
-      "score": 5.2,
-      "tags": [],
-      "engagement": {
-        "likes": 7,
-        "replies": 7,
-        "views": 140
-      },
-      "first_seen": "2026-11-20T20:30:30.774Z"
     },
     {
       "id": "devforum:4999964",
