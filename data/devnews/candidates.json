@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:03:34.451Z",
+  "generated_at": "2026-11-24T22:35:56.790Z",
   "from_files": [
     "2026-11-21.json",
     "2026-11-22.json",
@@ -49,6 +49,26 @@
         "views": 26
       },
       "first_seen": "2026-11-22T19:49:47.056Z"
+    },
+    {
+      "id": "devforum:5002641",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/insufficient-earned-robux-and-eligible-robux-inaccuracy-is-a-huge-problem/5002641",
+      "author": "VyrissDev",
+      "date": "2026-11-23T22:42:47.491Z",
+      "title": "\"Insufficient Earned Robux\" and \"Eligible Robux\" inaccuracy is a HUGE problem",
+      "excerpt_en": "I will not bother with Roblox help email because the most they do is give me an automated email pointing me to DevEx FAQs. I have a lot of Robux sitting on my account, which most of all of them are from sales from selling limiteds. Understandably, those cannot be exchanged for…",
+      "score": 16.7,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 4,
+        "views": 155
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
     },
     {
       "id": "devforum:5001662",
@@ -194,6 +214,42 @@
       "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+      "author": null,
+      "date": "2026-11-24T12:35:00.000Z",
+      "title": "ITV Studios’ Metavision to bring Thunderbirds IP to Roblox",
+      "excerpt_en": "Metavision, part of ITV Studios&rsquo; Zoo 55, has shared plans to bring the Thunderbirds IP to Roblox for the first time later this year. Based on the original 1960&rsquo;s television series created by Gerry and Sylvia Anderson, the experience will recreate familiar elements of…",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003524",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/day-1day-7-retention-extremely-low-how-do-i-improve-it/5003524",
+      "author": "Orixinz",
+      "date": "2026-11-24T19:54:31.642Z",
+      "title": "Day 1/Day 7 retention extremely low - how do I improve it?",
+      "excerpt_en": "I recently released My Movie Studio | Play on Roblox , which is a game where the player runs their own movie studio, to earn money, to collect actors. It’s gone reasonably well, the usual challenges I’ve faced when releasing games, like getting clicks on thumbnails, monetisation…",
+      "score": 7.4,
+      "tags": [
+        "revenue",
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 6
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
       "id": "devforum:5001641",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-can-i-monetize-my-ro-store-game/5001641",
@@ -232,78 +288,23 @@
       "first_seen": "2026-11-21T07:21:49.240Z"
     },
     {
-      "id": "devforum:4998020",
+      "id": "devforum:5003612",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020",
-      "author": "Binarix",
-      "date": "2026-11-20T20:33:07.980Z",
-      "title": "Feedback Wanted On My Fighting Game - Sever Engine",
-      "excerpt_en": "Hello everyone. I recently published my first game Sever Engine- a FFA battleground/Combat Warriors type fighting game where kills lead to progression. However, my like ratio on the game is terrible, and I don’t know why. I have made improvements like simplifying the combat…",
-      "score": 6.7,
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "author": "DoomVol",
+      "date": "2026-11-24T21:05:02.351Z",
+      "title": "Roblox Sponsored Ads Issues",
+      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
+      "score": 7.1,
       "tags": [
-        "metrics"
+        "ads"
       ],
       "engagement": {
-        "likes": 2,
-        "replies": 1,
-        "views": 47
+        "likes": 0,
+        "replies": 0,
+        "views": 12
       },
-      "first_seen": "2026-11-21T07:21:49.240Z"
-    },
-    {
-      "id": "devforum:4998794",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/trust-based-chat-architecture-to-combat-botting-and-harassment/4998794",
-      "author": "hwwii9",
-      "date": "2026-11-21T11:43:16.511Z",
-      "title": "Trust-Based Chat Architecture to Combat Botting and Harassment",
-      "excerpt_en": "Roblox Platform Safety & Trust-Based Chat Architecture Proposal 1. Smart AI Metadata Verification (Settings, Email & Age Integration) Instead of relying on basic keyword filters, an advanced Context-Aware AI Bot automatically checks account settings (Registered Date of Birth +…",
-      "score": 6.7,
-      "tags": [
-        "metrics"
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 1,
-        "views": 42
-      },
-      "first_seen": "2026-11-21T19:25:54.871Z"
-    },
-    {
-      "id": "devforum:5000861",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861",
-      "author": "LEOLOX77",
-      "date": "2026-11-23T01:18:48.393Z",
-      "title": "Need Help Finding a DevEx oriented page through Dashboard Directory",
-      "excerpt_en": "I’m trying to find a page on Roblox’s studio dashboard, it tells the user how much USD their selected game has made in robux translated to DevEx rates in the last 30 days. The page contains a drop-down to view all the data for all experiences the user has development access to…",
-      "score": 5.8,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 3,
-        "views": 42
-      },
-      "first_seen": "2026-11-23T07:51:35.809Z"
-    },
-    {
-      "id": "devforum:4999964",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/drivescan-convert-ui-to-code/4999964",
-      "author": "Iaromir2012",
-      "date": "2026-11-22T08:16:37.988Z",
-      "title": "DriveScan | Convert UI to code",
-      "excerpt_en": "Hi everyone! Actually, my first post here but anyways. I made a small module for converting UI into scripts. I wasn’t planning to post this, but I found out that only plugins existed, and some were even paid, so here’s a script version-you can use it in play.luau or in vs code…",
-      "score": 5,
-      "tags": [],
-      "engagement": {
-        "likes": 6,
-        "replies": 12,
-        "views": 186
-      },
-      "first_seen": "2026-11-22T19:49:47.056Z"
+      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }

@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-11-24T10:03:34.390Z",
+  "generated_at": "2026-11-24T22:35:56.733Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 105252
+      "ms": 152517
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90362
+      "ms": 90183
     },
     "rss": {
       "ok": true,
-      "fetched": 8,
-      "ms": 3759
+      "fetched": 9,
+      "ms": 16101
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 142
+      "ms": 168
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 203
+      "ms": 334
     }
   },
   "items": [
+    {
+      "id": "devforum:5002641",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/insufficient-earned-robux-and-eligible-robux-inaccuracy-is-a-huge-problem/5002641",
+      "author": "VyrissDev",
+      "date": "2026-11-23T22:42:47.491Z",
+      "title": "\"Insufficient Earned Robux\" and \"Eligible Robux\" inaccuracy is a HUGE problem",
+      "excerpt_en": "I will not bother with Roblox help email because the most they do is give me an automated email pointing me to DevEx FAQs. I have a lot of Robux sitting on my account, which most of all of them are from sales from selling limiteds. Understandably, those cannot be exchanged for…",
+      "score": 16.7,
+      "tags": [
+        "revenue",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 18,
+        "replies": 4,
+        "views": 155
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
     {
       "id": "devforum:5001662",
       "source": "devforum",
@@ -51,6 +71,42 @@
       "first_seen": "2026-11-24T00:02:19.330Z"
     },
     {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+      "author": null,
+      "date": "2026-11-24T12:35:00.000Z",
+      "title": "ITV Studios’ Metavision to bring Thunderbirds IP to Roblox",
+      "excerpt_en": "Metavision, part of ITV Studios&rsquo; Zoo 55, has shared plans to bring the Thunderbirds IP to Roblox for the first time later this year. Based on the original 1960&rsquo;s television series created by Gerry and Sylvia Anderson, the experience will recreate familiar elements of…",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "studio"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003524",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/day-1day-7-retention-extremely-low-how-do-i-improve-it/5003524",
+      "author": "Orixinz",
+      "date": "2026-11-24T19:54:31.642Z",
+      "title": "Day 1/Day 7 retention extremely low - how do I improve it?",
+      "excerpt_en": "I recently released My Movie Studio | Play on Roblox , which is a game where the player runs their own movie studio, to earn money, to collect actors. It’s gone reasonably well, the usual challenges I’ve faced when releasing games, like getting clicks on thumbnails, monetisation…",
+      "score": 7.4,
+      "tags": [
+        "revenue",
+        "metrics"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 6
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
       "id": "devforum:5001641",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/how-can-i-monetize-my-ro-store-game/5001641",
@@ -68,6 +124,84 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
+      "id": "devforum:5003612",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "author": "DoomVol",
+      "date": "2026-11-24T21:05:02.351Z",
+      "title": "Roblox Sponsored Ads Issues",
+      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
+      "score": 7.1,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 12
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003409",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
+      "author": "SnoogleBrosPlayz",
+      "date": "2026-11-24T17:45:26.325Z",
+      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
+      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
+      "score": 7,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003395",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/urgent-account-terminated-by-automated-moderation-for-sexual-content-appeals-auto-denied-support-redirects-to-a-closed-appeal-portal/5003395",
+      "author": "neozcult",
+      "date": "2026-11-24T17:27:27.642Z",
+      "title": "[URGENT] Account terminated by automated moderation for \"Sexual Content\": appeals auto-denied, support redirects to a closed appeal portal",
+      "excerpt_en": "What do you want to achieve? I’m posting on behalf of my brother, a solo developer whose account Zeloff_OnTop was permanently terminated on November 7, 2026. I’m asking for one human review of the case. If the termination stands, we would like to know exactly which content was…",
+      "score": 6.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 37
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003488",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/keep-pixel-art-sharp-on-meshes-decals-and-textures/5003488",
+      "author": "OofTracing",
+      "date": "2026-11-24T19:04:00.159Z",
+      "title": "Keep Pixel Art Sharp on Meshes, Decals, and Textures",
+      "excerpt_en": "Hi Creators, We’re launching pixelated resampling, which keeps pixel art sharp on 3D surfaces without upscaling the source image. Set ResampleMode to Pixelated on a SurfaceAppearance , Decal , or Texture , and each source pixel renders as a crisp square instead of a soft blur…",
+      "score": 4.6,
+      "tags": [
+        "platform"
+      ],
+      "engagement": {
+        "likes": 224,
+        "replies": 29,
+        "views": 1889
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
     },
     {
       "id": "medium:https://medium.com/p/ecc3719b53f3",
@@ -100,6 +234,23 @@
         "views": 55
       },
       "first_seen": "2026-11-24T10:03:34.390Z"
+    },
+    {
+      "id": "devforum:5003071",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/nov-2026-soa-vs-aos-deep-down-to-bytecode-and-luabridge/5003071",
+      "author": "Iaromir2012",
+      "date": "2026-11-24T10:36:02.535Z",
+      "title": "[Nov 2026] SOA vs AOS (Deep down to ByteCode and LuaBridge)",
+      "excerpt_en": "Hello, my great friend, who, I suppose, wants to become better at scripting “okok genius soa is a lot of arrays for every value and aos is one array with every value” you might say, but I believe there’s more into it. OKOK before we actually dive into luabridge and bytecode…",
+      "score": 3.5,
+      "tags": [],
+      "engagement": {
+        "likes": 2,
+        "replies": 10,
+        "views": 101
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }
