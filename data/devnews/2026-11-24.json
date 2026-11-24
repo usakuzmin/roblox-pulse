@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-24T00:02:19.330Z",
+  "generated_at": "2026-11-24T10:03:34.390Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 105649
+      "ms": 105252
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90191
+      "ms": 90362
     },
     "rss": {
       "ok": true,
-      "fetched": 7,
-      "ms": 3544
+      "fetched": 8,
+      "ms": 3759
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 172
+      "ms": 142
     },
     "hackernews": {
       "ok": true,
       "fetched": 2,
-      "ms": 9957
+      "ms": 203
     }
   },
   "items": [
@@ -68,6 +68,38 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
+      "id": "medium:https://medium.com/p/ecc3719b53f3",
+      "source": "medium",
+      "url": "https://medium.com/gamefactoryhub/robloxtan-oyun-st%C3%BCdyolar%C4%B1na-yeni-f%C4%B1rsat-mevcut-oyunlar%C4%B1n%C4%B1z%C4%B1-%C3%BCcretsiz-roblox-a-ta%C5%9F%C4%B1y%C4%B1n-ecc3719b53f3?source=rss------roblox_development-5",
+      "author": "Murat Kahraman",
+      "date": "2026-11-24T06:31:01.000Z",
+      "title": "Roblox’tan Oyun Stüdyolarına Yeni Fırsat: Mevcut Oyunlarınızı Ücretsiz Roblox’a Taşıyın",
+      "excerpt_en": "Roblox’un yeni programı, mobil, PC ve konsol oyunlarını yapay zekâ destekli araçlarla Roblox platformuna taşımayı hedefliyor. Üstelik… Continue reading on GameFactoryHub »",
+      "score": 4,
+      "tags": [
+        "analyst"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-24T10:03:34.390Z"
+    },
+    {
+      "id": "devforum:5002737",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/lumis-untitled-pvp-game/5002737",
+      "author": "DARKCLAW1203",
+      "date": "2026-11-24T00:44:03.080Z",
+      "title": "Lumi's untitled pvp game",
+      "excerpt_en": "due to loss of motivation i’ve decided to work on a smaller game called Lumi’s Untitled PVP game. I want to get feedback, the game requires 2+ players to start. it is a loadout based pvp game where the goal is to be last person standing in an arena with powerups, random events…",
+      "score": 3.7,
+      "tags": [],
+      "engagement": {
+        "likes": 8,
+        "replies": 3,
+        "views": 55
+      },
+      "first_seen": "2026-11-24T10:03:34.390Z"
     }
   ]
 }
