@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:47:38.008Z",
+  "generated_at": "2026-11-25T21:49:42.748Z",
   "from_files": [
     "2026-11-22.json",
     "2026-11-23.json",
@@ -71,6 +71,27 @@
         "views": 155
       },
       "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5004354",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/marketing-advice-needed-ad-sponsors-with-10-ctr-50-play-to-click-ratio-and-yet-many-people-left-before-even-entering-the-tutorial/5004354",
+      "author": "Konethorix",
+      "date": "2026-11-25T13:55:20.740Z",
+      "title": "MARKETING ADVICE NEEDED: Ad sponsors with 10%+ CTR, 50% play to click ratio, and yet many people left before even entering the tutorial",
+      "excerpt_en": "My game’s genre is a fighting + sandbox game, it’s an odd mix yes. But it has proven to work well, and my vision told me its the type of game that is bound to become a hit (it used to have hundreds of CCU from home recommendations in the early release days in March-April): //…",
+      "score": 15.8,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 31
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
     },
     {
       "id": "devforum:5001662",
@@ -197,6 +218,26 @@
       "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
+      "id": "devforum:5004584",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-overall-feedback-for-naval-game/5004584",
+      "author": "computerwiz9",
+      "date": "2026-11-25T18:16:27.228Z",
+      "title": "Need Overall Feedback for Naval Game",
+      "excerpt_en": "Hello! I am working on a pirate-themed naval game, in which the primary goal is to gather resources and upgrade to larger and stronger ships. You can explore islands for treasure. I am planning to add more in the future, with different types of resources to create more exotic…",
+      "score": 9.2,
+      "tags": [
+        "metrics",
+        "ads"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 17
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
+    },
+    {
       "id": "pocketgamer.biz:https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
       "source": "pocketgamer.biz",
       "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
@@ -211,6 +252,26 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5004618",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedbacks-on-a-drill-game/5004618",
+      "author": "SupremeViande",
+      "date": "2026-11-25T18:52:02.798Z",
+      "title": "Feedbacks on a drill game?",
+      "excerpt_en": "Hey all, I’ve been working for that game for about 7 months now (took a few breaks), and I’ve been constantly asking myself what to add, change, remove to make a game that people wanna play, stay and come back. I updated the game like 3 days ago and created ads again (12 credits…",
+      "score": 7.7,
+      "tags": [
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 16
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
     },
     {
       "id": "devforum:5003524",
@@ -250,65 +311,6 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
-    },
-    {
-      "id": "devforum:5003612",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
-      "author": "DoomVol",
-      "date": "2026-11-24T21:05:02.351Z",
-      "title": "Roblox Sponsored Ads Issues",
-      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
-      "score": 7.1,
-      "tags": [
-        "ads"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 12
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
-    },
-    {
-      "id": "devforum:5003409",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
-      "author": "SnoogleBrosPlayz",
-      "date": "2026-11-24T17:45:26.325Z",
-      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
-      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
-      "score": 7,
-      "tags": [
-        "ads"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 10
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
-    },
-    {
-      "id": "devforum:5003395",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/urgent-account-terminated-by-automated-moderation-for-sexual-content-appeals-auto-denied-support-redirects-to-a-closed-appeal-portal/5003395",
-      "author": "neozcult",
-      "date": "2026-11-24T17:27:27.642Z",
-      "title": "[URGENT] Account terminated by automated moderation for \"Sexual Content\": appeals auto-denied, support redirects to a closed appeal portal",
-      "excerpt_en": "What do you want to achieve? I’m posting on behalf of my brother, a solo developer whose account Zeloff_OnTop was permanently terminated on November 7, 2026. I’m asking for one human review of the case. If the termination stands, we would like to know exactly which content was…",
-      "score": 6.7,
-      "tags": [
-        "revenue",
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 1,
-        "views": 37
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }

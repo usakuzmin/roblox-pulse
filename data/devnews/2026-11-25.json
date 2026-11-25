@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-25T08:47:37.955Z",
+  "generated_at": "2026-11-25T21:49:42.690Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 101933
+      "ms": 105151
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90185
+      "ms": 90134
     },
     "rss": {
       "ok": true,
       "fetched": 9,
-      "ms": 2840
+      "ms": 4139
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 163
+      "ms": 117
     },
     "hackernews": {
       "ok": true,
-      "fetched": 1,
-      "ms": 227
+      "fetched": 0,
+      "ms": 263
     }
   },
   "items": [
@@ -51,6 +51,67 @@
         "views": 16
       },
       "first_seen": "2026-11-25T08:47:37.955Z"
+    },
+    {
+      "id": "devforum:5004354",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/marketing-advice-needed-ad-sponsors-with-10-ctr-50-play-to-click-ratio-and-yet-many-people-left-before-even-entering-the-tutorial/5004354",
+      "author": "Konethorix",
+      "date": "2026-11-25T13:55:20.740Z",
+      "title": "MARKETING ADVICE NEEDED: Ad sponsors with 10%+ CTR, 50% play to click ratio, and yet many people left before even entering the tutorial",
+      "excerpt_en": "My game’s genre is a fighting + sandbox game, it’s an odd mix yes. But it has proven to work well, and my vision told me its the type of game that is bound to become a hit (it used to have hundreds of CCU from home recommendations in the early release days in March-April): //…",
+      "score": 15.8,
+      "tags": [
+        "metrics",
+        "marketing",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 31
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
+    },
+    {
+      "id": "devforum:5004584",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-overall-feedback-for-naval-game/5004584",
+      "author": "computerwiz9",
+      "date": "2026-11-25T18:16:27.228Z",
+      "title": "Need Overall Feedback for Naval Game",
+      "excerpt_en": "Hello! I am working on a pirate-themed naval game, in which the primary goal is to gather resources and upgrade to larger and stronger ships. You can explore islands for treasure. I am planning to add more in the future, with different types of resources to create more exotic…",
+      "score": 9.2,
+      "tags": [
+        "metrics",
+        "ads"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 17
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
+    },
+    {
+      "id": "devforum:5004618",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/feedbacks-on-a-drill-game/5004618",
+      "author": "SupremeViande",
+      "date": "2026-11-25T18:52:02.798Z",
+      "title": "Feedbacks on a drill game?",
+      "excerpt_en": "Hey all, I’ve been working for that game for about 7 months now (took a few breaks), and I’ve been constantly asking myself what to add, change, remove to make a game that people wanna play, stay and come back. I updated the game like 3 days ago and created ads again (12 credits…",
+      "score": 7.7,
+      "tags": [
+        "discovery",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 16
+      },
+      "first_seen": "2026-11-25T21:49:42.690Z"
     }
   ]
 }
