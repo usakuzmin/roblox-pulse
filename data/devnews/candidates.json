@@ -1,32 +1,34 @@
 {
-  "generated_at": "2026-11-24T22:35:56.790Z",
+  "generated_at": "2026-11-25T08:47:38.008Z",
   "from_files": [
-    "2026-11-21.json",
     "2026-11-22.json",
     "2026-11-23.json",
-    "2026-11-24.json"
+    "2026-11-24.json",
+    "2026-11-25.json"
   ],
   "items": [
     {
-      "id": "devforum:4999267",
+      "id": "devforum:5003970",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/evidence-for-group-mr-labs-17-day-zero-sales-gap-search-visibility-sponsored-items-and-publishing-costs-without-regional-pricing/4999267",
-      "author": "fazberfreddy",
-      "date": "2026-11-21T19:02:35.101Z",
-      "title": "Evidence for group MR LABS: 17-day zero-sales gap, search visibility, Sponsored Items, and publishing costs without regional pricing",
-      "excerpt_en": "Summary and a correction I am the owner of the UGC group MR LABS (group ID 901151079). Over the last months I opened several reports and support tickets. I have now pulled the complete sales history of the group from the transaction records, and it does not support some of what…",
-      "score": 18.4,
+      "url": "https://devforum.roblox.com/t/thumbnail-personalization-gives-new-thumbnails-1-of-impressions-each-and-qptr-is-017-while-my-ad-ctr-is-above-5/5003970",
+      "author": "GooseGlitch",
+      "date": "2026-11-25T03:05:06.577Z",
+      "title": "Thumbnail personalization gives new thumbnails ~1% of impressions each, and QPTR is 0.17% while my ad CTR is above 5%",
+      "excerpt_en": "I have several thumbnails active with personalization on. Two things on the Thumbnails page don’t make sense to me. The numbers (Nov 17 - 24) Thumbnail Impressions Qualified Plays QPTR Old one 5,215,499 8,909 0.17% New A 79,851 93 0.12% New B 63,037 73 0.12% New C 75,499 78…",
+      "score": 28.2,
       "tags": [
-        "revenue",
+        "metrics",
         "ads",
-        "monetization"
+        "marketing",
+        "discovery",
+        "story"
       ],
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "replies": 0,
-        "views": 5
+        "views": 16
       },
-      "first_seen": "2026-11-21T19:25:54.871Z"
+      "first_seen": "2026-11-25T08:47:37.955Z"
     },
     {
       "id": "devforum:5000460",
@@ -155,25 +157,6 @@
       "first_seen": "2026-11-23T07:51:35.809Z"
     },
     {
-      "id": "devforum:4998818",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/new-developers-receive-creator-rewards-earned-60-days-ago/4998818",
-      "author": "vice_devv",
-      "date": "2026-11-21T12:04:45.146Z",
-      "title": "New Developers Receive Creator Rewards Earned 60 Days Ago",
-      "excerpt_en": "Hey, Me and my friend worked on developing and updating our game for around 2 months before taking a short break and deciding to hire a few developers to take care of the game, each receiving 10% of the total revenue. However, after a few weeks, we noticed something really…",
-      "score": 9.8,
-      "tags": [
-        "revenue"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 40
-      },
-      "first_seen": "2026-11-21T19:25:54.871Z"
-    },
-    {
       "id": "devforum:5000607",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/my-new-soccer-game-just-released-id-like-some-critique/5000607",
@@ -269,25 +252,6 @@
       "first_seen": "2026-11-24T00:02:19.330Z"
     },
     {
-      "id": "devforum:4998408",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
-      "author": "Scripth",
-      "date": "2026-11-21T02:28:57.709Z",
-      "title": "Flux - A reactive UI library for Luau",
-      "excerpt_en": "Flux 512×512 14.8 KB Be lazy. Do more. Go fast. Flux is a reactive UI library for Luau. It’s strictly typed for accurate autocomplete, batches updates once per frame, and keeps syntax terse enough to read like plain Luau. Flux leans on Luau’s strict type checker so your editor…",
-      "score": 7.1,
-      "tags": [
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 6,
-        "replies": 3,
-        "views": 90
-      },
-      "first_seen": "2026-11-21T07:21:49.240Z"
-    },
-    {
       "id": "devforum:5003612",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
@@ -303,6 +267,46 @@
         "likes": 0,
         "replies": 0,
         "views": 12
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003409",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
+      "author": "SnoogleBrosPlayz",
+      "date": "2026-11-24T17:45:26.325Z",
+      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
+      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
+      "score": 7,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003395",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/urgent-account-terminated-by-automated-moderation-for-sexual-content-appeals-auto-denied-support-redirects-to-a-closed-appeal-portal/5003395",
+      "author": "neozcult",
+      "date": "2026-11-24T17:27:27.642Z",
+      "title": "[URGENT] Account terminated by automated moderation for \"Sexual Content\": appeals auto-denied, support redirects to a closed appeal portal",
+      "excerpt_en": "What do you want to achieve? I’m posting on behalf of my brother, a solo developer whose account Zeloff_OnTop was permanently terminated on November 7, 2026. I’m asking for one human review of the case. If the termination stands, we would like to know exactly which content was…",
+      "score": 6.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 37
       },
       "first_seen": "2026-11-24T22:35:56.733Z"
     }

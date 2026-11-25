@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-11-25T08:47:37.955Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 101933
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90185
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 9,
+      "ms": 2840
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 163
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 1,
+      "ms": 227
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:5003970",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/thumbnail-personalization-gives-new-thumbnails-1-of-impressions-each-and-qptr-is-017-while-my-ad-ctr-is-above-5/5003970",
+      "author": "GooseGlitch",
+      "date": "2026-11-25T03:05:06.577Z",
+      "title": "Thumbnail personalization gives new thumbnails ~1% of impressions each, and QPTR is 0.17% while my ad CTR is above 5%",
+      "excerpt_en": "I have several thumbnails active with personalization on. Two things on the Thumbnails page don’t make sense to me. The numbers (Nov 17 - 24) Thumbnail Impressions Qualified Plays QPTR Old one 5,215,499 8,909 0.17% New A 79,851 93 0.12% New B 63,037 73 0.12% New C 75,499 78…",
+      "score": 28.2,
+      "tags": [
+        "metrics",
+        "ads",
+        "marketing",
+        "discovery",
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 16
+      },
+      "first_seen": "2026-11-25T08:47:37.955Z"
+    }
+  ]
+}
