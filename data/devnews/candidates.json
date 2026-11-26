@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T21:49:42.748Z",
+  "generated_at": "2026-11-26T08:32:54.042Z",
   "from_files": [
-    "2026-11-22.json",
     "2026-11-23.json",
     "2026-11-24.json",
-    "2026-11-25.json"
+    "2026-11-25.json",
+    "2026-11-26.json"
   ],
   "items": [
     {
@@ -29,28 +29,6 @@
         "views": 16
       },
       "first_seen": "2026-11-25T08:47:37.955Z"
-    },
-    {
-      "id": "devforum:5000460",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/many-new-players-leave-my-storm-chasing-game-before-the-first-storm-ends-looking-for-playtesters-and-honest-feedback/5000460",
-      "author": "Hi12023967",
-      "date": "2026-11-22T17:35:58.741Z",
-      "title": "Many new players leave my storm chasing game before the first storm ends. Looking for playtesters and honest feedback",
-      "excerpt_en": "Hi everyone, I’ve been working on Severe Weather Simulation: Sequel, a storm chasing game. You watch tornadoes and windstorms form, take shelter or ride them out in armored vehicles, place weather probes that pay you for surviving, and slowly save up for bigger vehicles. My…",
-      "score": 16.7,
-      "tags": [
-        "revenue",
-        "metrics",
-        "ads",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 2,
-        "replies": 0,
-        "views": 26
-      },
-      "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
       "id": "devforum:5002641",
@@ -115,27 +93,6 @@
       "first_seen": "2026-11-24T00:02:19.330Z"
     },
     {
-      "id": "devforum:5000206",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206",
-      "author": "AlienX1258",
-      "date": "2026-11-22T13:26:59.686Z",
-      "title": "Extremely low plays amount despite really high CTR",
-      "excerpt_en": "So my game finally got the ‘All Ages’ rating, and I thought it was open to everyone. I didn’t know about the final review, so I started running ads early. Turns out it was still under final review, and my ‘Plays’ ad was getting clicks with zero plays because of it. Do you think…",
-      "score": 13.4,
-      "tags": [
-        "revenue",
-        "discovery",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 1,
-        "replies": 3,
-        "views": 65
-      },
-      "first_seen": "2026-11-22T19:49:47.056Z"
-    },
-    {
       "id": "devforum:5001080",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080",
@@ -196,26 +153,6 @@
         "views": 51
       },
       "first_seen": "2026-11-23T07:51:35.809Z"
-    },
-    {
-      "id": "devforum:5000499",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499",
-      "author": "0Dev_Dev",
-      "date": "2026-11-22T18:20:23.285Z",
-      "title": "My game has terrible stats and im not sure why",
-      "excerpt_en": "Heres my game: The Settlement | Play on Roblox Its playtime, retention, and monetization stats are extremly bad. Like the worst I’ve ever seen in my games. It was inspired on a kind-of old game called breaking point which was very succesful. I feel like the game visuals and…",
-      "score": 9.2,
-      "tags": [
-        "metrics",
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 30
-      },
-      "first_seen": "2026-11-22T19:49:47.056Z"
     },
     {
       "id": "devforum:5004584",
@@ -311,6 +248,65 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
+      "id": "devforum:5003612",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "author": "DoomVol",
+      "date": "2026-11-24T21:05:02.351Z",
+      "title": "Roblox Sponsored Ads Issues",
+      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
+      "score": 7.1,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 12
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003409",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
+      "author": "SnoogleBrosPlayz",
+      "date": "2026-11-24T17:45:26.325Z",
+      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
+      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
+      "score": 7,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003395",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/urgent-account-terminated-by-automated-moderation-for-sexual-content-appeals-auto-denied-support-redirects-to-a-closed-appeal-portal/5003395",
+      "author": "neozcult",
+      "date": "2026-11-24T17:27:27.642Z",
+      "title": "[URGENT] Account terminated by automated moderation for \"Sexual Content\": appeals auto-denied, support redirects to a closed appeal portal",
+      "excerpt_en": "What do you want to achieve? I’m posting on behalf of my brother, a solo developer whose account Zeloff_OnTop was permanently terminated on November 7, 2026. I’m asking for one human review of the case. If the termination stands, we would like to know exactly which content was…",
+      "score": 6.7,
+      "tags": [
+        "revenue",
+        "metrics",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 37
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }

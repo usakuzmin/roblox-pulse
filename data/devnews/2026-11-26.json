@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-11-26T08:32:53.983Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 98921
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 90160
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 9,
+      "ms": 4010
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 170
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 342
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:5003896",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/8-of-18-new-players-never-clicked-the-first-tutorial-step-what-would-you-change/5003896",
+      "author": "Gerane969",
+      "date": "2026-11-25T01:17:27.801Z",
+      "title": "8 of 18 new players never clicked the first tutorial step. What would you change?",
+      "excerpt_en": "Hi everyone, I’m working on Sunny Farm: Grow, Sell & Relax, a small, calm farming game. You plant and water crops, sell them at your own market stall and later keep a few animals. What I want to achieve: a first minute where new players know what to do without having to think…",
+      "score": 6.4,
+      "tags": [
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 2,
+        "replies": 3,
+        "views": 110
+      },
+      "first_seen": "2026-11-26T08:32:53.983Z"
+    },
+    {
+      "id": "devforum:5002715",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/additional-roblox-performance-notes-and-resources/5002715",
+      "author": "HealthyKarl",
+      "date": "2026-11-24T00:18:34.047Z",
+      "title": "Additional Roblox Performance Notes and Resources",
+      "excerpt_en": "This Resource Post will go through some Roblox performance things, about things to do and not do. Since there’s a lot I’ll add them case-by-case. This post here about optimization can be interesting to read, it also recommends a performance budget to follow, to ensure…",
+      "score": 5.3,
+      "tags": [],
+      "engagement": {
+        "likes": 6,
+        "replies": 14,
+        "views": 406
+      },
+      "first_seen": "2026-11-26T08:32:53.983Z"
+    },
+    {
+      "id": "devforum:5004855",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/keeping-a-raycast-suspension-chassis-stable/5004855",
+      "author": "Landersattack",
+      "date": "2026-11-25T22:46:00.057Z",
+      "title": "Keeping a Raycast Suspension Chassis Stable",
+      "excerpt_en": "I’ve been working on raycast suspension systems in Roblox for a long time, and I’m finally happy with how my current chassis drives. One problem I ran into was that as my FPS dropped, the suspension would become highly unstable and could even fling the car. I’ve noticed this is…",
+      "score": 3.1,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 66
+      },
+      "first_seen": "2026-11-26T08:32:53.983Z"
+    }
+  ]
+}
