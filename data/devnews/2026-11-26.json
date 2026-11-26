@@ -1,34 +1,92 @@
 {
-  "generated_at": "2026-11-26T08:32:53.983Z",
+  "generated_at": "2026-11-26T21:43:04.520Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 98921
+      "ms": 113894
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 90160
+      "ms": 90367
     },
     "rss": {
       "ok": true,
       "fetched": 9,
-      "ms": 4010
+      "ms": 4164
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 170
+      "ms": 223
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 342
+      "ms": 244
     }
   },
   "items": [
+    {
+      "id": "devforum:5005723",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/game-stuck-with-almost-no-home-recs-after-being-private-for-8-months-is-that-a-thing/5005723",
+      "author": "Exnivo",
+      "date": "2026-11-26T19:34:14.754Z",
+      "title": "Game stuck with almost no home recs after being private for 8 months, is that a thing?",
+      "excerpt_en": "hey all, bit of a weird one my game The Frog Reads Your Mind (20q style, a frog tries to guess what you’re thinking) randomly blew up around march, like 1k ccu out of nowhere. problem was my backend back then was an external api on a tiny vps and it just died. rounds failing…",
+      "score": 18.9,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 34
+      },
+      "first_seen": "2026-11-26T21:43:04.520Z"
+    },
+    {
+      "id": "devforum:5005427",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/requesting-roblox-staff-assistance-roblox-support-has-failed-to-resolve-my-ownership-dispute/5005427",
+      "author": "1R_GT",
+      "date": "2026-11-26T13:40:50.957Z",
+      "title": "Requesting Roblox Staff Assistance: Roblox Support Has Failed to Resolve My Ownership Dispute",
+      "excerpt_en": "Hello Roblox Staff and Developers, Sorry if this isn’t the appropriate place to post this, as I understand that account recovery issues should normally be handled through Roblox Support. However, I’ve already made multiple attempts to recover my account, but I’ve been stuck in…",
+      "score": 9,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 67
+      },
+      "first_seen": "2026-11-26T21:43:04.520Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+      "author": null,
+      "date": "2026-11-26T11:33:00.000Z",
+      "title": "Roblox signs music licensing agreement with PRS for Music",
+      "excerpt_en": "Roblox has signed a music licensing agreement with UK music rights company PRS for Music, opening a new revenue stream for songwriters, composers, and publishers whose music is used on the platform. The agreement states that PRS for Music will start distributing royalty payments…",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-26T21:43:04.520Z"
+    },
     {
       "id": "devforum:5003896",
       "source": "devforum",
@@ -47,6 +105,25 @@
         "views": 110
       },
       "first_seen": "2026-11-26T08:32:53.983Z"
+    },
+    {
+      "id": "devforum:5005652",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-gray-area-which-leads-to-unfair-ban-potentially-devestating-consequences/5005652",
+      "author": "apeworm7",
+      "date": "2026-11-26T18:15:27.130Z",
+      "title": "ROBLOX gray area which leads to unfair ban (potentially devestating consequences)",
+      "excerpt_en": "image 1391×121 9.22 KB Roblox has warned me at the way my game handles chat. The problem: This is some vague warning and i gain no valuable information from it at all. I already know i need to be aware of how my game handles chat. They want me to just guess and hope i dont get…",
+      "score": 5.8,
+      "tags": [
+        "revenue"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 1,
+        "views": 45
+      },
+      "first_seen": "2026-11-26T21:43:04.520Z"
     },
     {
       "id": "devforum:5002715",

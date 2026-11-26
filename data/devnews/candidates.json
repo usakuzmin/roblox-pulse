@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:32:54.042Z",
+  "generated_at": "2026-11-26T21:43:04.577Z",
   "from_files": [
     "2026-11-23.json",
     "2026-11-24.json",
@@ -29,6 +29,29 @@
         "views": 16
       },
       "first_seen": "2026-11-25T08:47:37.955Z"
+    },
+    {
+      "id": "devforum:5005723",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/game-stuck-with-almost-no-home-recs-after-being-private-for-8-months-is-that-a-thing/5005723",
+      "author": "Exnivo",
+      "date": "2026-11-26T19:34:14.754Z",
+      "title": "Game stuck with almost no home recs after being private for 8 months, is that a thing?",
+      "excerpt_en": "hey all, bit of a weird one my game The Frog Reads Your Mind (20q style, a frog tries to guess what you’re thinking) randomly blew up around march, like 1k ccu out of nowhere. problem was my backend back then was an external api on a tiny vps and it just died. rounds failing…",
+      "score": 18.9,
+      "tags": [
+        "metrics",
+        "ads",
+        "discovery",
+        "studio",
+        "numbers"
+      ],
+      "engagement": {
+        "likes": 3,
+        "replies": 1,
+        "views": 34
+      },
+      "first_seen": "2026-11-26T21:43:04.520Z"
     },
     {
       "id": "devforum:5002641",
@@ -175,6 +198,25 @@
       "first_seen": "2026-11-25T21:49:42.690Z"
     },
     {
+      "id": "devforum:5005427",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/requesting-roblox-staff-assistance-roblox-support-has-failed-to-resolve-my-ownership-dispute/5005427",
+      "author": "1R_GT",
+      "date": "2026-11-26T13:40:50.957Z",
+      "title": "Requesting Roblox Staff Assistance: Roblox Support Has Failed to Resolve My Ownership Dispute",
+      "excerpt_en": "Hello Roblox Staff and Developers, Sorry if this isn’t the appropriate place to post this, as I understand that account recovery issues should normally be handled through Roblox Support. However, I’ve already made multiple attempts to recover my account, but I’ve been stuck in…",
+      "score": 9,
+      "tags": [
+        "story"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 1,
+        "views": 67
+      },
+      "first_seen": "2026-11-26T21:43:04.520Z"
+    },
+    {
       "id": "pocketgamer.biz:https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
       "source": "pocketgamer.biz",
       "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
@@ -189,6 +231,22 @@
       ],
       "engagement": {},
       "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "pocketgamer.biz:https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+      "source": "pocketgamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+      "author": null,
+      "date": "2026-11-26T11:33:00.000Z",
+      "title": "Roblox signs music licensing agreement with PRS for Music",
+      "excerpt_en": "Roblox has signed a music licensing agreement with UK music rights company PRS for Music, opening a new revenue stream for songwriters, composers, and publishers whose music is used on the platform. The agreement states that PRS for Music will start distributing royalty payments…",
+      "score": 8,
+      "tags": [
+        "analyst",
+        "revenue"
+      ],
+      "engagement": {},
+      "first_seen": "2026-11-26T21:43:04.520Z"
     },
     {
       "id": "devforum:5004618",
@@ -248,65 +306,6 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
-    },
-    {
-      "id": "devforum:5003612",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
-      "author": "DoomVol",
-      "date": "2026-11-24T21:05:02.351Z",
-      "title": "Roblox Sponsored Ads Issues",
-      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
-      "score": 7.1,
-      "tags": [
-        "ads"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 12
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
-    },
-    {
-      "id": "devforum:5003409",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
-      "author": "SnoogleBrosPlayz",
-      "date": "2026-11-24T17:45:26.325Z",
-      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
-      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
-      "score": 7,
-      "tags": [
-        "ads"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 10
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
-    },
-    {
-      "id": "devforum:5003395",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/urgent-account-terminated-by-automated-moderation-for-sexual-content-appeals-auto-denied-support-redirects-to-a-closed-appeal-portal/5003395",
-      "author": "neozcult",
-      "date": "2026-11-24T17:27:27.642Z",
-      "title": "[URGENT] Account terminated by automated moderation for \"Sexual Content\": appeals auto-denied, support redirects to a closed appeal portal",
-      "excerpt_en": "What do you want to achieve? I’m posting on behalf of my brother, a solo developer whose account Zeloff_OnTop was permanently terminated on November 7, 2026. I’m asking for one human review of the case. If the termination stands, we would like to know exactly which content was…",
-      "score": 6.7,
-      "tags": [
-        "revenue",
-        "metrics",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 1,
-        "views": 37
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }
