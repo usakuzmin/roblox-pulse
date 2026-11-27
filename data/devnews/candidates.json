@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:45:30.969Z",
+  "generated_at": "2026-11-27T21:27:40.765Z",
   "from_files": [
     "2026-11-24.json",
     "2026-11-25.json",
@@ -207,6 +207,25 @@
       "first_seen": "2026-11-26T21:43:04.520Z"
     },
     {
+      "id": "devforum:5003561",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/an-in-game-luau-ide-with-a-sandbox-for-player-code/5003561",
+      "author": "ParadoxSoftwork",
+      "date": "2026-11-24T20:26:24.669Z",
+      "title": "An in-game Luau IDE with a sandbox for player code",
+      "excerpt_en": "(Basically a 3 years long project) Back in 2023 or 2024 (I honestly don’t remember which) I tried to make an in-game IDE for Roblox. I got some of it working: basic highlighting using boatbomber’s module, and some intellisense that was pretty terrible. I ended up giving up on…",
+      "score": 8,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 10,
+        "views": 149
+      },
+      "first_seen": "2026-11-27T21:27:40.705Z"
+    },
+    {
       "id": "devforum:5004618",
       "source": "devforum",
       "url": "https://devforum.roblox.com/t/feedbacks-on-a-drill-game/5004618",
@@ -281,25 +300,6 @@
         "likes": 0,
         "replies": 0,
         "views": 12
-      },
-      "first_seen": "2026-11-24T22:35:56.733Z"
-    },
-    {
-      "id": "devforum:5003409",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
-      "author": "SnoogleBrosPlayz",
-      "date": "2026-11-24T17:45:26.325Z",
-      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
-      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
-      "score": 7,
-      "tags": [
-        "ads"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 10
       },
       "first_seen": "2026-11-24T22:35:56.733Z"
     }

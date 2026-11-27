@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-27T08:45:30.912Z",
+  "generated_at": "2026-11-27T21:27:40.705Z",
   "window_days": 7,
   "sources": {
     "devforum": {
       "ok": true,
       "fetched": 45,
-      "ms": 102650
+      "ms": 102922
     },
     "reddit": {
       "ok": true,
       "fetched": 0,
-      "ms": 30077
+      "ms": 90439
     },
     "rss": {
       "ok": true,
-      "fetched": 7,
-      "ms": 1249
+      "fetched": 8,
+      "ms": 4271
     },
     "youtube": {
       "ok": true,
       "fetched": 0,
-      "ms": 172
+      "ms": 306
     },
     "hackernews": {
       "ok": true,
       "fetched": 0,
-      "ms": 200
+      "ms": 221
     }
   },
   "items": [
@@ -48,6 +48,59 @@
         "views": 25
       },
       "first_seen": "2026-11-27T08:45:30.912Z"
+    },
+    {
+      "id": "devforum:5003561",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/an-in-game-luau-ide-with-a-sandbox-for-player-code/5003561",
+      "author": "ParadoxSoftwork",
+      "date": "2026-11-24T20:26:24.669Z",
+      "title": "An in-game Luau IDE with a sandbox for player code",
+      "excerpt_en": "(Basically a 3 years long project) Back in 2023 or 2024 (I honestly don’t remember which) I tried to make an in-game IDE for Roblox. I got some of it working: basic highlighting using boatbomber’s module, and some intellisense that was pretty terrible. I ended up giving up on…",
+      "score": 8,
+      "tags": [
+        "monetization"
+      ],
+      "engagement": {
+        "likes": 7,
+        "replies": 10,
+        "views": 149
+      },
+      "first_seen": "2026-11-27T21:27:40.705Z"
+    },
+    {
+      "id": "devforum:4999772",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/how-do-you-all-handle-networking-in-your-roblox-games/4999772",
+      "author": "retrotrooper7",
+      "date": "2026-11-22T03:59:22.156Z",
+      "title": "How do you all handle Networking in your Roblox games?",
+      "excerpt_en": "This may sound a little silly but I have what’s sort of anxiety when it comes to using networking in any of my Roblox games.. like trying to use it as little as possible type of bad. Networking is somewhat of a foreign concept to me. While I was learning how to code in my…",
+      "score": 5.9,
+      "tags": [],
+      "engagement": {
+        "likes": 18,
+        "replies": 10,
+        "views": 290
+      },
+      "first_seen": "2026-11-27T21:27:40.705Z"
+    },
+    {
+      "id": "devforum:5005228",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roraster-the-fastest-and-easiest-mapminimap-pipeline-a-rorender-competitor/5005228",
+      "author": "Chinese_Developer",
+      "date": "2026-11-26T07:59:10.084Z",
+      "title": "RoRaster - The Fastest and Easiest Map/Minimap Pipeline [A RoRender Competitor]",
+      "excerpt_en": "icon-centered-2-white 128×128 2.08 KB b75d7e8a-9f45-46d6-aa8e-8499d6cf1b7b 2172×724 251 KB RoRaster.com What is RoRaster? RoRaster is a faster and easier way to render and export maps and minimaps for Roblox, capable of rendering at sub-1 stud-per-pixel resolutions. Create…",
+      "score": 4.5,
+      "tags": [],
+      "engagement": {
+        "likes": 9,
+        "replies": 1,
+        "views": 137
+      },
+      "first_seen": "2026-11-27T21:27:40.705Z"
     },
     {
       "id": "devforum:5005708",
