@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T21:43:04.577Z",
+  "generated_at": "2026-11-27T08:45:30.969Z",
   "from_files": [
-    "2026-11-23.json",
     "2026-11-24.json",
     "2026-11-25.json",
-    "2026-11-26.json"
+    "2026-11-26.json",
+    "2026-11-27.json"
   ],
   "items": [
     {
@@ -116,66 +116,24 @@
       "first_seen": "2026-11-24T00:02:19.330Z"
     },
     {
-      "id": "devforum:5001080",
+      "id": "devforum:5006208",
       "source": "devforum",
-      "url": "https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080",
-      "author": "Piggy_Gam1ngg",
-      "date": "2026-11-23T07:47:31.058Z",
-      "title": "Help with improving 16+ CTR, plays, and playtime (all are terrible)",
-      "excerpt_en": "I’ve just released my game Iridium Mines. It’s a roguelike mining game set in a procedurally generated cave system. Unearth rare ore, bring it back before the elevator leaves, and craft items to help you go deeper! You can play it here: Iridium Mines | Play on Roblox . Happy to…",
-      "score": 12.2,
-      "tags": [
-        "metrics",
-        "ads",
-        "marketing",
-        "numbers"
-      ],
-      "engagement": {
-        "likes": 0,
-        "replies": 0,
-        "views": 1
-      },
-      "first_seen": "2026-11-23T07:51:35.809Z"
-    },
-    {
-      "id": "devforum:5000693",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/home-recommendation-doesnt-push-my-thumbnails/5000693",
-      "author": "superalp1111",
-      "date": "2026-11-22T21:43:12.354Z",
-      "title": "Home Recommendation doesn't push my thumbnails",
-      "excerpt_en": "Hello. I wanted to learn more about if this is a platform bug or I’m doing something wrong. We pushed ads for a long time while in Alpha to test our game, we got about 15K plays so far. We handled the engagement goal too, with 250 HEP limit. We turned on Home Recommendations…",
-      "score": 12.1,
+      "url": "https://devforum.roblox.com/t/need-feedback-for-new-game-with-low-stats/5006208",
+      "author": "CrEtheley",
+      "date": "2026-11-27T05:29:03.269Z",
+      "title": "Need feedback for new game with low stats",
+      "excerpt_en": "Hi everyone, this is my first post on the DevForum. I’m looking for some brutally honest feedback on my game, Survival Maze. The game’s average playtime is currently around 3.6 minutes, which is very disappointing for me. However, what I don’t understand is that the game has an…",
+      "score": 9.3,
       "tags": [
         "metrics",
         "discovery"
       ],
       "engagement": {
-        "likes": 0,
-        "replies": 2,
-        "views": 51
+        "likes": 1,
+        "replies": 0,
+        "views": 25
       },
-      "first_seen": "2026-11-23T07:51:35.809Z"
-    },
-    {
-      "id": "devforum:5000607",
-      "source": "devforum",
-      "url": "https://devforum.roblox.com/t/my-new-soccer-game-just-released-id-like-some-critique/5000607",
-      "author": "FizzineDev",
-      "date": "2026-11-22T20:11:52.109Z",
-      "title": "My new soccer game just released! I'd like some critique",
-      "excerpt_en": "**Me and my small team of developers have released our first project under our group. It’s called “Flow Soccer” and is a touch soccer inspired game with cool effects, more polished mechanics, progression and customizability, and more! I am looking for feedback on a few parts of…",
-      "score": 9.8,
-      "tags": [
-        "marketing",
-        "monetization"
-      ],
-      "engagement": {
-        "likes": 5,
-        "replies": 3,
-        "views": 51
-      },
-      "first_seen": "2026-11-23T07:51:35.809Z"
+      "first_seen": "2026-11-27T08:45:30.912Z"
     },
     {
       "id": "devforum:5004584",
@@ -306,6 +264,44 @@
         "views": 19
       },
       "first_seen": "2026-11-24T00:02:19.330Z"
+    },
+    {
+      "id": "devforum:5003612",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "author": "DoomVol",
+      "date": "2026-11-24T21:05:02.351Z",
+      "title": "Roblox Sponsored Ads Issues",
+      "excerpt_en": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even…",
+      "score": 7.1,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 12
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
+    },
+    {
+      "id": "devforum:5003409",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/is-there-a-way-to-create-sponsored-ads-for-avatar-backgrounds/5003409",
+      "author": "SnoogleBrosPlayz",
+      "date": "2026-11-24T17:45:26.325Z",
+      "title": "Is there a way to create sponsored ads for avatar backgrounds?",
+      "excerpt_en": "Pretty much what the title says. The sponsored items page on roblox allows me to create sponsored ads of any of my created avatar items, except for the new avatar backgrounds. Is there a way to create ads for avatar backgrounds or is there just no function for that yet? The…",
+      "score": 7,
+      "tags": [
+        "ads"
+      ],
+      "engagement": {
+        "likes": 0,
+        "replies": 0,
+        "views": 10
+      },
+      "first_seen": "2026-11-24T22:35:56.733Z"
     }
   ]
 }

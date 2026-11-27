@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-11-27T08:45:30.912Z",
+  "window_days": 7,
+  "sources": {
+    "devforum": {
+      "ok": true,
+      "fetched": 45,
+      "ms": 102650
+    },
+    "reddit": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 30077
+    },
+    "rss": {
+      "ok": true,
+      "fetched": 7,
+      "ms": 1249
+    },
+    "youtube": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 172
+    },
+    "hackernews": {
+      "ok": true,
+      "fetched": 0,
+      "ms": 200
+    }
+  },
+  "items": [
+    {
+      "id": "devforum:5006208",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/need-feedback-for-new-game-with-low-stats/5006208",
+      "author": "CrEtheley",
+      "date": "2026-11-27T05:29:03.269Z",
+      "title": "Need feedback for new game with low stats",
+      "excerpt_en": "Hi everyone, this is my first post on the DevForum. I’m looking for some brutally honest feedback on my game, Survival Maze. The game’s average playtime is currently around 3.6 minutes, which is very disappointing for me. However, what I don’t understand is that the game has an…",
+      "score": 9.3,
+      "tags": [
+        "metrics",
+        "discovery"
+      ],
+      "engagement": {
+        "likes": 1,
+        "replies": 0,
+        "views": 25
+      },
+      "first_seen": "2026-11-27T08:45:30.912Z"
+    },
+    {
+      "id": "devforum:5005708",
+      "source": "devforum",
+      "url": "https://devforum.roblox.com/t/inability-to-tell-who-is-a-verified-musician-on-roblox-profiles-groups-leaderboard/5005708",
+      "author": "ItsRede1",
+      "date": "2026-11-26T19:15:45.124Z",
+      "title": "Inability to tell who is a verified musician on Roblox (Profiles, Groups & Leaderboard)",
+      "excerpt_en": "As a Roblox developer, it is currently too hard to prove you are a real music artist on the platform or tell legitimate artists and their groups apart from impersonators. Right now, if you make music on Roblox, there is honestly no real way for players or other devs to tell…",
+      "score": 3.9,
+      "tags": [],
+      "engagement": {
+        "likes": 3,
+        "replies": 2,
+        "views": 90
+      },
+      "first_seen": "2026-11-27T08:45:30.912Z"
+    }
+  ]
+}
